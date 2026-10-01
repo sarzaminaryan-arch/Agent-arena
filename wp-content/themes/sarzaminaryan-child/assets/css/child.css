@@ -2487,111 +2487,116 @@ main.site-main.container,
 	margin-block: 28px 10px;
 }
 
-/* ---- ۲. فوتر مینیمال دو ستونه ---- */
+/* ---- ۲. فوتر: نوار باریک سه‌ستونه (v2.7.1) ----
+   سه ستون در دسکتاپ (معرفی / لینک‌های کاربردی / ارتباط با ما) و دو ستون در
+   موبایل، با فونت کوچک و ارتفاع کم؛ لینک‌ها دیگر یک ستون بلند و روی‌هم‌افتاده
+   نیستند. */
 .sa-hf-foot--mini .sa-hf-foot__grid {
-	grid-template-columns: 1.25fr 1fr;
-	gap: 22px;
-	padding: 20px 0 14px;
+	grid-template-columns: 1.6fr 1fr 1fr;
+	gap: 14px 20px;
+	padding: 14px 0 10px;
 	align-items: start;
 }
 
 .sa-hf-foot--mini .widget-title {
-	font-size: 13.5px;
+	font-size: 12.5px;
 	font-weight: 700;
 	letter-spacing: .2px;
-	margin: 0 0 10px;
+	margin: 0 0 6px;
+	color: #e8f1ff;
 }
 
-/* لوگوی کوچک + معرفی کوتاه */
+/* ستون اول: لوگوی کوچک + یک خط معرفی */
+.sa-hf-foot--mini .sa-hf-brand--foot {
+	gap: 8px;
+	align-items: center;
+}
+
 .sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-logo {
-	width: 40px;
-	height: 40px;
+	width: 30px;
+	height: 30px;
+	min-width: 30px;
 }
 
 .sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-logo img {
-	width: 32px;
-	height: 32px;
+	width: 24px;
+	height: 24px;
 }
 
 .sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-text .site-title {
-	font-size: 15px;
+	font-size: 13.5px;
+	line-height: 1.4;
 }
 
-.sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-text .sa-hf-slogan {
-	font-size: 11.5px;
-	max-width: 280px;
+.sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-slogan {
+	display: none;
 }
 
 .sa-hf-foot--mini .sa-footer__about {
-	font-size: 12.5px;
-	line-height: 1.9;
-	margin-block: 8px 10px;
-	max-width: 460px;
+	font-size: 12px;
+	line-height: 1.75;
+	margin: 6px 0 0;
+	max-width: 42ch;
+	text-align: start;
+}
+
+.sa-hf-foot--mini .sa-social {
+	margin-top: 7px;
+	gap: 6px;
 }
 
 .sa-hf-foot--mini .sa-social__link {
-	padding: 3px 10px;
-	font-size: 11.5px;
+	padding: 2px 9px;
+	font-size: 11px;
 }
 
-/* لینک‌های کاربردی: کوچک، تمیز و دوخطی‌شونده */
-.sa-hf-foot--mini .sa-hf-foot__links,
-.sa-hf-foot--mini .footer-navigation ul {
-	gap: 6px 14px;
+/* ستون‌های لینک: فشرده، تک‌خطی و بدون تکرار */
+.sa-hf-foot--mini .sa-hf-foot__links {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
 }
 
-.sa-hf-foot--mini .sa-hf-foot__links--inline {
-	flex-direction: row;
-	flex-wrap: wrap;
-}
-
-.sa-hf-foot--mini .sa-hf-foot__links a,
-.sa-hf-foot--mini .footer-navigation a {
-	font-size: 12.5px;
-	line-height: 1.7;
-}
-
-.sa-hf-foot--mini .sa-hf-foot__links--inline li + li {
-	position: relative;
-	padding-inline-start: 14px;
-}
-
-.sa-hf-foot--mini .sa-hf-foot__links--inline li + li::before {
-	content: '·';
-	position: absolute;
-	inset-inline-start: 3px;
-	color: rgba(159, 176, 201, .55);
+.sa-hf-foot--mini .sa-hf-foot__links a {
+	font-size: 12px;
+	line-height: 1.6;
+	white-space: nowrap;
 }
 
 .sa-hf-foot--mini .sa-footer__contact {
-	margin: 10px 0 0;
-	font-size: 12.5px;
-	color: #9fb0c9;
+	margin: 7px 0 0;
+	font-size: 12px;
 }
 
 .sa-hf-foot--mini .sa-footer__contact a {
-	font-size: 12.5px;
+	font-size: 12px;
+	white-space: nowrap;
 }
 
-/* نوار پایانی مینیمال */
+/* نوار پایانی: یک خط باریک */
 .sa-hf-foot--mini .sa-hf-foot__bottom {
-	padding: 9px 0;
+	padding: 7px 0;
 }
 
 .sa-hf-foot--mini .sa-footer__copyright,
 .sa-hf-foot--mini .sa-footer__credit {
-	font-size: 11.5px;
+	font-size: 11px;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 760px) {
+	/* موبایل: معرفی در یک ردیف کامل، دو ستون لینک کنار هم */
 	.sa-hf-foot--mini .sa-hf-foot__grid {
-		grid-template-columns: 1fr;
-		gap: 16px;
-		padding: 16px 0 12px;
+		grid-template-columns: 1fr 1fr;
+		gap: 10px 16px;
+		padding: 12px 0 8px;
 	}
 
-	.sa-hf-foot--mini .sa-hf-text .sa-hf-slogan {
-		display: block;
+	.sa-hf-foot--mini .sa-hf-foot__brand {
+		grid-column: 1 / -1;
+	}
+
+	.sa-hf-foot--mini .sa-footer__about {
+		max-width: none;
 	}
 
 	.sa-hf-foot {
@@ -2606,5 +2611,23 @@ main.site-main.container,
 		margin-top: 36px;
 		padding: 32px 0 30px;
 		border-radius: 16px;
+	}
+}
+
+/* ---- ۳. «مقالات مرتبط»: سه کارت در یک ردیف روی دسکتاپ ---- */
+#related-articles .sa-grid-cards {
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 1rem;
+}
+
+@media (max-width: 900px) {
+	#related-articles .sa-grid-cards {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+
+@media (max-width: 560px) {
+	#related-articles .sa-grid-cards {
+		grid-template-columns: 1fr;
 	}
 }
