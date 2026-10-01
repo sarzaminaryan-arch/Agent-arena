@@ -558,20 +558,14 @@
 }
 
 .sa-entity__layout {
-	display: grid;
-	gap: 2rem;
+	display: block;
 	margin-top: 2rem;
 }
 
 @media (min-width: 992px) {
 	.sa-entity__layout {
-		grid-template-columns: minmax(0, 1fr) 340px;
-		align-items: start;
-	}
-
-	.sa-entity__aside {
-		position: sticky;
-		top: 1rem;
+		max-width: var(--sa-max-text);
+		margin-inline: auto;
 	}
 }
 
@@ -588,12 +582,12 @@
 		box-shadow: 0 2px 8px -3px rgba(15, 23, 42, 0.1), 0 16px 34px -22px rgba(15, 23, 42, 0.32);
 	}
 
-.sa-entity__main .entry-content {
+.sa-entity__layout .entry-content {
 	max-width: var(--sa-max-text);
 }
 
 /* Headings in a framed card with a soft deep shadow (3D feel) */
-.sa-entity__main .entry-content h2,
+.sa-entity__layout .entry-content h2,
 .sa-faq-section > h2,
 .sa-sources > h2 {
 	font-size: 1.45rem;
@@ -606,12 +600,12 @@
 	box-shadow: var(--sa-shadow-deep);
 }
 
-.sa-entity__main .entry-content img {
+.sa-entity__layout .entry-content img {
 	border-radius: 12px;
 }
 
 /* Tables — navy scheme: strong-navy header, alternating light-blue rows, soft shadow */
-.sa-entity__main .entry-content figure.wp-block-table {
+.sa-entity__layout .entry-content figure.wp-block-table {
 	margin: 1.5rem 0;
 	max-width: 100%;
 	overflow-x: auto;
@@ -619,7 +613,7 @@
 	box-shadow: var(--sa-shadow);
 }
 
-.sa-entity__main .entry-content table {
+.sa-entity__layout .entry-content table {
 	width: 100%;
 	min-width: 520px;
 	border-collapse: collapse;
@@ -627,7 +621,7 @@
 	overflow: hidden;
 }
 
-.sa-entity__main .entry-content table thead th {
+.sa-entity__layout .entry-content table thead th {
 	background: var(--sa-navy-700);
 	color: #fff;
 	font-weight: 700;
@@ -636,24 +630,24 @@
 	border: 0;
 }
 
-.sa-entity__main .entry-content table tbody td {
+.sa-entity__layout .entry-content table tbody td {
 	padding: 0.7rem 1rem;
 	border-bottom: 1px solid var(--sa-navy-200);
 }
 
-.sa-entity__main .entry-content table tbody tr:nth-child(odd) {
+.sa-entity__layout .entry-content table tbody tr:nth-child(odd) {
 	background: var(--sa-navy-50);
 }
 
-.sa-entity__main .entry-content table tbody tr:nth-child(even) {
+.sa-entity__layout .entry-content table tbody tr:nth-child(even) {
 	background: var(--sa-navy-100);
 }
 
-.sa-entity__main .entry-content table tbody tr:last-child td {
+.sa-entity__layout .entry-content table tbody tr:last-child td {
 	border-bottom: 0;
 }
 
-.sa-entity__main .entry-content table caption {
+.sa-entity__layout .entry-content table caption {
 	caption-side: top;
 	font-weight: 700;
 	color: var(--sa-navy-700);
@@ -1573,15 +1567,11 @@
 
 	.sa-entity__layout,
 	body:not(.no-sidebar) .site-content {
-		grid-template-columns: minmax(0, 1fr);
-	}
-
-	.sa-entity__aside {
-		position: static;
+		display: block;
 	}
 
 	.sa-archive__desc,
-	.sa-entity__main .entry-content {
+	.sa-entity__layout .entry-content {
 		max-width: 100%;
 	}
 }
@@ -2007,7 +1997,7 @@ body :where(.entry-content, .entry-summary) a:not(.sa-btn):focus-visible {
 	text-shadow: 0 1px 0 #fff, 0 7px 18px rgba(11, 42, 74, .14);
 }
 
-.sa-entity__main .entry-content h2,
+.sa-entity__layout .entry-content h2,
 .sa-article .entry-content h2,
 .sa-faq-section > h2,
 .sa-sources > h2,
@@ -2017,7 +2007,6 @@ body :where(.entry-content, .entry-summary) a:not(.sa-btn):focus-visible {
 .sa-cmap > h2,
 .sa-facts__title,
 .sa-section > .sa-section__title,
-.sa-entity__aside .widget-title,
 .sa-404 .page-title,
 .sa-empty > h2 {
 	position: relative;
@@ -2050,7 +2039,7 @@ body :where(.entry-content, .entry-summary) a:not(.sa-btn):focus-visible {
 	margin: 2.6rem 0 1.3rem;
 }
 
-.sa-entity__main .entry-content h3,
+.sa-entity__layout .entry-content h3,
 .sa-article .entry-content h3 {
 	color: var(--sa-navy-800);
 	border-inline-start: 3px solid var(--sa-navy-300);
@@ -2187,7 +2176,7 @@ main.site-main.container,
 	padding: 10px 12px;
 }
 
-.sa-entity__main .entry-content h2,
+.sa-entity__layout .entry-content h2,
 .sa-article .entry-content h2,
 .sa-faq-section > h2,
 .sa-sources > h2,
@@ -2197,7 +2186,6 @@ main.site-main.container,
 .sa-cmap > h2,
 .sa-facts__title,
 .sa-section > .sa-section__title,
-.sa-entity__aside .widget-title,
 .sa-404 .page-title,
 .sa-empty > h2 {
 	padding: 8px 10px;
@@ -2218,8 +2206,8 @@ main.site-main.container,
 	padding: 8px 10px;
 }
 
-.sa-entity__main .entry-content table thead th,
-.sa-entity__main .entry-content table tbody td {
+.sa-entity__layout .entry-content table thead th,
+.sa-entity__layout .entry-content table tbody td {
 	padding: 7px 8px;
 }
 
@@ -2350,5 +2338,118 @@ main.site-main.container,
 	.sa-home .sa-pb p,
 	.sa-footer__about {
 		word-spacing: .025em;
+	}
+}
+
+/* ==========================================================================
+   Module 3 — restructured entity layout: single-column, nav, sources
+   ========================================================================== */
+
+/* Entity layout is now single-column (no aside). */
+.sa-entity__layout {
+	display: block;
+	max-width: var(--sa-max-text);
+	margin-inline: auto;
+}
+
+/* Sources list: clean English domain names, no title/org/date clutter. */
+.sa-sources__list {
+	list-style: decimal;
+	padding-inline-start: 1.5rem;
+	margin: 0.5rem 0;
+}
+
+.sa-sources__list li {
+	margin-block: 0.3rem;
+	font-size: 0.9rem;
+	line-height: 1.7;
+}
+
+.sa-sources__list a {
+	color: var(--sa-navy-700);
+	text-decoration: underline;
+	text-decoration-color: rgba(24, 85, 143, 0.35);
+}
+
+.sa-sources__list a:hover,
+.sa-sources__list a:focus-visible {
+	color: var(--sa-navy-950);
+	text-decoration-color: currentColor;
+}
+
+/* Entity prev/next navigation. */
+.sa-entity-nav {
+	margin-block: 2.5rem;
+}
+
+.sa-entity-nav__links {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 1rem;
+}
+
+.sa-entity-nav__link {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25rem;
+	padding: 1rem 1.25rem;
+	background: #fff;
+	border: 1px solid var(--color-border);
+	border-radius: var(--sa-radius-lg);
+	color: var(--color-text);
+	transition: box-shadow 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
+}
+
+.sa-entity-nav__link:hover,
+.sa-entity-nav__link:focus-visible {
+	box-shadow: var(--sa-shadow-hover);
+	transform: translateY(-2px);
+	border-color: var(--color-primary);
+	text-decoration: none;
+}
+
+.sa-entity-nav__prev {
+	text-align: start;
+}
+
+.sa-entity-nav__next {
+	text-align: end;
+}
+
+.sa-entity-nav__empty {
+	border: 1px dashed var(--color-border);
+	background: transparent;
+	box-shadow: none;
+}
+
+.sa-entity-nav__label {
+	font-size: 0.8rem;
+	color: var(--color-secondary);
+	font-weight: 500;
+}
+
+.sa-entity-nav__title {
+	font-size: 1.05rem;
+	font-weight: 600;
+	color: var(--sa-navy-800);
+	line-height: 1.4;
+}
+
+/* Related articles section spacing. */
+#related-articles {
+	margin-block: 2.5rem;
+}
+
+@media (max-width: 640px) {
+	.sa-entity-nav__links {
+		grid-template-columns: 1fr;
+	}
+
+	.sa-entity-nav__next {
+		text-align: start;
+	}
+
+	.sa-entity-nav__link {
+		padding: 0.75rem 1rem;
 	}
 }
