@@ -1,0 +1,3086 @@
+{
+ "east-azerbaijan": {
+  "province": "آذربایجان شرقی",
+  "total": 22,
+  "counties": [
+   {
+    "name": "آذرشهر",
+    "status": "published",
+    "slug": "azarshahr",
+    "site_title": "شهرستان آذرشهر"
+   },
+   {
+    "name": "اسکو",
+    "status": "published",
+    "slug": "osku",
+    "site_title": "شهرستان اسکو"
+   },
+   {
+    "name": "اهر",
+    "status": "published",
+    "slug": "ahar",
+    "site_title": "شهرستان اهر"
+   },
+   {
+    "name": "بستان‌آباد",
+    "status": "published",
+    "slug": "bostanabad",
+    "site_title": "شهرستان بستان‌آباد"
+   },
+   {
+    "name": "بناب",
+    "status": "published",
+    "slug": "bonab",
+    "site_title": "شهرستان بناب"
+   },
+   {
+    "name": "تبریز",
+    "status": "published",
+    "slug": "tabriz",
+    "site_title": "شهرستان تبریز"
+   },
+   {
+    "name": "ترکمانچای",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "جلفا",
+    "status": "published",
+    "slug": "jolfa",
+    "site_title": "شهرستان جلفا"
+   },
+   {
+    "name": "خداآفرین",
+    "status": "published",
+    "slug": "khoda-afarin",
+    "site_title": "شهرستان خداآفرین"
+   },
+   {
+    "name": "سراب",
+    "status": "published",
+    "slug": "sarab",
+    "site_title": "شهرستان سراب"
+   },
+   {
+    "name": "شبستر",
+    "status": "published",
+    "slug": "shabestar",
+    "site_title": "شهرستان شبستر"
+   },
+   {
+    "name": "عجب‌شیر",
+    "status": "published",
+    "slug": "ajabshir",
+    "site_title": "شهرستان عجب‌شیر"
+   },
+   {
+    "name": "مراغه",
+    "status": "published",
+    "slug": "maragheh",
+    "site_title": "شهرستان مراغه"
+   },
+   {
+    "name": "مرند",
+    "status": "published",
+    "slug": "marand",
+    "site_title": "شهرستان مرند"
+   },
+   {
+    "name": "ملکان",
+    "status": "published",
+    "slug": "malekan",
+    "site_title": "شهرستان ملکان"
+   },
+   {
+    "name": "میانه",
+    "status": "published",
+    "slug": "mianeh",
+    "site_title": "شهرستان میانه"
+   },
+   {
+    "name": "هریس",
+    "status": "published",
+    "slug": "heris",
+    "site_title": "شهرستان هریس"
+   },
+   {
+    "name": "هشترود",
+    "status": "published",
+    "slug": "hashtrud",
+    "site_title": "شهرستان هشترود"
+   },
+   {
+    "name": "هوراند",
+    "status": "published",
+    "slug": "hurand",
+    "site_title": "شهرستان هوراند"
+   },
+   {
+    "name": "ورزقان",
+    "status": "published",
+    "slug": "varzaqan",
+    "site_title": "شهرستان ورزقان"
+   },
+   {
+    "name": "چاراویماق",
+    "status": "published",
+    "slug": "charoymaq",
+    "site_title": "شهرستان چاراویماق"
+   },
+   {
+    "name": "کلیبر",
+    "status": "published",
+    "slug": "kaleybar",
+    "site_title": "شهرستان کلیبر"
+   }
+  ]
+ },
+ "west-azerbaijan": {
+  "province": "آذربایجان غربی",
+  "total": 20,
+  "counties": [
+   {
+    "name": "ارومیه",
+    "status": "published",
+    "slug": "urmia",
+    "site_title": "شهرستان ارومیه"
+   },
+   {
+    "name": "اشنویه",
+    "status": "published",
+    "slug": "oshnavieh",
+    "site_title": "شهرستان اشنویه"
+   },
+   {
+    "name": "باروق",
+    "status": "published",
+    "slug": "baruq",
+    "site_title": "شهرستان باروق"
+   },
+   {
+    "name": "بوکان",
+    "status": "published",
+    "slug": "bukan",
+    "site_title": "شهرستان بوکان"
+   },
+   {
+    "name": "تکاب",
+    "status": "published",
+    "slug": "takab",
+    "site_title": "شهرستان تکاب"
+   },
+   {
+    "name": "خوی",
+    "status": "published",
+    "slug": "khoy",
+    "site_title": "شهرستان خوی"
+   },
+   {
+    "name": "سردشت",
+    "status": "published",
+    "slug": "sardasht",
+    "site_title": "شهرستان سردشت"
+   },
+   {
+    "name": "سلماس",
+    "status": "published",
+    "slug": "salmas",
+    "site_title": "شهرستان سلماس"
+   },
+   {
+    "name": "شاهین‌دژ",
+    "status": "published",
+    "slug": "shahin-dezh",
+    "site_title": "شهرستان شاهین‌دژ"
+   },
+   {
+    "name": "شوط",
+    "status": "published",
+    "slug": "showt",
+    "site_title": "شهرستان شوط"
+   },
+   {
+    "name": "ماکو",
+    "status": "published",
+    "slug": "maku",
+    "site_title": "شهرستان ماکو"
+   },
+   {
+    "name": "مهاباد",
+    "status": "published",
+    "slug": "mahabad",
+    "site_title": "شهرستان مهاباد"
+   },
+   {
+    "name": "میاندوآب",
+    "status": "published",
+    "slug": "miandoab",
+    "site_title": "شهرستان میاندوآب"
+   },
+   {
+    "name": "میرآباد",
+    "status": "published",
+    "slug": "mirabad",
+    "site_title": "شهرستان میرآباد"
+   },
+   {
+    "name": "نقده",
+    "status": "published",
+    "slug": "naqadeh",
+    "site_title": "شهرستان نقده"
+   },
+   {
+    "name": "پلدشت",
+    "status": "published",
+    "slug": "poldasht",
+    "site_title": "شهرستان پلدشت"
+   },
+   {
+    "name": "پیرانشهر",
+    "status": "published",
+    "slug": "piranshahr",
+    "site_title": "شهرستان پیرانشهر"
+   },
+   {
+    "name": "چالدران",
+    "status": "published",
+    "slug": "chaldoran",
+    "site_title": "شهرستان چالدران"
+   },
+   {
+    "name": "چایپاره",
+    "status": "published",
+    "slug": "chaypareh",
+    "site_title": "شهرستان چایپاره"
+   },
+   {
+    "name": "چهاربرج",
+    "status": "published",
+    "slug": "chaharborj",
+    "site_title": "شهرستان چهاربرج"
+   }
+  ]
+ },
+ "ardabil": {
+  "province": "اردبیل",
+  "total": 12,
+  "counties": [
+   {
+    "name": "اردبیل",
+    "status": "published",
+    "slug": "ardabil-city",
+    "site_title": "شهرستان اردبیل"
+   },
+   {
+    "name": "اصلاندوز",
+    "status": "published",
+    "slug": "aslanduz",
+    "site_title": "شهرستان اصلاندوز"
+   },
+   {
+    "name": "انگوت",
+    "status": "published",
+    "slug": "angut",
+    "site_title": "شهرستان انگوت"
+   },
+   {
+    "name": "بیله‌سوار",
+    "status": "published",
+    "slug": "bileh-savar",
+    "site_title": "شهرستان بیله‌سوار"
+   },
+   {
+    "name": "خلخال",
+    "status": "published",
+    "slug": "khalkhal",
+    "site_title": "شهرستان خلخال"
+   },
+   {
+    "name": "سرعین",
+    "status": "published",
+    "slug": "sarein",
+    "site_title": "شهرستان سرعین"
+   },
+   {
+    "name": "مشگین‌شهر",
+    "status": "published",
+    "slug": "meshgin-shahr",
+    "site_title": "شهرستان مشگین‌شهر"
+   },
+   {
+    "name": "نمین",
+    "status": "published",
+    "slug": "namin",
+    "site_title": "شهرستان نمین"
+   },
+   {
+    "name": "نیر",
+    "status": "published",
+    "slug": "nir",
+    "site_title": "شهرستان نیر"
+   },
+   {
+    "name": "پارس‌آباد",
+    "status": "published",
+    "slug": "parsabad",
+    "site_title": "شهرستان پارس‌آباد"
+   },
+   {
+    "name": "کوثر",
+    "status": "published",
+    "slug": "givi",
+    "site_title": "شهرستان کوثر (گیوی)"
+   },
+   {
+    "name": "گرمی",
+    "status": "published",
+    "slug": "germi",
+    "site_title": "شهرستان گرمی"
+   }
+  ]
+ },
+ "isfahan": {
+  "province": "اصفهان",
+  "total": 29,
+  "counties": [
+   {
+    "name": "آران و بیدگل",
+    "status": "published",
+    "slug": "aran-bidgol",
+    "site_title": "شهرستان آران و بیدگل"
+   },
+   {
+    "name": "اردستان",
+    "status": "published",
+    "slug": "ardestan",
+    "site_title": "شهرستان اردستان"
+   },
+   {
+    "name": "اصفهان",
+    "status": "published",
+    "slug": "isfahan-city",
+    "site_title": "شهرستان اصفهان"
+   },
+   {
+    "name": "برخوار",
+    "status": "published",
+    "slug": "borkhar",
+    "site_title": "شهرستان برخوار"
+   },
+   {
+    "name": "بوئین و میاندشت",
+    "status": "published",
+    "slug": "buin-miandasht",
+    "site_title": "شهرستان بوئین میاندشت"
+   },
+   {
+    "name": "تیران و کرون",
+    "status": "published",
+    "slug": "tiran-karvan",
+    "site_title": "شهرستان تیران و کرون"
+   },
+   {
+    "name": "جرقویه",
+    "status": "published",
+    "slug": "jarqavieh",
+    "site_title": "شهرستان جرقویه"
+   },
+   {
+    "name": "خمینی‌شهر",
+    "status": "published",
+    "slug": "khomeyni-shahr",
+    "site_title": "شهرستان خمینی‌شهر"
+   },
+   {
+    "name": "خوانسار",
+    "status": "published",
+    "slug": "khansar",
+    "site_title": "شهرستان خوانسار"
+   },
+   {
+    "name": "خور و بیابانک",
+    "status": "published",
+    "slug": "khur-biabanak",
+    "site_title": "شهرستان خور و بیابانک"
+   },
+   {
+    "name": "دهاقان",
+    "status": "published",
+    "slug": "dehaqan",
+    "site_title": "شهرستان دهاقان"
+   },
+   {
+    "name": "سمیرم",
+    "status": "published",
+    "slug": "semirom",
+    "site_title": "شهرستان سمیرم"
+   },
+   {
+    "name": "شاهین‌شهر",
+    "status": "published",
+    "slug": "shahin-shahr-meymeh",
+    "site_title": "شهرستان شاهین‌شهر و میمه"
+   },
+   {
+    "name": "شهرضا",
+    "status": "published",
+    "slug": "shahreza",
+    "site_title": "شهرستان شهرضا"
+   },
+   {
+    "name": "فریدن",
+    "status": "published",
+    "slug": "fereydan",
+    "site_title": "شهرستان فریدن"
+   },
+   {
+    "name": "فریدونشهر",
+    "status": "published",
+    "slug": "fereydunshahr",
+    "site_title": "شهرستان فریدون‌شهر"
+   },
+   {
+    "name": "فلاورجان",
+    "status": "published",
+    "slug": "falavarjan",
+    "site_title": "شهرستان فلاورجان"
+   },
+   {
+    "name": "لنجان",
+    "status": "published",
+    "slug": "lenjan",
+    "site_title": "شهرستان لنجان"
+   },
+   {
+    "name": "مبارکه",
+    "status": "published",
+    "slug": "mobarakeh",
+    "site_title": "شهرستان مبارکه"
+   },
+   {
+    "name": "میمه و وزوان",
+    "status": "published",
+    "slug": "meymeh-vazvan",
+    "site_title": "میمه و وزوان"
+   },
+   {
+    "name": "نایین",
+    "status": "published",
+    "slug": "nain",
+    "site_title": "شهرستان نائین"
+   },
+   {
+    "name": "نجف‌آباد",
+    "status": "published",
+    "slug": "najafabad",
+    "site_title": "شهرستان نجف‌آباد"
+   },
+   {
+    "name": "نطنز",
+    "status": "published",
+    "slug": "natanz",
+    "site_title": "شهرستان نطنز"
+   },
+   {
+    "name": "هرند",
+    "status": "published",
+    "slug": "harand",
+    "site_title": "شهرستان هرند"
+   },
+   {
+    "name": "ورزنه",
+    "status": "published",
+    "slug": "varzaneh",
+    "site_title": "شهرستان ورزنه"
+   },
+   {
+    "name": "چادگان",
+    "status": "published",
+    "slug": "chadegan",
+    "site_title": "شهرستان چادگان"
+   },
+   {
+    "name": "کاشان",
+    "status": "published",
+    "slug": "kashan",
+    "site_title": "شهرستان کاشان"
+   },
+   {
+    "name": "کوهپایه",
+    "status": "published",
+    "slug": "kuhpayeh",
+    "site_title": "شهرستان کوهپایه"
+   },
+   {
+    "name": "گلپایگان",
+    "status": "published",
+    "slug": "golpayegan",
+    "site_title": "شهرستان گلپایگان"
+   }
+  ]
+ },
+ "alborz": {
+  "province": "البرز",
+  "total": 7,
+  "counties": [
+   {
+    "name": "اشتهارد",
+    "status": "published",
+    "slug": "eshtehard",
+    "site_title": "شهرستان اشتهارد"
+   },
+   {
+    "name": "ساوجبلاغ",
+    "status": "published",
+    "slug": "savojablogh",
+    "site_title": "شهرستان ساوجبلاغ"
+   },
+   {
+    "name": "طالقان",
+    "status": "published",
+    "slug": "taleghan",
+    "site_title": "شهرستان طالقان"
+   },
+   {
+    "name": "فردیس",
+    "status": "published",
+    "slug": "fardis",
+    "site_title": "شهرستان فردیس"
+   },
+   {
+    "name": "نظرآباد",
+    "status": "published",
+    "slug": "nazarabad",
+    "site_title": "شهرستان نظرآباد"
+   },
+   {
+    "name": "چهارباغ",
+    "status": "published",
+    "slug": "chaharbagh",
+    "site_title": "شهرستان چهارباغ"
+   },
+   {
+    "name": "کرج",
+    "status": "published",
+    "slug": "karaj",
+    "site_title": "شهرستان کرج"
+   }
+  ]
+ },
+ "ilam": {
+  "province": "ایلام",
+  "total": 12,
+  "counties": [
+   {
+    "name": "آبدانان",
+    "status": "published",
+    "slug": "abdanan",
+    "site_title": "شهرستان آبدانان"
+   },
+   {
+    "name": "ایلام",
+    "status": "published",
+    "slug": "ilam-city",
+    "site_title": "شهرستان ایلام"
+   },
+   {
+    "name": "ایوان",
+    "status": "published",
+    "slug": "eyvan",
+    "site_title": "شهرستان ایوان"
+   },
+   {
+    "name": "بدره",
+    "status": "published",
+    "slug": "badreh",
+    "site_title": "شهرستان بدره"
+   },
+   {
+    "name": "دره‌شهر",
+    "status": "published",
+    "slug": "darreh-shahr",
+    "site_title": "شهرستان دره‌شهر"
+   },
+   {
+    "name": "دهلران",
+    "status": "published",
+    "slug": "dehloran",
+    "site_title": "شهرستان دهلران"
+   },
+   {
+    "name": "سیروان",
+    "status": "published",
+    "slug": "sirvan",
+    "site_title": "شهرستان سیروان"
+   },
+   {
+    "name": "ملکشاهی",
+    "status": "published",
+    "slug": "malekshahi",
+    "site_title": "شهرستان ملکشاهی"
+   },
+   {
+    "name": "مهران",
+    "status": "published",
+    "slug": "mehran",
+    "site_title": "شهرستان مهران"
+   },
+   {
+    "name": "هلیلان",
+    "status": "published",
+    "slug": "halilan",
+    "site_title": "شهرستان هلیلان"
+   },
+   {
+    "name": "چرداول",
+    "status": "published",
+    "slug": "chardavol",
+    "site_title": "شهرستان چرداول"
+   },
+   {
+    "name": "چوار",
+    "status": "published",
+    "slug": "chavar",
+    "site_title": "شهرستان چوار"
+   }
+  ]
+ },
+ "bushehr": {
+  "province": "بوشهر",
+  "total": 10,
+  "counties": [
+   {
+    "name": "بوشهر",
+    "status": "published",
+    "slug": "bushehr-city",
+    "site_title": "شهر بوشهر"
+   },
+   {
+    "name": "تنگستان",
+    "status": "published",
+    "slug": "ahram",
+    "site_title": "شهر اهرم"
+   },
+   {
+    "name": "جم",
+    "status": "published",
+    "slug": "jam",
+    "site_title": "شهر جم"
+   },
+   {
+    "name": "دشتستان",
+    "status": "published",
+    "slug": "borazjan",
+    "site_title": "شهر برازجان"
+   },
+   {
+    "name": "دشتی",
+    "status": "published",
+    "slug": "khormoj",
+    "site_title": "شهر خورموج"
+   },
+   {
+    "name": "دیر",
+    "status": "published",
+    "slug": "deyr",
+    "site_title": "بندر دیر"
+   },
+   {
+    "name": "دیلم",
+    "status": "published",
+    "slug": "deylam",
+    "site_title": "بندر دیلم"
+   },
+   {
+    "name": "عسلویه",
+    "status": "published",
+    "slug": "asaluyeh",
+    "site_title": "بندر عسلویه"
+   },
+   {
+    "name": "کنگان",
+    "status": "published",
+    "slug": "kangan",
+    "site_title": "بندر کنگان"
+   },
+   {
+    "name": "گناوه",
+    "status": "published",
+    "slug": "ganaveh",
+    "site_title": "بندر گناوه"
+   }
+  ]
+ },
+ "tehran": {
+  "province": "تهران",
+  "total": 16,
+  "counties": [
+   {
+    "name": "اسلامشهر",
+    "status": "published",
+    "slug": "eslamshahr",
+    "site_title": "شهرستان اسلامشهر"
+   },
+   {
+    "name": "بهارستان",
+    "status": "published",
+    "slug": "baharestan",
+    "site_title": "شهرستان بهارستان"
+   },
+   {
+    "name": "تهران",
+    "status": "published",
+    "slug": "tehran-city",
+    "site_title": "شهرستان تهران"
+   },
+   {
+    "name": "دماوند",
+    "status": "published",
+    "slug": "damavand",
+    "site_title": "شهرستان دماوند"
+   },
+   {
+    "name": "رباط‌کریم",
+    "status": "published",
+    "slug": "robat-karim",
+    "site_title": "شهرستان رباط‌کریم"
+   },
+   {
+    "name": "ری",
+    "status": "published",
+    "slug": "rey",
+    "site_title": "شهرستان ری"
+   },
+   {
+    "name": "شمیرانات",
+    "status": "published",
+    "slug": "shemiranat",
+    "site_title": "شهرستان شمیرانات"
+   },
+   {
+    "name": "شهریار",
+    "status": "published",
+    "slug": "shahriar",
+    "site_title": "شهرستان شهریار"
+   },
+   {
+    "name": "فیروزکوه",
+    "status": "published",
+    "slug": "firuzkuh",
+    "site_title": "شهرستان فیروزکوه"
+   },
+   {
+    "name": "قدس",
+    "status": "published",
+    "slug": "qods",
+    "site_title": "شهرستان قدس"
+   },
+   {
+    "name": "قرچک",
+    "status": "published",
+    "slug": "qarchak",
+    "site_title": "شهرستان قرچک"
+   },
+   {
+    "name": "ملارد",
+    "status": "published",
+    "slug": "malard",
+    "site_title": "شهرستان ملارد"
+   },
+   {
+    "name": "ورامین",
+    "status": "published",
+    "slug": "varamin",
+    "site_title": "شهرستان ورامین"
+   },
+   {
+    "name": "پاکدشت",
+    "status": "published",
+    "slug": "pakdasht",
+    "site_title": "شهرستان پاکدشت"
+   },
+   {
+    "name": "پردیس",
+    "status": "published",
+    "slug": "pardis",
+    "site_title": "شهرستان پردیس"
+   },
+   {
+    "name": "پیشوا",
+    "status": "published",
+    "slug": "pishva",
+    "site_title": "شهرستان پیشوا"
+   }
+  ]
+ },
+ "south-khorasan": {
+  "province": "خراسان جنوبی",
+  "total": 12,
+  "counties": [
+   {
+    "name": "بشرویه",
+    "status": "published",
+    "slug": "boshruyeh",
+    "site_title": "شهرستان بشرویه"
+   },
+   {
+    "name": "بیرجند",
+    "status": "published",
+    "slug": "birjand",
+    "site_title": "شهرستان بیرجند"
+   },
+   {
+    "name": "خوسف",
+    "status": "published",
+    "slug": "khusf",
+    "site_title": "شهرستان خوسف"
+   },
+   {
+    "name": "درمیان",
+    "status": "published",
+    "slug": "darmiyan",
+    "site_title": "شهرستان درمیان"
+   },
+   {
+    "name": "زیرکوه",
+    "status": "published",
+    "slug": "zirkuh",
+    "site_title": "شهرستان زیرکوه"
+   },
+   {
+    "name": "سرایان",
+    "status": "published",
+    "slug": "sarayan",
+    "site_title": "شهرستان سرایان"
+   },
+   {
+    "name": "سربیشه",
+    "status": "published",
+    "slug": "sarbisheh",
+    "site_title": "شهرستان سربیشه"
+   },
+   {
+    "name": "طبس",
+    "status": "published",
+    "slug": "tabas",
+    "site_title": "شهرستان طبس"
+   },
+   {
+    "name": "عشق‌آباد",
+    "status": "published",
+    "slug": "eshqabad",
+    "site_title": "شهرستان عشق‌آباد"
+   },
+   {
+    "name": "فردوس",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "قائنات",
+    "status": "published",
+    "slug": "qayenat",
+    "site_title": "شهرستان قائنات"
+   },
+   {
+    "name": "نهبندان",
+    "status": "published",
+    "slug": "nehbandan",
+    "site_title": "شهرستان نهبندان"
+   }
+  ]
+ },
+ "razavi-khorasan": {
+  "province": "خراسان رضوی",
+  "total": 34,
+  "counties": [
+   {
+    "name": "باخرز",
+    "status": "published",
+    "slug": "bakharz",
+    "site_title": "شهرستان باخرز"
+   },
+   {
+    "name": "بجستان",
+    "status": "published",
+    "slug": "bajestan",
+    "site_title": "شهرستان بجستان"
+   },
+   {
+    "name": "تایباد",
+    "status": "published",
+    "slug": "taybad",
+    "site_title": "شهرستان تایباد"
+   },
+   {
+    "name": "تربت حیدریه",
+    "status": "published",
+    "slug": "torbat-heydarieh",
+    "site_title": "شهرستان تربت حیدریه"
+   },
+   {
+    "name": "جغتای",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "جوین",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "خلیل‌آباد",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "خواف",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "خوشاب",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "داورزن",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "درگز",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "رشتخوار",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "زاوه",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "سرخس",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "ششتمد",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "صالح‌آباد",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "فریمان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "فیروزه",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "مه‌ولات",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "میان‌جلگه",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "چناران",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "کاشمر",
+    "status": "empty",
+    "slug": "kashmar",
+    "site_title": "کاشمر"
+   },
+   {
+    "name": "کلات",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "کوهسرخ",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "گلبهار",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "گناباد",
+    "status": "empty",
+    "slug": "gonabad",
+    "site_title": "گناباد"
+   },
+   {
+    "name": "بردسکن",
+    "status": "published",
+    "slug": "bardaskan",
+    "site_title": "شهرستان بردسکن"
+   },
+   {
+    "name": "مشهد",
+    "status": "empty",
+    "slug": "mashhad",
+    "site_title": "مشهد"
+   },
+   {
+    "name": "نیشابور",
+    "status": "empty",
+    "slug": "neyshabur",
+    "site_title": "نیشابور"
+   },
+   {
+    "name": "سبزوار",
+    "status": "empty",
+    "slug": "sabzevar",
+    "site_title": "سبزوار"
+   },
+   {
+    "name": "قوچان",
+    "status": "empty",
+    "slug": "quchan",
+    "site_title": "قوچان"
+   },
+   {
+    "name": "تربت جام",
+    "status": "published",
+    "slug": "torbatjam",
+    "site_title": "شهرستان تربت جام"
+   },
+   {
+    "name": "بینالود",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "زبرخان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   }
+  ]
+ },
+ "north-khorasan": {
+  "province": "خراسان شمالی",
+  "total": 10,
+  "counties": [
+   {
+    "name": "اسفراین",
+    "status": "empty",
+    "slug": "esfarayen",
+    "site_title": "اسفراین"
+   },
+   {
+    "name": "بام و صفی‌آباد",
+    "status": "empty",
+    "slug": "bam-safiabad",
+    "site_title": "بام و صفی‌آباد"
+   },
+   {
+    "name": "بجنورد",
+    "status": "empty",
+    "slug": "bojnord",
+    "site_title": "بجنورد"
+   },
+   {
+    "name": "جاجرم",
+    "status": "empty",
+    "slug": "jajarm",
+    "site_title": "جاجرم"
+   },
+   {
+    "name": "راز و جرگلان",
+    "status": "empty",
+    "slug": "raz-jargalan",
+    "site_title": "راز و جرگلان"
+   },
+   {
+    "name": "شیروان",
+    "status": "empty",
+    "slug": "shirvan",
+    "site_title": "شیروان"
+   },
+   {
+    "name": "فاروج",
+    "status": "empty",
+    "slug": "faruj",
+    "site_title": "فاروج"
+   },
+   {
+    "name": "مانه",
+    "status": "empty",
+    "slug": "maneh",
+    "site_title": "مانه (آشخانه)"
+   },
+   {
+    "name": "مانه و سملقان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "گرمه",
+    "status": "empty",
+    "slug": "garmeh",
+    "site_title": "گرمه"
+   }
+  ]
+ },
+ "khuzestan": {
+  "province": "خوزستان",
+  "total": 29,
+  "counties": [
+   {
+    "name": "آبادان",
+    "status": "empty",
+    "slug": "abadan",
+    "site_title": "آبادان"
+   },
+   {
+    "name": "آغاجاری",
+    "status": "empty",
+    "slug": "aghajari",
+    "site_title": "آغاجاری"
+   },
+   {
+    "name": "امیدیه",
+    "status": "empty",
+    "slug": "omidiyeh",
+    "site_title": "امیدیه"
+   },
+   {
+    "name": "اندیمشک",
+    "status": "empty",
+    "slug": "andimeshk",
+    "site_title": "اندیمشک"
+   },
+   {
+    "name": "اندیکا",
+    "status": "empty",
+    "slug": "andika",
+    "site_title": "اندیکا"
+   },
+   {
+    "name": "اهواز",
+    "status": "empty",
+    "slug": "ahvaz-city",
+    "site_title": "اهواز"
+   },
+   {
+    "name": "ایذه",
+    "status": "empty",
+    "slug": "izeh",
+    "site_title": "ایذه"
+   },
+   {
+    "name": "باغملک",
+    "status": "empty",
+    "slug": "bagh-e-malek",
+    "site_title": "باغ‌ملک"
+   },
+   {
+    "name": "باوی",
+    "status": "empty",
+    "slug": "bavi",
+    "site_title": "باوی"
+   },
+   {
+    "name": "بهبهان",
+    "status": "empty",
+    "slug": "behbahan",
+    "site_title": "بهبهان"
+   },
+   {
+    "name": "حمیدیه",
+    "status": "empty",
+    "slug": "hamidiyeh",
+    "site_title": "حمیدیه"
+   },
+   {
+    "name": "خرمشهر",
+    "status": "empty",
+    "slug": "khorramshahr",
+    "site_title": "خرمشهر"
+   },
+   {
+    "name": "دزفول",
+    "status": "empty",
+    "slug": "dezful",
+    "site_title": "دزفول"
+   },
+   {
+    "name": "دزپارت",
+    "status": "empty",
+    "slug": "dezpart",
+    "site_title": "دزپارت"
+   },
+   {
+    "name": "دشت آزادگان",
+    "status": "empty",
+    "slug": "dasht-azadegan",
+    "site_title": "دشت آزادگان"
+   },
+   {
+    "name": "رامشیر",
+    "status": "empty",
+    "slug": "ramshir",
+    "site_title": "رامشیر"
+   },
+   {
+    "name": "رامهرمز",
+    "status": "empty",
+    "slug": "ramhormoz",
+    "site_title": "رامهرمز"
+   },
+   {
+    "name": "شادگان",
+    "status": "empty",
+    "slug": "shadegan",
+    "site_title": "شادگان"
+   },
+   {
+    "name": "شوش",
+    "status": "empty",
+    "slug": "shush",
+    "site_title": "شوش"
+   },
+   {
+    "name": "شوشتر",
+    "status": "empty",
+    "slug": "shushtar",
+    "site_title": "شوشتر"
+   },
+   {
+    "name": "لالی",
+    "status": "empty",
+    "slug": "lali",
+    "site_title": "لالی"
+   },
+   {
+    "name": "ماهشهر",
+    "status": "empty",
+    "slug": "mahshahr",
+    "site_title": "بندر ماهشهر"
+   },
+   {
+    "name": "مسجدسلیمان",
+    "status": "empty",
+    "slug": "masjed-soleyman",
+    "site_title": "مسجدسلیمان"
+   },
+   {
+    "name": "هفتکل",
+    "status": "empty",
+    "slug": "haftkel",
+    "site_title": "هفتکل"
+   },
+   {
+    "name": "هندیجان",
+    "status": "empty",
+    "slug": "hendijan",
+    "site_title": "هندیجان"
+   },
+   {
+    "name": "هویزه",
+    "status": "empty",
+    "slug": "hoveyzeh",
+    "site_title": "هویزه"
+   },
+   {
+    "name": "کارون",
+    "status": "empty",
+    "slug": "karun",
+    "site_title": "کارون"
+   },
+   {
+    "name": "کرخه",
+    "status": "empty",
+    "slug": "karkheh",
+    "site_title": "کرخه"
+   },
+   {
+    "name": "گتوند",
+    "status": "empty",
+    "slug": "gotvand",
+    "site_title": "گتوند"
+   }
+  ]
+ },
+ "zanjan": {
+  "province": "زنجان",
+  "total": 8,
+  "counties": [
+   {
+    "name": "ابهر",
+    "status": "empty",
+    "slug": "abhar",
+    "site_title": "ابهر"
+   },
+   {
+    "name": "ایجرود",
+    "status": "empty",
+    "slug": "ejrud",
+    "site_title": "ایجرود"
+   },
+   {
+    "name": "خدابنده",
+    "status": "empty",
+    "slug": "khodabandeh",
+    "site_title": "خدابنده"
+   },
+   {
+    "name": "خرمدره",
+    "status": "empty",
+    "slug": "kharadere",
+    "site_title": "خرمدره"
+   },
+   {
+    "name": "زنجان",
+    "status": "empty",
+    "slug": "zanjan-city",
+    "site_title": "زنجان"
+   },
+   {
+    "name": "سلطانیه",
+    "status": "empty",
+    "slug": "soltaniyeh",
+    "site_title": "سلطانیه"
+   },
+   {
+    "name": "طارم",
+    "status": "empty",
+    "slug": "tarom",
+    "site_title": "طارم"
+   },
+   {
+    "name": "ماهنشان",
+    "status": "empty",
+    "slug": "mahneshan",
+    "site_title": "ماهنشان"
+   }
+  ]
+ },
+ "semnan": {
+  "province": "سمنان",
+  "total": 8,
+  "counties": [
+   {
+    "name": "آرادان",
+    "status": "empty",
+    "slug": "aradan",
+    "site_title": "آرادان"
+   },
+   {
+    "name": "دامغان",
+    "status": "empty",
+    "slug": "damghan",
+    "site_title": "دامغان"
+   },
+   {
+    "name": "سرخه",
+    "status": "empty",
+    "slug": "sorkheh",
+    "site_title": "سرخه"
+   },
+   {
+    "name": "سمنان",
+    "status": "empty",
+    "slug": "semnan-city",
+    "site_title": "سمنان"
+   },
+   {
+    "name": "شاهرود",
+    "status": "empty",
+    "slug": "shahrud",
+    "site_title": "شاهرود"
+   },
+   {
+    "name": "مهدی‌شهر",
+    "status": "empty",
+    "slug": "mehdishahr",
+    "site_title": "مهدی‌شهر"
+   },
+   {
+    "name": "میامی",
+    "status": "empty",
+    "slug": "meyami",
+    "site_title": "میامی"
+   },
+   {
+    "name": "گرمسار",
+    "status": "empty",
+    "slug": "garmsar",
+    "site_title": "گرمسار"
+   }
+  ]
+ },
+ "sistan-baluchestan": {
+  "province": "سیستان و بلوچستان",
+  "total": 26,
+  "counties": [
+   {
+    "name": "ایرانشهر",
+    "status": "empty",
+    "slug": "iranshahr",
+    "site_title": "ایرانشهر"
+   },
+   {
+    "name": "بمپور",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "تفتان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "خاش",
+    "status": "empty",
+    "slug": "khash",
+    "site_title": "خاش"
+   },
+   {
+    "name": "دشتیاری",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "دلگان",
+    "status": "empty",
+    "slug": "dalgan",
+    "site_title": "دلگان"
+   },
+   {
+    "name": "راسک",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "زابل",
+    "status": "empty",
+    "slug": "zabol",
+    "site_title": "زابل"
+   },
+   {
+    "name": "زاهدان",
+    "status": "empty",
+    "slug": "zahedan",
+    "site_title": "زاهدان"
+   },
+   {
+    "name": "زرآباد",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "زهک",
+    "status": "empty",
+    "slug": "zehak",
+    "site_title": "زهک"
+   },
+   {
+    "name": "سراوان",
+    "status": "empty",
+    "slug": "saravan",
+    "site_title": "سراوان"
+   },
+   {
+    "name": "سرباز",
+    "status": "empty",
+    "slug": "sarbaz",
+    "site_title": "سرباز"
+   },
+   {
+    "name": "سیب و سوران",
+    "status": "empty",
+    "slug": "sib-va-suran",
+    "site_title": "سیب و سوران"
+   },
+   {
+    "name": "فنوج",
+    "status": "empty",
+    "slug": "fanuj",
+    "site_title": "فنوج"
+   },
+   {
+    "name": "قصرقند",
+    "status": "empty",
+    "slug": "qasr-e-qand",
+    "site_title": "قصرقند"
+   },
+   {
+    "name": "لاشار",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "مهرستان",
+    "status": "empty",
+    "slug": "mehrestan",
+    "site_title": "مهرستان"
+   },
+   {
+    "name": "میرجاوه",
+    "status": "empty",
+    "slug": "mirjaveh",
+    "site_title": "میرجاوه"
+   },
+   {
+    "name": "نیمروز",
+    "status": "empty",
+    "slug": "nimruz",
+    "site_title": "نیمروز"
+   },
+   {
+    "name": "نیک‌شهر",
+    "status": "empty",
+    "slug": "nik-shahr",
+    "site_title": "نیک‌شهر"
+   },
+   {
+    "name": "هامون",
+    "status": "empty",
+    "slug": "hamun",
+    "site_title": "هامون"
+   },
+   {
+    "name": "هیرمند",
+    "status": "empty",
+    "slug": "hirmand",
+    "site_title": "هیرمند"
+   },
+   {
+    "name": "چابهار",
+    "status": "empty",
+    "slug": "chabahar",
+    "site_title": "چابهار"
+   },
+   {
+    "name": "کنارک",
+    "status": "empty",
+    "slug": "konarak",
+    "site_title": "کنارک"
+   },
+   {
+    "name": "گلشن",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   }
+  ]
+ },
+ "fars": {
+  "province": "فارس",
+  "total": 37,
+  "counties": [
+   {
+    "name": "آباده",
+    "status": "empty",
+    "slug": "abadeh",
+    "site_title": "آباده"
+   },
+   {
+    "name": "ارسنجان",
+    "status": "empty",
+    "slug": "arsanjan",
+    "site_title": "ارسنجان"
+   },
+   {
+    "name": "استهبان",
+    "status": "empty",
+    "slug": "estahban",
+    "site_title": "استهبان"
+   },
+   {
+    "name": "اقلید",
+    "status": "empty",
+    "slug": "eqlid",
+    "site_title": "اقلید"
+   },
+   {
+    "name": "اوز",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "بختگان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "بوانات",
+    "status": "empty",
+    "slug": "bavanat",
+    "site_title": "بوانات"
+   },
+   {
+    "name": "بیضا",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "جهرم",
+    "status": "empty",
+    "slug": "jahrom",
+    "site_title": "جهرم"
+   },
+   {
+    "name": "جویم",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "خرامه",
+    "status": "empty",
+    "slug": "kharameh",
+    "site_title": "خرامه"
+   },
+   {
+    "name": "خرم‌بید",
+    "status": "empty",
+    "slug": "khorrambid",
+    "site_title": "خرم‌بید"
+   },
+   {
+    "name": "خفر",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "خنج",
+    "status": "empty",
+    "slug": "khonj",
+    "site_title": "خنج"
+   },
+   {
+    "name": "داراب",
+    "status": "empty",
+    "slug": "darab",
+    "site_title": "داراب"
+   },
+   {
+    "name": "رستم",
+    "status": "empty",
+    "slug": "rostam",
+    "site_title": "رستم"
+   },
+   {
+    "name": "زرقان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "زرین‌دشت",
+    "status": "empty",
+    "slug": "zarrin-dasht",
+    "site_title": "زرین‌دشت"
+   },
+   {
+    "name": "سروستان",
+    "status": "empty",
+    "slug": "sarvestan",
+    "site_title": "سروستان"
+   },
+   {
+    "name": "سرچهان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "سپیدان",
+    "status": "empty",
+    "slug": "sepidan",
+    "site_title": "سپیدان"
+   },
+   {
+    "name": "شیراز",
+    "status": "empty",
+    "slug": "shiraz",
+    "site_title": "شیراز"
+   },
+   {
+    "name": "فراشبند",
+    "status": "empty",
+    "slug": "farashband",
+    "site_title": "فراشبند"
+   },
+   {
+    "name": "فسا",
+    "status": "empty",
+    "slug": "fasa",
+    "site_title": "فسا"
+   },
+   {
+    "name": "فیروزآباد",
+    "status": "empty",
+    "slug": "firuzabad",
+    "site_title": "فیروزآباد"
+   },
+   {
+    "name": "قیر و کارزین",
+    "status": "empty",
+    "slug": "qir-va-karzin",
+    "site_title": "قیر و کارزین"
+   },
+   {
+    "name": "لارستان",
+    "status": "empty",
+    "slug": "larestan",
+    "site_title": "لارستان"
+   },
+   {
+    "name": "لامرد",
+    "status": "empty",
+    "slug": "lamerd",
+    "site_title": "لامرد"
+   },
+   {
+    "name": "مرودشت",
+    "status": "empty",
+    "slug": "marvdasht",
+    "site_title": "مرودشت"
+   },
+   {
+    "name": "ممسنی",
+    "status": "empty",
+    "slug": "mamasani",
+    "site_title": "ممسنی"
+   },
+   {
+    "name": "مهر",
+    "status": "empty",
+    "slug": "mehr",
+    "site_title": "مهر"
+   },
+   {
+    "name": "نی‌ریز",
+    "status": "empty",
+    "slug": "neyriz",
+    "site_title": "نی‌ریز"
+   },
+   {
+    "name": "پاسارگاد",
+    "status": "empty",
+    "slug": "pasargad",
+    "site_title": "پاسارگاد"
+   },
+   {
+    "name": "چنارشاهیجان",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "کازرون",
+    "status": "empty",
+    "slug": "kazerun",
+    "site_title": "کازرون"
+   },
+   {
+    "name": "کوار",
+    "status": "empty",
+    "slug": "kavar",
+    "site_title": "کوار"
+   },
+   {
+    "name": "گراش",
+    "status": "empty",
+    "slug": "gerash",
+    "site_title": "گراش"
+   }
+  ]
+ },
+ "qazvin": {
+  "province": "قزوین",
+  "total": 6,
+  "counties": [
+   {
+    "name": "آبیک",
+    "status": "empty",
+    "slug": "abyek",
+    "site_title": "آبیک"
+   },
+   {
+    "name": "آوج",
+    "status": "empty",
+    "slug": "avaj",
+    "site_title": "آوج"
+   },
+   {
+    "name": "البرز",
+    "status": "empty",
+    "slug": "alborz-qazvin",
+    "site_title": "البرز"
+   },
+   {
+    "name": "بوئین‌زهرا",
+    "status": "empty",
+    "slug": "buin-zahra",
+    "site_title": "بوئین‌زهرا"
+   },
+   {
+    "name": "تاکستان",
+    "status": "empty",
+    "slug": "takestan",
+    "site_title": "تاکستان"
+   },
+   {
+    "name": "قزوین",
+    "status": "empty",
+    "slug": "qazvin-city",
+    "site_title": "قزوین"
+   }
+  ]
+ },
+ "qom": {
+  "province": "قم",
+  "total": 3,
+  "counties": [
+   {
+    "name": "جعفرآباد",
+    "status": "empty",
+    "slug": "jafarabady",
+    "site_title": "جعفرآباد"
+   },
+   {
+    "name": "قم",
+    "status": "empty",
+    "slug": "qom-city",
+    "site_title": "قم"
+   },
+   {
+    "name": "کهک",
+    "status": "empty",
+    "slug": "kahak",
+    "site_title": "کهک"
+   }
+  ]
+ },
+ "lorestan": {
+  "province": "لرستان",
+  "total": 12,
+  "counties": [
+   {
+    "name": "ازنا",
+    "status": "empty",
+    "slug": "azna",
+    "site_title": "ازنا"
+   },
+   {
+    "name": "الیگودرز",
+    "status": "empty",
+    "slug": "aligudarz",
+    "site_title": "الیگودرز"
+   },
+   {
+    "name": "بروجرد",
+    "status": "empty",
+    "slug": "borujerd",
+    "site_title": "بروجرد"
+   },
+   {
+    "name": "خرم‌آباد",
+    "status": "empty",
+    "slug": "khorramabad",
+    "site_title": "خرم‌آباد"
+   },
+   {
+    "name": "دلفان",
+    "status": "empty",
+    "slug": "delfan",
+    "site_title": "دلفان"
+   },
+   {
+    "name": "دورود",
+    "status": "empty",
+    "slug": "dorud",
+    "site_title": "دورود"
+   },
+   {
+    "name": "رومشکان",
+    "status": "empty",
+    "slug": "rumeshkan",
+    "site_title": "رومشکان"
+   },
+   {
+    "name": "سلسله",
+    "status": "empty",
+    "slug": "selseleh",
+    "site_title": "سلسله"
+   },
+   {
+    "name": "معمولان",
+    "status": "empty",
+    "slug": "mamulan",
+    "site_title": "معمولان"
+   },
+   {
+    "name": "پلدختر",
+    "status": "empty",
+    "slug": "pol-e-dokhtar",
+    "site_title": "پلدختر"
+   },
+   {
+    "name": "چگنی",
+    "status": "empty",
+    "slug": "chegeni",
+    "site_title": "چگنی"
+   },
+   {
+    "name": "کوهدشت",
+    "status": "empty",
+    "slug": "kuhdasht",
+    "site_title": "کوهدشت"
+   }
+  ]
+ },
+ "mazandaran": {
+  "province": "مازندران",
+  "total": 22,
+  "counties": [
+   {
+    "name": "آمل",
+    "status": "empty",
+    "slug": "amol",
+    "site_title": "آمل"
+   },
+   {
+    "name": "بابل",
+    "status": "empty",
+    "slug": "babol",
+    "site_title": "بابل"
+   },
+   {
+    "name": "بابلسر",
+    "status": "empty",
+    "slug": "babolsar",
+    "site_title": "بابلسر"
+   },
+   {
+    "name": "بهشهر",
+    "status": "empty",
+    "slug": "behshahr",
+    "site_title": "بهشهر"
+   },
+   {
+    "name": "تنکابن",
+    "status": "empty",
+    "slug": "tonekabon",
+    "site_title": "تنکابن"
+   },
+   {
+    "name": "جویبار",
+    "status": "empty",
+    "slug": "joybar",
+    "site_title": "جویبار"
+   },
+   {
+    "name": "رامسر",
+    "status": "empty",
+    "slug": "ramsar",
+    "site_title": "رامسر"
+   },
+   {
+    "name": "ساری",
+    "status": "empty",
+    "slug": "sari",
+    "site_title": "ساری"
+   },
+   {
+    "name": "سوادکوه",
+    "status": "empty",
+    "slug": "savadkuh",
+    "site_title": "سوادکوه"
+   },
+   {
+    "name": "سوادکوه شمالی",
+    "status": "empty",
+    "slug": "savadkuh-shomali",
+    "site_title": "سوادکوه شمالی"
+   },
+   {
+    "name": "سیمرغ",
+    "status": "empty",
+    "slug": "simorgh",
+    "site_title": "سیمرغ"
+   },
+   {
+    "name": "عباس‌آباد",
+    "status": "empty",
+    "slug": "abbasabad",
+    "site_title": "عباس‌آباد"
+   },
+   {
+    "name": "فریدونکنار",
+    "status": "empty",
+    "slug": "freydunkenar",
+    "site_title": "فریدون‌کنار"
+   },
+   {
+    "name": "قائم‌شهر",
+    "status": "empty",
+    "slug": "qaemshahr",
+    "site_title": "قائم‌شهر"
+   },
+   {
+    "name": "محمودآباد",
+    "status": "empty",
+    "slug": "mahmudabad",
+    "site_title": "محمودآباد"
+   },
+   {
+    "name": "میاندورود",
+    "status": "empty",
+    "slug": "miandorud",
+    "site_title": "میان‌دورود"
+   },
+   {
+    "name": "نور",
+    "status": "empty",
+    "slug": "nur",
+    "site_title": "نور"
+   },
+   {
+    "name": "نوشهر",
+    "status": "empty",
+    "slug": "nowshahr",
+    "site_title": "نوشهر"
+   },
+   {
+    "name": "نکا",
+    "status": "empty",
+    "slug": "neka",
+    "site_title": "نکا"
+   },
+   {
+    "name": "چالوس",
+    "status": "empty",
+    "slug": "chalus",
+    "site_title": "چالوس"
+   },
+   {
+    "name": "کلاردشت",
+    "status": "empty",
+    "slug": "kelardasht",
+    "site_title": "کلاردشت"
+   },
+   {
+    "name": "گلوگاه",
+    "status": "empty",
+    "slug": "gologah",
+    "site_title": "گلوگاه"
+   }
+  ]
+ },
+ "markazi": {
+  "province": "مرکزی",
+  "total": 12,
+  "counties": [
+   {
+    "name": "آشتیان",
+    "status": "empty",
+    "slug": "ashtian",
+    "site_title": "آشتیان"
+   },
+   {
+    "name": "اراک",
+    "status": "empty",
+    "slug": "arak",
+    "site_title": "اراک"
+   },
+   {
+    "name": "تفرش",
+    "status": "empty",
+    "slug": "tafresh",
+    "site_title": "تفرش"
+   },
+   {
+    "name": "خمین",
+    "status": "empty",
+    "slug": "khomeyn",
+    "site_title": "خمین"
+   },
+   {
+    "name": "خنداب",
+    "status": "empty",
+    "slug": "khondab",
+    "site_title": "خنداب"
+   },
+   {
+    "name": "دلیجان",
+    "status": "empty",
+    "slug": "delijan",
+    "site_title": "دلیجان"
+   },
+   {
+    "name": "زرندیه",
+    "status": "empty",
+    "slug": "zarandieh",
+    "site_title": "زرندیه"
+   },
+   {
+    "name": "ساوه",
+    "status": "empty",
+    "slug": "saveh",
+    "site_title": "ساوه"
+   },
+   {
+    "name": "شازند",
+    "status": "empty",
+    "slug": "shazand",
+    "site_title": "شازند"
+   },
+   {
+    "name": "فراهان",
+    "status": "empty",
+    "slug": "farahan",
+    "site_title": "فراهان"
+   },
+   {
+    "name": "محلات",
+    "status": "empty",
+    "slug": "mahallat",
+    "site_title": "محلات"
+   },
+   {
+    "name": "کمیجان",
+    "status": "empty",
+    "slug": "komijan",
+    "site_title": "کمیجان"
+   }
+  ]
+ },
+ "hormozgan": {
+  "province": "هرمزگان",
+  "total": 13,
+  "counties": [
+   {
+    "name": "ابوموسی",
+    "status": "empty",
+    "slug": "abumusa",
+    "site_title": "ابوموسی"
+   },
+   {
+    "name": "بستک",
+    "status": "empty",
+    "slug": "bastak",
+    "site_title": "بستک"
+   },
+   {
+    "name": "بشاگرد",
+    "status": "empty",
+    "slug": "bashagard",
+    "site_title": "بشاگرد"
+   },
+   {
+    "name": "بندرعباس",
+    "status": "empty",
+    "slug": "bandar-abbas",
+    "site_title": "بندرعباس"
+   },
+   {
+    "name": "جاسک",
+    "status": "empty",
+    "slug": "jask",
+    "site_title": "جاسک"
+   },
+   {
+    "name": "حاجی‌آباد",
+    "status": "empty",
+    "slug": "hajiabad",
+    "site_title": "حاجی‌آباد"
+   },
+   {
+    "name": "خمیر",
+    "status": "empty",
+    "slug": "khamir",
+    "site_title": "خمیر"
+   },
+   {
+    "name": "رودان",
+    "status": "empty",
+    "slug": "rudan",
+    "site_title": "رودان"
+   },
+   {
+    "name": "سیریک",
+    "status": "empty",
+    "slug": "sirik",
+    "site_title": "سیریک"
+   },
+   {
+    "name": "قشم",
+    "status": "empty",
+    "slug": "qeshm",
+    "site_title": "قشم"
+   },
+   {
+    "name": "لنگه",
+    "status": "empty",
+    "slug": "bandar-lengeh",
+    "site_title": "بندر لنگه"
+   },
+   {
+    "name": "میناب",
+    "status": "empty",
+    "slug": "minab",
+    "site_title": "میناب"
+   },
+   {
+    "name": "پارسیان",
+    "status": "empty",
+    "slug": "parsian",
+    "site_title": "پارسیان"
+   }
+  ]
+ },
+ "hamadan": {
+  "province": "همدان",
+  "total": 10,
+  "counties": [
+   {
+    "name": "اسدآباد",
+    "status": "empty",
+    "slug": "asadabad-city",
+    "site_title": "اسدآباد"
+   },
+   {
+    "name": "بهار",
+    "status": "empty",
+    "slug": "bahar-city",
+    "site_title": "بهار"
+   },
+   {
+    "name": "تویسرکان",
+    "status": "empty",
+    "slug": "tuyserkan-city",
+    "site_title": "تویسرکان"
+   },
+   {
+    "name": "درگزین",
+    "status": "missing",
+    "slug": "",
+    "site_title": ""
+   },
+   {
+    "name": "رزن",
+    "status": "empty",
+    "slug": "razan-city",
+    "site_title": "رزن"
+   },
+   {
+    "name": "فامنین",
+    "status": "empty",
+    "slug": "famenin-city",
+    "site_title": "فامنین"
+   },
+   {
+    "name": "ملایر",
+    "status": "empty",
+    "slug": "malayer-city",
+    "site_title": "ملایر"
+   },
+   {
+    "name": "نهاوند",
+    "status": "empty",
+    "slug": "nahavand-city",
+    "site_title": "نهاوند"
+   },
+   {
+    "name": "همدان",
+    "status": "empty",
+    "slug": "hamadan-city",
+    "site_title": "همدان"
+   },
+   {
+    "name": "کبودرآهنگ",
+    "status": "empty",
+    "slug": "kabudarahang-city",
+    "site_title": "کبودرآهنگ"
+   }
+  ]
+ },
+ "chaharmahal-bakhtiari": {
+  "province": "چهارمحال و بختیاری",
+  "total": 12,
+  "counties": [
+   {
+    "name": "اردل",
+    "status": "empty",
+    "slug": "ardal",
+    "site_title": "اردل"
+   },
+   {
+    "name": "بروجن",
+    "status": "empty",
+    "slug": "borujen",
+    "site_title": "بروجن"
+   },
+   {
+    "name": "بن",
+    "status": "empty",
+    "slug": "ben",
+    "site_title": "بن"
+   },
+   {
+    "name": "سامان",
+    "status": "empty",
+    "slug": "saman",
+    "site_title": "سامان"
+   },
+   {
+    "name": "شهرکرد",
+    "status": "empty",
+    "slug": "shahrekord",
+    "site_title": "شهرکرد"
+   },
+   {
+    "name": "فارسان",
+    "status": "empty",
+    "slug": "farsan",
+    "site_title": "فارسان"
+   },
+   {
+    "name": "فرخ‌شهر",
+    "status": "empty",
+    "slug": "farrokhshahr",
+    "site_title": "فرخ‌شهر"
+   },
+   {
+    "name": "فلارد",
+    "status": "empty",
+    "slug": "falard",
+    "site_title": "فلارد (مال‌خلیفه)"
+   },
+   {
+    "name": "لردگان",
+    "status": "empty",
+    "slug": "lordegan",
+    "site_title": "لردگان"
+   },
+   {
+    "name": "کوهرنگ",
+    "status": "empty",
+    "slug": "kuhrang",
+    "site_title": "کوهرنگ (چلگرد)"
+   },
+   {
+    "name": "کیار",
+    "status": "empty",
+    "slug": "kiar",
+    "site_title": "کیار (شلمزار)"
+   },
+   {
+    "name": "خانمیرزا",
+    "status": "empty",
+    "slug": "khanmirza",
+    "site_title": "خانمیرزا (آلونی)"
+   }
+  ]
+ },
+ "kurdistan": {
+  "province": "کردستان",
+  "total": 10,
+  "counties": [
+   {
+    "name": "بانه",
+    "status": "empty",
+    "slug": "baneh",
+    "site_title": "بانه"
+   },
+   {
+    "name": "بیجار",
+    "status": "empty",
+    "slug": "bijar",
+    "site_title": "بیجار"
+   },
+   {
+    "name": "دهگلان",
+    "status": "empty",
+    "slug": "dehgolan",
+    "site_title": "دهگلان"
+   },
+   {
+    "name": "دیواندره",
+    "status": "empty",
+    "slug": "divandarreh",
+    "site_title": "دیواندره"
+   },
+   {
+    "name": "سروآباد",
+    "status": "empty",
+    "slug": "sarvabad",
+    "site_title": "سروآباد"
+   },
+   {
+    "name": "سقز",
+    "status": "empty",
+    "slug": "saqqez",
+    "site_title": "سقز"
+   },
+   {
+    "name": "سنندج",
+    "status": "empty",
+    "slug": "sanandaj",
+    "site_title": "سنندج"
+   },
+   {
+    "name": "قروه",
+    "status": "empty",
+    "slug": "qorveh",
+    "site_title": "قروه"
+   },
+   {
+    "name": "مریوان",
+    "status": "empty",
+    "slug": "marivan",
+    "site_title": "مریوان"
+   },
+   {
+    "name": "کامیاران",
+    "status": "empty",
+    "slug": "kamyaran",
+    "site_title": "کامیاران"
+   }
+  ]
+ },
+ "kerman": {
+  "province": "کرمان",
+  "total": 25,
+  "counties": [
+   {
+    "name": "ارزوئیه",
+    "status": "empty",
+    "slug": "arzuiyeh",
+    "site_title": "ارزوئیه"
+   },
+   {
+    "name": "انار",
+    "status": "empty",
+    "slug": "anar",
+    "site_title": "انار"
+   },
+   {
+    "name": "بافت",
+    "status": "empty",
+    "slug": "baft",
+    "site_title": "بافت"
+   },
+   {
+    "name": "بردسیر",
+    "status": "empty",
+    "slug": "bardsir",
+    "site_title": "بردسیر"
+   },
+   {
+    "name": "بم",
+    "status": "empty",
+    "slug": "bam",
+    "site_title": "بم"
+   },
+   {
+    "name": "جازموریان",
+    "status": "empty",
+    "slug": "jazmourian",
+    "site_title": "جازموریان"
+   },
+   {
+    "name": "جیرفت",
+    "status": "empty",
+    "slug": "jiroft",
+    "site_title": "جیرفت"
+   },
+   {
+    "name": "رابر",
+    "status": "empty",
+    "slug": "rabor",
+    "site_title": "رابر"
+   },
+   {
+    "name": "راور",
+    "status": "empty",
+    "slug": "ravar",
+    "site_title": "راور"
+   },
+   {
+    "name": "رفسنجان",
+    "status": "empty",
+    "slug": "rafsanjan",
+    "site_title": "رفسنجان"
+   },
+   {
+    "name": "رودبار جنوب",
+    "status": "empty",
+    "slug": "rudbar-e-jonub",
+    "site_title": "رودبار جنوب"
+   },
+   {
+    "name": "ریگان",
+    "status": "empty",
+    "slug": "rigan",
+    "site_title": "ریگان"
+   },
+   {
+    "name": "زرند",
+    "status": "empty",
+    "slug": "zarand",
+    "site_title": "زرند"
+   },
+   {
+    "name": "سیرجان",
+    "status": "empty",
+    "slug": "sirjan",
+    "site_title": "سیرجان"
+   },
+   {
+    "name": "شهربابک",
+    "status": "empty",
+    "slug": "shahr-e-babak",
+    "site_title": "شهربابک"
+   },
+   {
+    "name": "عنبرآباد",
+    "status": "empty",
+    "slug": "anbarabad",
+    "site_title": "عنبرآباد"
+   },
+   {
+    "name": "فاریاب",
+    "status": "empty",
+    "slug": "faryab",
+    "site_title": "فاریاب"
+   },
+   {
+    "name": "فهرج",
+    "status": "empty",
+    "slug": "fahraj",
+    "site_title": "فهرج"
+   },
+   {
+    "name": "قلعه‌گنج",
+    "status": "empty",
+    "slug": "qaleh-ganj",
+    "site_title": "قلعه‌گنج"
+   },
+   {
+    "name": "منوجان",
+    "status": "empty",
+    "slug": "manujan",
+    "site_title": "منوجان"
+   },
+   {
+    "name": "نرماشیر",
+    "status": "empty",
+    "slug": "narmashir",
+    "site_title": "نرماشیر"
+   },
+   {
+    "name": "کرمان",
+    "status": "empty",
+    "slug": "kerman",
+    "site_title": "کرمان"
+   },
+   {
+    "name": "کهنوج",
+    "status": "empty",
+    "slug": "kahnoj",
+    "site_title": "کهنوج"
+   },
+   {
+    "name": "کوهبنان",
+    "status": "empty",
+    "slug": "kuhbanan",
+    "site_title": "کوهبنان"
+   },
+   {
+    "name": "گنبکی",
+    "status": "empty",
+    "slug": "gonbaki",
+    "site_title": "گنبکی"
+   }
+  ]
+ },
+ "kermanshah": {
+  "province": "کرمانشاه",
+  "total": 14,
+  "counties": [
+   {
+    "name": "اسلام‌آباد غرب",
+    "status": "empty",
+    "slug": "eslamabad-e-gharb",
+    "site_title": "اسلام‌آباد غرب"
+   },
+   {
+    "name": "ثلاث باباجانی",
+    "status": "empty",
+    "slug": "salasa-babajani",
+    "site_title": "ثلاث باباجانی"
+   },
+   {
+    "name": "جوانرود",
+    "status": "empty",
+    "slug": "javanrud",
+    "site_title": "جوانرود"
+   },
+   {
+    "name": "دالاهو",
+    "status": "empty",
+    "slug": "dalahu",
+    "site_title": "دالاهو"
+   },
+   {
+    "name": "روانسر",
+    "status": "empty",
+    "slug": "ravansar",
+    "site_title": "روانسر"
+   },
+   {
+    "name": "سرپل ذهاب",
+    "status": "empty",
+    "slug": "sarpol-e-zahab",
+    "site_title": "سرپل ذهاب"
+   },
+   {
+    "name": "سنقر",
+    "status": "empty",
+    "slug": "sonqor",
+    "site_title": "سنقر"
+   },
+   {
+    "name": "صحنه",
+    "status": "empty",
+    "slug": "sahneh",
+    "site_title": "صحنه"
+   },
+   {
+    "name": "قصر شیرین",
+    "status": "empty",
+    "slug": "qasr-e-shirin",
+    "site_title": "قصر شیرین"
+   },
+   {
+    "name": "هرسین",
+    "status": "empty",
+    "slug": "harsin",
+    "site_title": "هرسین"
+   },
+   {
+    "name": "پاوه",
+    "status": "empty",
+    "slug": "paveh",
+    "site_title": "پاوه"
+   },
+   {
+    "name": "کرمانشاه",
+    "status": "empty",
+    "slug": "kermanshah",
+    "site_title": "کرمانشاه"
+   },
+   {
+    "name": "کنگاور",
+    "status": "empty",
+    "slug": "kangavar",
+    "site_title": "کنگاور"
+   },
+   {
+    "name": "گیلانغرب",
+    "status": "empty",
+    "slug": "gilangharb",
+    "site_title": "گیلانغرب"
+   }
+  ]
+ },
+ "kohgiluyeh-boyer-ahmad": {
+  "province": "کهگیلویه و بویراحمد",
+  "total": 9,
+  "counties": [
+   {
+    "name": "باشت",
+    "status": "draft",
+    "slug": "basht",
+    "site_title": "شهرستان باشت"
+   },
+   {
+    "name": "بهمئی",
+    "status": "draft",
+    "slug": "bahmai",
+    "site_title": "شهرستان بهمئی"
+   },
+   {
+    "name": "بویراحمد",
+    "status": "draft",
+    "slug": "boyer-ahmad",
+    "site_title": "شهرستان بویراحمد"
+   },
+   {
+    "name": "دنا",
+    "status": "draft",
+    "slug": "dena",
+    "site_title": "شهرستان دنا"
+   },
+   {
+    "name": "لنده",
+    "status": "draft",
+    "slug": "landeh",
+    "site_title": "شهرستان لنده"
+   },
+   {
+    "name": "مارگون",
+    "status": "draft",
+    "slug": "margoun",
+    "site_title": "شهرستان مارگون"
+   },
+   {
+    "name": "چرام",
+    "status": "draft",
+    "slug": "choram",
+    "site_title": "شهرستان چرام"
+   },
+   {
+    "name": "کهگیلویه",
+    "status": "draft",
+    "slug": "kohgiluyeh",
+    "site_title": "شهرستان کهگیلویه"
+   },
+   {
+    "name": "گچساران",
+    "status": "draft",
+    "slug": "gachsaran",
+    "site_title": "شهرستان گچساران"
+   }
+  ]
+ },
+ "golestan": {
+  "province": "گلستان",
+  "total": 14,
+  "counties": [
+   {
+    "name": "آزادشهر",
+    "status": "empty",
+    "slug": "azadshahr",
+    "site_title": "آزادشهر"
+   },
+   {
+    "name": "آق‌قلا",
+    "status": "empty",
+    "slug": "aq-qala",
+    "site_title": "آق‌قلا"
+   },
+   {
+    "name": "ترکمن",
+    "status": "empty",
+    "slug": "bandar-e-torkaman",
+    "site_title": "بندر ترکمن"
+   },
+   {
+    "name": "رامیان",
+    "status": "empty",
+    "slug": "ramian",
+    "site_title": "رامیان"
+   },
+   {
+    "name": "علی‌آباد",
+    "status": "empty",
+    "slug": "aliabad-e-katul",
+    "site_title": "علی‌آباد کتول"
+   },
+   {
+    "name": "مراوه‌تپه",
+    "status": "empty",
+    "slug": "maraveh-tappeh",
+    "site_title": "مراوه‌تپه"
+   },
+   {
+    "name": "مینودشت",
+    "status": "empty",
+    "slug": "minudasht",
+    "site_title": "مینودشت"
+   },
+   {
+    "name": "کردکوی",
+    "status": "empty",
+    "slug": "kordkuy",
+    "site_title": "کردکوی"
+   },
+   {
+    "name": "کلاله",
+    "status": "empty",
+    "slug": "kalaleh",
+    "site_title": "کلاله"
+   },
+   {
+    "name": "گالیکش",
+    "status": "empty",
+    "slug": "galikesh",
+    "site_title": "گالیکش"
+   },
+   {
+    "name": "گرگان",
+    "status": "empty",
+    "slug": "gorgan",
+    "site_title": "گرگان"
+   },
+   {
+    "name": "گز",
+    "status": "empty",
+    "slug": "bandar-e-gaz",
+    "site_title": "بندر گز"
+   },
+   {
+    "name": "گمیشان",
+    "status": "empty",
+    "slug": "gomishan",
+    "site_title": "گمیشان"
+   },
+   {
+    "name": "گنبد کاووس",
+    "status": "empty",
+    "slug": "gonbad-e-kavus",
+    "site_title": "گنبد کاووس"
+   }
+  ]
+ },
+ "gilan": {
+  "province": "گیلان",
+  "total": 17,
+  "counties": [
+   {
+    "name": "آستارا",
+    "status": "empty",
+    "slug": "astara",
+    "site_title": "آستارا"
+   },
+   {
+    "name": "آستانه اشرفیه",
+    "status": "empty",
+    "slug": "astaneh-ye-ashrafiyeh",
+    "site_title": "آستانه اشرفیه"
+   },
+   {
+    "name": "املش",
+    "status": "empty",
+    "slug": "amlash",
+    "site_title": "املش"
+   },
+   {
+    "name": "انزلی",
+    "status": "empty",
+    "slug": "bandar-e-anzali",
+    "site_title": "بندر انزلی"
+   },
+   {
+    "name": "تالش",
+    "status": "empty",
+    "slug": "talesh",
+    "site_title": "تالش"
+   },
+   {
+    "name": "خمام",
+    "status": "empty",
+    "slug": "khomam",
+    "site_title": "خمام"
+   },
+   {
+    "name": "رشت",
+    "status": "empty",
+    "slug": "rasht",
+    "site_title": "رشت"
+   },
+   {
+    "name": "رضوانشهر",
+    "status": "empty",
+    "slug": "rezvanshahr",
+    "site_title": "رضوانشهر"
+   },
+   {
+    "name": "رودبار",
+    "status": "empty",
+    "slug": "rudbar",
+    "site_title": "رودبار"
+   },
+   {
+    "name": "رودسر",
+    "status": "empty",
+    "slug": "rudsar",
+    "site_title": "رودسر"
+   },
+   {
+    "name": "سیاهکل",
+    "status": "empty",
+    "slug": "siahkal",
+    "site_title": "سیاهکل"
+   },
+   {
+    "name": "شفت",
+    "status": "empty",
+    "slug": "shaft",
+    "site_title": "شفت"
+   },
+   {
+    "name": "صومعه‌سرا",
+    "status": "empty",
+    "slug": "someh-sara",
+    "site_title": "صومعه‌سرا"
+   },
+   {
+    "name": "فومن",
+    "status": "empty",
+    "slug": "fuman",
+    "site_title": "فومن"
+   },
+   {
+    "name": "لاهیجان",
+    "status": "empty",
+    "slug": "lahijan",
+    "site_title": "لاهیجان"
+   },
+   {
+    "name": "لنگرود",
+    "status": "empty",
+    "slug": "langarud",
+    "site_title": "لنگرود"
+   },
+   {
+    "name": "ماسال",
+    "status": "empty",
+    "slug": "masal",
+    "site_title": "ماسال"
+   }
+  ]
+ },
+ "yazd": {
+  "province": "یزد",
+  "total": 12,
+  "counties": [
+   {
+    "name": "ابرکوه",
+    "status": "empty",
+    "slug": "abarkuh-city",
+    "site_title": "ابرکوه"
+   },
+   {
+    "name": "اردکان",
+    "status": "empty",
+    "slug": "ardakan-city",
+    "site_title": "اردکان"
+   },
+   {
+    "name": "اشکذر",
+    "status": "empty",
+    "slug": "ashkezar-city",
+    "site_title": "اشکذر"
+   },
+   {
+    "name": "بافق",
+    "status": "empty",
+    "slug": "bafq-city",
+    "site_title": "بافق"
+   },
+   {
+    "name": "بهاباد",
+    "status": "empty",
+    "slug": "behabad-city",
+    "site_title": "بهاباد"
+   },
+   {
+    "name": "تفت",
+    "status": "empty",
+    "slug": "taft-city",
+    "site_title": "تفت"
+   },
+   {
+    "name": "خاتم",
+    "status": "empty",
+    "slug": "khatam-city",
+    "site_title": "خاتم"
+   },
+   {
+    "name": "زارچ",
+    "status": "empty",
+    "slug": "zarch-city",
+    "site_title": "زارچ"
+   },
+   {
+    "name": "مروست",
+    "status": "empty",
+    "slug": "marvast-city",
+    "site_title": "مروست"
+   },
+   {
+    "name": "مهریز",
+    "status": "empty",
+    "slug": "mehriz-city",
+    "site_title": "مهریز"
+   },
+   {
+    "name": "میبد",
+    "status": "empty",
+    "slug": "meybod-city",
+    "site_title": "میبد"
+   },
+   {
+    "name": "یزد",
+    "status": "empty",
+    "slug": "yazd-city",
+    "site_title": "یزد"
+   }
+  ]
+ }
+}
