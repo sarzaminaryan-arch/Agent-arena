@@ -2453,3 +2453,158 @@ main.site-main.container,
 		padding: 0.75rem 1rem;
 	}
 }
+
+/* ==========================================================================
+   Module 4 (v2.7.0) — minimal two-column footer + breathing room above it
+   ========================================================================== */
+
+/* ---- ۱. فاصله‌ی تنفس میان بدنه‌ی صفحه و فوتر ----
+   آخرین بخش صفحه‌ی اصلی (بلوک آبی «پست‌های معروف») تا پیش از این دقیقاً به لبه‌ی
+   کادر سفید و از آنجا به خط فوتر می‌چسبید. حالا هم فاصله‌ی بیرونی بیشتر شده و هم
+   بلوک آبی گوشه‌ی پایین گرد گرفته تا داخل کادر «بنشیند». */
+.sa-home,
+.sa-main--entity,
+main.site-main.container,
+.container.site-content {
+	margin-block-end: 28px;
+}
+
+.sa-home {
+	padding-bottom: 14px;
+}
+
+.sa-home > section:last-child {
+	margin-bottom: 0;
+}
+
+.sa-home .sa-pop {
+	margin-top: 56px;
+	padding: 48px 0 44px;
+	border-radius: 24px;
+}
+
+.sa-hf-foot {
+	margin-block: 28px 10px;
+}
+
+/* ---- ۲. فوتر مینیمال دو ستونه ---- */
+.sa-hf-foot--mini .sa-hf-foot__grid {
+	grid-template-columns: 1.25fr 1fr;
+	gap: 22px;
+	padding: 20px 0 14px;
+	align-items: start;
+}
+
+.sa-hf-foot--mini .widget-title {
+	font-size: 13.5px;
+	font-weight: 700;
+	letter-spacing: .2px;
+	margin: 0 0 10px;
+}
+
+/* لوگوی کوچک + معرفی کوتاه */
+.sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-logo {
+	width: 40px;
+	height: 40px;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-logo img {
+	width: 32px;
+	height: 32px;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-text .site-title {
+	font-size: 15px;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__brand .sa-hf-text .sa-hf-slogan {
+	font-size: 11.5px;
+	max-width: 280px;
+}
+
+.sa-hf-foot--mini .sa-footer__about {
+	font-size: 12.5px;
+	line-height: 1.9;
+	margin-block: 8px 10px;
+	max-width: 460px;
+}
+
+.sa-hf-foot--mini .sa-social__link {
+	padding: 3px 10px;
+	font-size: 11.5px;
+}
+
+/* لینک‌های کاربردی: کوچک، تمیز و دوخطی‌شونده */
+.sa-hf-foot--mini .sa-hf-foot__links,
+.sa-hf-foot--mini .footer-navigation ul {
+	gap: 6px 14px;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__links--inline {
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__links a,
+.sa-hf-foot--mini .footer-navigation a {
+	font-size: 12.5px;
+	line-height: 1.7;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__links--inline li + li {
+	position: relative;
+	padding-inline-start: 14px;
+}
+
+.sa-hf-foot--mini .sa-hf-foot__links--inline li + li::before {
+	content: '·';
+	position: absolute;
+	inset-inline-start: 3px;
+	color: rgba(159, 176, 201, .55);
+}
+
+.sa-hf-foot--mini .sa-footer__contact {
+	margin: 10px 0 0;
+	font-size: 12.5px;
+	color: #9fb0c9;
+}
+
+.sa-hf-foot--mini .sa-footer__contact a {
+	font-size: 12.5px;
+}
+
+/* نوار پایانی مینیمال */
+.sa-hf-foot--mini .sa-hf-foot__bottom {
+	padding: 9px 0;
+}
+
+.sa-hf-foot--mini .sa-footer__copyright,
+.sa-hf-foot--mini .sa-footer__credit {
+	font-size: 11.5px;
+}
+
+@media (max-width: 640px) {
+	.sa-hf-foot--mini .sa-hf-foot__grid {
+		grid-template-columns: 1fr;
+		gap: 16px;
+		padding: 16px 0 12px;
+	}
+
+	.sa-hf-foot--mini .sa-hf-text .sa-hf-slogan {
+		display: block;
+	}
+
+	.sa-hf-foot {
+		margin-block: 18px 8px;
+	}
+
+	.sa-home {
+		padding-bottom: 10px;
+	}
+
+	.sa-home .sa-pop {
+		margin-top: 36px;
+		padding: 32px 0 30px;
+		border-radius: 16px;
+	}
+}

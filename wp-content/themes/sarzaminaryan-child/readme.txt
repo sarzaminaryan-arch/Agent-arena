@@ -3,7 +3,7 @@ Contributors: mrlak
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.6.0
+Stable tag: 2.7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: rtl-language-support, custom-menu, custom-logo, featured-images, translation-ready, accessibility-ready
@@ -37,6 +37,12 @@ Tags: rtl-language-support, custom-menu, custom-logo, featured-images, translati
 3. توکن داخل قالب یا بسته‌های انتشار قرار نمی‌گیرد. هر نصب وردپرس باید توکن دسترسی خودش را تنظیم کند.
 
 == Changelog ==
+
+= 2.7.0 — 2026-10-01 =
+* فوتر دو ستونه و مینیمال: ستون اول لوگوی کوچک و معرفی کوتاه، ستون دوم لینک‌های کاربردی و ارتباط با ما.
+* حذف ستون تکراری «برگه‌های سایت»؛ لینک‌های برگه‌ها زیر بخش «ارتباط با ما» ادغام شدند.
+* فونت‌ها و فاصله‌های داخلی فوتر کوچک‌تر شد و نوار کپی‌رایت فشرده‌تر گردید.
+* فاصله‌ی مناسب میان بدنه‌ی صفحه و فوتر؛ بخش آبی انتهای صفحه‌ی اصلی دیگر به خط فوتر نمی‌چسبد.
 
 = 2.6.0 — 2026-10-01 =
 * بازآرایی ساختار مقالات: باکس «اطلاعات کلیدی» به بالای محتوا منتقل شد.
