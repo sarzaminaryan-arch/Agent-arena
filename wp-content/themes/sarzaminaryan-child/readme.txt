@@ -3,7 +3,7 @@ Contributors: mrlak
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.5.0
+Stable tag: 2.6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: rtl-language-support, custom-menu, custom-logo, featured-images, translation-ready, accessibility-ready
@@ -37,6 +37,15 @@ Tags: rtl-language-support, custom-menu, custom-logo, featured-images, translati
 3. توکن داخل قالب یا بسته‌های انتشار قرار نمی‌گیرد. هر نصب وردپرس باید توکن دسترسی خودش را تنظیم کند.
 
 == Changelog ==
+
+= 2.6.0 — 2026-10-01 =
+* بازآرایی ساختار مقالات: باکس «اطلاعات کلیدی» به بالای محتوا منتقل شد.
+* حذف بخش وبلاگ: تمام قالب‌ها و ارجاعات مرتبط با وبلاگ از ساختار قالب حذف شد.
+* حذف نمایش خودکار نقشه شهرستان‌ها از صفحات استان.
+* بخش منابع: فقط نام انگلیسی دامنه به صورت لینک ظریف نمایش داده می‌شود.
+* بخش «مقالات مرتبط»: ۲ مقاله پیشنهادی از استان‌های دیگر در زیر هر مقاله.
+* ناوبری مقالات: لینک‌های «مقاله قبلی» و «مقاله بعدی» در انتهای صفحه.
+* چیدمان تک‌ستونه برای صفحات موجودیت (حذف نوار کناری).
 
 = 2.5.0 — 2026-10-01 =
 * چیدمان Boxed برای هدر، خانه، محتوا، موجودیت‌ها و فوتر با فاصله‌های داخلی مینیمال.
