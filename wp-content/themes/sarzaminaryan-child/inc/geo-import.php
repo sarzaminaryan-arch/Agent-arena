@@ -93,6 +93,87 @@ function sa_county_import_apply( $payload, $force = false, $dry_run = false ) {
 	return $report;
 }
 
+
+/* -------------------------------------------------------------------------
+ * One-click import straight from GitHub (no copy/paste at all).
+ * ---------------------------------------------------------------------- */
+
+/**
+ * Read-only GitHub token (same source the theme updater uses).
+ *
+ * @return string
+ */
+function sa_county_github_token() {
+	if ( defined( 'SA_GITHUB_TOKEN' ) && is_string( SA_GITHUB_TOKEN ) && '' !== trim( SA_GITHUB_TOKEN ) ) {
+		return trim( SA_GITHUB_TOKEN );
+	}
+
+	return trim( (string) get_option( 'sa_github_updater_token', '' ) );
+}
+
+/**
+ * Branch that carries the generated data files.
+ *
+ * @return string
+ */
+function sa_county_data_ref() {
+	$ref = defined( 'SA_GEO_DATA_REF' ) && SA_GEO_DATA_REF ? SA_GEO_DATA_REF : 'arena/01a0f95f-agent-arena';
+
+	return (string) apply_filters( 'sa_county_data_ref', $ref );
+}
+
+/**
+ * Download one province payload from the repository.
+ *
+ * @param string $province Province slug.
+ * @return array|WP_Error
+ */
+function sa_county_github_payload( $province ) {
+	$token = sa_county_github_token();
+	if ( '' === $token ) {
+		return new WP_Error( 'sa_no_token', 'توکن گیت‌هاب تنظیم نشده است. نمایش ← به‌روزرسان گیت‌هاب.' );
+	}
+	$owner = defined( 'SA_GITHUB_OWNER' ) && SA_GITHUB_OWNER ? SA_GITHUB_OWNER : 'sarzaminaryan-arch';
+	$repo  = defined( 'SA_GITHUB_REPO' ) && SA_GITHUB_REPO ? SA_GITHUB_REPO : 'Agent-arena';
+	$url   = sprintf(
+		'https://api.github.com/repos/%s/%s/contents/content/data/export/%s.meta.json?ref=%s',
+		rawurlencode( $owner ),
+		rawurlencode( $repo ),
+		rawurlencode( $province ),
+		rawurlencode( sa_county_data_ref() )
+	);
+
+	$response = wp_remote_get(
+		$url,
+		array(
+			'timeout' => 30,
+			'headers' => array(
+				'Accept'               => 'application/vnd.github.raw',
+				'Authorization'        => 'Bearer ' . $token,
+				'X-GitHub-Api-Version' => '2022-11-28',
+				'User-Agent'           => 'sarzaminaryan-child/' . SA_CHILD_VERSION,
+			),
+		)
+	);
+	if ( is_wp_error( $response ) ) {
+		return $response;
+	}
+	$code = (int) wp_remote_retrieve_response_code( $response );
+	if ( 200 !== $code ) {
+		$hint = 401 === $code || 403 === $code
+			? 'توکن اجازهٔ خواندن این مخزن را ندارد.'
+			: ( 404 === $code ? 'فایل این استان در شاخهٔ داده پیدا نشد.' : '' );
+
+		return new WP_Error( 'sa_http', sprintf( 'گیت‌هاب پاسخ %d داد. %s', $code, $hint ) );
+	}
+	$payload = json_decode( (string) wp_remote_retrieve_body( $response ), true );
+	if ( ! is_array( $payload ) ) {
+		return new WP_Error( 'sa_json', 'محتوای دریافتی JSON معتبر نبود.' );
+	}
+
+	return $payload;
+}
+
 /**
  * Admin screen section (called from the coverage page).
  */
@@ -114,8 +195,45 @@ function sa_county_import_screen() {
 			$report = sa_county_import_apply( $payload, $force, $dry );
 		}
 	}
+	$gh_report = null;
+	$gh_dry    = false;
+	$gh_prov   = '';
+	if ( isset( $_POST['sa_county_gh_province'] ) && check_admin_referer( 'sa_county_github' ) ) {
+		$gh_prov = sanitize_key( wp_unslash( $_POST['sa_county_gh_province'] ) );
+		$gh_dry  = ! empty( $_POST['sa_county_gh_dry'] );
+		$payload = sa_county_github_payload( $gh_prov );
+		if ( is_wp_error( $payload ) ) {
+			echo '<div class="notice notice-error"><p>' . esc_html( $payload->get_error_message() ) . '</p></div>';
+		} else {
+			$gh_report = sa_county_import_apply( $payload, ! empty( $_POST['sa_county_gh_force'] ), $gh_dry );
+		}
+	}
+	$provinces = array();
+	foreach ( sa_counties_by_province() as $slug => $rows ) {
+		$provinces[ $slug ] = sa_province_name( $slug ) . ' (' . sa_fa_digits( count( $rows ) ) . ')';
+	}
+	asort( $provinces );
 	?>
-	<h2 id="import">ورود انبوه داده</h2>
+	<h2 id="github">دریافت خودکار داده از گیت‌هاب (ساده‌ترین راه)</h2>
+	<p class="description">استان را انتخاب کنید؛ داده‌ها مستقیم از مخزن خوانده و روی نوشته‌های همان استان نوشته می‌شوند. نیازی به کپی و چسباندن نیست. (از همان توکنی استفاده می‌شود که برای به‌روزرسانی قالب تنظیم کرده‌اید.)</p>
+	<form method="post">
+		<?php wp_nonce_field( 'sa_county_github' ); ?>
+		<select name="sa_county_gh_province" style="min-width:260px">
+			<?php foreach ( $provinces as $sa_slug => $sa_label ) : ?>
+				<option value="<?php echo esc_attr( $sa_slug ); ?>" <?php selected( $gh_prov, $sa_slug ); ?>><?php echo esc_html( $sa_label ); ?></option>
+			<?php endforeach; ?>
+		</select>
+		<label style="margin-inline-start:12px"><input type="checkbox" name="sa_county_gh_dry" value="1" checked> فقط پیش‌نمایش</label>
+		<label style="margin-inline-start:12px"><input type="checkbox" name="sa_county_gh_force" value="1"> بازنویسی خانه‌های پرشده</label>
+		<button class="button button-primary" style="margin-inline-start:12px">دریافت و اعمال</button>
+	</form>
+	<?php
+	if ( $gh_report ) {
+		sa_county_import_report( $gh_report, $gh_dry );
+	}
+	?>
+	<hr>
+	<h2 id="import">ورود دستی (چسباندن JSON)</h2>
 	<p class="description">
 		خروجی <code>content/data/export/&lt;province&gt;.meta.json</code> را این‌جا بچسبانید.
 		به‌صورت پیش‌فرض فقط خانه‌های <strong>خالی</strong> پر می‌شوند؛ هر چیزی که دست انسان نوشته دست‌نخورده می‌ماند.
@@ -132,6 +250,18 @@ function sa_county_import_screen() {
 	</form>
 	<?php
 	if ( $report ) {
+		sa_county_import_report( $report, $dry );
+	}
+}
+
+/**
+ * Print an import report table.
+ *
+ * @param array $report Report from sa_county_import_apply().
+ * @param bool  $dry    Whether it was a preview.
+ */
+function sa_county_import_report( $report, $dry ) {
+	{
 		echo '<div class="notice notice-' . ( $dry ? 'info' : 'success' ) . '"><p>';
 		printf(
 			esc_html( '%1$s خانه %2$s · %3$s خانه رد شد (پر بود) · %4$s شهرستان بدون نوشته · %5$s نامک ناشناخته' ),
