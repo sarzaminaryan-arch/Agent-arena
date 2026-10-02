@@ -1,9 +1,9 @@
 # Changelog — sarzaminaryan-child
 
-## 2.6.1 — CONNECTION TEST — 1405-07-10 (2026-10-02)
+## 2.9.0 — CONNECTION TEST — 1405-07-10 (2026-10-02)
 
 - نسخهٔ آزمایشی برای بررسی دریافت Release قالب از GitHub در وردپرس.
-- علامت اتصال: `SA-GITHUB-WP-CONNECTION-TEST-261`
+- علامت اتصال: `SA-GITHUB-WP-CONNECTION-TEST-290`
 
 ## 2.6.0 — 1405-07-09 (2026-10-01)
 
