@@ -296,7 +296,11 @@ def target_location_support(target, county_name, seats=None):
             return 'target infobox names this county'
         if key in ('شهر', 'نام شهر', 'city') and seats and wanted in seats.get(value, set()):
             return 'target city is a confirmed seat of this county'
-    plain = normal(strip_markup(lead))[:4000]
+    # Only the opening definition/placement paragraph is evidence. A later
+    # climate comparison ('temperature in county X') is not the POI's location.
+    clean = strip_markup(strip_media_links(lead)).strip()
+    paragraphs = [part.strip() for part in re.split(r'\n\s*\n', clean) if len(part.strip()) >= 25]
+    plain = normal(paragraphs[0] if paragraphs else clean)[:1200]
     if location_mentions(plain, 'در شهرستان', (county_name,)):
         return 'target lead explicitly locates it in this county'
     if seats:

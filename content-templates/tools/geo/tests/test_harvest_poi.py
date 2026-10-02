@@ -205,6 +205,11 @@ class TargetValidationTests(unittest.TestCase):
         target = page('این مکان ۱۰ کیلومتری شهرستان نمونه است.', 'قلعه نمونه')
         self.assertIsNone(poi.target_location_support(target, 'نمونه'))
 
+    def test_later_temperature_comparison_is_not_location_evidence(self):
+        target = page('این پیست در روستای نمونه و نزدیکی شهر دیگری است.\n\n'
+                      'دمای این محل از دما در شهرستان اردبیل کمتر است.', 'پیست نمونه')
+        self.assertIsNone(poi.target_location_support(target, 'اردبیل'))
+
     def test_missing_target_is_not_exported(self):
         accepted, rejected = poi.validate_targets([self.candidate('قلعه ناموجود')], {}, 'نمونه')
         self.assertEqual(accepted, [])
