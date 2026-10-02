@@ -29,4 +29,4 @@
 - Deliverables → commit → push → GitHub link. No other channel.
 
 ## Git
-- Branch `main`; commits: conventional (`feat(child): …`); releases tagged `themes-vX.Y.Z`
+- Branch: the session-assigned `arena/**` branch only; never switch branches. Commits: conventional (`feat(child): …`); releases tagged `themes-vX.Y.Z`

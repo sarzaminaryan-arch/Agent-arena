@@ -1,0 +1,197 @@
+"""Offline regressions for pass 4. Fixtures are synthetic, not published facts."""
+import copy
+import io
+import json
+import pathlib
+import sys
+import tempfile
+import unittest
+from unittest import mock
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import harvest_poi as poi
+
+
+def page(text, title='شهرستان نمونه'):
+    return {'title': title, 'text': text, 'pageid': 123, 'revid': 456,
+            'url': poi.page_url(title)}
+
+
+class PageMappingTests(unittest.TestCase):
+    def test_normalization_and_redirect_chain(self):
+        data = {'query': {
+            'normalized': [{'from': 'شهرستان_نمونه', 'to': 'شهرستان نمونه'}],
+            'redirects': [{'from': 'شهرستان نمونه', 'to': 'شهرستان جدید'}],
+            'pages': [{'title': 'شهرستان جدید', 'ns': 0, 'pageid': 10,
+                       'revisions': [{'revid': 11, 'slots': {'main': {'content': 'متن'}}}]}]}}
+        result = poi.decode_pages(data, ['شهرستان_نمونه'])
+        self.assertEqual(result['شهرستان_نمونه']['revid'], 11)
+        self.assertEqual(result['شهرستان_نمونه']['title'], 'شهرستان جدید')
+
+    def test_missing_pages_are_not_empty_successful_articles(self):
+        self.assertEqual(poi.decode_pages({'query': {'pages': [
+            {'title': 'ناموجود', 'missing': True}]}}, ['ناموجود']), {})
+
+    def test_api_errors_fail_closed(self):
+        for data in ({}, {'error': {'code': 'maxlag'}}):
+            with self.assertRaises(ValueError):
+                poi.decode_pages(data, ['نمونه'])
+
+    def test_network_error_retries_and_does_not_succeed(self):
+        with mock.patch.object(poi.urllib.request, 'urlopen', side_effect=OSError('offline')), \
+             mock.patch.object(poi.time, 'sleep'):
+            with self.assertRaises(RuntimeError):
+                poi.fetch_pages(['نمونه'], sleep=0)
+
+
+class ExtractionTests(unittest.TestCase):
+    def test_nested_sections_do_not_leak_into_history(self):
+        wt = '''== جاذبه‌های گردشگری ==
+[[غار نمونه]]
+=== آثار تاریخی ===
+[[قلعه نمونه]]
+=== پارک‌ها ===
+[[بوستان نمونه]]
+== تاریخ ==
+[[قلعه نامرتبط]]
+'''
+        items = poi.extract_candidates(page(wt), 'county section')
+        names = {i['name'] for i in items}
+        self.assertEqual(names, {'غار نمونه', 'قلعه نمونه', 'بوستان نمونه'})
+        self.assertEqual({i['field'] for i in items},
+                         {'poi_nature', 'poi_heritage', 'poi_recreation'})
+
+    def test_unknown_and_generic_links_are_not_offbeat(self):
+        wt = '== جاذبه‌ها ==\n[[نام نامشخص]] [[ایران]] [[موزه]] [[رده:غارهای ایران]]'
+        self.assertEqual(poi.extract_candidates(page(wt), 'county section'), [])
+
+    def test_offbeat_requires_explicit_source_section(self):
+        wt = '== روستاهای گردشگری و نقاط بکر ==\n[[روستای نمونه]]'
+        items = poi.extract_candidates(page(wt), 'county section')
+        self.assertEqual(items[0]['field'], 'poi_offbeat')
+
+    def test_national_park_is_nature_not_amusement(self):
+        self.assertEqual(poi.classify('پارک ملی نمونه', 'جاذبه‌ها'), 'poi_nature')
+
+    def test_references_comments_and_media_captions_are_ignored(self):
+        wt = '''== جاذبه‌ها ==
+<ref>[[قلعه ارجاع]]</ref><!-- [[قلعه نظر]] -->
+[[پرونده:تصویر.jpg|بندانگشتی|[[قلعه تصویر]] و [[پارک تصویر]]]]
+[[غار واقعی|این غار]]
+'''
+        items = poi.extract_candidates(page(wt), 'county section')
+        self.assertEqual([i['name'] for i in items], ['غار واقعی'])
+
+    def test_administrative_links_are_not_attractions(self):
+        wt = '== آثار تاریخی ==\n[[شهرستان دیگر]] [[استان نمونه]] [[بخش نمونه]] [[قلعه نمونه]]'
+        self.assertEqual([i['name'] for i in poi.extract_candidates(page(wt), 'county')],
+                         ['قلعه نمونه'])
+
+    def test_historical_context_does_not_make_people_or_countries_places(self):
+        wt = '== آثار تاریخی و جاذبه‌ها ==\n[[حافظ]] [[آلمان]] [[معماری]] [[قلعه نمونه]]'
+        self.assertEqual([i['name'] for i in poi.extract_candidates(page(wt), 'county')],
+                         ['قلعه نمونه'])
+
+    def test_disambiguation_and_zwnj_keep_display_names_intact(self):
+        wt = '== جاذبه‌ها ==\n[[آبشار نمونه‌ها (شهرستان نمونه)|آبشار]]'
+        wt = wt.replace('\x0c', '\u200c')
+        items = poi.extract_candidates(page(wt), 'county')
+        self.assertEqual(items[0]['name'], 'آبشار نمونه\u200cها')
+
+    def test_each_name_keeps_source_revision_and_section(self):
+        item = poi.extract_candidates(page('== جاذبه‌ها ==\n[[غار نمونه]]'), 'county')[0]
+        self.assertEqual(item['revision_id'], 456)
+        self.assertEqual(item['pageid'], 123)
+        self.assertTrue(item['source_url'].startswith('https://fa.wikipedia.org/wiki/'))
+        self.assertIn('جاذبه', item['section'])
+
+
+class LocalityTests(unittest.TestCase):
+    def test_explicit_county_match_and_persian_characters(self):
+        p = page('{{جعبه اطلاعات شهر\n| شهرستان = [[شهرستان سی‌سخت|سی‌سخت]]\n}}')
+        self.assertTrue(poi.city_belongs_to_county(p, 'سیسخت'))
+
+    def test_different_infobox_county_overrules_incidental_mentions(self):
+        p = page('{{شهر\n| شهرستان = شهرستان دیگر\n}}\nدر نزدیکی [[شهرستان نمونه]]')
+        self.assertFalse(poi.city_belongs_to_county(p, 'نمونه'))
+
+    def test_incidental_history_mention_does_not_confirm_location(self):
+        p = page('این یک شهر است.\n== تاریخ ==\n[[شهرستان نمونه]]')
+        self.assertFalse(poi.city_belongs_to_county(p, 'نمونه'))
+
+    def test_direct_lead_county_link_is_allowed(self):
+        self.assertTrue(poi.city_belongs_to_county(page('در [[شهرستان نمونه]] است.'), 'نمونه'))
+
+
+class PreservationTests(unittest.TestCase):
+    def candidates(self):
+        return poi.extract_candidates(page('== جاذبه‌ها ==\n[[غار نمونه]] [[بوستان نمونه]]'), 'county')
+
+    def test_manual_verified_and_existing_auto_are_untouched(self):
+        for old in ({'status': 'manual', 'value': ''},
+                    {'status': 'verified', 'value': None},
+                    {'status': 'auto', 'value': 'نام قبلی', 'source': 'derived'}):
+            doc = {'fields': {'poi_nature': copy.deepcopy(old)}}
+            poi.fill_empty_fields(doc, self.candidates(), '2026-10-02')
+            self.assertEqual(doc['fields']['poi_nature'], old)
+
+    def test_only_poi_fields_can_change(self):
+        untouched = {'population': {'value': 51000, 'source': 'manual'},
+                     'area': {'value': 1200}, 'neighbors': {'value': ['dena']}}
+        doc = {'slug': 'sample', 'fields': copy.deepcopy(untouched)}
+        added = poi.fill_empty_fields(doc, self.candidates(), '2026-10-02')
+        self.assertEqual(set(added), {'poi_nature', 'poi_recreation'})
+        self.assertEqual({k: v for k, v in doc['fields'].items() if not k.startswith('poi_')}, untouched)
+        self.assertEqual(doc['fields']['poi_nature']['status'], 'draft')
+        self.assertEqual(doc['fields']['poi_nature']['entries'][0]['revision_id'], 456)
+
+    def test_repeat_is_idempotent(self):
+        doc = {'fields': {}}
+        poi.fill_empty_fields(doc, self.candidates(), '2026-10-02')
+        previous = copy.deepcopy(doc)
+        self.assertEqual(poi.fill_empty_fields(doc, self.candidates(), '2026-10-03'), {})
+        self.assertEqual(doc, previous)
+
+    def test_all_reads_finish_before_any_writes_on_network_failure(self):
+        with tempfile.TemporaryDirectory() as root:
+            facts = pathlib.Path(root, 'facts')
+            facts.mkdir()
+            original = {'slug': 'sample', 'fields': {'center': {
+                'value': 'شهر نمونه', 'url': 'https://www.wikidata.org/wiki/Q1', 'source': 'wikidata'}}}
+            f = facts / 'sample.json'
+            f.write_text(json.dumps(original, ensure_ascii=False), encoding='utf-8')
+            rows = [{'slug': 'sample', 'name': 'نمونه', 'province': 'test'}]
+            with mock.patch.object(poi.registry, 'FACTS_DIR', str(facts)), \
+                 mock.patch.object(poi.registry, 'HARVEST_DIR', str(pathlib.Path(root, 'harvest'))), \
+                 mock.patch.object(poi.registry, 'ROOT', root), \
+                 mock.patch.object(poi, 'fetch_pages', side_effect=[
+                     {'شهرستان نمونه': page('== جاذبه‌ها ==\n[[غار نمونه]]')}, RuntimeError('offline')]):
+                with self.assertRaises(RuntimeError):
+                    poi.harvest(rows, sleep=0)
+            self.assertEqual(json.loads(f.read_text(encoding='utf-8')), original)
+            self.assertFalse(pathlib.Path(root, 'harvest').exists())
+
+    def test_success_writes_reports_and_provenance(self):
+        with tempfile.TemporaryDirectory() as root:
+            facts = pathlib.Path(root, 'facts')
+            facts.mkdir()
+            pathlib.Path(root, 'content', 'data').mkdir(parents=True)
+            f = facts / 'sample.json'
+            f.write_text('{"slug":"sample","fields":{"area":{"value":1200}}}', encoding='utf-8')
+            rows = [{'slug': 'sample', 'name': 'نمونه', 'province': 'test'}]
+            with mock.patch.object(poi.registry, 'FACTS_DIR', str(facts)), \
+                 mock.patch.object(poi.registry, 'HARVEST_DIR', str(pathlib.Path(root, 'harvest'))), \
+                 mock.patch.object(poi.registry, 'ROOT', root), \
+                 mock.patch.object(poi, 'fetch_pages', side_effect=[
+                     {'شهرستان نمونه': page('== جاذبه‌ها ==\n[[غار نمونه]]')}, {}]):
+                result = poi.harvest(rows, sleep=0)
+            self.assertIn('sample', result)
+            updated = json.loads(f.read_text(encoding='utf-8'))
+            self.assertEqual(updated['fields']['area'], {'value': 1200})
+            self.assertEqual(updated['fields']['poi_nature']['value'], 'غار نمونه')
+            self.assertTrue(pathlib.Path(root, 'content', 'data', 'COUNTY-POI-PASS4.md').exists())
+            self.assertTrue(pathlib.Path(root, 'harvest', 'poi', 'test.json').exists())
+
+
+if __name__ == '__main__':
+    unittest.main()

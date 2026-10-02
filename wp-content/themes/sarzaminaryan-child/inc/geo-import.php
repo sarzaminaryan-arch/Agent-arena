@@ -200,7 +200,7 @@ function sa_county_github_token() {
  * @return string
  */
 function sa_county_data_ref() {
-	$ref = defined( 'SA_GEO_DATA_REF' ) && SA_GEO_DATA_REF ? SA_GEO_DATA_REF : 'arena/01a0f95f-agent-arena';
+	$ref = defined( 'SA_GEO_DATA_REF' ) && SA_GEO_DATA_REF ? SA_GEO_DATA_REF : 'arena/01a0fcfc-agent-arena';
 
 	return (string) apply_filters( 'sa_county_data_ref', $ref );
 }
@@ -298,6 +298,7 @@ function sa_county_import_screen() {
 	asort( $provinces );
 	?>
 	<h2 id="github">دریافت خودکار داده از گیت‌هاب (ساده‌ترین راه)</h2>
+	<p class="description">شاخهٔ فعال داده: <code><?php echo esc_html( sa_county_data_ref() ); ?></code> — ابتدا پیش‌نمایش را بررسی کنید؛ برای حفظ ویرایش‌های قبلی، «بازنویسی خانه‌های پرشده» را خاموش نگه دارید.</p>
 	<p class="description">استان را انتخاب کنید؛ داده‌ها مستقیم از مخزن خوانده و روی نوشته‌های همان استان نوشته می‌شوند. نیازی به کپی و چسباندن نیست. (از همان توکنی استفاده می‌شود که برای به‌روزرسانی قالب تنظیم کرده‌اید.)</p>
 	<form method="post">
 		<?php wp_nonce_field( 'sa_county_github' ); ?>

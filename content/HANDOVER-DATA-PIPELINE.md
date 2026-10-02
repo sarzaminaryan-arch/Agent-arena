@@ -12,10 +12,9 @@
 ## ۲. مخزن و شاخه
 
 - مخزن: `https://github.com/sarzaminaryan-arch/Agent-arena`
-- شاخهٔ کاری (همه چیز روی همین است): `arena/01a0f95f-agent-arena`
-- انتشار قالب: `https://github.com/sarzaminaryan-arch/Agent-arena/releases` — آخرین نسخه **v2.8.8**
-- مخزن قدیمی `sarzaminaryan-arch/S.A.1` **منسوخ** است (روی 2.5.0 مانده). هنوز `Update URI:`
-  در `style.css` به آن اشاره می‌کند — کار ناتمام.
+- شاخهٔ کاری (همه چیز روی همین است): `arena/01a0fcfc-agent-arena`
+- انتشار قالب: `https://github.com/sarzaminaryan-arch/Agent-arena/releases` — نسخهٔ این ادامه **v2.8.9** (نتیجهٔ انتشار را در Releases بررسی کنید)
+- مخزن قدیمی `sarzaminaryan-arch/S.A.1` **منسوخ** است (روی 2.5.0 مانده). `Update URI` از نسخهٔ ۲.۸.۳ به `Agent-arena` اصلاح شده است.
 
 ## ۳. اتصال وردپرس (مهم‌ترین بخش)
 
@@ -24,7 +23,7 @@
    `define('SA_GITHUB_TOKEN', 'github_pat_…');`
    یا در پیشخان: نمایش ← به‌روزرسان گیت‌هاب (گزینهٔ `sa_github_updater_token`).
    همین توکن هم برای به‌روزرسانی قالب و هم برای دریافت داده استفاده می‌شود.
-2. **قالب فرزند** `sarzaminaryan-child` باید ≥ **2.8.8** باشد (پیشخان ← به‌روزرسانی‌ها).
+2. **قالب فرزند** `sarzaminaryan-child` باید ≥ **2.8.9** باشد (پیشخان ← به‌روزرسانی‌ها).
 3. **ورود داده**: پیشخان ← **سرزمین آریان ← پوشش ۴۸۳ شهرستان** ← کادر بالای صفحه
    «دریافت خودکار داده از گیت‌هاب» ← استان را انتخاب کنید ← تیک «فقط پیش‌نمایش» را
    **بردارید** ← «دریافت و اعمال». قالب فایل
@@ -34,7 +33,7 @@
    - اگر ستون «نساخته» عدد دارد، اول «ساخت پیش‌نویس‌های جاافتاده» را بزنید.
 4. **راه دوم (SSH/WP-CLI)**: `wp sa-county import content/data/export/fars.meta.json [--force] [--dry-run]`
 5. **راه سوم (بدون توکن)**: محتوای همان فایل JSON را در کادر «ورود دستی» بچسبانید.
-6. شاخهٔ دادهٔ پیش‌فرض در قالب `arena/01a0f95f-agent-arena` است؛ با
+6. شاخهٔ دادهٔ پیش‌فرض در قالب `arena/01a0fcfc-agent-arena` است؛ با
    `define('SA_GEO_DATA_REF', '…')` یا فیلتر `sa_county_data_ref` قابل تغییر است.
 
 ## ۴. وضعیت امروز
@@ -93,7 +92,8 @@
    برداشت فقط `content/data/harvest-request.json` را عوض و پوش کنید؛ برای دیدن نتیجه
    `gh run view <id> --json status,conclusion` و فایل‌های کامیت‌شده.
 9. **ورک‌فلو خودش روی شاخه کامیت می‌کند** → قبل از هر پوش:
-   `git fetch origin arena/01a0f95f-agent-arena && git reset FETCH_HEAD && git add -A && git commit`.
+   `git fetch origin arena/01a0fcfc-agent-arena`؛ درخت تمیز را با `git merge --ff-only FETCH_HEAD` به‌روز کنید.
+   اگر تغییر محلی دارید، ابتدا آن را بررسی/کامیت کنید؛ هرگز reset مخرب یا force-push نکنید.
    هرگز force-push نکنید.
 10. هر پوش به `content-templates/tools/geo/**` ورک‌فلوی برداشت را دوباره اجرا می‌کند (~۸ دقیقه).
 11. **نیم‌فاصله** در ترمینال دیده نمی‌شود (`سی‌سخت` → `سیسخت`) — خرابی نیست، «درستش» نکنید.
@@ -117,7 +117,7 @@
 ```bash
 # برداشت تازه (روی گیت‌هاب اجرا می‌شود)
 printf '{"province":"all","sources":"both","stubs":false}\n' > content/data/harvest-request.json
-git add -A && git commit -m "data: harvest" && git push origin arena/01a0f95f-agent-arena
+git add -A && git commit -m "data: harvest" && git push origin arena/01a0fcfc-agent-arena
 
 # اجرای محلی بدون اینترنت (برداشت خام از قبل در مخزن است)
 python3 content-templates/tools/geo/merge_facts.py --all
@@ -127,3 +127,14 @@ python3 content-templates/tools/geo/validate_facts.py
 python3 content-templates/tools/geo/coverage_facts.py
 python3 content-templates/tools/geo/export_meta.py --all
 ```
+
+## ۹. ادامهٔ ۱۴۰۵/۰۷/۱۰ — مرحلهٔ جاذبه‌ها
+
+- کارهای شاخهٔ قبلی با merge به شاخهٔ همین نشست منتقل شدند؛ صادرات XML جدید کاربر حفظ شد.
+- `harvest_poi.py` + آزمون‌های آفلاین: فقط چهار فیلد خالی جاذبه، با URL/نسخه/بخش منبع.
+- `sources: "poi"` آمار و اقلیم/زبان/معیشت را دوباره برداشت یا برآورد نمی‌کند.
+- خطای ERROR اعتبارسنجی مانع خروجی و کامیت داده می‌شود؛ WARNها برای بازبینی باقی می‌مانند.
+- گزارش نتیجهٔ واقعی: `content/data/COUNTY-POI-PASS4.md`؛ صرف داشتن فهرست به معنی تأیید همهٔ جاذبه‌ها نیست.
+- مرحلهٔ باقی‌مانده پس از این بسته: روستا/تقسیمات از منبع رسمی، مساحت‌های ناقص، همسایه از مرز واقعی.
+- شاخهٔ قدیمی برای مرجع باقی است؛ تمام تغییرات و pushهای این نشست فقط روی
+  `arena/01a0fcfc-agent-arena` انجام می‌شود.

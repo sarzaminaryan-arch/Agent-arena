@@ -30,11 +30,11 @@ Single skill that tells an AI agent **how to work on this project correctly**. D
 
 ## HARD RULES (never violate)
 
-1. **Delivery channel = GitHub only.** The owner can download files *only* from GitHub
-   (`https://github.com/sarzaminaryan-arch/S.A.1`). Every deliverable must be committed/pushed
-   and returned as a GitHub link (release asset or `raw`/`blob` URL). Never say "download from
-   the workspace" or attach files elsewhere. Installation on the server is done manually via
-   cPanel from that GitHub download.
+1. **Delivery channel = GitHub only.** The active repository is
+   `https://github.com/sarzaminaryan-arch/Agent-arena`; `S.A.1` is historical. Commit/push on
+   the session-assigned branch and return a Release/raw/blob link, never a workspace download.
+   The owner installs using the WordPress GitHub updater; cPanel/manual ZIP is a fallback.
+   GitHub read access by WordPress is not direct admin access by the agent.
 2. **Everything in the child theme.** Features that plugins normally provide (CPTs, taxonomies,
    meta fields, SEO tags, schema, Jalali dates, security, performance) are implemented in
    `sarzaminaryan-child`. Parent theme is only touched for bug fixes / standards.

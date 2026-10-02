@@ -30,7 +30,7 @@ content/data/export/<province>.meta.json
 نشانی خام برای کپی مستقیم (نمونهٔ کهگیلویه و بویراحمد):
 
 ```
-https raw.githubusercontent.com/sarzaminaryan-arch/Agent-arena/arena/01a0f95f-agent-arena/content/data/export/kohgiluyeh-boyer-ahmad.meta.json
+https raw.githubusercontent.com/sarzaminaryan-arch/Agent-arena/arena/01a0fcfc-agent-arena/content/data/export/kohgiluyeh-boyer-ahmad.meta.json
 ```
 
 نام‌های استان‌ها همان نامک‌های سایت‌اند: `isfahan`، `fars`، `razavi-khorasan`، `tehran`، `gilan`، …
@@ -149,3 +149,20 @@ content/data/harvest-request.json
 | معیشت اصلی | ۱۰۰٪ | جدول استانی (۳۱ ردیف) |
 
 این چهار خانه **پیش‌نویس‌اند، نه حقیقت نهایی**: مقدار منبع‌دار ویکی‌پدیا/ویکی‌داده هرگز با برآورد جایگزین نمی‌شود، و هر چیزی که شما دستی بنویسید (`verified`/`manual`) دست‌نخورده می‌ماند.
+
+
+## مرحلهٔ چهارم — جاذبه‌ها (ادامهٔ نشست جدید)
+
+نسخهٔ ۲.۸.۹ شاخهٔ پیش‌فرض داده را به `arena/01a0fcfc-agent-arena` منتقل می‌کند.
+ابتدا قالب را از «پیشخوان ← به‌روزرسانی‌ها» به‌روز کنید؛ سپس مثل قبل استان را انتخاب کنید.
+در بخش دریافت، نام شاخهٔ فعال نمایش داده می‌شود. اگر `SA_GEO_DATA_REF` را در سرور
+صریحاً تنظیم کرده‌اید، آن تنظیم بر پیش‌فرض اولویت دارد.
+
+- حالت برداشت تازه: `sources: "poi"` در `content/data/harvest-request.json`.
+- منبع: بخش‌های جاذبهٔ مقالهٔ شهرستان؛ مقالهٔ مرکز فقط با تأیید شهرستان در متن/جعبهٔ اطلاعات.
+- فقط چهار خانهٔ **خالی** جاذبه پر می‌شوند. فهرست قبلی، آمار و دادهٔ دستی دست‌نخورده می‌مانند.
+- نامزدها در `content/data/harvest/poi/<province>.json`، منابع هر نام در پروندهٔ شهرستان،
+  و نتیجه در `content/data/COUNTY-POI-PASS4.md` ثبت می‌شود.
+- ناشناخته‌ها نقطهٔ بکر فرض نمی‌شوند؛ فاصله یا توصیف حدس زده نمی‌شود.
+- ابتدا «فقط پیش‌نمایش»؛ بعد از بررسی، تیک را بردارید و «دریافت و اعمال».
+  «بازنویسی خانه‌های پرشده» خاموش بماند. داده‌گیری، مقاله را منتشر یا بازنویسی نمی‌کند.

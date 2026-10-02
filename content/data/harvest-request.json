@@ -1,6 +1,6 @@
 {
  "province": "all",
- "sources": "both",
+ "sources": "poi",
  "stubs": false,
- "note": "pass 3 — بازگرداندن اقلیم منبع‌دار ویکی‌پدیا روی برآوردها + تولید خودکار زبان/معیشت/بهترین زمان سفر"
+ "request_id": "2026-10-02-poi-pass4"
 }
