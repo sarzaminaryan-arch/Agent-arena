@@ -2,9 +2,9 @@
  "batch": "west-azerbaijan",
  "batch_id": "west-azerbaijan",
  "label": "درون‌ریز شهرستان‌های استان آذربایجان غربی",
- "data_version": "1.0.0",
+ "data_version": "1.0.1",
  "package_format": "1.0",
- "built": "2026-09-28",
+ "built": "2026-10-02",
  "province": {
   "slug": "west-azerbaijan",
   "name_fa": "استان آذربایجان غربی",
@@ -139,7 +139,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "bukan",
@@ -219,7 +219,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "sardasht",
@@ -331,7 +331,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   }
  ]
 }

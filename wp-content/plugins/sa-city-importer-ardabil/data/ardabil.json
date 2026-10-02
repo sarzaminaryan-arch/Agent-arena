@@ -2,9 +2,9 @@
  "batch": "ardabil",
  "batch_id": "ardabil",
  "label": "درون‌ریز شهرستان‌های استان اردبیل",
- "data_version": "1.0.0",
+ "data_version": "1.0.1",
  "package_format": "1.0",
- "built": "2026-09-28",
+ "built": "2026-10-02",
  "province": {
   "slug": "ardabil",
   "name_fa": "استان اردبیل",
@@ -13,7 +13,7 @@
  "counties": [
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/ardabil-city.md",
    "source_sha1": "f04d2cfd3bf0348524701cb306c48ff32e3c0f8a",
    "slug": "ardabil-city",
@@ -118,13 +118,16 @@
     "file": "assets/counties/ardabil-city.webp",
     "source": "assets/featured/counties/ardabil/ardabil-city.webp",
     "mime": "image/webp",
-    "alt": "شهرستان اردبیل",
+    "alt": "نمایی گرافیکی از شهرستان اردبیل با دشت مرتفع، شهر بزرگ و کوه‌های دور",
+    "caption": "دشت مرتفع اردبیل در شمال غربی ایران.",
+    "title": "شهرستان اردبیل — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان اردبیل با دشت مرتفع، شهر بزرگ و کوه‌های دور",
     "sha1": "4f20cb3442d26ba08365008eb501bd5d3acb4215"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/sarein.md",
    "source_sha1": "c7edbd5665124037e4007631ad9aab4810c3d40b",
    "slug": "sarein",
@@ -230,13 +233,16 @@
     "file": "assets/counties/sarein.webp",
     "source": "assets/featured/counties/ardabil/sarein.webp",
     "mime": "image/webp",
-    "alt": "شهرستان سرعین",
+    "alt": "نمایی گرافیکی از شهرستان سرعین با دامنهٔ سبلان، شهر کوچک و قله",
+    "caption": "دامنه‌های سبلان در غرب استان اردبیل.",
+    "title": "شهرستان سرعین — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان سرعین با دامنهٔ سبلان، شهر کوچک و قله",
     "sha1": "75eda458c9e1b3950b18d10705f58e534a03e14c"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/meshgin-shahr.md",
    "source_sha1": "57fd0c2720f4fcf1d5e01042d67b96e78851a127",
    "slug": "meshgin-shahr",
@@ -343,13 +349,16 @@
     "file": "assets/counties/meshgin-shahr.webp",
     "source": "assets/featured/counties/ardabil/meshgin-shahr.webp",
     "mime": "image/webp",
-    "alt": "شهرستان مشگین‌شهر",
+    "alt": "نمایی گرافیکی از شهرستان مشگین‌شهر با دامنهٔ ساوالان، آبشار و قلهٔ برفی",
+    "caption": "دامنه‌های ساوالان و چشم‌اندازهای مشگین‌شهر.",
+    "title": "شهرستان مشگین‌شهر — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان مشگین‌شهر با دامنهٔ ساوالان، آبشار و قلهٔ برفی",
     "sha1": "f1aa47478213c84e081e92101fdc5bafe017e19e"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/parsabad.md",
    "source_sha1": "0df316ae6c61b22fc67364117c514f2523cf27fd",
    "slug": "parsabad",
@@ -463,13 +472,16 @@
     "file": "assets/counties/parsabad.webp",
     "source": "assets/featured/counties/ardabil/parsabad.webp",
     "mime": "image/webp",
-    "alt": "شهرستان پارس‌آباد",
+    "alt": "نمایی گرافیکی از شهرستان پارس‌آباد با دشت حاصلخیز، مزارع و شهر",
+    "caption": "دشت مغان در شمال استان اردبیل.",
+    "title": "شهرستان پارس‌آباد — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان پارس‌آباد با دشت حاصلخیز، مزارع و شهر",
     "sha1": "e776558fa13249fdab1224b169e69a3f57d935e2"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/khalkhal.md",
    "source_sha1": "7dca4bed631cfb74d5e6100c81bf74bd78658a25",
    "slug": "khalkhal",
@@ -592,13 +604,16 @@
     "file": "assets/counties/khalkhal.webp",
     "source": "assets/featured/counties/ardabil/khalkhal.webp",
     "mime": "image/webp",
-    "alt": "شهرستان خلخال",
+    "alt": "نمایی گرافیکی از شهرستان خلخال با جادهٔ کوهستانی، درهٔ مرتفع و شهر",
+    "caption": "کوهستان‌های خلخال در جنوب استان اردبیل.",
+    "title": "شهرستان خلخال — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان خلخال با جادهٔ کوهستانی، درهٔ مرتفع و شهر",
     "sha1": "a1e031e99b8553520ad9994bb8261d123140af04"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/namin.md",
    "source_sha1": "0a59ba77cbddc43845419bb20c731b43e1167dcf",
    "slug": "namin",
@@ -705,13 +720,16 @@
     "file": "assets/counties/namin.webp",
     "source": "assets/featured/counties/ardabil/namin.webp",
     "mime": "image/webp",
-    "alt": "شهرستان نمین",
+    "alt": "نمایی گرافیکی از شهرستان نمین با جنگل فندقلو، جادهٔ کوهستانی و شهر",
+    "caption": "جنگل‌های نمین در شمال استان اردبیل.",
+    "title": "شهرستان نمین — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان نمین با جنگل فندقلو، جادهٔ کوهستانی و شهر",
     "sha1": "02843335c7faa5bf9e5f9a02829b1064634006bd"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/germi.md",
    "source_sha1": "c7f32746565faffa06290bdcc56a2b311f60ac7d",
    "slug": "germi",
@@ -818,13 +836,16 @@
     "file": "assets/counties/germi.webp",
     "source": "assets/featured/counties/ardabil/germi.webp",
     "mime": "image/webp",
-    "alt": "شهرستان گرمی",
+    "alt": "نمایی گرافیکی از شهرستان گرمی با کوهپایه‌های سبز، شهر و تپه‌های باستانی",
+    "caption": "کوهپایه‌های گرمی در شمال استان اردبیل.",
+    "title": "شهرستان گرمی — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان گرمی با کوهپایه‌های سبز، شهر و تپه‌های باستانی",
     "sha1": "cbe3edd735cf7e41d3a2d5a4eea03e96a20f53f6"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/bileh-savar.md",
    "source_sha1": "fa21aa1cf3629dfe8341eba8c4daa405ae062803",
    "slug": "bileh-savar",
@@ -930,15 +951,18 @@
     "file": "assets/counties/bileh-savar.webp",
     "source": "assets/featured/counties/ardabil/bileh-savar.webp",
     "mime": "image/webp",
-    "alt": "شهرستان بیله‌سوار",
+    "alt": "نمایی گرافیکی از شهرستان بیله‌سوار با دشت طلایی، تل باستانی و شهر مرزی",
+    "caption": "دشت بیله‌سوار در شمال استان اردبیل.",
+    "title": "شهرستان بیله‌سوار — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان بیله‌سوار با دشت طلایی، تل باستانی و شهر مرزی",
     "sha1": "e0bec56ad86d11615976e0de02b596fc22ee9c0f"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/aslanduz.md",
-   "source_sha1": "26558a5bd452ecabc58dd207158f26135ee3f779",
+   "source_sha1": "076cb5148ec82947d9562bb22d8290c528e06977",
    "slug": "aslanduz",
    "status": "article",
    "title": "شهرستان اصلاندوز",
@@ -1038,11 +1062,20 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/aslanduz.webp",
+    "source": "assets/featured/counties/ardabil/aslanduz.webp",
+    "mime": "image/webp",
+    "alt": "تصویر شاخص شهرستان اصلاندوز در استان اردبیل",
+    "caption": "دشت مرزی اصلاندوز در شمال استان اردبیل.",
+    "title": "شهرستان اصلاندوز — سرزمین آریان",
+    "description": "تصویر شاخص شهرستان اصلاندوز در استان اردبیل",
+    "sha1": "6d864c6121346bd3de567ec6c7063b7099a01ce8"
+   }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/givi.md",
    "source_sha1": "2b82484b098738fbea9ec88a41464246d2e10c1c",
    "slug": "givi",
@@ -1149,13 +1182,16 @@
     "file": "assets/counties/givi.webp",
     "source": "assets/featured/counties/ardabil/givi.webp",
     "mime": "image/webp",
-    "alt": "شهرستان کوثر",
+    "alt": "نمایی گرافیکی از شهرستان کوثر با درهٔ سبز، شهر گیوی و رشته‌کوه",
+    "caption": "دره‌های کوثر در جنوب استان اردبیل.",
+    "title": "شهرستان کوثر (گیوی) — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان کوثر با درهٔ سبز، شهر گیوی و رشته‌کوه",
     "sha1": "fcd12bb53bc76fc313841230eec0162fe060e71d"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/nir.md",
    "source_sha1": "700c728df9cd29b167c869fc8846bae6eb5985eb",
    "slug": "nir",
@@ -1262,15 +1298,18 @@
     "file": "assets/counties/nir.webp",
     "source": "assets/featured/counties/ardabil/nir.webp",
     "mime": "image/webp",
-    "alt": "شهرستان نیر",
+    "alt": "نمایی گرافیکی از شهرستان نیر با چشمه‌سار، چمنزار و شهر بر دشت",
+    "caption": "چشمه‌های بولاغلار در شهرستان نیر.",
+    "title": "شهرستان نیر — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان نیر با چشمه‌سار، چمنزار و شهر بر دشت",
     "sha1": "f3f5ea4a8edc42c40d1b2d364014e5fd45caf901"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/angut.md",
-   "source_sha1": "183d99ec224d9f806d2b953d73f7b5c8d1771d4b",
+   "source_sha1": "b4d652c8221e79941ded39ab3289132cbccf5513",
    "slug": "angut",
    "status": "article",
    "title": "شهرستان انگوت",
@@ -1370,7 +1409,16 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/angut.webp",
+    "source": "assets/featured/counties/ardabil/angut.webp",
+    "mime": "image/webp",
+    "alt": "تصویر شاخص شهرستان انگوت در استان اردبیل",
+    "caption": "دشت انگوت در غرب استان اردبیل.",
+    "title": "شهرستان انگوت — سرزمین آریان",
+    "description": "تصویر شاخص شهرستان انگوت در استان اردبیل",
+    "sha1": "36c37b24c6ea489f020ea12ab1687f5568e96650"
+   }
   }
  ]
 }

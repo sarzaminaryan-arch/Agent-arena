@@ -2,9 +2,9 @@
  "batch": "west-azerbaijan",
  "batch_id": "west-azerbaijan",
  "label": "درون‌ریز شهرستان‌های استان آذربایجان غربی",
- "data_version": "1.0.0",
+ "data_version": "1.0.1",
  "package_format": "1.0",
- "built": "2026-09-28",
+ "built": "2026-10-02",
  "province": {
   "slug": "west-azerbaijan",
   "name_fa": "استان آذربایجان غربی",
@@ -13,7 +13,7 @@
  "counties": [
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/urmia.md",
    "source_sha1": "6410ee9298ac1c87f1e376fc13bf60cbc3894f88",
    "slug": "urmia",
@@ -118,13 +118,16 @@
     "file": "assets/counties/urmia.webp",
     "source": "assets/featured/counties/west-azerbaijan/urmia.webp",
     "mime": "image/webp",
-    "alt": "شهرستان ارومیه",
+    "alt": "نمایی گرافیکی از شهرستان ارومیه با باغ‌های سیب، کلان‌شهر و دریاچه ارومیه",
+    "caption": "باغ‌های بی‌کران ارومیه در آستانهٔ دریاچه.",
+    "title": "شهرستان ارومیه — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان ارومیه با باغ‌های سیب، کلان‌شهر و دریاچه ارومیه",
     "sha1": "af2634029bee4d6f64e724d0a2d33a8eb47fce10"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/khoy.md",
    "source_sha1": "091b59bfbecfd08dbf91d3db6d5af9e8288aa2ef",
    "slug": "khoy",
@@ -229,13 +232,16 @@
     "file": "assets/counties/khoy.webp",
     "source": "assets/featured/counties/west-azerbaijan/khoy.webp",
     "mime": "image/webp",
-    "alt": "شهرستان خوی",
+    "alt": "نمایی گرافیکی از شهرستان خوی با دشت آفتابگردان، شهر کهن و کوه‌های مرزی",
+    "caption": "دشت‌های آفتابگردان خوی، امضای طبیعی این دیار.",
+    "title": "شهرستان خوی — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان خوی با دشت آفتابگردان، شهر کهن و کوه‌های مرزی",
     "sha1": "06bbdd88017143d3dcd7d33bcb58555ce3f4d46e"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/mahabad.md",
    "source_sha1": "8a5bd0c49f00d9ecf5140b7b3f83f0448974ea95",
    "slug": "mahabad",
@@ -340,13 +346,16 @@
     "file": "assets/counties/mahabad.webp",
     "source": "assets/featured/counties/west-azerbaijan/mahabad.webp",
     "mime": "image/webp",
-    "alt": "شهرستان مهاباد",
+    "alt": "نمایی گرافیکی از شهرستان مهاباد با کوهستان، رود و شهر کنارِ رود",
+    "caption": "دره‌های مهاباد در دامنه‌های لندشیخان.",
+    "title": "شهرستان مهاباد — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان مهاباد با کوهستان، رود و شهر کنارِ رود",
     "sha1": "1b49f74ae0cc4db5351873ad9e773059fc205493"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/takab.md",
    "source_sha1": "0c90f256e9428cfd4bb3f634e8f13e624c8e3b23",
    "slug": "takab",
@@ -451,13 +460,16 @@
     "file": "assets/counties/takab.webp",
     "source": "assets/featured/counties/west-azerbaijan/takab.webp",
     "mime": "image/webp",
-    "alt": "شهرستان تکاب",
+    "alt": "نمایی گرافیکی از شهرستان تکاب با وادی آتشفشانی، دریاچه و آثار کهن تخت سلیمان",
+    "caption": "وادی آتشفشانی تخت سلیمان، میراث جهانی تکاب.",
+    "title": "شهرستان تکاب — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان تکاب با وادی آتشفشانی، دریاچه و آثار کهن تخت سلیمان",
     "sha1": "fb4aa23449b127acbe1b2e59512a20e7ac75ff18"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/chaldoran.md",
    "source_sha1": "00f7deadfee2666bb6eaf466a75b417da97b2ab0",
    "slug": "chaldoran",
@@ -563,13 +575,16 @@
     "file": "assets/counties/chaldoran.webp",
     "source": "assets/featured/counties/west-azerbaijan/chaldoran.webp",
     "mime": "image/webp",
-    "alt": "شهرستان چالدران",
+    "alt": "نمایی گرافیکی از شهرستان چالدران با دشت آتشفشانی، شهر کوچک و کوه‌های مرزی",
+    "caption": "دشت‌های آتشفشانی چالدران، صحنهٔ نبرد تاریخی ۱۵۱۴.",
+    "title": "شهرستان چالدران — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان چالدران با دشت آتشفشانی، شهر کوچک و کوه‌های مرزی",
     "sha1": "7d28e581ca2b4e9ca2f8deb35971ecaddcd10d0d"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/maku.md",
    "source_sha1": "d0d4c1f497750c8f045bd7a089510cb1d1f62abf",
    "slug": "maku",
@@ -675,13 +690,16 @@
     "file": "assets/counties/maku.webp",
     "source": "assets/featured/counties/west-azerbaijan/maku.webp",
     "mime": "image/webp",
-    "alt": "شهرستان ماکو",
+    "alt": "نمایی گرافیکی از شهرستان ماکو با شهر سنگی، کوه مرزی و رود زنگمار",
+    "caption": "شهر سنگی ماکو در دامنهٔ کوه‌های مرزی.",
+    "title": "شهرستان ماکو — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان ماکو با شهر سنگی، کوه مرزی و رود زنگمار",
     "sha1": "5583f6e0e561f8372c65a97fc7d5826922ef4d85"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/oshnavieh.md",
    "source_sha1": "292ffbd8335c69d604eee51e3a9944008bf14e11",
    "slug": "oshnavieh",
@@ -786,15 +804,18 @@
     "file": "assets/counties/oshnavieh.webp",
     "source": "assets/featured/counties/west-azerbaijan/oshnavieh.webp",
     "mime": "image/webp",
-    "alt": "شهرستان اشنویه",
+    "alt": "نمایی گرافیکی از شهرستان اشنویه با دشت مرتفع، شهر و کوه‌های مرزی",
+    "caption": "دشت مرتفع اشنویه در آستانهٔ کوه‌های مرزی.",
+    "title": "شهرستان اشنویه — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان اشنویه با دشت مرتفع، شهر و کوه‌های مرزی",
     "sha1": "45aa572349d3c65367cfabae8f5689253d64c5fc"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/baruq.md",
-   "source_sha1": "f78eb77aea31d8db09e71bfd45eebc97205d51c1",
+   "source_sha1": "f99ed5d04a166018471f93a7397723fb36bf0e15",
    "slug": "baruq",
    "status": "article",
    "title": "شهرستان باروق",
@@ -894,11 +915,20 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/baruq.webp",
+    "source": "assets/featured/counties/west-azerbaijan/baruq.webp",
+    "mime": "image/webp",
+    "alt": "تصویر شاخص شهرستان باروق در استان آذربایجان غربی",
+    "caption": "دشت‌های باروق در آستانهٔ تالاب نوروزلو.",
+    "title": "شهرستان باروق — سرزمین آریان",
+    "description": "تصویر شاخص شهرستان باروق در استان آذربایجان غربی",
+    "sha1": "01a4f34fbf6b021c45d5874f08f5f442b4fdd61d"
+   }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/bukan.md",
    "source_sha1": "3642da19beb1e35d3d7ad3a3fbbfe999a9a06500",
    "slug": "bukan",
@@ -1004,13 +1034,16 @@
     "file": "assets/counties/bukan.webp",
     "source": "assets/featured/counties/west-azerbaijan/bukan.webp",
     "mime": "image/webp",
-    "alt": "شهرستان بوکان",
+    "alt": "نمایی گرافیکی از شهرستان بوکان با دشت گندم، شهر و کوه طرغه",
+    "caption": "دشت‌های گندم‌خیز بوکان در سایهٔ کوه طرغه.",
+    "title": "شهرستان بوکان — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان بوکان با دشت گندم، شهر و کوه طرغه",
     "sha1": "dbbf119a56e4fd76a997e18a45212e4f6f9fe9e5"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/poldasht.md",
    "source_sha1": "d62d63167c780f1715d7d1ab16028f31be9efef4",
    "slug": "poldasht",
@@ -1116,13 +1149,16 @@
     "file": "assets/counties/poldasht.webp",
     "source": "assets/featured/counties/west-azerbaijan/poldasht.webp",
     "mime": "image/webp",
-    "alt": "شهرستان پلدشت",
+    "alt": "نمایی گرافیکی از شهرستان پلدشت با رود ارس، پل مرزی و جنگل حاشیهٔ رود",
+    "caption": "رود ارس و جنگل‌های حاشیه‌اش، امضای طبیعی پلدشت.",
+    "title": "شهرستان پلدشت — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان پلدشت با رود ارس، پل مرزی و جنگل حاشیهٔ رود",
     "sha1": "1de3a964eb61aea87bdf1c54bb4d3a77c87279f2"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/piranshahr.md",
    "source_sha1": "10d5a2fc4abca056af36cbf163ca9487f125c57e",
    "slug": "piranshahr",
@@ -1228,13 +1264,16 @@
     "file": "assets/counties/piranshahr.webp",
     "source": "assets/featured/counties/west-azerbaijan/piranshahr.webp",
     "mime": "image/webp",
-    "alt": "شهرستان پیرانشهر",
+    "alt": "نمایی گرافیکی از شهرستان پیرانشهر با کوهستان مرزی، جاده و شهر",
+    "caption": "کوهستان‌های مرزی پیرانشهر در آستانهٔ مرز عراق.",
+    "title": "شهرستان پیرانشهر — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان پیرانشهر با کوهستان مرزی، جاده و شهر",
     "sha1": "aac985eb50a7c4b4640d495ff18df68e53fbf3a0"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/chaypareh.md",
    "source_sha1": "f7e725358dab8bb6a4eb3601005fb6081cef0eb2",
    "slug": "chaypareh",
@@ -1340,15 +1379,18 @@
     "file": "assets/counties/chaypareh.webp",
     "source": "assets/featured/counties/west-azerbaijan/chaypareh.webp",
     "mime": "image/webp",
-    "alt": "شهرستان چایپاره",
+    "alt": "نمایی گرافیکی از شهرستان چایپاره با دشت شمالی، شهر کوچک و آثار کهن",
+    "caption": "دشت‌های چایپاره در آستانهٔ کوه‌های شمال استان.",
+    "title": "شهرستان چایپاره — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان چایپاره با دشت شمالی، شهر کوچک و آثار کهن",
     "sha1": "ad612717be9aedc4261e8a0a88da81f8e394fabb"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/chaharborj.md",
-   "source_sha1": "62e9bba5b732727ca82f042b8e5eebd7c34276d5",
+   "source_sha1": "96f0b7dfce9a64d1dd412a7025d6fad1d801a3c6",
    "slug": "chaharborj",
    "status": "article",
    "title": "شهرستان چهاربرج",
@@ -1447,11 +1489,20 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/chaharborj.webp",
+    "source": "assets/featured/counties/west-azerbaijan/chaharborj.webp",
+    "mime": "image/webp",
+    "alt": "تصویر شاخص شهرستان چهاربرج در استان آذربایجان غربی",
+    "caption": "دشت‌های حاصلخیز چهاربرج در جنوب دریاچه ارومیه.",
+    "title": "شهرستان چهاربرج — سرزمین آریان",
+    "description": "تصویر شاخص شهرستان چهاربرج در استان آذربایجان غربی",
+    "sha1": "489e5bae4600d1ec5938dcc5dd2a6900ba054349"
+   }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/sardasht.md",
    "source_sha1": "1f5f0ec6691c7e9ac8199b363a6a4ab40bb81fa6",
    "slug": "sardasht",
@@ -1558,13 +1609,16 @@
     "file": "assets/counties/sardasht.webp",
     "source": "assets/featured/counties/west-azerbaijan/sardasht.webp",
     "mime": "image/webp",
-    "alt": "شهرستان سردشت",
+    "alt": "نمایی گرافیکی از شهرستان سردشت با درهٔ سبز، شهر کوهستانی و کوه‌های مرزی",
+    "caption": "کوهستان‌ها و دره‌های مرزی سردشت در جنوب استان.",
+    "title": "شهرستان سردشت — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان سردشت با درهٔ سبز، شهر کوهستانی و کوه‌های مرزی",
     "sha1": "6311a02c890294b8f7e9baa915c3894541c1ad2b"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/salmas.md",
    "source_sha1": "1cd5420369f3a569301a8e048c6a01d80f50fddd",
    "slug": "salmas",
@@ -1671,13 +1725,16 @@
     "file": "assets/counties/salmas.webp",
     "source": "assets/featured/counties/west-azerbaijan/salmas.webp",
     "mime": "image/webp",
-    "alt": "شهرستان سلماس",
+    "alt": "نمایی گرافیکی از شهرستان سلماس با دشت، باغ‌ها و کوه پشتیبان",
+    "caption": "دشت سلماس و کوه‌های پشتیبان در شمال غربی ارومیه.",
+    "title": "شهرستان سلماس — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان سلماس با دشت، باغ‌ها و کوه پشتیبان",
     "sha1": "66ef6d1507f8a8393cc22199617d8adf28e614a3"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/shahin-dezh.md",
    "source_sha1": "2ccb4f863538c3b4296f8bf1d1560e47aa3790ed",
    "slug": "shahin-dezh",
@@ -1783,13 +1840,16 @@
     "file": "assets/counties/shahin-dezh.webp",
     "source": "assets/featured/counties/west-azerbaijan/shahin-dezh.webp",
     "mime": "image/webp",
-    "alt": "شهرستان شاهین‌دژ",
+    "alt": "نمایی گرافیکی از شهرستان شاهین‌دژ با رود، دشت سبز و قله‌های سلیم‌خان",
+    "caption": "زرینه‌رود در گذر از دشت شاهین‌دژ.",
+    "title": "شهرستان شاهین‌دژ — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان شاهین‌دژ با رود، دشت سبز و قله‌های سلیم‌خان",
     "sha1": "2701d60415646febbb0707003402599672c2d3b1"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/showt.md",
    "source_sha1": "9d1804d832162e23799e219749217091c727dbe9",
    "slug": "showt",
@@ -1895,13 +1955,16 @@
     "file": "assets/counties/showt.webp",
     "source": "assets/featured/counties/west-azerbaijan/showt.webp",
     "mime": "image/webp",
-    "alt": "شهرستان شوط",
+    "alt": "نمایی گرافیکی از شهرستان شوط با جادهٔ ترانزیتی، دشت و شهر کوچک",
+    "caption": "دشت‌های شوط در گذرگاه ترانزیتی شمال استان.",
+    "title": "شهرستان شوط — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان شوط با جادهٔ ترانزیتی، دشت و شهر کوچک",
     "sha1": "d11efa03e8f7bfb1c4b8628db1e80e848a20d428"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/miandoab.md",
    "source_sha1": "2d8340e022f1c72daeee05937a61f118ad5d9c32",
    "slug": "miandoab",
@@ -2007,13 +2070,16 @@
     "file": "assets/counties/miandoab.webp",
     "source": "assets/featured/counties/west-azerbaijan/miandoab.webp",
     "mime": "image/webp",
-    "alt": "شهرستان میاندوآب",
+    "alt": "نمایی گرافیکی از شهرستان میاندوآب با دشت حاصلخیز، شهر و دریاچه در افق",
+    "caption": "دشت‌های حاصلخیز میاندوآب در جنوب دریاچه ارومیه.",
+    "title": "شهرستان میاندوآب — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان میاندوآب با دشت حاصلخیز، شهر و دریاچه در افق",
     "sha1": "e2e851393f13e95bcfb8510a139756c30b223069"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/naqadeh.md",
    "source_sha1": "3627f6e39e6d32e8273f5ee0827155dde679c939",
    "slug": "naqadeh",
@@ -2119,15 +2185,18 @@
     "file": "assets/counties/naqadeh.webp",
     "source": "assets/featured/counties/west-azerbaijan/naqadeh.webp",
     "mime": "image/webp",
-    "alt": "شهرستان نقده",
+    "alt": "نمایی گرافیکی از شهرستان نقده با دشت حاصلخیز، شهر، دریاچه و کوه",
+    "caption": "دشت سلدوز و اشراف به دریاچه ارومیه در نقده.",
+    "title": "شهرستان نقده — سرزمین آریان",
+    "description": "نمایی گرافیکی از شهرستان نقده با دشت حاصلخیز، شهر، دریاچه و کوه",
     "sha1": "3417d63264ede023454140cded1913d46ff403b4"
    }
   },
   {
    "package_format": "1.0",
-   "built": "2026-09-28",
+   "built": "2026-10-02",
    "source_file": "content/cities/mirabad.md",
-   "source_sha1": "e846c413c8996b7ae7c810d710947ac21d5bfe6d",
+   "source_sha1": "d93e2458a658116ed3b69f1337f899bd21145e05",
    "slug": "mirabad",
    "status": "article",
    "title": "شهرستان میرآباد",
@@ -2227,7 +2296,16 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/mirabad.webp",
+    "source": "assets/featured/counties/west-azerbaijan/mirabad.webp",
+    "mime": "image/webp",
+    "alt": "تصویر شاخص شهرستان میرآباد در استان آذربایجان غربی",
+    "caption": "طبیعت بکر مرزی میرآباد در غرب استان.",
+    "title": "شهرستان میرآباد — سرزمین آریان",
+    "description": "تصویر شاخص شهرستان میرآباد در استان آذربایجان غربی",
+    "sha1": "3453fdae6feefd3da7848842787b16cff1153399"
+   }
   }
  ]
 }
