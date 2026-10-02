@@ -1,0 +1,95 @@
+name: Harvest county data
+
+# چرا ورک‌فلو؟ برداشت داده به اینترنت نیاز دارد و اجرای دستی روی لپ‌تاپ فراموش می‌شود.
+# این‌جا با یک کلیک (Actions ← Harvest county data ← Run workflow) داده‌ی یک استان یا کل
+# کشور برداشت، ادغام، اعتبارسنجی و همان‌جا در شاخه کامیت می‌شود.
+
+on:
+  workflow_dispatch:
+    inputs:
+      province:
+        description: 'نامک استان (خالی = همهٔ ۳۱ استان)'
+        required: false
+        default: ''
+      sources:
+        description: 'منابع برداشت'
+        required: true
+        default: 'both'
+        type: choice
+        options: [both, wikidata, wikipedia, none]
+      stubs:
+        description: 'ساخت اسکلت مقاله در content/cities/'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Scope
+        id: scope
+        run: |
+          if [ -z "${{ inputs.province }}" ]; then
+            echo "flag=--all" >> "$GITHUB_OUTPUT"
+            echo "label=all provinces" >> "$GITHUB_OUTPUT"
+          else
+            echo "flag=--province ${{ inputs.province }}" >> "$GITHUB_OUTPUT"
+            echo "label=${{ inputs.province }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Harvest Wikidata
+        if: inputs.sources == 'both' || inputs.sources == 'wikidata'
+        run: python3 content-templates/tools/geo/harvest_wikidata.py ${{ steps.scope.outputs.flag }} --sleep 3
+
+      - name: Harvest Wikipedia (fa)
+        if: inputs.sources == 'both' || inputs.sources == 'wikipedia'
+        run: python3 content-templates/tools/geo/harvest_wikipedia.py ${{ steps.scope.outputs.flag }} --sleep 1
+
+      - name: Merge into fact files
+        run: python3 content-templates/tools/geo/merge_facts.py ${{ steps.scope.outputs.flag }}
+
+      - name: Validate
+        continue-on-error: true
+        run: python3 content-templates/tools/geo/validate_facts.py
+
+      - name: Coverage matrix
+        run: python3 content-templates/tools/geo/coverage_facts.py
+
+      - name: Export WordPress payloads
+        run: |
+          python3 content-templates/tools/geo/export_meta.py ${{ steps.scope.outputs.flag }} \
+            ${{ inputs.stubs && '--stubs' || '' }}
+
+      - name: Commit data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/data content/cities || true
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "data(counties): harvest ${{ steps.scope.outputs.label }} (${{ inputs.sources }})"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - name: Summary
+        run: |
+          {
+            echo "## پوشش دادهٔ شهرستان‌ها"
+            echo
+            sed -n '1,45p' content/data/COUNTY-FACTS-COVERAGE.md
+            echo
+            echo "## اعتبارسنجی"
+            echo
+            sed -n '1,40p' content/data/COUNTY-FACTS-ISSUES.md
+          } >> "$GITHUB_STEP_SUMMARY"

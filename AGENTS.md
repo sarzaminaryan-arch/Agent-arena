@@ -42,3 +42,13 @@
    (d) BLOCK 5 hygiene: every source row must carry a real, opened URL — delete rows without links; verify every URL
    answers HTTP 200 (no 404) before shipping (curl -sI loop or fetch check); every row is cited at least once in text.
    (e) Purpose: reviews stay fast and correct — research → humanize → link-check → audit → status → build.
+
+11. **County data pipeline (1405-07-10).** The 483-county list lives in
+   `wp-content/themes/sarzaminaryan-child/data/counties.php` (single source of truth; the site, the
+   tools and the coverage screen all read it). Facts are harvested **column by column** with
+   `content-templates/tools/geo/` (harvest_wikidata → harvest_wikipedia → merge_facts → validate_facts →
+   coverage_facts → export_meta), stored one JSON per county in `content/data/counties/<slug>.json`
+   with source + date + status, and loaded into WordPress via the «ورود انبوه داده» screen or
+   `wp sa-county import`. Never overwrite a field whose status is `verified`/`manual`; never publish a
+   number without `census_year`/source. Strategy and next harvesters: `content/COUNTY-DATA-PIPELINE.md`.
+

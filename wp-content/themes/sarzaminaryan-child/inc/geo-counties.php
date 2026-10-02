@@ -805,6 +805,9 @@ function sa_county_coverage_screen() {
 		}
 		echo '</p></details>';
 	}
+	if ( function_exists( 'sa_county_import_screen' ) ) {
+		sa_county_import_screen();
+	}
 	echo '<style>.sa-bar{display:inline-block;width:120px;height:8px;background:#e5e7eb;border-radius:4px;overflow:hidden;vertical-align:middle}.sa-bar span{display:block;height:100%;background:#16a34a}.sa-coverage details{margin:.4rem 0}</style>';
 	echo '</div>';
 }
