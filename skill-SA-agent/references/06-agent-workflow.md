@@ -48,29 +48,36 @@ unverifiable criteria, kitchen-sink scope. Ready-made goals: `assets/goal-templa
 
 ## D. Release procedure (GitHub-only delivery — HARD RULE)
 
+The active repository is `sarzaminaryan-arch/Agent-arena`; `S.A.1` is historical.
+Work only on the Arena-assigned session branch. Never switch branches or push to main.
+
+1. Bump `style.css` Version and `SA_CHILD_VERSION` together, then update CHANGELOG/readme.
+2. Run offline pipeline tests and PHP lint (GitHub Actions provides PHP when unavailable locally).
+3. Commit reviewed paths and push the session branch only:
+
 ```bash
-# 1. version bump + changelog
-#    style.css "Version:", CHANGELOG.md entry (date, changes)
-# 2. lint
-find wp-content/themes -name '*.php' -print0 | xargs -0 -n1 php -l | grep -v "No syntax errors" || true
-# 3. build zips (folder name must equal theme slug; no macOS junk)
-cd wp-content/themes && zip -rq ../../downloads/sarzaminaryan-vX.Y.Z.zip sarzaminaryan -x '*.DS_Store' '__MACOSX/*'
-zip -rq ../../downloads/sarzaminaryan-child-vX.Y.Z.zip sarzaminaryan-child
-# 4. commit + push
-git add -A && git commit -m "chore(release): themes vX.Y.Z" && git push origin main
-# 5. GitHub Release (API, token with Contents: write) + upload assets
-#    POST /repos/{owner}/{repo}/releases  {tag_name:"themes-vX.Y.Z", name, body}
-#    POST {upload_url}?name=sarzaminaryan-vX.Y.Z.zip  (Content-Type: application/zip)
-# 6. Return links:
-#    https://github.com/sarzaminaryan-arch/S.A.1/releases/download/themes-vX.Y.Z/<asset>.zip
-#    fallback: https://github.com/sarzaminaryan-arch/S.A.1/raw/main/downloads/<asset>.zip
+SESSION_BRANCH="$(git branch --show-current)"
+case "$SESSION_BRANCH" in arena/*) ;; *) echo 'Not an Arena session branch' >&2; exit 1;; esac
+git push origin "$SESSION_BRANCH"
 ```
-Owner installs via cPanel → File Manager → `wp-content/themes/` → Upload zip → Extract,
-or WP admin → Appearance → Themes → Add New → Upload Theme. Activate **child**.
+
+4. `.github/workflows/release-child-theme.yml` validates versions, PHP and credentials,
+   creates the standard ZIP + SHA-256 and publishes the child-theme Release.
+5. Wait for the workflow result before claiming publication. Never reuse a published version
+   with different theme files. Data-only changes do not require a theme version bump.
+6. Return the GitHub Release link:
+   `https://github.com/sarzaminaryan-arch/Agent-arena/releases/tag/sarzaminaryan-child-vX.Y.Z`.
+
+The owner checks “نمایش ← به‌روزرسان گیت‌هاب” and installs through WordPress Updates.
+Manual ZIP/cPanel is a fallback, not required for each update. Bulk data is applied separately
+through “پوشش شهرستان‌ها”; preview first and never recommend a blind overwrite.
 
 ## E. Secrets & tokens
 
-Tokens are used only in-memory for the push (`-c credential.helper=…`), never written to files or
-`.git/config`. Recommend the owner revoke a token after each session; fine-grained token scoped to
-`S.A.1` with Contents: Read & Write. Run a secret scan (`git log -p | grep -E 'github_pat_|ghp_'`)
-before publishing the repo.
+The sandbox GitHub connection is already configured: use `git`/`gh`, not a token pasted in chat.
+Never request/store GitHub passwords, PATs, OAuth tokens or 2FA codes. If authentication fails,
+ask the owner to reconnect GitHub in Arena. Never print actual credential values.
+
+WordPress uses its own **read-only** token scoped to `Agent-arena`, stored only on the WordPress
+server (`wp-config.php` or the updater option). Never copy it into code, ZIPs, this repository or
+chat. Reading a Release successfully is not proof the agent has WordPress admin access.
