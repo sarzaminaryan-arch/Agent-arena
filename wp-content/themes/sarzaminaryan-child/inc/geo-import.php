@@ -32,6 +32,81 @@ function sa_county_import_keys() {
 }
 
 /**
+ * Find the city post for a county slug — by slug, then by title, then fuzzy.
+ *
+ * @param string $slug County slug from the registry.
+ * @return WP_Post|null
+ */
+function sa_county_find_post( $slug ) {
+	$post = get_page_by_path( $slug, OBJECT, 'city' );
+	if ( $post ) {
+		return $post;
+	}
+	$row  = sa_county( $slug );
+	$name = $row && ! empty( $row['name'] ) ? (string) $row['name'] : '';
+	if ( '' === $name ) {
+		return null;
+	}
+	foreach ( array( 'شهرستان ' . $name, $name ) as $title ) {
+		$by_title = new WP_Query(
+			array(
+				'post_type'              => 'city',
+				'post_status'            => 'any',
+				'posts_per_page'         => 1,
+				'title'                  => $title,
+				'no_found_rows'          => true,
+				'update_post_term_cache' => false,
+			)
+		);
+		if ( ! empty( $by_title->posts ) ) {
+			return $by_title->posts[0];
+		}
+	}
+	$q = new WP_Query(
+		array(
+			'post_type'              => 'city',
+			'post_status'            => 'any',
+			'posts_per_page'         => 2,
+			's'                      => $name,
+			'no_found_rows'          => true,
+			'update_post_term_cache' => false,
+		)
+	);
+	foreach ( $q->posts as $candidate ) {
+		$title = (string) $candidate->post_title;
+		if ( $title === $name || $title === 'شهرستان ' . $name ) {
+			return $candidate;
+		}
+	}
+
+	return null;
+}
+
+/**
+ * Normalise a pasted JSON blob (code fences, BOM, RTL marks, smart quotes).
+ *
+ * @param string $raw Raw textarea content.
+ * @return string
+ */
+function sa_county_clean_json( $raw ) {
+	$raw = trim( $raw );
+	$raw = preg_replace( '/^\xEF\xBB\xBF/', '', $raw );
+	$raw = preg_replace( '/^```[a-zA-Z]*\s*|\s*```$/', '', $raw );
+	$raw = str_replace(
+		array( "\xE2\x80\x8F", "\xE2\x80\x8E", "\xE2\x80\x9C", "\xE2\x80\x9D", "\xC2\xAB", "\xC2\xBB", "\xE2\x80\x99" ),
+		array( '', '', '"', '"', '"', '"', "'" ),
+		$raw
+	);
+	$fa  = array( '۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹' );
+	$ar  = array( '٠', '١', '٢', '٣', '٤', '٥', '٦', '٧', '٨', '٩' );
+	foreach ( array( $fa, $ar ) as $set ) {
+		$raw = str_replace( $set, array( '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' ), $raw );
+	}
+
+	return trim( $raw );
+}
+
+/**
  * Apply a payload.
  *
  * @param array $payload  slug => array( meta_key => value ).
@@ -47,6 +122,7 @@ function sa_county_import_apply( $payload, $force = false, $dry_run = false ) {
 		'skipped' => 0,
 		'missing' => array(),
 		'unknown' => array(),
+		'failed'  => array(),
 	);
 
 	foreach ( (array) $payload as $slug => $fields ) {
@@ -55,7 +131,7 @@ function sa_county_import_apply( $payload, $force = false, $dry_run = false ) {
 			$report['unknown'][] = $slug;
 			continue;
 		}
-		$post = get_page_by_path( $slug, OBJECT, 'city' );
+		$post = sa_county_find_post( $slug );
 		if ( ! $post ) {
 			$report['missing'][] = $slug;
 			continue;
@@ -78,6 +154,11 @@ function sa_county_import_apply( $payload, $force = false, $dry_run = false ) {
 			}
 			if ( ! $dry_run ) {
 				update_post_meta( $post->ID, $key, $value );
+				$stored = (string) get_post_meta( $post->ID, $key, true );
+				if ( $stored !== (string) $value ) {
+					$report['failed'][] = $slug . ' › ' . $key;
+					continue;
+				}
 			}
 			$written[] = $key;
 		}
@@ -85,6 +166,8 @@ function sa_county_import_apply( $payload, $force = false, $dry_run = false ) {
 		$report['skipped'] += count( $skipped );
 		$report['rows'][]   = array(
 			'slug'    => $slug,
+			'title'   => get_the_title( $post->ID ),
+			'status'  => get_post_status( $post->ID ),
 			'post_id' => $post->ID,
 			'written' => $written,
 			'skipped' => $skipped,
@@ -185,7 +268,7 @@ function sa_county_import_screen() {
 	$force  = false;
 	$dry    = false;
 	if ( isset( $_POST['sa_county_payload'] ) && check_admin_referer( 'sa_county_import' ) ) {
-		$raw     = (string) wp_unslash( $_POST['sa_county_payload'] ); // phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotSanitized
+		$raw     = sa_county_clean_json( (string) wp_unslash( $_POST['sa_county_payload'] ) ); // phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotSanitized
 		$force   = ! empty( $_POST['sa_county_force'] );
 		$dry     = ! empty( $_POST['sa_county_dry'] );
 		$payload = json_decode( $raw, true );
@@ -261,31 +344,45 @@ function sa_county_import_screen() {
  * @param bool  $dry    Whether it was a preview.
  */
 function sa_county_import_report( $report, $dry ) {
-	{
-		echo '<div class="notice notice-' . ( $dry ? 'info' : 'success' ) . '"><p>';
-		printf(
-			esc_html( '%1$s خانه %2$s · %3$s خانه رد شد (پر بود) · %4$s شهرستان بدون نوشته · %5$s نامک ناشناخته' ),
-			esc_html( sa_fa_digits( $report['written'] ) ),
-			esc_html( $dry ? 'آمادهٔ نوشتن' : 'نوشته شد' ),
-			esc_html( sa_fa_digits( $report['skipped'] ) ),
-			esc_html( sa_fa_digits( count( $report['missing'] ) ) ),
-			esc_html( sa_fa_digits( count( $report['unknown'] ) ) )
-		);
-		echo '</p></div>';
-		if ( $report['missing'] ) {
-			echo '<p><strong>نوشته ندارند:</strong> ' . esc_html( implode( '، ', $report['missing'] ) ) . ' — با دکمهٔ «ساخت پیش‌نویس‌های جاافتاده» بسازید.</p>';
-		}
-		if ( $report['unknown'] ) {
-			echo '<p><strong>نامک ناشناخته:</strong> ' . esc_html( implode( '، ', $report['unknown'] ) ) . '</p>';
-		}
-		echo '<table class="widefat striped"><thead><tr><th>شهرستان</th><th>نوشته‌شده</th><th>رد‌شده</th></tr></thead><tbody>';
-		foreach ( $report['rows'] as $row ) {
-			echo '<tr><td><a href="' . esc_url( (string) get_edit_post_link( $row['post_id'] ) ) . '">' . esc_html( $row['slug'] ) . '</a></td>';
-			echo '<td>' . esc_html( implode( '، ', $row['written'] ) ) . '</td>';
-			echo '<td>' . esc_html( implode( '، ', $row['skipped'] ) ) . '</td></tr>';
-		}
-		echo '</tbody></table>';
+	echo '<div class="notice notice-' . ( $dry ? 'info' : 'success' ) . '"><p>';
+	printf(
+		esc_html( '%1$s خانه %2$s · %3$s خانه رد شد (از قبل پر بود) · %4$s شهرستان نوشته‌ای در سایت ندارد · %5$s نامک ناشناخته' ),
+		esc_html( sa_fa_digits( $report['written'] ) ),
+		esc_html( $dry ? 'آمادهٔ نوشتن است' : 'ذخیره شد' ),
+		esc_html( sa_fa_digits( $report['skipped'] ) ),
+		esc_html( sa_fa_digits( count( $report['missing'] ) ) ),
+		esc_html( sa_fa_digits( count( $report['unknown'] ) ) )
+	);
+	echo '</p></div>';
+
+	if ( $dry ) {
+		echo '<div class="notice notice-warning"><p><strong>این فقط پیش‌نمایش بود؛ هیچ‌چیز ذخیره نشد.</strong> تیک «فقط پیش‌نمایش» را بردارید و دوباره دکمه را بزنید.</p></div>';
+	} elseif ( 0 === (int) $report['written'] && $report['skipped'] > 0 ) {
+		echo '<div class="notice notice-warning"><p>هیچ خانه‌ای نوشته نشد چون همهٔ خانه‌ها <strong>از قبل پر بودند</strong>. اگر می‌خواهید مقدارهای تازه جایگزین شوند، تیک «بازنویسی خانه‌های پرشده» را بزنید.</p></div>';
+	} elseif ( 0 === (int) $report['written'] ) {
+		echo '<div class="notice notice-warning"><p>هیچ خانه‌ای نوشته نشد. جدول زیر و فهرست‌های بالا نشان می‌دهند چرا.</p></div>';
 	}
+	if ( ! empty( $report['failed'] ) ) {
+		echo '<div class="notice notice-error"><p><strong>ذخیره‌نشده (پایگاه داده مقدار را نپذیرفت):</strong> ' . esc_html( implode( '، ', $report['failed'] ) ) . '</p></div>';
+	}
+	if ( $report['missing'] ) {
+		echo '<p><strong>نوشته ندارند (' . esc_html( sa_fa_digits( count( $report['missing'] ) ) ) . '):</strong> ' . esc_html( implode( '، ', $report['missing'] ) ) . ' — با دکمهٔ «ساخت پیش‌نویس‌های جاافتاده» بسازید، بعد دوباره همین دکمه را بزنید.</p>';
+	}
+	if ( $report['unknown'] ) {
+		echo '<p><strong>نامک ناشناخته:</strong> ' . esc_html( implode( '، ', $report['unknown'] ) ) . '</p>';
+	}
+	if ( empty( $report['rows'] ) ) {
+		return;
+	}
+	echo '<table class="widefat striped"><thead><tr><th>شهرستان</th><th>وضعیت</th><th>' . ( $dry ? 'آمادهٔ نوشتن' : 'نوشته شد' ) . '</th><th>رد شد (پر بود)</th></tr></thead><tbody>';
+	foreach ( $report['rows'] as $row ) {
+		$title = isset( $row['title'] ) && '' !== $row['title'] ? $row['title'] : $row['slug'];
+		echo '<tr><td><a href="' . esc_url( (string) get_edit_post_link( $row['post_id'] ) ) . '">' . esc_html( $title ) . '</a> <code>' . esc_html( $row['slug'] ) . '</code></td>';
+		echo '<td>' . esc_html( isset( $row['status'] ) ? $row['status'] : '' ) . '</td>';
+		echo '<td>' . esc_html( $row['written'] ? implode( '، ', $row['written'] ) : '—' ) . '</td>';
+		echo '<td>' . esc_html( $row['skipped'] ? implode( '، ', $row['skipped'] ) : '—' ) . '</td></tr>';
+	}
+	echo '</tbody></table>';
 }
 
 /**
