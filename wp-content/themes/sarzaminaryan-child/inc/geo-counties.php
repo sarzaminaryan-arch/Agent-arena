@@ -688,6 +688,7 @@ function sa_county_coverage() {
 			'missing'   => count( array_filter( $items, function ( $i ) {
 				return 'missing' === $i['state'];
 			} ) ),
+			'data'      => $items ? (int) round( array_sum( wp_list_pluck( $items, 'profile' ) ) / count( $items ) ) : 0,
 		);
 	}
 	return $out;
@@ -772,8 +773,9 @@ function sa_county_coverage_screen() {
 	if ( $notice ) {
 		echo '<div class="notice notice-success"><p>' . esc_html( $notice ) . '</p></div>';
 	}
+	echo '<p class="description">ستون <strong>مقاله‌ها</strong> = چند شهرستان نوشتهٔ منتشرشده دارد. ستون <strong>دادهٔ پرشده</strong> = چند درصد خانه‌های اطلاعاتی (جمعیت، مرکز، مساحت، مختصات…) پر شده‌اند؛ ورود داده از گیت‌هاب این ستون را بالا می‌برد، نه ستون مقاله‌ها را.</p>';
 	echo '<p>' . esc_html( sprintf( 'منتشرشده: %s · پیش‌نویس: %s · باقی‌مانده: %s از %s', sa_fa_digits( $t_pub ), sa_fa_digits( $t_draft ), sa_fa_digits( $t_total - $t_pub - $t_draft ), sa_fa_digits( $t_total ) ) ) . '</p>';
-	echo '<table class="widefat striped"><thead><tr><th>استان</th><th>کل</th><th>منتشر</th><th>پیش‌نویس</th><th>نساخته</th><th>پیشرفت</th><th></th></tr></thead><tbody>';
+	echo '<table class="widefat striped"><thead><tr><th>استان</th><th>کل</th><th>منتشر</th><th>پیش‌نویس</th><th>نساخته</th><th>مقاله‌ها</th><th>دادهٔ پرشده</th><th></th></tr></thead><tbody>';
 	foreach ( $coverage as $slug => $c ) {
 		$pct = $c['total'] ? (int) round( 100 * $c['published'] / $c['total'] ) : 0;
 		echo '<tr>';
@@ -783,6 +785,8 @@ function sa_county_coverage_screen() {
 		echo '<td>' . esc_html( sa_fa_digits( $c['draft'] ) ) . '</td>';
 		echo '<td>' . esc_html( sa_fa_digits( $c['missing'] ) ) . '</td>';
 		echo '<td><div class="sa-bar"><span style="width:' . esc_attr( $pct ) . '%"></span></div> ' . esc_html( sa_fa_digits( $pct ) ) . '٪</td>';
+		$dpct = isset( $c['data'] ) ? (int) $c['data'] : 0;
+		echo '<td><div class="sa-bar"><span style="width:' . esc_attr( $dpct ) . '%;background:#2271b1"></span></div> ' . esc_html( sa_fa_digits( $dpct ) ) . '٪</td>';
 		echo '<td>';
 		if ( $c['missing'] && current_user_can( 'publish_posts' ) ) {
 			echo '<form method="post" style="margin:0">';
