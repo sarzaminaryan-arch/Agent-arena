@@ -129,6 +129,12 @@ class TargetValidationTests(unittest.TestCase):
                 if name not in proper:
                     self.assertIsNone(poi.classify(name, 'جاذبه‌ها'), name)
 
+    def test_type_qualifier_does_not_make_generic_park_a_named_place(self):
+        self.assertIsNone(poi.classify('بوستان (پارک)', 'جاذبه‌ها'))
+
+    def test_garden_design_style_is_not_a_specific_destination(self):
+        self.assertIsNone(poi.classify('باغ ایرانی', 'جاذبه‌ها'))
+
     def test_bridge_named_seven_springs_is_not_a_spring(self):
         self.assertEqual(poi.classify('پل هفت‌چشمه', 'جاذبه‌ها'), 'poi_heritage')
 
