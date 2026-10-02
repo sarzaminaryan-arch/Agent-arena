@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 811
+   },
+   "others": {
+    "wikipedia": 810.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 117564
@@ -38,6 +46,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%DB%8C%D8%A8%D8%A7%D8%AF",
    "value": 3
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278169",
+   "value": 56562
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%DB%8C%D8%A8%D8%A7%D8%AF",
+   "value": "میانگین بارندگی در دورهٔ آماری بیست ساله (۵۴ تا ۷۴) شهرستان ۱۸۰٫۵ میلی‌متر می‌باشد. این شهرستان در تابستان تحت تأثیر بادهای ۱۲۰ روزهٔ سیستان قرار می‌گیرد که باعث افزایش گرد و غبار هوا و وارد شدن خسارت به مزارع صیفی‌کاری می‌گردد."
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -47,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%DB%8C%D8%A8%D8%A7%D8%AF",
-   "value": 810.0
+   "url": "https://www.wikidata.org/wiki/Q1278169",
+   "value": 811
   },
   "google_map_url": {
    "fetched": "2026-10-02",

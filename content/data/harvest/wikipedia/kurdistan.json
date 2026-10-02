@@ -95,17 +95,17 @@
  "marivan": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86",
-  "area": null,
+  "area": 941.0,
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": null,
   "poi_candidates": [],
   "population": 195263,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "marivan",
-  "villages": null
+  "villages": 151
  },
  "qorveh": {
   "_fetched": "2026-10-02",
@@ -114,13 +114,13 @@
   "census_year": null,
   "cities": 4,
   "climate": null,
-  "districts": null,
+  "districts": 1388,
   "elevation": null,
   "poi_candidates": [],
   "population": 140192,
   "rural_districts": null,
   "slug": "qorveh",
-  "villages": null
+  "villages": 12
  },
  "sanandaj": {
   "_fetched": "2026-10-02",
@@ -140,7 +140,7 @@
  "saqqez": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%82%D8%B2",
-  "area": null,
+  "area": 900.0,
   "census_year": null,
   "cities": null,
   "climate": null,

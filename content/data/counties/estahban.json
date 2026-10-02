@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q1270597",
    "value": "استهبان"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270597",
+   "value": 36410
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AA%D9%87%D8%A8%D8%A7%D9%86",
+   "value": "حداکثر گرمای تابستان در این منطقه ۴۴ درجه و حداقل سرمای زمستان ۴ درجه زیر صفر است. متوسط باران سالانه بین ۲۵۰ تا ۴۵۰ میلی‌متر گزارش شده است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",

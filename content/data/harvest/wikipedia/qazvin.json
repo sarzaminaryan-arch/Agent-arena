@@ -32,7 +32,7 @@
  "avaj": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-  "area": null,
+  "area": 2776.0,
   "census_year": null,
   "cities": 2,
   "climate": null,
@@ -40,7 +40,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 43798,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "avaj",
   "villages": null
  },
@@ -61,7 +61,7 @@
    "قورقورک"
   ],
   "population": 122994,
-  "rural_districts": null,
+  "rural_districts": 9,
   "slug": "buin-zahra",
   "villages": null
  },
@@ -76,7 +76,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 596932,
-  "rural_districts": null,
+  "rural_districts": 14,
   "slug": "qazvin-city",
   "villages": null
  },

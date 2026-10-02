@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1648
+   },
+   "others": {
+    "wikipedia": 1600.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -29,6 +38,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
    "value": 5
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1279095",
+   "value": 235281
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": "نجف آباد در دشتی با آب و هوای معتدل و نسبتاً خشک قرار گرفته‌است. میانگین بارش سالیانه در آن ۱۵۰ میلی‌متر بوده که بیشتر در فصل‌های سرد انجام می‌گیرد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -46,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-   "value": 1600.0
+   "url": "https://www.wikidata.org/wiki/Q1279095",
+   "value": 1648
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -123,6 +146,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279095",
    "value": 319205
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 5
   }
  },
  "name": "نجف‌آباد",

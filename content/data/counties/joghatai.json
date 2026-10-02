@@ -31,12 +31,26 @@
    "url": "https://www.wikidata.org/wiki/Q2610787",
    "value": "جغتای"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2610787",
+   "value": 9268
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2610787",
+   "value": 1360
   },
   "google_map_url": {
    "fetched": "2026-10-02",

@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q123240194",
    "value": "زارچ"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D8%B1%DA%86",
+   "value": 1
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q123240194",
+   "value": 11691
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +43,20 @@
    "status": "auto",
    "url": "",
    "value": 22
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D8%B1%DA%86",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q123240194",
+   "value": 1181
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -82,6 +110,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q123240194",
    "value": 20786
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D8%B1%DA%86",
+   "value": 3
   }
  },
  "name": "زارچ",

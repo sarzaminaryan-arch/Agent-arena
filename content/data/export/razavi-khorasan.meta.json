@@ -1,11 +1,14 @@
 {
  "bajestan": {
+  "sa_city_elevation": 1259,
   "sa_city_latitude": 34.51627,
   "sa_city_longitude": 58.18332,
+  "sa_city_population": 11741,
   "sa_cty_area": 5476,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بجستان",
   "sa_cty_cities": 2,
+  "sa_cty_climate": "بجستان دارای آب و هوای گرم و خشک در بخش‌های شمالی (نزدیک کویر نمک) و آب و هوای نسبتاً معتدل در بخش‌های مرکزی، جنوبی و شرقی است. ارتفاع شهر بجستان از سطح دریا ۱٬۲۶۵ متر است.",
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "gonabad - شرق\nferdows - جنوب\nkhalilabad - شمال\nmahvelat - شمال‌شرق\nsarayan - جنوب‌شرق\neshqabad - غرب",
   "sa_cty_population": 31207,
@@ -14,6 +17,7 @@
  "bakharz": {
   "sa_city_latitude": 35.005,
   "sa_city_longitude": 60.33361,
+  "sa_city_population": 9044,
   "sa_cty_area": 1889,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "باخرز",
@@ -26,6 +30,7 @@
  "bardaskan": {
   "sa_cty_area": 7126,
   "sa_cty_cities": 3,
+  "sa_cty_climate": "شهرستان بردسکن از دو منطقه کوهستانی در شمال و منطقهٔ جلگه‌ای در جنوب شامل بیابان، نمکزار و شنزارهای کرانه کویر نمک شکل گرفته است.",
   "sa_cty_districts": 3
  },
  "binalud": {
@@ -36,8 +41,10 @@
   "sa_cty_rural_districts": 3
  },
  "chenaran": {
+  "sa_city_elevation": 1184,
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 59.15,
+  "sa_city_population": 53879,
   "sa_cty_area": 2073,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "چناران",
@@ -45,11 +52,14 @@
   "sa_cty_districts": 3,
   "sa_cty_neighbors": "golbahar - جنوب\nkalat - شرق\ndargaz - شمال\nfaruj - شمال‌غرب",
   "sa_cty_population": 155013,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.66667,59.15"
  },
  "dargaz": {
+  "sa_city_elevation": 476,
   "sa_city_latitude": 37.33333,
   "sa_city_longitude": 59.08333,
+  "sa_city_population": 36762,
   "sa_cty_area": 3777,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "درگز",
@@ -57,22 +67,28 @@
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "chenaran - جنوب\nfaruj - غرب\nkalat - جنوب‌شرق",
   "sa_cty_population": 72355,
+  "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.33333,59.08333"
  },
  "davarzan": {
+  "sa_city_elevation": 916,
   "sa_city_latitude": 36.31667,
   "sa_city_longitude": 57.08333,
+  "sa_city_population": 2744,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "داورزن",
   "sa_cty_cities": 2,
   "sa_cty_districts": 1,
   "sa_cty_neighbors": "joghatai - شمال\nsheshtamad - جنوب‌شرق\nmeyami - غرب",
   "sa_cty_population": 21911,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.31667,57.08333"
  },
  "fariman": {
+  "sa_city_elevation": 1398,
   "sa_city_latitude": 35.7,
   "sa_city_longitude": 59.83333,
+  "sa_city_population": 39515,
   "sa_cty_area": 3356,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فریمان",
@@ -80,6 +96,7 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "zaveh - جنوب‌غرب\ntorbat-heydarieh - جنوب‌غرب\nbakharz - جنوب‌شرق\ngolbahar - شمال‌غرب\nsarakhs - شمال‌شرق\nsaleh-abad - شرق",
   "sa_cty_population": 99001,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.7,59.83333"
  },
  "firuzeh": {
@@ -93,11 +110,14 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "mian-jolgeh - جنوب\nkhoshab - غرب\ngolbahar - شمال‌شرق\nsheshtamad - جنوب‌غرب",
   "sa_cty_population": 37539,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.28583,58.58611"
  },
  "golbahar": {
+  "sa_city_elevation": 1205,
   "sa_city_latitude": 36.49722,
   "sa_city_longitude": 59.19444,
+  "sa_city_population": 36877,
   "sa_cty_area": 1007,
   "sa_cty_center": "گلبهار",
   "sa_cty_cities": 2,
@@ -106,13 +126,15 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.49722,59.19444"
  },
  "gonabad": {
-  "sa_city_elevation": 1105,
+  "sa_city_elevation": 1095,
   "sa_city_latitude": 34.41667,
   "sa_city_longitude": 58.66667,
+  "sa_city_population": 40773,
   "sa_cty_area": 5789,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گناباد",
   "sa_cty_cities": 4,
+  "sa_cty_climate": "شهرستان گناباد، جنوبی‌ترین شهرستان استان خراسان رضوی است. این شهرستان در طول شرقی ۴۶–۵۷ تا ۲۷–۵۹ و عرض شمالی ۰۳–۳۴ تا ۵۴–۳۴ قرار دارد.",
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "bajestan - غرب\nsarayan - جنوب\nmahvelat - شمال\nroshtkhar - شمال‌شرق\nqayenat - جنوب‌شرق",
   "sa_cty_population": 88753,
@@ -120,8 +142,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.41667,58.66667"
  },
  "joghatai": {
+  "sa_city_elevation": 1360,
   "sa_city_latitude": 36.63566,
   "sa_city_longitude": 57.07351,
+  "sa_city_population": 9268,
   "sa_cty_area": 1716,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جغتای",
@@ -132,8 +156,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63566,57.07351"
  },
  "jovein": {
+  "sa_city_elevation": 1073,
   "sa_city_latitude": 36.70523,
   "sa_city_longitude": 57.41732,
+  "sa_city_population": 14723,
   "sa_cty_area": 1653,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نقاب",
@@ -144,8 +170,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.70523,57.41732"
  },
  "kalat": {
+  "sa_city_elevation": 881,
   "sa_city_latitude": 36.9,
   "sa_city_longitude": 59.9,
+  "sa_city_population": 7687,
   "sa_cty_area": 3503,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کلات",
@@ -153,12 +181,14 @@
   "sa_cty_districts": 3,
   "sa_cty_neighbors": "chenaran - غرب\ndargaz - شمال‌غرب\nsarakhs - جنوب‌شرق",
   "sa_cty_population": 36237,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.9,59.9"
  },
  "kashmar": {
   "sa_city_elevation": 1060,
   "sa_city_latitude": 35.23833,
   "sa_city_longitude": 58.46556,
+  "sa_city_population": 102282,
   "sa_cty_area": 1151,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کاشمر",
@@ -169,8 +199,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.23833,58.46556"
  },
  "khaf": {
+  "sa_city_elevation": 975,
   "sa_city_latitude": 34.5,
   "sa_city_longitude": 60,
+  "sa_city_population": 33189,
   "sa_cty_area": 9827,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خواف",
@@ -178,11 +210,14 @@
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "bakharz - شمال‌شرق\ntaybad - شمال‌شرق\nroshtkhar - شمال‌غرب\nzirkuh - جنوب\nqayenat - جنوب‌غرب",
   "sa_cty_population": 138972,
+  "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.5,60.0"
  },
  "khalilabad": {
+  "sa_city_elevation": 980,
   "sa_city_latitude": 35.16667,
   "sa_city_longitude": 58.21667,
+  "sa_city_population": 12751,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خلیلآباد",
   "sa_cty_cities": 2,
@@ -192,8 +227,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.16667,58.21667"
  },
  "khoshab": {
+  "sa_city_elevation": 1212,
   "sa_city_latitude": 36.43333,
   "sa_city_longitude": 58.06667,
+  "sa_city_population": 5932,
   "sa_cty_area": 1869,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سلطانآباد",
@@ -206,21 +243,27 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.43333,58.06667"
  },
  "kuhsorkh": {
+  "sa_city_elevation": 1668,
   "sa_city_latitude": 35.46667,
   "sa_city_longitude": 58.45,
+  "sa_city_population": 5687,
   "sa_cty_area": 2198,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ریوش",
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "kashmar - جنوب\nmian-jolgeh - شمال\nsheshtamad - شمال‌غرب\ntorbat-heydarieh - شرق",
   "sa_cty_poi_heritage": "گورستان نامق\nمزار پشت پنجه پدر\nمزار پشت پنجه پسر\nحمام بند قراء\nتپه پشت پشته",
   "sa_cty_poi_nature": "سد شاهی\nرودخانه نابای",
   "sa_cty_poi_offbeat": "قصون\nریوش",
   "sa_cty_population": 25014,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.46667,58.45"
  },
  "mahvelat": {
+  "sa_city_elevation": 931,
   "sa_city_latitude": 35.01814,
   "sa_city_longitude": 58.78916,
+  "sa_city_population": 18120,
   "sa_cty_area": 3317,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فیضآباد",
@@ -234,32 +277,41 @@
  "mashhad": {
   "sa_cty_area": 9169,
   "sa_cty_cities": 4,
-  "sa_cty_districts": 3
+  "sa_cty_districts": 3,
+  "sa_cty_rural_districts": 11
  },
  "mian-jolgeh": {
-  "sa_city_elevation": 15,
+  "sa_city_elevation": 1126,
   "sa_city_latitude": 35.88333,
   "sa_city_longitude": 58.65,
+  "sa_city_population": 1993,
   "sa_cty_area": 2911,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "عشقآباد",
   "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "firuzeh - شمال\nkuhsorkh - جنوب\nsheshtamad - غرب\ntorbat-heydarieh - جنوب‌شرق",
   "sa_cty_population": 39288,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.88333,58.65"
  },
  "neyshabur": {
-  "sa_cty_districts": 2
+  "sa_cty_cities": 4,
+  "sa_cty_climate": "هوای بخش‌های بار و سرولایت، قدمگاه، فدیشه و حومه معتدل و هوای قراء و قصباتی که در کوه و دره‌های بینالود واقع شده‌اند سرد است، لیکن دهستان عشق‌آباد و طاغنکوه که در جنوب این شهرستان قرار دارند شوره‌زار و گرمسیر است به‌خصوص در فصل بهار و پائیز بادهای شدیدی در این محل می‌وزد، در بعضی سال‌ها بر اثر شدت وزش باد قسمتی از کشاورزی اهالی زیر شن مستور می‌شود. آب و هوای نیشابور در شمال و جنوب متفاوت است.",
+  "sa_cty_districts": 2,
+  "sa_cty_rural_districts": 13
  },
  "quchan": {
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
-  "sa_cty_poi_offbeat": "برسلان\nدربادام\nشمخال\nمنطقه حفاظت‌شده"
+  "sa_cty_poi_offbeat": "برسلان\nدربادام\nشمخال\nمنطقه حفاظت‌شده",
+  "sa_cty_rural_districts": 7
  },
  "roshtkhar": {
-  "sa_city_elevation": 1150,
+  "sa_city_elevation": 1149,
   "sa_city_latitude": 34.91667,
   "sa_city_longitude": 59.36667,
+  "sa_city_population": 7514,
   "sa_cty_area": 3598,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رشتخوار",
@@ -272,12 +324,14 @@
  },
  "sabzevar": {
   "sa_cty_area": 7217,
+  "sa_cty_cities": 28,
   "sa_cty_districts": 2
  },
  "saleh-abad": {
-  "sa_city_elevation": 3,
+  "sa_city_elevation": 667,
   "sa_city_latitude": 35.68806,
   "sa_city_longitude": 61.09556,
+  "sa_city_population": 8625,
   "sa_cty_area": 3183,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "صالحآباد",
@@ -288,8 +342,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.68806,61.09556"
  },
  "sarakhs": {
+  "sa_city_elevation": 276,
   "sa_city_latitude": 36.3,
   "sa_city_longitude": 60.81667,
+  "sa_city_population": 42179,
   "sa_cty_area": 5397,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرخس",
@@ -297,11 +353,14 @@
   "sa_cty_districts": 1,
   "sa_cty_neighbors": "saleh-abad - جنوب\nkalat - شمال‌غرب\nfariman - جنوب‌غرب",
   "sa_cty_population": 97519,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.3,60.81667"
  },
  "sheshtamad": {
+  "sa_city_elevation": 1357,
   "sa_city_latitude": 35.81667,
   "sa_city_longitude": 57.93333,
+  "sa_city_population": 3108,
   "sa_cty_area": 2937,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ششتمد",
@@ -311,16 +370,19 @@
   "sa_cty_poi_nature": "قله",
   "sa_cty_poi_offbeat": "شهرستان بردسکن\nمزینان\nششتمد\nشهرستان سبزوار\nصخره‌نوردی\nپادر",
   "sa_cty_population": 24261,
+  "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.81667,57.93333"
  },
  "taybad": {
-  "sa_city_elevation": 810,
+  "sa_city_elevation": 811,
   "sa_city_latitude": 34.8,
   "sa_city_longitude": 60.66667,
+  "sa_city_population": 56562,
   "sa_cty_area": 2929,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تایباد",
   "sa_cty_cities": 3,
+  "sa_cty_climate": "میانگین بارندگی در دورهٔ آماری بیست ساله (۵۴ تا ۷۴) شهرستان ۱۸۰٫۵ میلی‌متر می‌باشد. این شهرستان در تابستان تحت تأثیر بادهای ۱۲۰ روزهٔ سیستان قرار می‌گیرد که باعث افزایش گرد و غبار هوا و وارد شدن خسارت به مزارع صیفی‌کاری می‌گردد.",
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "bakharz - شمال‌غرب\nkhaf - جنوب‌غرب\nsaleh-abad - شمال",
   "sa_cty_population": 117564,
@@ -328,9 +390,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.8,60.66667"
  },
  "torbat-heydarieh": {
-  "sa_city_elevation": 14,
+  "sa_city_elevation": 1351,
   "sa_city_latitude": 35.4,
   "sa_city_longitude": 59.31667,
+  "sa_city_population": 140019,
   "sa_cty_area": 3681,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تربت حیدریه",
@@ -355,6 +418,7 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دولتآباد",
   "sa_cty_cities": 2,
+  "sa_cty_climate": "میانگین دمای سالانه ۲۸ درجه سانتیگراد می‌باشد.",
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "torbat-heydarieh - شمال‌غرب\nroshtkhar - جنوب\nfariman - شمال‌شرق\nbakharz - شرق",
   "sa_cty_population": 67695,
@@ -365,8 +429,11 @@
   "sa_city_elevation": 1250,
   "sa_cty_area": 1102,
   "sa_cty_cities": 3,
+  "sa_cty_climate": "شهرستان زبرخان بر اساس طبقه‌بندی دومارتن، در منطقه آب‌وهوایی نیمه خشک قرار گرفته است که آب‌وهوای آن در نواحی کوهستانی معتدل و در نواحی پست به تدریج بر میزان دما افزوده و از میزان بارندگی کاسته می‌شود. متوسط درجه حرارت سالیانه در این منطقه ۱۲/۹ و میزان بارندگی طی دوره‌های آماری (۱۳۴۵–۷۵) حدود ۲۳۵ میلی‌متر برآورد شده است.",
   "sa_cty_districts": 2,
   "sa_cty_poi_heritage": "تپه اسحاق‌آباد\nکاروانسرای قدمگاه",
-  "sa_cty_poi_offbeat": "جاذبه‌های گردشگری\nاکوتوریسم\nفیروزه‌تراشی در نیشابور\nفهرست آثار ملی شهرستان زبرخان\nآسیاب سر تلخ\nکمه‌جوش"
+  "sa_cty_poi_offbeat": "جاذبه‌های گردشگری\nاکوتوریسم\nفیروزه‌تراشی در نیشابور\nفهرست آثار ملی شهرستان زبرخان\nآسیاب سر تلخ\nکمه‌جوش",
+  "sa_cty_rural_districts": 4,
+  "sa_cty_villages": 64
  }
 }

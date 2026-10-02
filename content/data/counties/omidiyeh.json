@@ -15,6 +15,20 @@
    "url": "https://www.wikidata.org/wiki/Q2639129",
    "value": "امیدیه"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%85%DB%8C%D8%AF%DB%8C%D9%87",
+   "value": 3
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2639129",
+   "value": 67427
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +36,20 @@
    "status": "auto",
    "url": "",
    "value": 115
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%85%DB%8C%D8%AF%DB%8C%D9%87",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2639129",
+   "value": 24
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -53,7 +81,6 @@
    "url": "",
    "value": {
     "aghajari": "جنوب‌شرق",
-    "ramhormoz": "شمال",
     "ramshir": "شمال‌غرب"
    }
   },
@@ -65,8 +92,7 @@
    "url": "",
    "value": [
     "aghajari",
-    "ramshir",
-    "ramhormoz"
+    "ramshir"
    ]
   },
   "population": {
@@ -75,6 +101,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2639129",
    "value": 92335
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%85%DB%8C%D8%AF%DB%8C%D9%87",
+   "value": 3
   }
  },
  "name": "امیدیه",

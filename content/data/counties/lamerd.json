@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 425
+   },
+   "others": {
+    "wikipedia": 52.0
+   }
+  }
+ },
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
@@ -22,6 +31,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
    "value": 5
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270499",
+   "value": 29380
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -30,12 +46,19 @@
    "url": "",
    "value": 249
   },
-  "elevation": {
+  "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
-   "value": 52.0
+   "value": 5
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270499",
+   "value": 425
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -91,6 +114,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270499",
    "value": 91782
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
+   "value": 10
   }
  },
  "name": "لامرد",

@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1540
+   },
+   "others": {
+    "wikipedia": 1541.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -14,6 +23,20 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q107423141",
    "value": "مروست"
+  },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+   "value": 1
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q107423141",
+   "value": 9379
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -32,10 +55,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
-   "value": 1541.0
+   "url": "https://www.wikidata.org/wiki/Q107423141",
+   "value": 1540
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -86,10 +109,18 @@
     "abarkuh-city",
     "anar"
    ]
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+   "value": 4
   }
  },
  "name": "مروست",
  "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
  ],

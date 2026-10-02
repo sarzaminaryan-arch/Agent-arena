@@ -37,6 +37,13 @@
    "url": "",
    "value": 116
   },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA%D8%A7%D9%86",
+   "value": 3
+  },
   "elevation": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -98,6 +105,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q79654547",
    "value": 44176
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA%D8%A7%D9%86",
+   "value": 6
   }
  },
  "name": "تفتان",

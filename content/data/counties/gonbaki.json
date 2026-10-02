@@ -8,16 +8,31 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A8%DA%A9%DB%8C",
    "value": 2292.0
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A8%DA%A9%DB%8C",
+   "value": 1
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A8%DA%A9%DB%8C",
    "value": 2
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A8%DA%A9%DB%8C",
+   "value": 4
   }
  },
  "name": "گنبکی",
  "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
  ],

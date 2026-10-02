@@ -1,8 +1,9 @@
 {
  "baharestan": {
-  "sa_city_elevation": 1047,
+  "sa_city_elevation": 1072,
   "sa_city_latitude": 35.52528,
   "sa_city_longitude": 51.16278,
+  "sa_city_population": 200393,
   "sa_cty_area": 97.3,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نسیمشهر",
@@ -14,9 +15,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.52528,51.16278"
  },
  "damavand": {
-  "sa_city_elevation": 2300,
+  "sa_city_elevation": 1959,
   "sa_city_latitude": 35.615,
   "sa_city_longitude": 52.18333,
+  "sa_city_population": 48380,
   "sa_cty_area": 1932,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دماوند",
@@ -29,22 +31,29 @@
   "sa_cty_poi_offbeat": "آویشن\nگون\nکل و بز\nتیهو\nدلیجه\nهویر",
   "sa_cty_poi_recreation": "پیست اسکی آبعلی",
   "sa_cty_population": 125480,
+  "sa_cty_rural_districts": 5,
+  "sa_cty_villages": 111,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.615,52.18333"
  },
  "eslamshahr": {
+  "sa_city_elevation": 1063,
   "sa_city_latitude": 35.56667,
   "sa_city_longitude": 51.23333,
+  "sa_city_population": 448129,
   "sa_cty_area": 193,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اسلامشهر",
+  "sa_cty_cities": 6,
   "sa_cty_distance_center": 20,
   "sa_cty_neighbors": "baharestan - جنوب‌غرب\nshahriar - شمال‌غرب\ntehran-city - شمال‌شرق\nrey - جنوب‌شرق",
   "sa_cty_population": 548620,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.56667,51.23333"
  },
  "firuzkuh": {
+  "sa_city_elevation": 1943,
   "sa_city_latitude": 35.73333,
   "sa_city_longitude": 52.75,
+  "sa_city_population": 17453,
   "sa_cty_area": 2386,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فیروزکوه",
@@ -59,19 +68,24 @@
  "malard": {
   "sa_city_latitude": 35.61,
   "sa_city_longitude": 50.69667,
+  "sa_city_population": 281027,
   "sa_cty_area": 930.3,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ملارد",
+  "sa_cty_cities": 2,
   "sa_cty_distance_center": 64,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "chaharbagh - شمال‌شرق\nfardis - شمال‌شرق\neshtehard - شمال‌غرب\nrobat-karim - شرق\nzarandieh - جنوب‌غرب",
   "sa_cty_poi_offbeat": "مهرچین",
   "sa_cty_population": 377292,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.61,50.69667"
  },
  "pakdasht": {
-  "sa_city_elevation": 1013,
+  "sa_city_elevation": 1030,
   "sa_city_latitude": 35.46667,
   "sa_city_longitude": 51.76667,
+  "sa_city_population": 236319,
   "sa_cty_area": 610,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پاکدشت",
@@ -82,8 +96,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.46667,51.76667"
  },
  "pardis": {
+  "sa_city_elevation": 1848,
   "sa_city_latitude": 35.74167,
   "sa_city_longitude": 51.77694,
+  "sa_city_population": 73363,
   "sa_cty_area": 299,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پردیس",
@@ -92,11 +108,14 @@
   "sa_cty_districts": 3,
   "sa_cty_neighbors": "shemiranat - شمال‌غرب\npakdasht - جنوب\ntehran-city - غرب\ndamavand - شرق",
   "sa_cty_population": 169060,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.74167,51.77694"
  },
  "pishva": {
+  "sa_city_elevation": 953,
   "sa_city_latitude": 35.3,
   "sa_city_longitude": 51.73333,
+  "sa_city_population": 59184,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پیشوا",
   "sa_cty_distance_center": 52,
@@ -105,9 +124,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.3,51.73333"
  },
  "qarchak": {
-  "sa_city_elevation": 15,
+  "sa_city_elevation": 963,
   "sa_city_latitude": 35.41667,
   "sa_city_longitude": 51.56667,
+  "sa_city_population": 231075,
   "sa_cty_area": 90.2,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قرچک",
@@ -117,8 +137,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.41667,51.56667"
  },
  "qods": {
+  "sa_city_elevation": 1181,
   "sa_city_latitude": 35.71667,
   "sa_city_longitude": 51.06667,
+  "sa_city_population": 309605,
   "sa_cty_area": 81.2,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قدس",
@@ -129,8 +151,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.71667,51.06667"
  },
  "rey": {
+  "sa_city_elevation": 1180,
   "sa_city_latitude": 35.38333,
   "sa_city_longitude": 51.33333,
+  "sa_city_population": 250000,
   "sa_cty_area": 2205.1,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شهر ری",
@@ -141,9 +165,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.38333,51.33333"
  },
  "robat-karim": {
-  "sa_city_elevation": 1075,
+  "sa_city_elevation": 1038,
   "sa_city_latitude": 35.5,
   "sa_city_longitude": 51.05,
+  "sa_city_population": 105393,
   "sa_cty_area": 329,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رباطکریم",
@@ -153,26 +178,32 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,51.05"
  },
  "shahriar": {
-  "sa_city_elevation": 1140,
+  "sa_city_elevation": 1159,
   "sa_city_latitude": 35.65907,
   "sa_city_longitude": 51.05953,
+  "sa_city_population": 309607,
   "sa_cty_area": 335.9,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شهریار",
   "sa_cty_cities": 6,
+  "sa_cty_climate": "شهرستان شهریار بر روی دشت آبرفتی وسیعی قرار گرفته که حاصل رسوبات رودخانه‌هایی چون کرج و شادچای است. این موقعیت، خاکی عمیق و بسیار حاصلخیز را برای کشاورزی و باغداری فراهم آورده است.",
   "sa_cty_distance_center": 31,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "qods - شمال\nfardis - شمال‌غرب\nbaharestan - جنوب‌شرق\nrobat-karim - جنوب\neslamshahr - جنوب‌شرق",
   "sa_cty_population": 744210,
+  "sa_cty_rural_districts": 6,
+  "sa_cty_villages": 50,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.65907,51.05953"
  },
  "shemiranat": {
   "sa_city_elevation": 1600,
   "sa_city_latitude": 35.93333,
   "sa_city_longitude": 51.58333,
+  "sa_cty_area": 1111,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شمیران",
   "sa_cty_cities": 6,
+  "sa_cty_climate": "دمای سالانه شمیران در ایستگاه هواشناسی سعدآباد طبق آمار ۲۰ ساله (۱۳۵۳–۱۳۷۳) ۱۲/۹ درجه سانتیگراد است. میزان بارندگی شمیران از سال ۱۹۸۸ تا ۲۰۰۷ به‌طور متوسط ۴۳۵/۸ میلیمتر بوده است.",
   "sa_cty_distance_center": 32,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "pardis - جنوب‌شرق\ntehran-city - جنوب‌غرب\nnowshahr - شمال\nnur - شمال‌شرق\nchalus - شمال‌غرب",
@@ -180,25 +211,33 @@
   "sa_cty_poi_nature": "سد لتیان\nپارک جنگلی لویزان\nآبشار دوقلو\nبوستان جنگلی لویزان",
   "sa_cty_poi_offbeat": "امامه\nدربندسر\nمهرچال\nاسون\nمنظریه\nتوچال\nشمشک\nدیزین",
   "sa_cty_population": 47279,
+  "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.93333,51.58333"
  },
  "tehran-city": {
+  "sa_city_elevation": 1179,
   "sa_city_latitude": 35.68333,
   "sa_city_longitude": 51.4,
+  "sa_city_population": 8693706,
   "sa_cty_area": 1300.3,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تهران",
   "sa_cty_cities": 3,
+  "sa_cty_districts": 3,
   "sa_cty_neighbors": "eslamshahr - جنوب‌غرب\nqods - غرب\nshemiranat - شمال‌شرق\nqarchak - جنوب‌شرق\npardis - شرق",
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.68333,51.4"
  },
  "varamin": {
+  "sa_city_elevation": 920,
   "sa_city_latitude": 35.2,
   "sa_city_longitude": 51.7,
+  "sa_city_population": 225628,
   "sa_cty_area": 1541,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ورامین",
   "sa_cty_distance_center": 60,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "pishva - شمال\ngarmsar - شرق\nqom-city - جنوب‌غرب",
   "sa_cty_population": 283742,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.2,51.7"

@@ -4,13 +4,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B9%D9%81%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
   "area": 1105.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 21963,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "jafarabady",
   "villages": null
  },
@@ -19,13 +19,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%87%DA%A9",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "kahak",
   "villages": null
  },
@@ -36,7 +36,7 @@
   "census_year": null,
   "cities": 4,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": 25.0,
   "poi_candidates": [
    "حرم فاطمه معصومه",
@@ -66,7 +66,7 @@
    "تنگه قاهان"
   ],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "qom-city",
   "villages": null
  }

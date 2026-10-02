@@ -37,6 +37,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%85_%D9%88_%D8%B5%D9%81%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
    "value": 2
   },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4853265",
+   "value": 1222
+  },
   "google_map_url": {
    "fetched": "2026-10-02",
    "note": "ساخته‌شده از مختصات مرکز شهرستان",
@@ -107,6 +114,20 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4853265",
    "value": 16887
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%85_%D9%88_%D8%B5%D9%81%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 4
+  },
+  "villages": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%85_%D9%88_%D8%B5%D9%81%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 1369
   }
  },
  "name": "بام و صفی‌آباد",

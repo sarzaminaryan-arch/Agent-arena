@@ -4,13 +4,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%87%D8%B1",
   "area": 2120.0,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 154530,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "ahar",
   "villages": null
  },
@@ -20,8 +20,8 @@
   "area": 738.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
-  "districts": null,
+  "climate": "این شهرستان در منطقه کوهستانی واقع شده و دارای تابستان‌های معتدل و زمستان‌های سرد و برفی می‌باشد. ارتفاع این شهرستان از سطح آزاد دریا ۱۴۷٫۸ متر بوده و دارای زمین‌های حاصلخیز و پرمحصول و مستعد کشاورزی می‌باشد و قسمتی از اراضی در نواحی دریاچه ارومیه در منطقه شوره‌زار و پست واقع شده‌است.",
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "رحمانلو",
@@ -41,7 +41,7 @@
   "census_year": null,
   "cities": 3,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": null,
   "poi_candidates": [],
   "population": 110311,
@@ -74,7 +74,7 @@
   "area": 2795.0,
   "census_year": null,
   "cities": 2,
-  "climate": null,
+  "climate": "آب و هوای بستان آباد به دلیل قرار گرفتن در دامنه کوهستان سهند در زمستان سرد و پربرف و در تابستان معتدل است. دمای مرکز این شهرستان گاهی به ۴۶- درجه رسیده و به این دلیل سردترین شهر ایران لقب گرفته‌است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -85,7 +85,7 @@
    "سهند"
   ],
   "population": 94769,
-  "rural_districts": null,
+  "rural_districts": 9,
   "slug": "bostanabad",
   "villages": null
  },
@@ -144,13 +144,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%88%D8%B1%D8%A7%D9%86%D8%AF",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "hurand",
   "villages": null
  },
@@ -183,7 +183,7 @@
    "File:رودخانه ارس.jpg"
   ],
   "population": 85350,
-  "rural_districts": null,
+  "rural_districts": 2,
   "slug": "jolfa",
   "villages": null
  },
@@ -193,7 +193,7 @@
   "area": 2072.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "[[پرونده:Babak Catle 2.jpg|چپ|بندانگشتی|250px|قلعه بابک مقر بابک خرمدین.]] کلیبر دارای آب و هوای معتدل کوهستانی بوده و سراسر منطقه را جنگل‌های تنک و مراتع سرسبز پوشانیده و محل ییلاق عشایر دشت مغان و ارسباران (قره داغ) است. این شهرستان تحت تأثیر آب و هوای خزری بوده و اغلب اوقات کوهستان های مرتفع را مه غلیظ می‌پوشاند و رود ارس از شمال آن می‌گذرد.",
   "districts": null,
   "elevation": null,
   "poi_candidates": [
@@ -226,20 +226,20 @@
   "population": 48837,
   "rural_districts": null,
   "slug": "kaleybar",
-  "villages": null
+  "villages": 186
  },
  "khoda-afarin": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%AF%D8%A7%D8%A2%D9%81%D8%B1%DB%8C%D9%86",
   "area": 1526.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 32995,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "khoda-afarin",
   "villages": null
  },
@@ -248,8 +248,8 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
   "area": 33.0,
   "census_year": null,
-  "cities": null,
-  "climate": null,
+  "cities": 2,
+  "climate": "آب و هوای ملکان تحت‌تأثیر جریان‌های آسیای مرکزی، اقیانوس اطلس، دریای خزر، دریای سیاه و دریای مدیترانه قرار می‌گیرد. جریان‌های آسیای مرکزی در فصل‌های بهار، پاییز و زمستان موجب بارندگی و گاهی برف می‌شوند.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -271,7 +271,7 @@
    "قره‌تپه"
   ],
   "population": 85938,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "malekan",
   "villages": null
  },
@@ -303,7 +303,7 @@
   "population": 244971,
   "rural_districts": null,
   "slug": "marand",
-  "villages": null
+  "villages": 113
  },
  "mianeh": {
   "_fetched": "2026-10-02",
@@ -311,7 +311,7 @@
   "area": null,
   "census_year": null,
   "cities": 4,
-  "climate": null,
+  "climate": "شهرستان میانه دارای دو نوع آب و هوا در سال می‌باشد به‌طوری‌که در نیمی از سال بهار و تابستان آب و هوایی نیمه خشک و گرم و در فصل پاییز دارای آب و هوای سرد و کوهستانی می‌باشد. متوسط بارش سالانه ۳۲۰ میلی‌متر در نقاط کم ارتفاع جنوب شرقی و در بالای ارتفاعات بزقوش (بخش کندوان) از ۳۹۳ تا ۶۰۰ میلی‌متر متغیر است.",
   "districts": 3,
   "elevation": null,
   "poi_candidates": [],
@@ -344,7 +344,7 @@
    "گل محمدی"
   ],
   "population": 158270,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "osku",
   "villages": null
  },
@@ -420,12 +420,12 @@
   "area": null,
   "census_year": null,
   "cities": 1403,
-  "climate": null,
+  "climate": "این شهرستان در منطقه کوهستانی و در دامنه های رشته کوه بزقوش واقع شده و دارای تابستان‌های معتدل و زمستان‌های سرد و برفی می‌باشد. این شهرستان، دارای باغات، مراتع و مزارع متعدد می‌باشد و قسمتی از اراضی و روستاهای آن در کوهپایه های بزقوش قرار گرفته و دارای مناظر بکر و چشم‌نوازی است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 21387,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "torkamanchay",
   "villages": null
  },
@@ -435,7 +435,7 @@
   "area": 4570.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "به‌خاطر اینکه معدن در منطقهٔ کوهستانی واقع شده‌است، در این مکان شاهد زمستان‌هایی سرد و یخبندان و تابستان‌های معتدل هستیم. میانگین حداکثر درجهٔ حرارت در تابستان ۳۳ درجهٔ سانتی‌گراد و در زمستان ۲۲ درجهٔ سانتی‌گراد ثبت شده‌است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],

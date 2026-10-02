@@ -22,6 +22,27 @@
    "url": "https://www.wikidata.org/wiki/Q1286443",
    "value": "مهریز"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+   "value": 1
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286443",
+   "value": 34237
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+   "value": "شهرستان مهریز از دو منطقهٔ خشک و نیمه‌خشک تشکیل شده‌است: مناطقی از قبیل دشت بهادران در شمال شرقی و مناطق جنوبی این شهرستان در زمره مناطق خشک و دامنه‌های شیرکوه در شمال غربی مهریز و برخی از دامنه‌های غربی، منطقهٔ نیمه‌خشک آن را به وجود می‌آورند. بنابراین می‌توان نتیجه گرفت در گسترهٔ این شهرستان هرچه از شمال به جنوب و از غرب به شرق پیش برویم از میزان بارندگی کاسته شده و بر خشکی محیط افزوده می‌گردد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +50,20 @@
    "status": "auto",
    "url": "",
    "value": 69
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+   "value": 1
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286443",
+   "value": 1475
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -86,6 +121,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286443",
    "value": 51733
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+   "value": 5
   }
  },
  "name": "مهریز",

@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 480
+   },
+   "others": {
+    "wikipedia": 476.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -46,10 +55,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
-   "value": 476.0
+   "url": "https://www.wikidata.org/wiki/Q16048611",
+   "value": 480
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -129,6 +138,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q16048611",
    "value": 41017
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
+   "value": 4
   }
  },
  "name": "هامون",

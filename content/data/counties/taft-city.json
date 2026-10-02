@@ -29,6 +29,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA",
    "value": 3
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1287765",
+   "value": 18464
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA",
+   "value": "از نظر شرایط اقلیمی و کلیماتولوژی، اقلیم شهرستان تفت نیمه خشک و کوهستانی بوده و دارای چهار فصل مشخص است. آب و هوای شهرستان تفت نیمه بیابانی است، که به دلیل قرار گرفتن در دامنه شیرکوه نسبت به یزد، دارای تابستان‌های ملایم تر و بارندگی بیشتری است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -43,6 +57,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA",
    "value": 3
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1287765",
+   "value": 1560
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -122,6 +143,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1287765",
    "value": 43893
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA",
+   "value": 10
   }
  },
  "name": "تفت",

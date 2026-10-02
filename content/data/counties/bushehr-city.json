@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 8
+   },
+   "others": {
+    "wikipedia": 77.0
+   }
+  }
+ },
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
@@ -15,6 +24,13 @@
    "url": "https://www.wikidata.org/wiki/Q1568659",
    "value": "بندر بوشهر"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1568659",
+   "value": 223504
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -24,10 +40,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%B4%D9%87%D8%B1",
-   "value": 77.0
+   "url": "https://www.wikidata.org/wiki/Q1568659",
+   "value": 8
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -81,6 +97,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1568659",
    "value": 298594
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%B4%D9%87%D8%B1",
+   "value": 5
   }
  },
  "name": "بوشهر",

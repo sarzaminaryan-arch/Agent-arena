@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1380
+   },
+   "others": {
+    "wikipedia": 88.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 672589
@@ -38,6 +46,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
    "value": 2
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278993",
+   "value": 587730
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -47,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
-   "value": 88.0
+   "url": "https://www.wikidata.org/wiki/Q1278993",
+   "value": 1380
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -106,6 +121,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278993",
    "value": 672589
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
+   "value": 6
   }
  },
  "name": "زاهدان",

@@ -31,6 +31,20 @@
    "url": "https://www.wikidata.org/wiki/Q1286391",
    "value": "جاجرم"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286391",
+   "value": 19580
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+   "value": "آب و هوای منطقه نیمه استپی، گرم و خشک می‌باشد. میانگین بارش ۱۳۴ میلی‌متر است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -48,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
-   "value": 1000.0
+   "url": "https://www.wikidata.org/wiki/Q1286391",
+   "value": 1000
   },
   "google_map_url": {
    "fetched": "2026-10-02",

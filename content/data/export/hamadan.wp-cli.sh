@@ -17,7 +17,9 @@ ID=$(wp post list --post_type=city --name=asadabad-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کتیبه آقاجان بلاغی\nحمام گلستان\nمسجد سلطانی\nپل شکسته خسروآباد\nآب انبار شاه عباس"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.8"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.15"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1596"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.8,48.15"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "55703"
 
 # بهار
 ID=$(wp post list --post_type=city --name=bahar-city --field=ID | head -1)
@@ -25,6 +27,7 @@ ID=$(wp post list --post_type=city --name=bahar-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "119082"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "53"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "asadabad-city - جنوب‌غرب\nkabudarahang-city - شمال\nhamadan-city - شرق\nqorveh - شمال‌غرب"
@@ -32,7 +35,9 @@ ID=$(wp post list --post_type=city --name=bahar-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کاروانسرای تاج‌آباد\nتپه سیمین زاغه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.98333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.35"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1722"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.98333,48.35"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "28685"
 
 # تویسرکان
 ID=$(wp post list --post_type=city --name=tuyserkan-city --field=ID | head -1)
@@ -42,6 +47,7 @@ ID=$(wp post list --post_type=city --name=tuyserkan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1556"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "67"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "تویسرکان به دلیل قرار گرفتن در دامنه‌های رشته‌کوه زاگرس و در ارتفاع حدود ۱٬۸۰۰ متر از سطح دریا، دارای اقلیم کوهستانی با زمستان‌های سرد و برفی و تابستان‌های معتدل تا گرم است. بیشترین میزان بارندگی سالانه معمولاً در اواخر پاییز، زمستان و اوایل بهار رخ می‌دهد و تابستان‌ها نسبتاً خشک هستند."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "asadabad-city - شمال‌غرب\nnahavand-city - جنوب\nkangavar - غرب\nmalayer-city - جنوب‌شرق\nhamadan-city - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "مسجد جامع سرابی\nسرابی\nحمام سرابی\nدره گزندر سرابی\nآبشار افشار"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "اشتران\nفرسفج\nکرزان\nقاجار\nچنار\nسرکان\nروستای آرتیمان\nگشانی\nشهرستانه\nباباپیرعلی\nبوجان"
@@ -49,13 +55,17 @@ ID=$(wp post list --post_type=city --name=tuyserkan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه اردلان\nکاروانسرای فرسفج\nمدرسه شیخ علی خان زنگنه\nمسجد جامع تویسرکان\nخانه مسعودی\nمسجد باغوار\nآرامگاه میررضی‌الدین آرتیمانی\nآرامگاه حبقوق نبی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.56667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.35"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1784"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1829"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.56667,48.35"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "50455"
 
 # درگزین
 ID=$(wp post list --post_type=city --name=dargazin --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "36999"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "53"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "razan-city - غرب\nfamenin-city - جنوب\navaj - شمال\nbuin-zahra - شمال‌شرق\nsaveh - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.33333"
@@ -69,11 +79,14 @@ ID=$(wp post list --post_type=city --name=razan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1887"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "54"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "dargazin - شرق\navaj - شمال‌شرق\nkabudarahang-city - غرب\nkhodabandeh - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.41667,49.0"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "14275"
 
 # فامنین
 ID=$(wp post list --post_type=city --name=famenin-city --field=ID | head -1)
@@ -82,11 +95,14 @@ ID=$(wp post list --post_type=city --name=famenin-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1036"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "29"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "dargazin - شمال\nhamadan-city - جنوب‌غرب\nkomijan - جنوب\nsaveh - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.11667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.16667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.11667,49.16667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "14019"
 
 # ملایر
 ID=$(wp post list --post_type=city --name=malayer-city --field=ID | head -1)
@@ -100,8 +116,9 @@ ID=$(wp post list --post_type=city --name=malayer-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "khondab - شرق\ntuyserkan-city - شمال‌غرب\nborujerd - جنوب\nnahavand-city - غرب\nshazand - جنوب‌شرق\nhamadan-city - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.83333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1725"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.33333,48.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "170237"
 
 # نهاوند
 ID=$(wp post list --post_type=city --name=nahavand-city --field=ID | head -1)
@@ -117,6 +134,7 @@ ID=$(wp post list --post_type=city --name=nahavand-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.23333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1644"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.23333,48.23333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "76162"
 
 # همدان
 ID=$(wp post list --post_type=city --name=hamadan-city --field=ID | head -1)
@@ -128,8 +146,9 @@ ID=$(wp post list --post_type=city --name=hamadan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "famenin-city - شمال‌شرق\nkomijan - جنوب‌شرق\nbahar-city - غرب\ntuyserkan-city - جنوب‌غرب\nmalayer-city - جنوب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.93333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.93333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1850"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.93333,48.93333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "554406"
 
 # کبودرآهنگ
 ID=$(wp post list --post_type=city --name=kabudarahang-city --field=ID | head -1)
@@ -144,4 +163,5 @@ ID=$(wp post list --post_type=city --name=kabudarahang-city --field=ID | head -1
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.36667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.36667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.36667,48.36667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "19216"
 

@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1522
+   },
+   "others": {
+    "wikipedia": 1530.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -29,6 +38,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%84%DB%8C%D8%AC%D8%A7%D9%86",
    "value": 2
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1277846",
+   "value": 40902
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%84%DB%8C%D8%AC%D8%A7%D9%86",
+   "value": "شهرستان دلیجان در قلمرو آب و هوایی نیمه خشک قرار دارد و مرکز آن یعنی شهر دلیجان دارای زمستان‌های سرد و تابستان‌های نسبتاً گرم است. متوسط بارندگی عمومی حدود ۱۵۰ میلی‌متر می‌باشد، که کمترین میزان بارندگی را در میان شهرستان‌های استان، دارا است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -37,12 +60,19 @@
    "url": "",
    "value": 90
   },
-  "elevation": {
+  "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%84%DB%8C%D8%AC%D8%A7%D9%86",
-   "value": 1530.0
+   "value": 1
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1277846",
+   "value": 1522
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -122,6 +152,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1277846",
    "value": 51621
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%84%DB%8C%D8%AC%D8%A7%D9%86",
+   "value": 4
   }
  },
  "name": "دلیجان",

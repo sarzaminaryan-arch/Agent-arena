@@ -31,13 +31,34 @@
    "url": "https://www.wikidata.org/wiki/Q1287775",
    "value": "عجبشیر"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1287775",
+   "value": 33606
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
+   "value": "این شهرستان در منطقه کوهستانی واقع شده و دارای تابستان‌های معتدل و زمستان‌های سرد و برفی می‌باشد. ارتفاع این شهرستان از سطح آزاد دریا ۱۴۷٫۸ متر بوده و دارای زمین‌های حاصلخیز و پرمحصول و مستعد کشاورزی می‌باشد و قسمتی از اراضی در نواحی دریاچه ارومیه در منطقه شوره‌زار و پست واقع شده‌است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
    "source": "derived",
    "status": "auto",
    "url": "",
-   "value": 63
+   "value": 76
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
+   "value": 2
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -45,21 +66,21 @@
    "source": "derived",
    "status": "auto",
    "url": "",
-   "value": "https://www.google.com/maps/search/?api=1&query=37.55,46.03333"
+   "value": "https://www.google.com/maps/search/?api=1&query=37.50002,45.83342"
   },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1287775",
-   "value": 37.55
+   "value": 37.50002
   },
   "lon": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1287775",
-   "value": 46.03333
+   "value": 45.83342
   },
   "neighbor_dirs": {
    "fetched": "2026-10-02",
@@ -68,10 +89,9 @@
    "status": "auto",
    "url": "",
    "value": {
-    "azarshahr": "شمال‌غرب",
-    "bonab": "جنوب",
-    "maragheh": "جنوب‌شرق",
-    "osku": "شمال"
+    "azarshahr": "شمال",
+    "bonab": "جنوب‌شرق",
+    "urmia": "غرب"
    }
   },
   "neighbors": {
@@ -83,8 +103,7 @@
    "value": [
     "bonab",
     "azarshahr",
-    "maragheh",
-    "osku"
+    "urmia"
    ]
   },
   "poi_offbeat": {

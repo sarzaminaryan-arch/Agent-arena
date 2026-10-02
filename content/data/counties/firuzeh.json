@@ -106,6 +106,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2723565",
    "value": 37539
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D9%87",
+   "value": 4
   }
  },
  "name": "فیروزه",

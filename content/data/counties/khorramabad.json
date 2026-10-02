@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1147
+   },
+   "others": {
+    "wikipedia": 1200.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 506471
@@ -38,6 +46,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
    "value": 4
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1279146",
+   "value": 200000
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": "شهرستان خرم‌آباد در مرکز استان لرستان واقع شده است. این شهرستان از شمال با شهرستان‌های بروجرد و سلسله، از شرق با شهرستان‌های دورود و الیگودرز، از غرب با شهرستان چگنی و از جنوب با شهرستان پلدختر و استان خوزستان ارتباط دارد."
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -47,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-   "value": 1200.0
+   "url": "https://www.wikidata.org/wiki/Q1279146",
+   "value": 1147
   },
   "google_map_url": {
    "fetched": "2026-10-02",

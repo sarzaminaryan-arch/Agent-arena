@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q1291755",
    "value": "ایوانغرب"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
+   "value": 9
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291755",
+   "value": 31299
+  },
   "climate": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -43,6 +57,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291755",
+   "value": 1184
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -130,6 +151,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291755",
    "value": 49491
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
+   "value": 4
   }
  },
  "name": "ایوان",

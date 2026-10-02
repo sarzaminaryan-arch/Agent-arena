@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1
+   },
+   "others": {
+    "wikipedia": 2.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -29,6 +38,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%A8%D9%84",
    "value": 6
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282212",
+   "value": 250217
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -46,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%A8%D9%84",
-   "value": 2.0
+   "url": "https://www.wikidata.org/wiki/Q1282212",
+   "value": 1
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -107,6 +123,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282212",
    "value": 531930
+  },
+  "villages": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%A8%D9%84",
+   "value": 673
   }
  },
  "name": "بابل",

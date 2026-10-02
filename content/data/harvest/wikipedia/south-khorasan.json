@@ -5,8 +5,8 @@
   "area": 3949.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
-  "districts": null,
+  "climate": "بیرجند، شهرستانی کوهستانی است و در آن کوه‌ها و دره‌های عمیق و حاصلخیزی وجود دارد. کوه‌های عمده شهرستان عبارت‌اند از: رشته کوه باقران در جنوب، کوه شاه مشهور به رشته کوه ناحیه هردنگ در جنوب ماژان و دق اکبر آباد و شمال دشت سرچاه عماری (حاشیه کویر)، رشته کوه مؤمن آباد در شمال سربیشه.",
+  "districts": 1390,
   "elevation": null,
   "poi_candidates": [
    "رشته کوه باقران",
@@ -16,7 +16,7 @@
    "کال (لامرد)"
   ],
   "population": 261324,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "birjand",
   "villages": null
  },
@@ -26,7 +26,7 @@
   "area": 880.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "آب و هوای منطقه خشک و کویری است. حداکثر و حداقل مطلق درجه حرارت هوا در ایستگاه بشرویه ۴۸ و ۲۱- درجه سانتی‌گراد گزارش شده است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -49,7 +49,7 @@
    "امامزاده بی‌بی نجمه خاتون"
   ],
   "population": 26064,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "boshruyeh",
   "villages": null
  },
@@ -73,13 +73,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B4%D9%82%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
   "area": 11221.0,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 1,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "eshqabad",
   "villages": null
  },
@@ -89,7 +89,7 @@
   "area": 5100.0,
   "census_year": null,
   "cities": 2,
-  "climate": null,
+  "climate": "این شهرستان با توجه به موقعیت جغرافیایی و عدم وجود توده‌های مرطوب و کوهستان‌های مناسب و به علت مجاورت با دو کویر مرکزی و نمک دارای آب و هوای صحرایی، خشک و کم‌باران می‌باشد. میانگین میزان بارندگی این شهرستان در حدود ۱۵۵ میلی‌متر در سال است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -120,7 +120,7 @@
    "آب‌انبار جوگی"
   ],
   "population": 61346,
-  "rural_districts": null,
+  "rural_districts": 3,
   "slug": "ferdows",
   "villages": null
  },
@@ -170,13 +170,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%87%D8%A8%D9%86%D8%AF%D8%A7%D9%86",
   "area": 26094.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 3,
   "elevation": 1100.0,
   "poi_candidates": [],
   "population": 51449,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "nehbandan",
   "villages": null
  },
@@ -200,7 +200,7 @@
    "قلعه کوه زردان"
   ],
   "population": 116181,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "qayenat",
   "villages": null
  },
@@ -209,13 +209,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
   "area": 9305.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2020,
   "elevation": null,
   "poi_candidates": [],
   "population": 33312,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "sarayan",
   "villages": null
  },
@@ -224,7 +224,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
   "area": 7928.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2,
   "elevation": null,
@@ -235,7 +235,7 @@
    "ماخونیک"
   ],
   "population": 40959,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "sarbisheh",
   "villages": null
  },
@@ -285,7 +285,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
   "area": 9185.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 3,
   "elevation": 1330.0,
@@ -316,7 +316,7 @@
    "غار پهلوان"
   ],
   "population": 44000,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "zirkuh",
   "villages": null
  }

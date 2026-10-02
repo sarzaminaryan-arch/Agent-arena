@@ -1,8 +1,9 @@
 {
  "aligudarz": {
-  "sa_city_elevation": 2022,
+  "sa_city_elevation": 1982,
   "sa_city_latitude": 33.08333,
   "sa_city_longitude": 49.48333,
+  "sa_city_population": 78690,
   "sa_cty_area": 5300,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "الیگودرز",
@@ -20,6 +21,7 @@
  "azna": {
   "sa_city_latitude": 33.46667,
   "sa_city_longitude": 49.41667,
+  "sa_city_population": 47489,
   "sa_cty_area": 1212,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ازنا",
@@ -31,9 +33,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.46667,49.41667"
  },
  "borujerd": {
-  "sa_city_elevation": 1570,
+  "sa_city_elevation": 1573,
   "sa_city_latitude": 33.83333,
   "sa_city_longitude": 48.83333,
+  "sa_city_population": 234997,
   "sa_cty_area": 2642,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بروجرد",
@@ -44,13 +47,18 @@
   "sa_cty_poi_heritage": "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان",
   "sa_cty_poi_offbeat": "دهستان شیروان",
   "sa_cty_population": 326452,
+  "sa_cty_rural_districts": 7,
+  "sa_cty_villages": 186,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.83333,48.83333"
  },
  "chegeni": {
+  "sa_city_elevation": 1110,
   "sa_city_latitude": 33.61667,
   "sa_city_longitude": 47.91667,
+  "sa_city_population": 1713,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرابدوره",
+  "sa_cty_cities": 3,
   "sa_cty_distance_center": 41,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "mamulan - جنوب\nselseleh - شمال‌شرق\nkhorramabad - شرق\ndelfan - شمال\nkuhdasht - غرب",
@@ -58,6 +66,7 @@
   "sa_cty_poi_nature": "غار دوشه\nپارک جنگلی شوراب",
   "sa_cty_poi_offbeat": "پیرشمس الدین\nاشکانیان\nمله شبانان",
   "sa_cty_population": 41756,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.61667,47.91667"
  },
  "delfan": {
@@ -72,11 +81,13 @@
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "selseleh - جنوب‌شرق\nnahavand-city - شمال‌شرق\nharsin - شمال‌غرب\nkangavar - شمال\nchegeni - جنوب\nsahneh - شمال\nhalilan - جنوب‌غرب",
   "sa_cty_population": 143973,
+  "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.0551,47.8698"
  },
  "dorud": {
   "sa_city_latitude": 33.5,
   "sa_city_longitude": 49.08333,
+  "sa_city_population": 121638,
   "sa_cty_area": 1326,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دورود",
@@ -89,13 +100,15 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.5,49.08333"
  },
  "khorramabad": {
-  "sa_city_elevation": 1200,
+  "sa_city_elevation": 1147,
   "sa_city_latitude": 33.5,
   "sa_city_longitude": 48.33333,
+  "sa_city_population": 200000,
   "sa_cty_area": 4986,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خرمآباد",
   "sa_cty_cities": 4,
+  "sa_cty_climate": "شهرستان خرم‌آباد در مرکز استان لرستان واقع شده است. این شهرستان از شمال با شهرستان‌های بروجرد و سلسله، از شرق با شهرستان‌های دورود و الیگودرز، از غرب با شهرستان چگنی و از جنوب با شهرستان پلدختر و استان خوزستان ارتباط دارد.",
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "mamulan - جنوب‌غرب\nselseleh - شمال‌غرب\nchegeni - غرب\nborujerd - شمال‌شرق\ndorud - شرق",
   "sa_cty_poi_nature": "چشمه\nرودخانه\nآبشار",
@@ -106,6 +119,7 @@
   "sa_city_elevation": 1195,
   "sa_city_latitude": 33.51667,
   "sa_city_longitude": 47.4,
+  "sa_city_population": 89091,
   "sa_cty_area": 3904,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کوهدشت",
@@ -116,22 +130,29 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.51667,47.4"
  },
  "mamulan": {
+  "sa_city_elevation": 874,
   "sa_city_latitude": 33.35472,
   "sa_city_longitude": 47.96333,
+  "sa_city_population": 7656,
   "sa_cty_area": 1440,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "معمولان",
+  "sa_cty_cities": 1,
   "sa_cty_distance_center": 38,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "pol-e-dokhtar - جنوب\nchegeni - شمال\nkhorramabad - شمال‌شرق\nkuhdasht - غرب\nrumeshkan - غرب\ndarreh-shahr - جنوب‌غرب",
   "sa_cty_population": 21372,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.35472,47.96333"
  },
  "pol-e-dokhtar": {
+  "sa_city_elevation": 673,
   "sa_city_latitude": 33.16667,
   "sa_city_longitude": 48,
+  "sa_city_population": 26352,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پل دختر",
+  "sa_cty_climate": "شهرستان پل‌دختر دارای آب و هوایی متفاوت است. مرکز این شهرستان یعنی شهر پلدختر آب و هوای گرمی در تابستان و معتدل و نسبتاً سرد در زمستان دارد.",
   "sa_cty_distance_center": 48,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "mamulan - شمال\nabdanan - جنوب‌غرب\ndarreh-shahr - غرب\nandimeshk - جنوب‌شرق",
@@ -145,6 +166,7 @@
   "sa_city_elevation": 1095,
   "sa_city_latitude": 33.3667,
   "sa_city_longitude": 47.3667,
+  "sa_city_population": 6125,
   "sa_cty_area": 853,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "چقابل",
@@ -162,6 +184,7 @@
   "sa_city_elevation": 1700,
   "sa_city_latitude": 33.83333,
   "sa_city_longitude": 48.16667,
+  "sa_city_population": 33558,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "الشتر",
   "sa_cty_cities": 2,

@@ -31,6 +31,27 @@
    "url": "https://www.wikidata.org/wiki/Q1279175",
    "value": "باغملک"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%BA%D9%85%D9%84%DA%A9",
+   "value": 3
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1279175",
+   "value": 26343
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%BA%D9%85%D9%84%DA%A9",
+   "value": "شهرستان باغملک منطقه‌ای کوهستانی است که از کوه‌های بادرنگان در شمال و کوه‌های زرین و دیوانه در جنوب تشکیل شده است. مهم‌ترین پوشش گیاهی منطقه را بلوط و افرا تشکیل می‌دهند و در بعضی مناطق سروهای تنومندی وجود دارد و از گیاهانی که کاربرد دارویی و صنعتی دارند؛"
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -125,6 +146,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279175",
    "value": 105384
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%BA%D9%85%D9%84%DA%A9",
+   "value": 7
   }
  },
  "name": "باغملک",

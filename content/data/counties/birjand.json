@@ -22,6 +22,27 @@
    "url": "https://www.wikidata.org/wiki/Q1286327",
    "value": "بیرجند"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286327",
+   "value": 203636
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+   "value": "بیرجند، شهرستانی کوهستانی است و در آن کوه‌ها و دره‌های عمیق و حاصلخیزی وجود دارد. کوه‌های عمده شهرستان عبارت‌اند از: رشته کوه باقران در جنوب، کوه شاه مشهور به رشته کوه ناحیه هردنگ در جنوب ماژان و دق اکبر آباد و شمال دشت سرچاه عماری (حاشیه کویر)، رشته کوه مؤمن آباد در شمال سربیشه."
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286327",
+   "value": 1459
+  },
   "google_map_url": {
    "fetched": "2026-10-02",
    "note": "ساخته‌شده از مختصات مرکز شهرستان",
@@ -90,6 +111,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286327",
    "value": 261324
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+   "value": 6
   }
  },
  "name": "بیرجند",

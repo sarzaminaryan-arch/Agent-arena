@@ -5,7 +5,7 @@
   "area": 5476.0,
   "census_year": null,
   "cities": 2,
-  "climate": null,
+  "climate": "بجستان دارای آب و هوای گرم و خشک در بخش‌های شمالی (نزدیک کویر نمک) و آب و هوای نسبتاً معتدل در بخش‌های مرکزی، جنوبی و شرقی است. ارتفاع شهر بجستان از سطح دریا ۱٬۲۶۵ متر است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
@@ -35,7 +35,7 @@
   "area": 7126.0,
   "census_year": null,
   "cities": 3,
-  "climate": null,
+  "climate": "شهرستان بردسکن از دو منطقه کوهستانی در شمال و منطقهٔ جلگه‌ای در جنوب شامل بیابان، نمکزار و شنزارهای کرانه کویر نمک شکل گرفته است.",
   "districts": 3,
   "elevation": null,
   "poi_candidates": [],
@@ -70,7 +70,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 88692,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "chenaran",
   "villages": null
  },
@@ -85,7 +85,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 74326,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "dargaz",
   "villages": null
  },
@@ -100,7 +100,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 21911,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "davarzan",
   "villages": null
  },
@@ -115,7 +115,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 99,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "fariman",
   "villages": null
  },
@@ -130,7 +130,7 @@
   "elevation": 1200.0,
   "poi_candidates": [],
   "population": 42739,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "firuzeh",
   "villages": null
  },
@@ -155,7 +155,7 @@
   "area": 5789.0,
   "census_year": null,
   "cities": 4,
-  "climate": null,
+  "climate": "شهرستان گناباد، جنوبی‌ترین شهرستان استان خراسان رضوی است. این شهرستان در طول شرقی ۴۶–۵۷ تا ۲۷–۵۹ و عرض شمالی ۰۳–۳۴ تا ۵۴–۳۴ قرار دارد.",
   "districts": 2,
   "elevation": 1105.0,
   "poi_candidates": [],
@@ -205,7 +205,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 36237,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "kalat",
   "villages": null
  },
@@ -235,7 +235,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 159141,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "khaf",
   "villages": null
  },
@@ -281,7 +281,7 @@
   "census_year": null,
   "cities": 1398,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "سد شاهی",
@@ -295,7 +295,7 @@
    "ریوش"
   ],
   "population": 25014,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "kuhsorkh",
   "villages": null
  },
@@ -325,7 +325,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 4000000,
-  "rural_districts": null,
+  "rural_districts": 11,
   "slug": "mashhad",
   "villages": null
  },
@@ -336,11 +336,11 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": 15.0,
   "poi_candidates": [],
   "population": 39288,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "mian-jolgeh",
   "villages": null
  },
@@ -349,13 +349,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%D8%B4%D8%A7%D8%A8%D9%88%D8%B1",
   "area": null,
   "census_year": null,
-  "cities": null,
-  "climate": null,
+  "cities": 4,
+  "climate": "هوای بخش‌های بار و سرولایت، قدمگاه، فدیشه و حومه معتدل و هوای قراء و قصباتی که در کوه و دره‌های بینالود واقع شده‌اند سرد است، لیکن دهستان عشق‌آباد و طاغنکوه که در جنوب این شهرستان قرار دارند شوره‌زار و گرمسیر است به‌خصوص در فصل بهار و پائیز بادهای شدیدی در این محل می‌وزد، در بعضی سال‌ها بر اثر شدت وزش باد قسمتی از کشاورزی اهالی زیر شن مستور می‌شود. آب و هوای نیشابور در شمال و جنوب متفاوت است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 450780,
-  "rural_districts": null,
+  "rural_districts": 13,
   "slug": "neyshabur",
   "villages": null
  },
@@ -375,7 +375,7 @@
    "منطقه حفاظت‌شده"
   ],
   "population": 175000,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "quchan",
   "villages": null
  },
@@ -399,7 +399,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A8%D8%B2%D9%88%D8%A7%D8%B1",
   "area": 7217.0,
   "census_year": null,
-  "cities": null,
+  "cities": 28,
   "climate": null,
   "districts": 2,
   "elevation": null,
@@ -435,7 +435,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 110028,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "sarakhs",
   "villages": null
  },
@@ -458,7 +458,7 @@
    "پادر"
   ],
   "population": 24261,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "sheshtamad",
   "villages": null
  },
@@ -468,7 +468,7 @@
   "area": 2929.0,
   "census_year": null,
   "cities": 3,
-  "climate": null,
+  "climate": "میانگین بارندگی در دورهٔ آماری بیست ساله (۵۴ تا ۷۴) شهرستان ۱۸۰٫۵ میلی‌متر می‌باشد. این شهرستان در تابستان تحت تأثیر بادهای ۱۲۰ روزهٔ سیستان قرار می‌گیرد که باعث افزایش گرد و غبار هوا و وارد شدن خسارت به مزارع صیفی‌کاری می‌گردد.",
   "districts": 2,
   "elevation": 810.0,
   "poi_candidates": [],
@@ -513,7 +513,7 @@
   "area": 2575.0,
   "census_year": null,
   "cities": 2,
-  "climate": null,
+  "climate": "میانگین دمای سالانه ۲۸ درجه سانتیگراد می‌باشد.",
   "districts": 2,
   "elevation": 1750.0,
   "poi_candidates": [],
@@ -528,7 +528,7 @@
   "area": 1102.0,
   "census_year": null,
   "cities": 3,
-  "climate": null,
+  "climate": "شهرستان زبرخان بر اساس طبقه‌بندی دومارتن، در منطقه آب‌وهوایی نیمه خشک قرار گرفته است که آب‌وهوای آن در نواحی کوهستانی معتدل و در نواحی پست به تدریج بر میزان دما افزوده و از میزان بارندگی کاسته می‌شود. متوسط درجه حرارت سالیانه در این منطقه ۱۲/۹ و میزان بارندگی طی دوره‌های آماری (۱۳۴۵–۷۵) حدود ۲۳۵ میلی‌متر برآورد شده است.",
   "districts": 2,
   "elevation": 1250.0,
   "poi_candidates": [
@@ -542,8 +542,8 @@
    "کمه‌جوش"
   ],
   "population": 56635,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "zebarkhan",
-  "villages": null
+  "villages": 64
  }
 }

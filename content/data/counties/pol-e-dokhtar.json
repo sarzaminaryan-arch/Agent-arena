@@ -15,6 +15,20 @@
    "url": "https://www.wikidata.org/wiki/Q304295",
    "value": "پل دختر"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q304295",
+   "value": 26352
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+   "value": "شهرستان پل‌دختر دارای آب و هوایی متفاوت است. مرکز این شهرستان یعنی شهر پلدختر آب و هوای گرمی در تابستان و معتدل و نسبتاً سرد در زمستان دارد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +43,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q304295",
+   "value": 673
   },
   "google_map_url": {
    "fetched": "2026-10-02",

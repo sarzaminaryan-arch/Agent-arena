@@ -1,7 +1,9 @@
 {
  "aradan": {
+  "sa_city_elevation": 874,
   "sa_city_latitude": 35.15,
   "sa_city_longitude": 52.51667,
+  "sa_city_population": 6257,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آرادان",
   "sa_cty_distance_center": 120,
@@ -13,8 +15,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.15,52.51667"
  },
  "damghan": {
+  "sa_city_elevation": 1154,
   "sa_city_latitude": 35.5,
   "sa_city_longitude": 54.33333,
+  "sa_city_population": 59106,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دامغان",
   "sa_cty_cities": 4,
@@ -28,8 +32,11 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,54.33333"
  },
  "garmsar": {
+  "sa_city_elevation": 860,
   "sa_city_latitude": 35,
   "sa_city_longitude": 52.33333,
+  "sa_city_population": 48672,
+  "sa_cty_area": 10686,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گرمسار",
   "sa_cty_cities": 2,
@@ -40,8 +47,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.0,52.33333"
  },
  "mehdishahr": {
+  "sa_city_elevation": 1600,
   "sa_city_latitude": 35.7,
   "sa_city_longitude": 53.35,
+  "sa_city_population": 24485,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مهدیشهر",
   "sa_cty_cities": 3,
@@ -52,11 +61,14 @@
   "sa_cty_poi_nature": "جنگل فینسک\nقله نیزوا\nغار دربند",
   "sa_cty_poi_offbeat": "چاشم\nچهل تن\nدرجزین\nرودبارک\nدیواره صخره‌نوردی سنگسر سل\nملاده\nمنطقه ملی گردشگری رودبارک\nمنطقه حفاظت شده پرور",
   "sa_cty_population": 47475,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.7,53.35"
  },
  "meyami": {
+  "sa_city_elevation": 1086,
   "sa_city_latitude": 36.63333,
   "sa_city_longitude": 56,
+  "sa_city_population": 4566,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "میامی",
   "sa_cty_cities": 2,
@@ -69,9 +81,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63333,56.0"
  },
  "semnan-city": {
-  "sa_city_elevation": 1117,
+  "sa_city_elevation": 1148,
   "sa_city_latitude": 34.98333,
   "sa_city_longitude": 53.81667,
+  "sa_city_population": 185129,
   "sa_cty_area": 22119,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سمنان",
@@ -82,28 +95,35 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.98333,53.81667"
  },
  "shahrud": {
+  "sa_city_elevation": 1351,
   "sa_city_latitude": 35.5,
   "sa_city_longitude": 55.5,
+  "sa_city_population": 150129,
   "sa_cty_area": 43405,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شاهرود",
+  "sa_cty_cities": 6,
   "sa_cty_distance_center": 163,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "damghan - غرب\nmeyami - شمال\naliabad-e-katul - شمال",
   "sa_cty_population": 218628,
+  "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,55.5"
  },
  "sorkheh": {
-  "sa_city_elevation": 1100,
+  "sa_city_elevation": 1139,
   "sa_city_latitude": 35.45,
   "sa_city_longitude": 53.2167,
+  "sa_city_population": 9951,
   "sa_cty_area": 9222,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرخه",
   "sa_cty_cities": 2,
   "sa_cty_distance_center": 75,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "mehdishahr - شمال‌شرق\nfiruzkuh - شمال‌غرب\naradan - جنوب‌غرب\nsemnan-city - جنوب‌شرق",
   "sa_cty_population": 15523,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.45,53.2167"
  }
 }

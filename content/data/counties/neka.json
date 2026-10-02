@@ -8,6 +8,14 @@
     "wikipedia": 13588.0
    }
   },
+  "elevation": {
+   "chosen": {
+    "wikidata": 50
+   },
+   "others": {
+    "wikipedia": 49.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 119511
@@ -39,6 +47,13 @@
    "url": "https://www.wikidata.org/wiki/Q1282190",
    "value": "نکا"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282190",
+   "value": 60991
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -56,10 +71,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DA%A9%D8%A7",
-   "value": 49.0
+   "url": "https://www.wikidata.org/wiki/Q1282190",
+   "value": 50
   },
   "google_map_url": {
    "fetched": "2026-10-02",

@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q2639174",
    "value": "رامشیر"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D8%B4%DB%8C%D8%B1",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2639174",
+   "value": 25009
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -36,6 +50,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D8%B4%DB%8C%D8%B1",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2639174",
+   "value": 17
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -93,6 +114,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2639174",
    "value": 54004
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D8%B4%DB%8C%D8%B1",
+   "value": 4
   }
  },
  "name": "رامشیر",

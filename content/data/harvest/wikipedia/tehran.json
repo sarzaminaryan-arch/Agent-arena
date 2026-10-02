@@ -40,16 +40,16 @@
    "آبشار تیزاب"
   ],
   "population": 125480,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "damavand",
-  "villages": null
+  "villages": 111
  },
  "eslamshahr": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 6,
   "climate": null,
   "districts": null,
   "elevation": null,
@@ -93,15 +93,15 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%D8%B1%D8%AF",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "مهرچین"
   ],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "malard",
   "villages": null
  },
@@ -131,7 +131,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 169060,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "pardis",
   "villages": null
  },
@@ -183,7 +183,7 @@
  "rey": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%DB%8C",
-  "area": null,
+  "area": 2293.0,
   "census_year": null,
   "cities": 10,
   "climate": null,
@@ -216,22 +216,22 @@
   "area": null,
   "census_year": null,
   "cities": 6,
-  "climate": null,
+  "climate": "شهرستان شهریار بر روی دشت آبرفتی وسیعی قرار گرفته که حاصل رسوبات رودخانه‌هایی چون کرج و شادچای است. این موقعیت، خاکی عمیق و بسیار حاصلخیز را برای کشاورزی و باغداری فراهم آورده است.",
   "districts": 2,
   "elevation": 1140.0,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "shahriar",
-  "villages": null
+  "villages": 50
  },
  "shemiranat": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
-  "area": null,
+  "area": 1111.0,
   "census_year": null,
   "cities": 6,
-  "climate": null,
+  "climate": "دمای سالانه شمیران در ایستگاه هواشناسی سعدآباد طبق آمار ۲۰ ساله (۱۳۵۳–۱۳۷۳) ۱۲/۹ درجه سانتیگراد است. میزان بارندگی شمیران از سال ۱۹۸۸ تا ۲۰۰۷ به‌طور متوسط ۴۳۵/۸ میلیمتر بوده است.",
   "districts": 2,
   "elevation": 1600.0,
   "poi_candidates": [
@@ -250,7 +250,7 @@
    "بوستان جنگلی لویزان"
   ],
   "population": 47279,
-  "rural_districts": null,
+  "rural_districts": 3,
   "slug": "shemiranat",
   "villages": null
  },
@@ -261,11 +261,11 @@
   "census_year": null,
   "cities": 3,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": null,
   "poi_candidates": [],
   "population": 8737510,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "tehran-city",
   "villages": null
  },
@@ -276,7 +276,7 @@
   "census_year": null,
   "cities": null,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 468349,

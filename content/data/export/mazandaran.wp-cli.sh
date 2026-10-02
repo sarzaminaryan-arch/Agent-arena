@@ -10,14 +10,16 @@ ID=$(wp post list --post_type=city --name=amol --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "69"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای شهرستان آمل نظیر سایر نقاط مازندران است؛ در تابستان‌ها گرم و مرطوب و در زمستانها ملایم."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mahmudabad - شمال\nbabol - شرق\nnur - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "پل دوازده چشمه\nتپه تنگ سفید آب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "مشهد میر بزرگ\nشکل شاه\nمحمد بن محمود آملی\nساختمان دارائی\nشهر قدیم آمل\nدخمه سنگی کافر کلی\nمیربزرگ\nمیر حیدر آملی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "آتشکده آمل\nمسجد جامع آمل\nقلعه ملک بهمن\nکاروانسرای کمبوج\nمسجد آقا عباس\nقلعه کهرود\nبازار قدیم آمل\nتکیه روستای فیروزکلا\nپل فیروزکلای آمل\nپل معلق\nامامزاده ابراهیم\nآرامگاه ناصرالحق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.46667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.35"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "40"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "96"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.46667,52.35"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "237528"
 
 # بابل
 ID=$(wp post list --post_type=city --name=babol --field=ID | head -1)
@@ -27,12 +29,14 @@ ID=$(wp post list --post_type=city --name=babol --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1578.1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_villages "673"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "48"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "babolsar - شمال\nsimorgh - شرق\namol - غرب\nfreydunkenar - شمال\nmahmudabad - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.58333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.5,52.58333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "250217"
 
 # بابلسر
 ID=$(wp post list --post_type=city --name=babolsar --field=ID | head -1)
@@ -46,7 +50,9 @@ ID=$(wp post list --post_type=city --name=babolsar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "freydunkenar - غرب\nsimorgh - جنوب‌شرق\nbabol - جنوب\njoybar - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.66667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "-21"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.66667,52.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "59966"
 
 # بهشهر
 ID=$(wp post list --post_type=city --name=behshahr --field=ID | head -1)
@@ -55,6 +61,7 @@ ID=$(wp post list --post_type=city --name=behshahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1416.27"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "45"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "neka - جنوب\ngologah - شرق\nmiandorud - غرب"
@@ -63,8 +70,9 @@ ID=$(wp post list --post_type=city --name=behshahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "آتشکده کاووس\nپل زیر قوسی شهدای اشرف البلاد بهشهر\nباغ عباس‌آباد\nباغ‌های ایرانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.65111"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.58833"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "20"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "10"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.65111,53.58833"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "94702"
 
 # تنکابن
 ID=$(wp post list --post_type=city --name=tonekabon --field=ID | head -1)
@@ -77,8 +85,9 @@ ID=$(wp post list --post_type=city --name=tonekabon --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "abbasabad - شرق\nramsar - شمال‌غرب\nkelardasht - جنوب‌شرق\ntaleghan - جنوب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.63333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.81667"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "20"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "-15"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.63333,50.81667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "55434"
 
 # جویبار
 ID=$(wp post list --post_type=city --name=joybar --field=ID | head -1)
@@ -87,12 +96,15 @@ ID=$(wp post list --post_type=city --name=joybar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "285.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "27"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "simorgh - جنوب‌غرب\nbabolsar - غرب\nsari - جنوب‌شرق\nmiandorud - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.66667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.9"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "20"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "-7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.66667,52.9"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "32924"
 
 # رامسر
 ID=$(wp post list --post_type=city --name=ramsar --field=ID | head -1)
@@ -100,13 +112,17 @@ ID=$(wp post list --post_type=city --name=ramsar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "74179"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "729.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "233"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "rudsar - جنوب‌غرب\ntonekabon - جنوب‌شرق\namlash - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "هتل قدیم رامسر\nرامسر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.78333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.53333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "21"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.78333,50.53333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "35997"
 
 # ساری
 ID=$(wp post list --post_type=city --name=sari --field=ID | head -1)
@@ -123,7 +139,9 @@ ID=$(wp post list --post_type=city --name=sari --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "میدان ساعت ساری\nخانه کلبادی ساری\nخانه رمدانی ساری\nمسجد جامع ساری\nپل تجن ساری\nموزه ساری\nبرج رسکت ساری\nبرج سلطان زین العابدین\nامامزاده عباس ساری\nامامزاده یحیی ساری\nشاطر گنبد ساری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.11667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "43"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.5,53.11667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "309820"
 
 # سوادکوه
 ID=$(wp post list --post_type=city --name=savadkuh --field=ID | head -1)
@@ -135,13 +153,15 @@ ID=$(wp post list --post_type=city --name=savadkuh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "50"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "منطقه سوادکوه در یک درهٔ وسیع و طولانی و در دامنه‌های شمالی رشته کوه‌های البرز مرکزی واقع شده است. حوزه کلی این ناحیه از منتهی‌الیه جلگه‌های جنوبی، و ۳۰ کیلومتری دریای خزر آغاز شده و با شیب بسیار تند به سوی جنوب کشیده می‌شود."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "firuzkuh - جنوب\nqaemshahr - شمال\nmehdishahr - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "کشتی محلی\nهجری شمسی\nصنعت حمل و نقل\nگردنه گدوک\nحمل و نقل\nاوقات فراغت\nزغال‌سنگ\nخط القعر\nشهرستان ساری\nلله‌وا\nملودی\nامیری خوانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "برج دیو کلی\nکاروانسرای گدوک\nقلعه اولاد\nپل شاپور\nپل قدیمی پل سفید\nآرامگاه اخوت\nکلیسای سرخ‌آباد\nپل ورسک\nقلعه کنگلو"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.91667"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1700"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "560"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.08333,52.91667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "8294"
 
 # سوادکوه شمالی
 ID=$(wp post list --post_type=city --name=savadkuh-shomali --field=ID | head -1)
@@ -159,6 +179,7 @@ ID=$(wp post list --post_type=city --name=simorgh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.56667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.8"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.56667,52.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "8040"
 
 # عباس‌آباد
 ID=$(wp post list --post_type=city --name=abbasabad --field=ID | head -1)
@@ -171,6 +192,7 @@ ID=$(wp post list --post_type=city --name=abbasabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.72778"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.10583"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.72778,51.10583"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "13482"
 
 # فریدونکنار
 ID=$(wp post list --post_type=city --name=freydunkenar --field=ID | head -1)
@@ -184,7 +206,9 @@ ID=$(wp post list --post_type=city --name=freydunkenar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "درنای سیبری\nخاورمیانه\nپرنده‌شناسی\nخزرشهر\nدریاسر\nفرزادشهر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.68564"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.5288"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "-20"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.68564,52.5288"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "38154"
 
 # قائم‌شهر
 ID=$(wp post list --post_type=city --name=qaemshahr --field=ID | head -1)
@@ -192,12 +216,16 @@ ID=$(wp post list --post_type=city --name=qaemshahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "309199"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "458.5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "1"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "23"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "simorgh - شمال‌غرب\nsari - شرق\nsavadkuh - جنوب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.46667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.86667"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "51"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "58"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.46667,52.86667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "204953"
 
 # محمودآباد
 ID=$(wp post list --post_type=city --name=mahmudabad --field=ID | head -1)
@@ -213,6 +241,7 @@ ID=$(wp post list --post_type=city --name=mahmudabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "17"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.61667,52.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "31844"
 
 # میاندورود
 ID=$(wp post list --post_type=city --name=miandorud --field=ID | head -1)
@@ -225,7 +254,9 @@ ID=$(wp post list --post_type=city --name=miandorud --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sari - جنوب‌غرب\njoybar - غرب\nneka - شرق\nbehshahr - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.595"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.2075"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "38"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.595,53.2075"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "9208"
 
 # نور
 ID=$(wp post list --post_type=city --name=nur --field=ID | head -1)
@@ -233,6 +264,7 @@ ID=$(wp post list --post_type=city --name=nur --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "121531"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2675"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "102"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "amol - شمال‌شرق\nnowshahr - غرب\nshemiranat - جنوب‌غرب\nfiruzkuh - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "پارک جنگلی نور\nپارک جنگلی\nچشمه کشپل چمستان\nجنگل لاویج\nسد و دریاچه الیمالات"
@@ -240,7 +272,9 @@ ID=$(wp post list --post_type=city --name=nur --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه پولاد بلده\nحرم آب\nمسجد جامع یالو"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.31667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "-18"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.31667,52.0"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "26947"
 
 # نوشهر
 ID=$(wp post list --post_type=city --name=nowshahr --field=ID | head -1)
@@ -256,7 +290,9 @@ ID=$(wp post list --post_type=city --name=nowshahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "موزه کندلوس"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.43333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "-17"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.43333,51.6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "49403"
 
 # نکا
 ID=$(wp post list --post_type=city --name=neka --field=ID | head -1)
@@ -272,8 +308,9 @@ ID=$(wp post list --post_type=city --name=neka --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "استخرپشت"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.53333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "49"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "50"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.5,53.53333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "60991"
 
 # چالوس
 ID=$(wp post list --post_type=city --name=chalus --field=ID | head -1)
@@ -288,18 +325,23 @@ ID=$(wp post list --post_type=city --name=chalus --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "منطقه نمونه گردشگری نمک‌آبرود\nفشکور"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.40056"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.24417"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "26"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.40056,51.24417"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "65196"
 
 # کلاردشت
 ID=$(wp post list --post_type=city --name=kelardasht --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "کلاردشت"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "23648"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "1"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "182"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "chalus - شرق\ntonekabon - شمال‌غرب\nabbasabad - شمال\ntaleghan - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.41667,51.08333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "13401"
 
 # گلوگاه
 ID=$(wp post list --post_type=city --name=gologah --field=ID | head -1)
@@ -312,5 +354,6 @@ ID=$(wp post list --post_type=city --name=gologah --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bandar-e-gaz - شرق\nbehshahr - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.71667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "34"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.71667,53.8"
 

@@ -31,6 +31,20 @@
    "url": "https://www.wikidata.org/wiki/Q1286210",
    "value": "کلیبر"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286210",
+   "value": 9324
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+   "value": "[[پرونده:Babak Catle 2.jpg|چپ|بندانگشتی|250px|قلعه بابک مقر بابک خرمدین.]] کلیبر دارای آب و هوای معتدل کوهستانی بوده و سراسر منطقه را جنگل‌های تنک و مراتع سرسبز پوشانیده و محل ییلاق عشایر دشت مغان و ارسباران (قره داغ) است. این شهرستان تحت تأثیر آب و هوای خزری بوده و اغلب اوقات کوهستان های مرتفع را مه غلیظ می‌پوشاند و رود ارس از شمال آن می‌گذرد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -38,6 +52,13 @@
    "status": "auto",
    "url": "",
    "value": 113
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286210",
+   "value": 1240
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -117,6 +138,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286210",
    "value": 46125
+  },
+  "villages": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+   "value": 186
   }
  },
  "name": "کلیبر",

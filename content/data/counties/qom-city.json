@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 935
+   },
+   "others": {
+    "wikipedia": 25.0
+   }
+  }
+ },
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
@@ -22,12 +31,26 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
    "value": 4
   },
-  "elevation": {
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1264575",
+   "value": 1201158
+  },
+  "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
-   "value": 25.0
+   "value": 3
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1264575",
+   "value": 935
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -107,6 +130,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1264575",
    "value": 1292283
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+   "value": 5
   }
  },
  "name": "قم",

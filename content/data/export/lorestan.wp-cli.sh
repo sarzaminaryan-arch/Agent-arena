@@ -14,6 +14,7 @@ ID=$(wp post list --post_type=city --name=azna --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.46667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.46667,49.41667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "47489"
 
 # الیگودرز
 ID=$(wp post list --post_type=city --name=aligudarz --field=ID | head -1)
@@ -31,8 +32,9 @@ ID=$(wp post list --post_type=city --name=aligudarz --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "آتشکده باستانی کیورز امیرآباد\nقلعه دختر\nقلعه باجول الیگودرز\nموزه مردم‌شناسی الیگودرز"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.48333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "2022"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1982"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.08333,49.48333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "78690"
 
 # بروجرد
 ID=$(wp post list --post_type=city --name=borujerd --field=ID | head -1)
@@ -41,15 +43,18 @@ ID=$(wp post list --post_type=city --name=borujerd --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2642"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_villages "186"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "59"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "dorud - جنوب‌شرق\nshazand - شرق\nmalayer-city - شمال\nkhorramabad - جنوب‌غرب\nselseleh - غرب\nnahavand-city - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "دهستان شیروان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.83333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.83333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1570"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1573"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.83333,48.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "234997"
 
 # خرم‌آباد
 ID=$(wp post list --post_type=city --name=khorramabad --field=ID | head -1)
@@ -59,12 +64,14 @@ ID=$(wp post list --post_type=city --name=khorramabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4986"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان خرم‌آباد در مرکز استان لرستان واقع شده است. این شهرستان از شمال با شهرستان‌های بروجرد و سلسله، از شرق با شهرستان‌های دورود و الیگودرز، از غرب با شهرستان چگنی و از جنوب با شهرستان پلدختر و استان خوزستان ارتباط دارد."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mamulan - جنوب‌غرب\nselseleh - شمال‌غرب\nchegeni - غرب\nborujerd - شمال‌شرق\ndorud - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "چشمه\nرودخانه\nآبشار"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.33333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1200"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1147"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.5,48.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "200000"
 
 # دلفان
 ID=$(wp post list --post_type=city --name=delfan --field=ID | head -1)
@@ -73,6 +80,7 @@ ID=$(wp post list --post_type=city --name=delfan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2655"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "10"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "75"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "selseleh - جنوب‌شرق\nnahavand-city - شمال‌شرق\nharsin - شمال‌غرب\nkangavar - شمال\nchegeni - جنوب\nsahneh - شمال\nhalilan - جنوب‌غرب"
@@ -95,6 +103,7 @@ ID=$(wp post list --post_type=city --name=dorud --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.5,49.08333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "121638"
 
 # رومشکان
 ID=$(wp post list --post_type=city --name=rumeshkan --field=ID | head -1)
@@ -113,6 +122,7 @@ ID=$(wp post list --post_type=city --name=rumeshkan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.3667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1095"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.3667,47.3667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "6125"
 
 # سلسله
 ID=$(wp post list --post_type=city --name=selseleh --field=ID | head -1)
@@ -127,6 +137,7 @@ ID=$(wp post list --post_type=city --name=selseleh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.16667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1700"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.83333,48.16667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "33558"
 
 # معمولان
 ID=$(wp post list --post_type=city --name=mamulan --field=ID | head -1)
@@ -135,11 +146,15 @@ ID=$(wp post list --post_type=city --name=mamulan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1440"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "38"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "pol-e-dokhtar - جنوب\nchegeni - شمال\nkhorramabad - شمال‌شرق\nkuhdasht - غرب\nrumeshkan - غرب\ndarreh-shahr - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.35472"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.96333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "874"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.35472,47.96333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "7656"
 
 # پلدختر
 ID=$(wp post list --post_type=city --name=pol-e-dokhtar --field=ID | head -1)
@@ -148,13 +163,16 @@ ID=$(wp post list --post_type=city --name=pol-e-dokhtar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "48"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان پل‌دختر دارای آب و هوایی متفاوت است. مرکز این شهرستان یعنی شهر پلدختر آب و هوای گرمی در تابستان و معتدل و نسبتاً سرد در زمستان دارد."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mamulan - شمال\nabdanan - جنوب‌غرب\ndarreh-shahr - غرب\nandimeshk - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار کلماکره\nدره خزینه\nرودخانه زال\nغار کوگان\nکبیرکوه\nآبشار آبتاف\nآبشار افرینه\nتالاب بلمک\nتالاب زردابه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "کول چپ\nحیات‌الغیب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "پل‌دختر\nپل کلهر\nکاروانسرای چمشک\nتپهٔ واشیان\nپل گاومیشان\nمقبره سید نعمت‌الله جزائری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.16667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "673"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.16667,48.0"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "26352"
 
 # چگنی
 ID=$(wp post list --post_type=city --name=chegeni --field=ID | head -1)
@@ -162,6 +180,8 @@ ID=$(wp post list --post_type=city --name=chegeni --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "41756"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "41"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mamulan - جنوب\nselseleh - شمال‌شرق\nkhorramabad - شرق\ndelfan - شمال\nkuhdasht - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار دوشه\nپارک جنگلی شوراب"
@@ -169,7 +189,9 @@ ID=$(wp post list --post_type=city --name=chegeni --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "پل کشکان\nتپه سر قلعه ناوه کش\nتپه چغادرویشان\nمحوطه قلاع بردی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.61667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.91667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1110"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.61667,47.91667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "1713"
 
 # کوهدشت
 ID=$(wp post list --post_type=city --name=kuhdasht --field=ID | head -1)
@@ -184,4 +206,5 @@ ID=$(wp post list --post_type=city --name=kuhdasht --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1195"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.51667,47.4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "89091"
 

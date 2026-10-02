@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1403
+   },
+   "others": {
+    "wikipedia": 1390.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 17221
@@ -31,6 +39,20 @@
    "url": "https://www.wikidata.org/wiki/Q2407851",
    "value": "بهاباد"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+   "value": 1
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2407851",
+   "value": 9232
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -39,12 +61,19 @@
    "url": "",
    "value": 148
   },
-  "elevation": {
+  "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-   "value": 1390.0
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2407851",
+   "value": 1403
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -96,6 +125,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2407851",
    "value": 17221
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+   "value": 3
   }
  },
  "name": "بهاباد",

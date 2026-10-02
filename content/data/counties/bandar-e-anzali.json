@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q1291657",
    "value": "بندر انزلی"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291657",
+   "value": 118564
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%B2%D9%84%DB%8C",
+   "value": "این شهرستان دارای آب و هوای مرطوب ساحلی می‌باشد. میزان بارندگی شهرستان بسیار بالا بوده به‌طوری‌که سالیانه متوسط ۱۸۹۲ میلی‌متر بارندگی دارد بیشترین بارندگی در ماه‌های شهریور و مهر با ۴۴۰٫۹ میلی‌متر گزارش گردیده است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +43,13 @@
    "status": "auto",
    "url": "",
    "value": 36
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291657",
+   "value": -20
   },
   "google_map_url": {
    "fetched": "2026-10-02",

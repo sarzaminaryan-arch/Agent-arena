@@ -15,6 +15,13 @@
    "url": "https://www.wikidata.org/wiki/Q1282070",
    "value": "کامیاران"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282070",
+   "value": 57077
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +29,13 @@
    "status": "auto",
    "url": "",
    "value": 47
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282070",
+   "value": 1433
   },
   "google_map_url": {
    "fetched": "2026-10-02",

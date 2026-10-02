@@ -22,6 +22,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%B1%D8%AC",
    "value": 2
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q108601534",
+   "value": 9406
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +36,20 @@
    "status": "auto",
    "url": "",
    "value": 92
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%B1%D8%AC",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q108601534",
+   "value": 1282
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -79,10 +100,18 @@
     "mahabad",
     "naqadeh"
    ]
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%B1%D8%AC",
+   "value": 4
   }
  },
  "name": "چهاربرج",
  "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
  ],

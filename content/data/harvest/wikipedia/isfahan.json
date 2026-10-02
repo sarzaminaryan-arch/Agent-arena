@@ -10,9 +10,9 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 146065,
-  "rural_districts": null,
+  "rural_districts": 3,
   "slug": "aran-bidgol",
-  "villages": null
+  "villages": 13
  },
  "ardestan": {
   "_fetched": "2026-10-02",
@@ -75,28 +75,28 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A6%DB%8C%D9%86_%D9%88_%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%B4%D8%AA",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 24163,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "buin-miandasht",
   "villages": null
  },
  "chadegan": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%AF%DA%AF%D8%A7%D9%86",
-  "area": null,
+  "area": 1200.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 32479,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "chadegan",
   "villages": null
  },
@@ -107,13 +107,13 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": null,
   "poi_candidates": [],
   "population": 42354,
   "rural_districts": 2,
   "slug": "dehaqan",
-  "villages": null
+  "villages": 23
  },
  "falavarjan": {
   "_fetched": "2026-10-02",
@@ -134,7 +134,7 @@
    "ملیله‌دوزی"
   ],
   "population": 249814,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "falavarjan",
   "villages": null
  },
@@ -149,22 +149,22 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 49890,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "fereydan",
   "villages": null
  },
  "fereydunshahr": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%D8%B4%D9%87%D8%B1",
-  "area": null,
+  "area": 2235.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 35654,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "fereydunshahr",
   "villages": null
  },
@@ -175,7 +175,7 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": null,
   "poi_candidates": [],
   "population": 47000,
@@ -188,13 +188,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D9%86%D8%AF",
   "area": 1162.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 23863,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "harand",
   "villages": null
  },
@@ -220,7 +220,7 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "مسجد جامع رامشه",
@@ -250,7 +250,7 @@
    "خانه احمد رخشا"
   ],
   "population": 37607,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "jarqavieh",
   "villages": null
  },
@@ -260,7 +260,7 @@
   "area": 4398.0,
   "census_year": null,
   "cities": 7,
-  "climate": null,
+  "climate": "آب و هوای شهرستان کاشان همانند دیگر شهرستان‌های مرکزی کشور بنا بر پستی و بلندی متغیر است. قسمت‌های مرتفع آن در غرب و جنوب کاشان سردسیر است دامنه‌های معتدل و جلگه به خصوص حاشیه کویر در شرق و شمال کاشان گرمسیر می‌باشد.",
   "districts": 4,
   "elevation": 970.0,
   "poi_candidates": [
@@ -283,7 +283,7 @@
    "کاروانسرای امین‌الدوله"
   ],
   "population": 364482,
-  "rural_districts": null,
+  "rural_districts": 9,
   "slug": "kashan",
   "villages": null
  },
@@ -292,9 +292,9 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
   "area": 952.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": 2215.0,
   "poi_candidates": [],
   "population": 33049,
@@ -309,7 +309,7 @@
   "census_year": null,
   "cities": 4,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": null,
   "poi_candidates": [],
   "population": 369727,
@@ -324,7 +324,7 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": 20.0,
   "poi_candidates": [
    "جاذبه‌های گردشگری"
@@ -339,13 +339,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D9%BE%D8%A7%DB%8C%D9%87",
   "area": 3047.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 26676,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "kuhpayeh",
   "villages": null
  },
@@ -356,7 +356,7 @@
   "census_year": null,
   "cities": 9,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": 1700.0,
   "poi_candidates": [
    "مسجد جامع زرین شهر",
@@ -367,7 +367,7 @@
    "امامزاده شاهزاده ابراهیم"
   ],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "lenjan",
   "villages": null
  },
@@ -382,7 +382,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 150542,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "mobarakeh",
   "villages": null
  },
@@ -392,7 +392,7 @@
   "area": null,
   "census_year": null,
   "cities": 4,
-  "climate": null,
+  "climate": "شهرستان نائین دارای آب و هوایی کویری است و اختلاف درجه حرارت شب و روز در فصول سال کاملاً محسوس است و بارش آن بسیار کم و تابستان‌ها طولانی و بدون باران است. انارک از بخش‌های شهرستان نائین، دارای آب و هوایی گرم و خشک است آب و هوای بخش خور و بیابانک به مرکزیت خور کاملاَ خشک و معتدل، متمایل به گرم است.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -406,7 +406,7 @@
    "سلجوقی"
   ],
   "population": 39261,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "nain",
   "villages": null
  },
@@ -416,7 +416,7 @@
   "area": 2860.0,
   "census_year": null,
   "cities": 5,
-  "climate": null,
+  "climate": "نجف آباد در دشتی با آب و هوای معتدل و نسبتاً خشک قرار گرفته‌است. میانگین بارش سالیانه در آن ۱۵۰ میلی‌متر بوده که بیشتر در فصل‌های سرد انجام می‌گیرد.",
   "districts": 2,
   "elevation": 1600.0,
   "poi_candidates": [
@@ -434,7 +434,7 @@
    "خانه تاریخی حمله داری"
   ],
   "population": 319205,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "najafabad",
   "villages": null
  },
@@ -462,7 +462,7 @@
    "نطنز"
   ],
   "population": 44551,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "natanz",
   "villages": null
  },
@@ -477,7 +477,7 @@
   "elevation": 2577.0,
   "poi_candidates": [],
   "population": 43,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "semirom",
   "villages": null
  },
@@ -492,7 +492,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 234667,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "shahin-shahr-meymeh",
   "villages": null
  },
@@ -501,9 +501,9 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%D8%B6%D8%A7",
   "area": 2820.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": 1825.0,
   "poi_candidates": [],
   "population": 159,
@@ -516,9 +516,9 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%DA%A9%D8%B1%D9%88%D9%86",
   "area": 1698.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "پارک ملی و پناهگاه حیات وحش قمیشلو",
@@ -542,7 +542,7 @@
    "تیران"
   ],
   "population": 170315,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "tiran-karvan",
   "villages": null
  },
@@ -551,7 +551,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%B1%D8%B2%D9%86%D9%87",
   "area": 2300.0,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
@@ -563,7 +563,7 @@
    "کفران"
   ],
   "population": 27102,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "varzaneh",
   "villages": null
  }

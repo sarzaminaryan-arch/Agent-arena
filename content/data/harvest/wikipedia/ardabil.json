@@ -4,13 +4,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%DA%AF%D9%88%D8%AA",
   "area": 1048.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 20428,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "angut",
   "villages": null
  },
@@ -34,13 +34,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B5%D9%84%D8%A7%D9%86%D8%AF%D9%88%D8%B2",
   "area": 592.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 32506,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "aslanduz",
   "villages": null
  },
@@ -49,9 +49,9 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D9%84%D9%87%E2%80%8C%D8%B3%D9%88%D8%A7%D8%B1",
   "area": 1742.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "فتحعلی‌شاه",
@@ -61,7 +61,7 @@
    "حمدالله مستوفی"
   ],
   "population": 51307,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "bileh-savar",
   "villages": null
  },
@@ -71,7 +71,7 @@
   "area": 2793.0,
   "census_year": null,
   "cities": 2,
-  "climate": null,
+  "climate": "شهرستان گرمی مانند اغلب نواحی ایران دارای اقلیمی نیمه خشک با تابستان‌های نسبتاً گرم و زمستان‌های نسبتاً سرد می‌باشد. آب و هوای گرمی نسبت به اغلب نواحی و شهرستان‌های استان اردبیل معتدل و ملایم می‌باشد.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -102,7 +102,7 @@
    "شهرستان هوراند"
   ],
   "population": 76473,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "germi",
   "villages": null
  },
@@ -121,7 +121,7 @@
    "بخش فیروزآباد (کرمانشاه)"
   ],
   "population": 26,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "givi",
   "villages": null
  },
@@ -131,7 +131,7 @@
   "area": null,
   "census_year": null,
   "cities": 3,
-  "climate": null,
+  "climate": "شهرستان خلخال یک منطقه کوهستانی است که ارتفاع آن از شرق به غرب و از شمال به جنوب کاهش می‌یابد. رشته کوه‌های تالش در شرق آن از شمال به جنوب کشیده شده است که مانند سدی میان دریای خزر و استان گیلان و آذربایجان قرار گرفته است به‌طوری‌که برخلاف دامنه‌های شرق در دامنه‌های غربی آن در منطقه خلخال به جهت کاهش باران و خشکی هوا پوشش گیاهی انبوه و چشمگیری دیده نمی‌شود.",
   "districts": 3,
   "elevation": 1843.0,
   "poi_candidates": [
@@ -212,7 +212,7 @@
    "خانقاه سفلی نمین"
   ],
   "population": 66782,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "namin",
   "villages": null
  },
@@ -253,7 +253,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 145192,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "parsabad",
   "villages": null
  },

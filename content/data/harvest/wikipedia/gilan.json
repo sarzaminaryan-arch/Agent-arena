@@ -2,11 +2,11 @@
  "amlash": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%85%D9%84%D8%B4",
-  "area": null,
+  "area": 5.0,
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "بیلی لنگه",
@@ -37,8 +37,8 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87_%D8%A7%D8%B4%D8%B1%D9%81%DB%8C%D9%87",
   "area": 426.0,
   "census_year": null,
-  "cities": null,
-  "climate": null,
+  "cities": 14,
+  "climate": "[[پرونده:Iran-climate-map.svg|بندانگشتی|نقشهٔ آب و هوایی ایران. آب و هوای آستانه اشرفیه معتدل و فوق‌العاده مرطوب است.]] آب وهوای آستانه مانند دیگر نقاط گیلان از نوع آب و هوای معتدل مدیترانه‌ای با رطوبت کمی بیشتر می‌باشد.",
   "districts": 2,
   "elevation": -2.0,
   "poi_candidates": [],
@@ -86,7 +86,7 @@
   "area": 315.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "این شهرستان دارای آب و هوای مرطوب ساحلی می‌باشد. میزان بارندگی شهرستان بسیار بالا بوده به‌طوری‌که سالیانه متوسط ۱۸۹۲ میلی‌متر بارندگی دارد بیشترین بارندگی در ماه‌های شهریور و مهر با ۴۴۰٫۹ میلی‌متر گزارش گردیده است.",
   "districts": null,
   "elevation": null,
   "poi_candidates": [
@@ -112,7 +112,7 @@
    "فومن"
   ],
   "population": 104000,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "fuman",
   "villages": null
  },
@@ -127,9 +127,9 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 54860,
-  "rural_districts": null,
+  "rural_districts": 2,
   "slug": "khomam",
-  "villages": null
+  "villages": 45
  },
  "lahijan": {
   "_fetched": "2026-10-02",
@@ -142,7 +142,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 167544,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "lahijan",
   "villages": null
  },
@@ -153,7 +153,7 @@
   "census_year": null,
   "cities": 5,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": null,
   "poi_candidates": [],
   "population": 140686,
@@ -216,7 +216,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 106909,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "rezvanshahr",
   "villages": null
  },
@@ -231,7 +231,7 @@
   "elevation": 1050.0,
   "poi_candidates": [],
   "population": 95000,
-  "rural_districts": null,
+  "rural_districts": 12,
   "slug": "rudbar",
   "villages": null
  },
@@ -250,7 +250,7 @@
    "شمال ایران"
   ],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 10,
   "slug": "rudsar",
   "villages": null
  },
@@ -307,7 +307,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 145074,
-  "rural_districts": null,
+  "rural_districts": 10,
   "slug": "someh-sara",
   "villages": null
  },

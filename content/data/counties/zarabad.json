@@ -15,6 +15,20 @@
    "url": "https://www.wikidata.org/wiki/Q109672842",
    "value": "زرآباد"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 1
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": "زرآباد به دلیل نزدیکی به دریای آزاد عمان دارای آب و هوا و دمایی ثابت است. هوای این نقطه از ایران در زمستان گرم و بهاری است در تابستان به دلیل وزش بادهای موسمی از سمت دریا «مونسون»، معتدل می‌باشد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +36,13 @@
    "status": "auto",
    "url": "",
    "value": 433
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 2
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -76,10 +97,18 @@
    "status": "auto",
    "url": "",
    "value": "جد\nدرک\nتوجک\nدرخت مسواک\nکهور\nکلیر\nH89V+44G، زرآباد، استان سیستان و بلوچستان\nکلیری\nآکاسیا"
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 4
   }
  },
  "name": "زرآباد",
  "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
  ],

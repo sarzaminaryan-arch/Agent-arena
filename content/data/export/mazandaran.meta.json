@@ -2,6 +2,7 @@
  "abbasabad": {
   "sa_city_latitude": 36.72778,
   "sa_city_longitude": 51.10583,
+  "sa_city_population": 13482,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "عباسآباد",
   "sa_cty_cities": 2,
@@ -11,13 +12,15 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.72778,51.10583"
  },
  "amol": {
-  "sa_city_elevation": 40,
+  "sa_city_elevation": 96,
   "sa_city_latitude": 36.46667,
   "sa_city_longitude": 52.35,
+  "sa_city_population": 237528,
   "sa_cty_area": 4374,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آمل",
   "sa_cty_cities": 6,
+  "sa_cty_climate": "آب و هوای شهرستان آمل نظیر سایر نقاط مازندران است؛ در تابستان‌ها گرم و مرطوب و در زمستانها ملایم.",
   "sa_cty_distance_center": 69,
   "sa_cty_districts": 5,
   "sa_cty_neighbors": "mahmudabad - شمال\nbabol - شرق\nnur - جنوب‌غرب",
@@ -28,9 +31,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.35"
  },
  "babol": {
-  "sa_city_elevation": 2,
+  "sa_city_elevation": 1,
   "sa_city_latitude": 36.5,
   "sa_city_longitude": 52.58333,
+  "sa_city_population": 250217,
   "sa_cty_area": 1578.1,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بابل",
@@ -39,11 +43,14 @@
   "sa_cty_districts": 6,
   "sa_cty_neighbors": "babolsar - شمال\nsimorgh - شرق\namol - غرب\nfreydunkenar - شمال\nmahmudabad - شمال‌غرب",
   "sa_cty_population": 531930,
+  "sa_cty_villages": 673,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.5,52.58333"
  },
  "babolsar": {
+  "sa_city_elevation": -21,
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 52.66667,
+  "sa_city_population": 59966,
   "sa_cty_area": 345.7,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بابلسر",
@@ -55,9 +62,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.66667,52.66667"
  },
  "behshahr": {
-  "sa_city_elevation": 20,
+  "sa_city_elevation": 10,
   "sa_city_latitude": 36.65111,
   "sa_city_longitude": 53.58833,
+  "sa_city_population": 94702,
   "sa_cty_area": 1416.27,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بهشهر",
@@ -69,11 +77,14 @@
   "sa_cty_poi_nature": "آبشار اسپه‌او\nرشته‌کوه البرز\nکوه سیاخانی\nجنگل\nآبشار سنگ‌نو\nکوهستان\nرشته کوه‌های البرز",
   "sa_cty_poi_offbeat": "شهرستان بهشهر\nاستان مازندران\nهزارجریب\nسپید\nزبان مازندرانی\nدوران ساسانیان\nفهرست آثار ملی ایران\nکاووس\nقباد یکم\nخسرو انوشیروان\nتوس پسر نوذر\nکیانیان",
   "sa_cty_population": 168769,
+  "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.65111,53.58833"
  },
  "chalus": {
+  "sa_city_elevation": 26,
   "sa_city_latitude": 36.40056,
   "sa_city_longitude": 51.24417,
+  "sa_city_population": 65196,
   "sa_cty_area": 1597.3,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "چالوس",
@@ -86,8 +97,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.40056,51.24417"
  },
  "freydunkenar": {
+  "sa_city_elevation": -20,
   "sa_city_latitude": 36.68564,
   "sa_city_longitude": 52.5288,
+  "sa_city_population": 38154,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فریدونکنار",
   "sa_cty_cities": 2,
@@ -99,6 +112,7 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.68564,52.5288"
  },
  "gologah": {
+  "sa_city_elevation": 34,
   "sa_city_latitude": 36.71667,
   "sa_city_longitude": 53.8,
   "sa_cty_area": 451,
@@ -111,32 +125,39 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.71667,53.8"
  },
  "joybar": {
-  "sa_city_elevation": 20,
+  "sa_city_elevation": -7,
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 52.9,
+  "sa_city_population": 32924,
   "sa_cty_area": 285.5,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جویبار",
+  "sa_cty_cities": 2,
   "sa_cty_distance_center": 27,
   "sa_cty_districts": 3,
   "sa_cty_neighbors": "simorgh - جنوب‌غرب\nbabolsar - غرب\nsari - جنوب‌شرق\nmiandorud - شرق",
   "sa_cty_population": 77576,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.66667,52.9"
  },
  "kelardasht": {
   "sa_city_latitude": 36.41667,
   "sa_city_longitude": 51.08333,
+  "sa_city_population": 13401,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کلاردشت",
   "sa_cty_distance_center": 182,
+  "sa_cty_districts": 1,
   "sa_cty_neighbors": "chalus - شرق\ntonekabon - شمال‌غرب\nabbasabad - شمال\ntaleghan - جنوب‌غرب",
   "sa_cty_population": 23648,
+  "sa_cty_rural_districts": 2,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.41667,51.08333"
  },
  "mahmudabad": {
   "sa_city_elevation": 17,
   "sa_city_latitude": 36.61667,
   "sa_city_longitude": 52.33333,
+  "sa_city_population": 31844,
   "sa_cty_area": 262.8,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "محمودآباد",
@@ -148,8 +169,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.61667,52.33333"
  },
  "miandorud": {
+  "sa_city_elevation": 38,
   "sa_city_latitude": 36.595,
   "sa_city_longitude": 53.2075,
+  "sa_city_population": 9208,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سورک",
   "sa_cty_cities": 2,
@@ -160,9 +183,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.595,53.2075"
  },
  "neka": {
-  "sa_city_elevation": 49,
+  "sa_city_elevation": 50,
   "sa_city_latitude": 36.5,
   "sa_city_longitude": 53.53333,
+  "sa_city_population": 60991,
   "sa_cty_area": 1358.8,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نکا",
@@ -176,8 +200,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.5,53.53333"
  },
  "nowshahr": {
+  "sa_city_elevation": -17,
   "sa_city_latitude": 36.43333,
   "sa_city_longitude": 51.6,
+  "sa_city_population": 49403,
   "sa_cty_area": 1716.5,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نوشهر",
@@ -191,12 +217,15 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.43333,51.6"
  },
  "nur": {
+  "sa_city_elevation": -18,
   "sa_city_latitude": 36.31667,
   "sa_city_longitude": 52,
+  "sa_city_population": 26947,
   "sa_cty_area": 2675,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نور",
   "sa_cty_distance_center": 102,
+  "sa_cty_districts": 3,
   "sa_cty_neighbors": "amol - شمال‌شرق\nnowshahr - غرب\nshemiranat - جنوب‌غرب\nfiruzkuh - جنوب‌شرق",
   "sa_cty_poi_heritage": "قلعه پولاد بلده\nحرم آب\nمسجد جامع یالو",
   "sa_cty_poi_nature": "پارک جنگلی نور\nپارک جنگلی\nچشمه کشپل چمستان\nجنگل لاویج\nسد و دریاچه الیمالات",
@@ -205,33 +234,43 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.31667,52.0"
  },
  "qaemshahr": {
-  "sa_city_elevation": 51,
+  "sa_city_elevation": 58,
   "sa_city_latitude": 36.46667,
   "sa_city_longitude": 52.86667,
+  "sa_city_population": 204953,
   "sa_cty_area": 458.5,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قائمشهر",
+  "sa_cty_cities": 2,
   "sa_cty_distance_center": 23,
+  "sa_cty_districts": 1,
   "sa_cty_neighbors": "simorgh - شمال‌غرب\nsari - شرق\nsavadkuh - جنوب",
   "sa_cty_population": 309199,
+  "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.86667"
  },
  "ramsar": {
+  "sa_city_elevation": 21,
   "sa_city_latitude": 36.78333,
   "sa_city_longitude": 50.53333,
+  "sa_city_population": 35997,
   "sa_cty_area": 729.8,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رامسر",
   "sa_cty_cities": 2,
   "sa_cty_distance_center": 233,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "rudsar - جنوب‌غرب\ntonekabon - جنوب‌شرق\namlash - شمال‌غرب",
   "sa_cty_poi_offbeat": "هتل قدیم رامسر\nرامسر",
   "sa_cty_population": 74179,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.78333,50.53333"
  },
  "sari": {
+  "sa_city_elevation": 43,
   "sa_city_latitude": 36.5,
   "sa_city_longitude": 53.11667,
+  "sa_city_population": 309820,
   "sa_cty_area": 3685.3,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ساری",
@@ -246,13 +285,15 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.5,53.11667"
  },
  "savadkuh": {
-  "sa_city_elevation": 1700,
+  "sa_city_elevation": 560,
   "sa_city_latitude": 36.08333,
   "sa_city_longitude": 52.91667,
+  "sa_city_population": 8294,
   "sa_cty_area": 2078,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پل سفید",
   "sa_cty_cities": 3,
+  "sa_cty_climate": "منطقه سوادکوه در یک درهٔ وسیع و طولانی و در دامنه‌های شمالی رشته کوه‌های البرز مرکزی واقع شده است. حوزه کلی این ناحیه از منتهی‌الیه جلگه‌های جنوبی، و ۳۰ کیلومتری دریای خزر آغاز شده و با شیب بسیار تند به سوی جنوب کشیده می‌شود.",
   "sa_cty_distance_center": 50,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "firuzkuh - جنوب\nqaemshahr - شمال\nmehdishahr - جنوب‌شرق",
@@ -268,6 +309,7 @@
  "simorgh": {
   "sa_city_latitude": 36.56667,
   "sa_city_longitude": 52.8,
+  "sa_city_population": 8040,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کیاکلا",
   "sa_cty_cities": 1,
@@ -278,9 +320,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.56667,52.8"
  },
  "tonekabon": {
-  "sa_city_elevation": 20,
+  "sa_city_elevation": -15,
   "sa_city_latitude": 36.63333,
   "sa_city_longitude": 50.81667,
+  "sa_city_population": 55434,
   "sa_cty_area": 1740,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تنکابن",

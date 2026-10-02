@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q1278711",
    "value": "مسجدسلیمان"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+   "value": 3
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278711",
+   "value": 100497
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -36,6 +50,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278711",
+   "value": 240
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -68,6 +89,7 @@
    "value": {
     "andika": "شمال‌شرق",
     "bavi": "جنوب‌غرب",
+    "gotvand": "شمال‌غرب",
     "haftkel": "جنوب",
     "izeh": "شرق",
     "shushtar": "غرب"
@@ -83,6 +105,7 @@
     "andika",
     "shushtar",
     "haftkel",
+    "gotvand",
     "bavi",
     "izeh"
    ]
@@ -93,6 +116,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278711",
    "value": 113419
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+   "value": 6
   }
  },
  "name": "مسجدسلیمان",

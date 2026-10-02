@@ -24,6 +24,27 @@
    "url": "https://www.wikidata.org/wiki/Q2643224",
    "value": "کنارک"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%D8%A7%D8%B1%DA%A9",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2643224",
+   "value": 43258
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%D8%A7%D8%B1%DA%A9",
+   "value": "کُنارک دارای آب و هوای گرم و مرطوب است. هوای آن در اوج گرمای تابستان به علت وزش بادهای موسمی «مونسون» معتدل می‌باشد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -38,6 +59,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%D8%A7%D8%B1%DA%A9",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2643224",
+   "value": 6
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -99,6 +127,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2643224",
    "value": 98212
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%D8%A7%D8%B1%DA%A9",
+   "value": 4
   }
  },
  "name": "کنارک",

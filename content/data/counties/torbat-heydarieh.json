@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1351
+   },
+   "others": {
+    "wikipedia": 14.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -29,6 +38,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
    "value": 5
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1292889",
+   "value": 140019
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -38,10 +54,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-   "value": 14.0
+   "url": "https://www.wikidata.org/wiki/Q1292889",
+   "value": 1351
   },
   "google_map_url": {
    "fetched": "2026-10-02",

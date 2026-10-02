@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1545
+   },
+   "others": {
+    "wikipedia": 1585.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 1869001
@@ -38,6 +46,13 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
    "value": 2
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2422280",
+   "value": 1565572
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -47,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-   "value": 1585.0
+   "url": "https://www.wikidata.org/wiki/Q2422280",
+   "value": 1545
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -132,6 +147,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2422280",
    "value": 1869001
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+   "value": 11
   }
  },
  "name": "شیراز",

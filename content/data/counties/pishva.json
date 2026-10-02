@@ -15,6 +15,13 @@
    "url": "https://www.wikidata.org/wiki/Q4811773",
    "value": "پیشوا"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4811773",
+   "value": 59184
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +29,13 @@
    "status": "auto",
    "url": "",
    "value": 52
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4811773",
+   "value": 953
   },
   "google_map_url": {
    "fetched": "2026-10-02",

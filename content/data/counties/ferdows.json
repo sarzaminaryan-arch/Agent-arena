@@ -38,6 +38,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
    "value": 2
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286278",
+   "value": 28695
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+   "value": "این شهرستان با توجه به موقعیت جغرافیایی و عدم وجود توده‌های مرطوب و کوهستان‌های مناسب و به علت مجاورت با دو کویر مرکزی و نمک دارای آب و هوای صحرایی، خشک و کم‌باران می‌باشد. میانگین میزان بارندگی این شهرستان در حدود ۱۵۵ میلی‌متر در سال است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -52,6 +66,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286278",
+   "value": 1279
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -129,6 +150,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286278",
    "value": 45523
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+   "value": 3
   }
  },
  "name": "فردوس",

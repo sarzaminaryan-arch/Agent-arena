@@ -15,6 +15,27 @@
    "url": "https://www.wikidata.org/wiki/Q1278741",
    "value": "بم"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%85",
+   "value": 3
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278741",
+   "value": 127396
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%85",
+   "value": "آب و هوای بم گرم و خشک است اما به علت مجاورت با کویر، آب و هوای متغیری دارد، به‌طوری‌که گاهی اوقات در تابستان‌ها گرم‌ترین و در زمستان‌ها سردترین نقطهٔ کشور گزارش شده است. میزان بارندگی سالانه به‌طور متوسط ۶۸ میلی‌متر است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +43,20 @@
    "status": "auto",
    "url": "",
    "value": 143
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%85",
+   "value": 3
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278741",
+   "value": 1061
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -79,6 +114,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278741",
    "value": 228241
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%85",
+   "value": 6
   }
  },
  "name": "بم",

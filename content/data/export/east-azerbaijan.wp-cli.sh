@@ -6,12 +6,14 @@ ID=$(wp post list --post_type=city --name=azarshahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "آذرشهر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "110311"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "47"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "osku - شمال‌شرق\najabshir - جنوب‌شرق\nshabestar - شمال\nurmia - غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "osku - شمال‌شرق\najabshir - جنوب\nshabestar - شمال\nurmia - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.81667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.86667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.81667,45.86667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "44887"
 
 # اسکو
 ID=$(wp post list --post_type=city --name=osku --field=ID | head -1)
@@ -20,14 +22,16 @@ ID=$(wp post list --post_type=city --name=osku --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1763"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "25"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "azarshahr - جنوب‌غرب\ntabriz - شمال‌شرق\najabshir - جنوب\nshabestar - شمال‌غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "azarshahr - جنوب‌غرب\ntabriz - شمال‌شرق\nshabestar - شمال‌غرب\nmaragheh - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "جزیره شاهی\nدریاچه ارومیه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "کندوان\nجاذبه‌های گردشگری\nاسکو\nروستای صخره‌ای حیله ور\nمعماری\nاستان آذربایجان شرقی\nسهند\nعنصرود\nگنبر\nگل محمدی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.11667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.9,46.11667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "18459"
 
 # اهر
 ID=$(wp post list --post_type=city --name=ahar --field=ID | head -1)
@@ -36,11 +40,14 @@ ID=$(wp post list --post_type=city --name=ahar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2120"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "101"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "hurand - شمال\nmeshgin-shahr - شرق\nkaleybar - شمال‌غرب\nheris - جنوب‌غرب\nvarzaqan - غرب\nsarab - جنوب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.53333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.28333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.53333,47.28333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "100641"
 
 # بستان‌آباد
 ID=$(wp post list --post_type=city --name=bostanabad --field=ID | head -1)
@@ -49,14 +56,18 @@ ID=$(wp post list --post_type=city --name=bostanabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2795"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "56"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای بستان آباد به دلیل قرار گرفتن در دامنه کوهستان سهند در زمستان سرد و پربرف و در تابستان معتدل است. دمای مرکز این شهرستان گاهی به ۴۶- درجه رسیده و به این دلیل سردترین شهر ایران لقب گرفته‌است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "hashtrud - جنوب\nheris - شمال\ntabriz - شمال‌غرب\ntorkamanchay - جنوب‌شرق\nsarab - شرق\nmaragheh - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "قوری‌گل\nآلمالو\nشهریار\nسهند"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "پیست اسکی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.83333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1740"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.83333,46.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "21734"
 
 # بناب
 ID=$(wp post list --post_type=city --name=bonab --field=ID | head -1)
@@ -65,12 +76,14 @@ ID=$(wp post list --post_type=city --name=bonab --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "778"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "86"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ajabshir - شمال\nchaharborj - جنوب‌غرب\nmalekan - جنوب‌شرق\nmaragheh - شرق\nurmia - غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "chaharborj - جنوب‌غرب\najabshir - شمال‌غرب\nmalekan - جنوب‌شرق\nmaragheh - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "زوارق\nصور"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "توته‌خانه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1288"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.33333,46.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "75332"
 
 # تبریز
 ID=$(wp post list --post_type=city --name=tabriz --field=ID | head -1)
@@ -82,7 +95,9 @@ ID=$(wp post list --post_type=city --name=tabriz --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "osku - جنوب‌غرب\nshabestar - غرب\nheris - شرق\nbostanabad - جنوب‌شرق\nvarzaqan - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.28333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1340"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.08333,46.28333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "1558693"
 
 # ترکمانچای
 ID=$(wp post list --post_type=city --name=torkamanchay --field=ID | head -1)
@@ -90,11 +105,14 @@ ID=$(wp post list --post_type=city --name=torkamanchay --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "21387"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "114"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "این شهرستان در منطقه کوهستانی و در دامنه های رشته کوه بزقوش واقع شده و دارای تابستان‌های معتدل و زمستان‌های سرد و برفی می‌باشد. این شهرستان، دارای باغات، مراتع و مزارع متعدد می‌باشد و قسمتی از اراضی و روستاهای آن در کوهپایه های بزقوش قرار گرفته و دارای مناظر بکر و چشم‌نوازی است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mianeh - جنوب‌شرق\nsarab - شمال\nhashtrud - غرب\ncharoymaq - جنوب‌غرب\nbostanabad - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.58333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.58333,47.41667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "7443"
 
 # جلفا
 ID=$(wp post list --post_type=city --name=jolfa --field=ID | head -1)
@@ -103,6 +121,7 @@ ID=$(wp post list --post_type=city --name=jolfa --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1670"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "95"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "marand - جنوب\nchaypareh - غرب\nvarzaqan - جنوب‌شرق\nkhoda-afarin - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "File:رودخانه ارس.jpg"
@@ -110,7 +129,9 @@ ID=$(wp post list --post_type=city --name=jolfa --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "آرامگاه سید ابوالقاسم نباتی\nبرج دوزال\nحمام کردشت\nکلیسای استفانوس مقدس\nکلیسای ننه مریم\nکاروانسرای خواجه نظر\nکلیسای چوپان\nکلیسای مریم مقدس\nامامزاده سید محمد جلفا\nزیارتگاه بابا یعقوب\nقلعه علی بیگ\nحمام تاریخی جلفا"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.85"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "704"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.85,45.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "8810"
 
 # خداآفرین
 ID=$(wp post list --post_type=city --name=khoda-afarin --field=ID | head -1)
@@ -119,11 +140,14 @@ ID=$(wp post list --post_type=city --name=khoda-afarin --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1526"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "131"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kaleybar - جنوب\naslanduz - شمال‌شرق\njolfa - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "39.13751"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.96113"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=39.13751,46.96113"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "1902"
 
 # سراب
 ID=$(wp post list --post_type=city --name=sarab --field=ID | head -1)
@@ -137,7 +161,9 @@ ID=$(wp post list --post_type=city --name=sarab --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد جامع سرآب\nموزه عشایر آذربایجان\nتیمچه حاج ملک\nتپه پوللو موللی\nامامزاده بزرگ"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.93982"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.53694"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1650"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.93982,47.53694"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "45031"
 
 # شبستر
 ID=$(wp post list --post_type=city --name=shabestar --field=ID | head -1)
@@ -153,6 +179,7 @@ ID=$(wp post list --post_type=city --name=shabestar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.73333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.2,45.73333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "22181"
 
 # عجب‌شیر
 ID=$(wp post list --post_type=city --name=ajabshir --field=ID | head -1)
@@ -160,12 +187,15 @@ ID=$(wp post list --post_type=city --name=ajabshir --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "70852"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "738"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "63"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bonab - جنوب\nazarshahr - شمال‌غرب\nmaragheh - جنوب‌شرق\nosku - شمال"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "76"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "این شهرستان در منطقه کوهستانی واقع شده و دارای تابستان‌های معتدل و زمستان‌های سرد و برفی می‌باشد. ارتفاع این شهرستان از سطح آزاد دریا ۱۴۷٫۸ متر بوده و دارای زمین‌های حاصلخیز و پرمحصول و مستعد کشاورزی می‌باشد و قسمتی از اراضی در نواحی دریاچه ارومیه در منطقه شوره‌زار و پست واقع شده‌است."
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bonab - جنوب‌شرق\nazarshahr - شمال\nurmia - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "رحمانلو\nبارازلو\nینگجه\nمحمد حنفیه"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.55"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.03333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.55,46.03333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.50002"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.83342"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.50002,45.83342"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "33606"
 
 # مراغه
 ID=$(wp post list --post_type=city --name=maragheh --field=ID | head -1)
@@ -175,10 +205,12 @@ ID=$(wp post list --post_type=city --name=maragheh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2185"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "79"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bonab - غرب\nmalekan - جنوب‌غرب\najabshir - شمال‌غرب\nhashtrud - شرق\nbaruq - جنوب‌شرق\nbostanabad - شمال‌شرق"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bonab - غرب\nmalekan - جنوب‌غرب\nhashtrud - شرق\nbaruq - جنوب‌شرق\nosku - شمال‌غرب\nbostanabad - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.38333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1456"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.38333,46.4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "272400"
 
 # مرند
 ID=$(wp post list --post_type=city --name=marand --field=ID | head -1)
@@ -188,11 +220,13 @@ ID=$(wp post list --post_type=city --name=marand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "3286"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_villages "113"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "67"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "shabestar - جنوب\njolfa - شمال\nchaypareh - شمال‌غرب\nkhoy - غرب\nvarzaqan - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.48333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.71667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.48333,45.71667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "130825"
 
 # ملکان
 ID=$(wp post list --post_type=city --name=malekan --field=ID | head -1)
@@ -201,7 +235,10 @@ ID=$(wp post list --post_type=city --name=malekan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "33"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "106"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای ملکان تحت‌تأثیر جریان‌های آسیای مرکزی، اقیانوس اطلس، دریای خزر، دریای سیاه و دریای مدیترانه قرار می‌گیرد. جریان‌های آسیای مرکزی در فصل‌های بهار، پاییز و زمستان موجب بارندگی و گاهی برف می‌شوند."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "miandoab - جنوب\nbonab - شمال‌غرب\nchaharborj - غرب\nmaragheh - شمال‌شرق\nbaruq - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "آرپا دره‌سی\nکوه شیروانشاهلو\nدره گاومیش\nغار آبی بنایم"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "شهرستان ملکان\nآثار ملی ایران\nقیزلار کورپوسی\nشورسو\nروستای باباقاضی\nقره کولیگ لر\nسلمان تختی\nآق‌اولاک، فکه"
@@ -209,6 +246,7 @@ ID=$(wp post list --post_type=city --name=malekan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.13333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.21667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.13333,46.21667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "27431"
 
 # میانه
 ID=$(wp post list --post_type=city --name=mianeh --field=ID | head -1)
@@ -218,10 +256,12 @@ ID=$(wp post list --post_type=city --name=mianeh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "145"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان میانه دارای دو نوع آب و هوا در سال می‌باشد به‌طوری‌که در نیمی از سال بهار و تابستان آب و هوایی نیمه خشک و گرم و در فصل پاییز دارای آب و هوای سرد و کوهستانی می‌باشد. متوسط بارش سالانه ۳۲۰ میلی‌متر در نقاط کم ارتفاع جنوب شرقی و در بالای ارتفاعات بزقوش (بخش کندوان) از ۳۹۳ تا ۶۰۰ میلی‌متر متغیر است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "torkamanchay - شمال‌غرب\ncharoymaq - جنوب‌غرب\ngivi - شمال‌شرق\nmahneshan - جنوب\nzanjan-city - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.41667,47.7"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "98973"
 
 # هریس
 ID=$(wp post list --post_type=city --name=heris --field=ID | head -1)
@@ -235,6 +275,7 @@ ID=$(wp post list --post_type=city --name=heris --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.23058"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.84011"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.23058,46.84011"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "10515"
 
 # هشترود
 ID=$(wp post list --post_type=city --name=hashtrud --field=ID | head -1)
@@ -247,15 +288,20 @@ ID=$(wp post list --post_type=city --name=hashtrud --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.4667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.9168"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.4667,46.9168"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "20572"
 
 # هوراند
 ID=$(wp post list --post_type=city --name=hurand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "هوراند"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "128"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kaleybar - غرب\nahar - جنوب\ngermi - شرق\naslanduz - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.86667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.36667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.86667,47.36667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "4658"
 
 # ورزقان
 ID=$(wp post list --post_type=city --name=varzaqan --field=ID | head -1)
@@ -265,10 +311,12 @@ ID=$(wp post list --post_type=city --name=varzaqan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4570"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "57"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "به‌خاطر اینکه معدن در منطقهٔ کوهستانی واقع شده‌است، در این مکان شاهد زمستان‌هایی سرد و یخبندان و تابستان‌های معتدل هستیم. میانگین حداکثر درجهٔ حرارت در تابستان ۳۳ درجهٔ سانتی‌گراد و در زمستان ۲۲ درجهٔ سانتی‌گراد ثبت شده‌است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "heris - جنوب‌شرق\nahar - شرق\nkaleybar - شمال‌شرق\ntabriz - جنوب‌غرب\nmarand - غرب\njolfa - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.50779"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.64607"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.50779,46.64607"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "5348"
 
 # چاراویماق
 ID=$(wp post list --post_type=city --name=charoymaq --field=ID | head -1)
@@ -284,6 +332,7 @@ ID=$(wp post list --post_type=city --name=charoymaq --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.21667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.16667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=37.21667,47.16667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "6102"
 
 # کلیبر
 ID=$(wp post list --post_type=city --name=kaleybar --field=ID | head -1)
@@ -291,12 +340,16 @@ ID=$(wp post list --post_type=city --name=kaleybar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "46125"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2072"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_villages "186"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "113"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "[[پرونده:Babak Catle 2.jpg|چپ|بندانگشتی|250px|قلعه بابک مقر بابک خرمدین.]] کلیبر دارای آب و هوای معتدل کوهستانی بوده و سراسر منطقه را جنگل‌های تنک و مراتع سرسبز پوشانیده و محل ییلاق عشایر دشت مغان و ارسباران (قره داغ) است. این شهرستان تحت تأثیر آب و هوای خزری بوده و اغلب اوقات کوهستان های مرتفع را مه غلیظ می‌پوشاند و رود ارس از شمال آن می‌گذرد."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "khoda-afarin - شمال\nhurand - شرق\nahar - جنوب‌شرق\nvarzaqan - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "دره مکیدی\nقلعه دره سی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "File:Motaalleq village II.jpg\nمتعلق\nعاشقلو\nییلاق\nچپرلی\nآقداش\nآینالو\nآب‌درمانی\nبابک خرم‌دین\nکلیبر\nاستان آذربایجان شرقی\nهوراند"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه بابک\nقلعه پشتو\nقلعه پیغام\nقلعه آوارسین\nمسجد جامع کلیبر\nمقبره شاه قاسم"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1240"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=38.9,47.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "9324"
 

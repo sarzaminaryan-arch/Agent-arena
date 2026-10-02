@@ -1,46 +1,58 @@
 {
  "arak": {
+  "sa_city_elevation": 1738,
   "sa_city_latitude": 34.13333,
   "sa_city_longitude": 49.8,
+  "sa_city_population": 520944,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اراک",
+  "sa_cty_climate": "شهرستان اراک به لحاظ برخورداری از عوامل آب و هوایی (مانند مجاورت با تالاب میقان، وجود ارتفاعات و…) دارای نوسانات اقلیمی است، به‌طور کلی تابستان‌های نسبتاً گرم تا ملایم و زمستان‌های سرد از خصوصیات اقلیمی شهرستان اراک است. <!-- === زمین‌شناسی و زمین‌ریخت ===",
   "sa_cty_districts": 3,
   "sa_cty_neighbors": "ashtian - شمال‌شرق\nshazand - جنوب‌غرب\nfarahan - شمال\nkhomeyn - جنوب\nmahallat - جنوب‌شرق\nkhondab - شمال‌غرب",
   "sa_cty_poi_nature": "چشمه چپقلی\nغار کل\nایوان غار\nغار برآفتاب\nاشترانکوه\nکوه غار یا شاه نشین\nکوه غاغان",
   "sa_cty_poi_offbeat": "چناس\nبرآفتاب\nگورآب\nمیشو",
   "sa_cty_population": 591756,
+  "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.13333,49.8"
  },
  "ashtian": {
+  "sa_city_elevation": 2073,
   "sa_city_latitude": 34.41667,
   "sa_city_longitude": 50.06667,
+  "sa_city_population": 8763,
   "sa_cty_area": 1240,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آشتیان",
+  "sa_cty_climate": "شهرستان آشتیان به سبب ارتفاع زیاد، دارای زمستان‌های سرد و تابستان‌های معتدل است. این شهر از لحاظ توپوگرافی در دامنه ارتفاعات کوه‌های مرکزی واقع شده و از جنوب به دشت فراهان و کویر میقان منتهی می‌شود.",
   "sa_cty_distance_center": 40,
   "sa_cty_neighbors": "arak - جنوب‌غرب\nfarahan - شمال‌غرب\ntafresh - شمال\njafarabady - شمال‌شرق\nmahallat - جنوب‌شرق\nkahak - شرق",
   "sa_cty_population": 16357,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.41667,50.06667"
  },
  "delijan": {
-  "sa_city_elevation": 1530,
+  "sa_city_elevation": 1522,
   "sa_city_latitude": 34.03333,
   "sa_city_longitude": 50.76667,
+  "sa_city_population": 40902,
   "sa_cty_area": 2500,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دلیجان",
   "sa_cty_cities": 2,
+  "sa_cty_climate": "شهرستان دلیجان در قلمرو آب و هوایی نیمه خشک قرار دارد و مرکز آن یعنی شهر دلیجان دارای زمستان‌های سرد و تابستان‌های نسبتاً گرم است. متوسط بارندگی عمومی حدود ۱۵۰ میلی‌متر می‌باشد، که کمترین میزان بارندگی را در میان شهرستان‌های استان، دارا است.",
   "sa_cty_distance_center": 90,
+  "sa_cty_districts": 1,
   "sa_cty_neighbors": "mahallat - غرب\nkahak - شمال\nkashan - شرق\nmeymeh-vazvan - جنوب‌شرق",
   "sa_cty_poi_heritage": "کاروانسرای دودهک",
   "sa_cty_poi_nature": "غار چال نخجیر",
   "sa_cty_poi_offbeat": "جاذبه‌های گردشگری",
   "sa_cty_population": 51621,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.03333,50.76667"
  },
  "farahan": {
   "sa_city_latitude": 34.6,
   "sa_city_longitude": 49.63333,
+  "sa_city_population": 5756,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فرمهین",
   "sa_cty_cities": 3,
@@ -51,9 +63,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.6,49.63333"
  },
  "khomeyn": {
-  "sa_city_elevation": 1830,
+  "sa_city_elevation": 1809,
   "sa_city_latitude": 33.66667,
   "sa_city_longitude": 50,
+  "sa_city_population": 72882,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خمین",
   "sa_cty_cities": 2,
@@ -67,19 +80,24 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.66667,50.0"
  },
  "khondab": {
+  "sa_city_elevation": 1674,
   "sa_city_latitude": 34.38,
   "sa_city_longitude": 49.18972,
+  "sa_city_population": 7810,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خنداب",
   "sa_cty_distance_center": 62,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "malayer-city - غرب\nkomijan - شمال\nfarahan - شمال‌شرق\nshazand - جنوب\narak - جنوب‌شرق",
   "sa_cty_population": 54018,
+  "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.38,49.18972"
  },
  "komijan": {
+  "sa_city_elevation": 1782,
   "sa_city_latitude": 34.76667,
   "sa_city_longitude": 49.33333,
+  "sa_city_population": 8776,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کمیجان",
   "sa_cty_cities": 2,
@@ -90,11 +108,14 @@
   "sa_cty_poi_nature": "غار ورد",
   "sa_cty_poi_offbeat": "وفس\nمیلاجرد\nآمره\nفامرین",
   "sa_cty_population": 36441,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.76667,49.33333"
  },
  "mahallat": {
+  "sa_city_elevation": 1751,
   "sa_city_latitude": 33.91667,
   "sa_city_longitude": 50.41667,
+  "sa_city_population": 43245,
   "sa_cty_area": 37,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "محلات",
@@ -107,8 +128,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.91667,50.41667"
  },
  "saveh": {
+  "sa_city_elevation": 1008,
   "sa_city_latitude": 35.1,
   "sa_city_longitude": 49.98333,
+  "sa_city_population": 220762,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ساوه",
   "sa_cty_cities": 4,
@@ -121,32 +144,42 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.1,49.98333"
  },
  "shazand": {
+  "sa_city_elevation": 2082,
   "sa_city_latitude": 33.9,
   "sa_city_longitude": 49.3,
+  "sa_city_population": 21181,
   "sa_cty_area": 2745,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شازند",
   "sa_cty_cities": 4,
+  "sa_cty_climate": "آب و هوای شازند سرد و کوهستانی است که تابستان‌های معتدل و زمستان‌های سردی را به همراه دارد. سردترین نقطهٔ استان مرکزی در این شهر است.",
   "sa_cty_distance_center": 53,
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "borujerd - غرب\ndorud - جنوب‌غرب\nazna - جنوب\narak - شمال‌شرق\nkhondab - شمال\nmalayer-city - شمال‌غرب\nkhomeyn - شرق",
   "sa_cty_population": 117571,
+  "sa_cty_rural_districts": 11,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.9,49.3"
  },
  "tafresh": {
+  "sa_city_elevation": 1910,
   "sa_city_latitude": 34.83333,
   "sa_city_longitude": 49.88333,
+  "sa_city_population": 16493,
+  "sa_cty_area": 2792,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تفرش",
   "sa_cty_distance_center": 78,
+  "sa_cty_districts": 1,
   "sa_cty_neighbors": "saveh - شمال\nfarahan - جنوب‌غرب\nashtian - جنوب\njafarabady - شرق",
   "sa_cty_population": 24913,
+  "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.83333,49.88333"
  },
  "zarandieh": {
   "sa_city_elevation": 1256,
   "sa_city_latitude": 35.36667,
   "sa_city_longitude": 50.33333,
+  "sa_city_population": 21814,
   "sa_cty_area": 4116,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مأمونیه",
@@ -158,6 +191,7 @@
   "sa_cty_poi_nature": "یخچال مهدی‌آباد",
   "sa_cty_poi_offbeat": "گردشگری\nجاده ابریشم\nتاریخ ایران باستان\nدوره اشکانیان\nپیک\nمنطقه گزنگ صدرآباد\nشاهنشاهی ساسانی\nتاریخ ایران پس از اسلام\nهزاره سوم\nایران قاجاری\nایلخانان\nایران صفوی",
   "sa_cty_population": 63907,
+  "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.36667,50.33333"
  }
 }

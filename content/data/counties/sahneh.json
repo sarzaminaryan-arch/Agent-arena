@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1364
+   },
+   "others": {
+    "wikipedia": 1380.0
+   }
+  }
+ },
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
@@ -15,6 +24,20 @@
    "url": "https://www.wikidata.org/wiki/Q1291793",
    "value": "صحنه"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B5%D8%AD%D9%86%D9%87",
+   "value": 1
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291793",
+   "value": 35508
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -23,12 +46,19 @@
    "url": "",
    "value": 65
   },
-  "elevation": {
+  "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B5%D8%AD%D9%86%D9%87",
-   "value": 1380.0
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291793",
+   "value": 1364
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -84,6 +114,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291793",
    "value": 70757
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B5%D8%AD%D9%86%D9%87",
+   "value": 4
   }
  },
  "name": "صحنه",

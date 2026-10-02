@@ -8,6 +8,14 @@
     "wikipedia": 290.0
    }
   },
+  "elevation": {
+   "chosen": {
+    "wikidata": -7
+   },
+   "others": {
+    "wikipedia": 20.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 77576
@@ -39,6 +47,20 @@
    "url": "https://www.wikidata.org/wiki/Q1283615",
    "value": "جویبار"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": 32924
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -56,10 +78,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
-   "value": 20.0
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": -7
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -115,6 +137,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1283615",
    "value": 77576
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
+   "value": 6
   }
  },
  "name": "جویبار",

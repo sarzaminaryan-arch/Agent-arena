@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 623
+   },
+   "others": {
+    "wikipedia": 400.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -22,6 +31,27 @@
    "url": "https://www.wikidata.org/wiki/Q1271024",
    "value": "آببر"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
+   "value": 10
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1271024",
+   "value": 8091
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
+   "value": "از نظر وضعیت آب و هوایی این شهرستان دارای شرایط خاص است. چرا که بافت مکانی منطقه از حالت دره‌ای برخوردار بوده و با ارتفاع متوسط ۴۰۰ متر از سطح دریا منطقه به‌طور نسبی به صورت دشت بوده لذا از نظر آب و هوایی تابستان گرم و زمستان معتدل در آن وجود دارد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -39,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-   "value": 400.0
+   "url": "https://www.wikidata.org/wiki/Q1271024",
+   "value": 623
   },
   "google_map_url": {
    "fetched": "2026-10-02",

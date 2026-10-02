@@ -24,6 +24,20 @@
    "url": "https://www.wikidata.org/wiki/Q1286427",
    "value": "آشخانه"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87_%D9%88_%D8%B3%D9%85%D9%84%D9%82%D8%A7%D9%86",
+   "value": 3
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286427",
+   "value": 25104
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",

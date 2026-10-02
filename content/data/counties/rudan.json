@@ -1,6 +1,13 @@
 {
  "conflicts": {},
  "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
+   "value": 3044.5
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -15,6 +22,27 @@
    "url": "https://www.wikidata.org/wiki/Q1270925",
    "value": "دهبارز"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
+   "value": 4
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270925",
+   "value": 36121
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
+   "value": "شهرستان رودان دارای اقلیم بسیار گرم و خشک است، به همین دلیل میانگین درجه حرارت سالیانه در این شهرستان، بالاترین درجه را در سطح شهرستان‌های استان نشان می‌دهد. به دلیل خشکی هوا، میزان رطوبت نسبی این شهرستان در بین سایر شهرستان‌ها کمترین درصد را داراست میانگین بارش سالانه در این شهرستان ۲۵۰ میلی‌متر و متوسط دمای آن از ۲۷ تا ۲۸ درجه سانتی‌گراد در تغییر است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +50,20 @@
    "status": "auto",
    "url": "",
    "value": 89
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
+   "value": 4
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270925",
+   "value": 191
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -101,6 +143,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270925",
    "value": 124522
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
+   "value": 11
   }
  },
  "name": "رودان",

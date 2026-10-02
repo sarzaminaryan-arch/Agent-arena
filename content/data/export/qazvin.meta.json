@@ -3,6 +3,7 @@
   "sa_city_elevation": 1008,
   "sa_city_latitude": 36.1,
   "sa_city_longitude": 50.35,
+  "sa_city_population": 60107,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آبیک",
   "sa_cty_distance_center": 60,
@@ -14,6 +15,7 @@
  "alborz-qazvin": {
   "sa_city_latitude": 36.18333,
   "sa_city_longitude": 50.05,
+  "sa_city_population": 93836,
   "sa_cty_area": 406,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "الوند",
@@ -25,8 +27,11 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.18333,50.05"
  },
  "avaj": {
+  "sa_city_elevation": 1,
   "sa_city_latitude": 35.57685,
   "sa_city_longitude": 49.22241,
+  "sa_city_population": 5142,
+  "sa_cty_area": 2776,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آوج",
   "sa_cty_cities": 2,
@@ -34,11 +39,13 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "razan-city - جنوب‌غرب\ndargazin - جنوب\nbuin-zahra - شرق\ntakestan - شمال‌شرق\nabhar - شمال\nkhodabandeh - شمال‌غرب",
   "sa_cty_population": 43798,
+  "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.57685,49.22241"
  },
  "buin-zahra": {
   "sa_city_latitude": 35.61667,
   "sa_city_longitude": 49.7,
+  "sa_city_population": 20823,
   "sa_cty_area": 3022,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بوئینزهرا",
@@ -49,11 +56,14 @@
   "sa_cty_poi_heritage": "کاروانسرای محمدآباد\nکاروانسرای هجیب\nتپه زاغه\nتپه قبرستان",
   "sa_cty_poi_offbeat": "قورقورک",
   "sa_cty_population": 122994,
+  "sa_cty_rural_districts": 9,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.61667,49.7"
  },
  "qazvin-city": {
+  "sa_city_elevation": 1302,
   "sa_city_latitude": 36.43333,
   "sa_city_longitude": 49.81667,
+  "sa_city_population": 402748,
   "sa_cty_area": 5572,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قزوین",
@@ -61,11 +71,14 @@
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "alborz-qazvin - جنوب‌شرق\nrudbar - شمال‌غرب\nrudsar - شمال‌شرق\ntakestan - جنوب‌غرب\nsiahkal - شمال\nkharadere - غرب",
   "sa_cty_population": 596932,
+  "sa_cty_rural_districts": 14,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.43333,49.81667"
  },
  "takestan": {
+  "sa_city_elevation": 1265,
   "sa_city_latitude": 36,
   "sa_city_longitude": 49.55,
+  "sa_city_population": 80299,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تاکستان",
   "sa_cty_distance_center": 54,

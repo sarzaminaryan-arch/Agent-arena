@@ -13,9 +13,9 @@
    "رباط (کاروانسرای) راونیز"
   ],
   "population": 16887,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "bam-safiabad",
-  "villages": null
+  "villages": 1369
  },
  "bojnord": {
   "_fetched": "2026-10-02",
@@ -62,13 +62,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
   "area": 1615.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": 1280.0,
   "poi_candidates": [],
   "population": 49271,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "faruj",
   "villages": null
  },
@@ -78,7 +78,7 @@
   "area": 2407.0,
   "census_year": null,
   "cities": 3,
-  "climate": null,
+  "climate": "شهرستان گرمه دارای اقلیم سرد و خشک و نیمه بیابانی و در قسمت‌های شمال و شمال غرب، معتدل کوهستانی و در قسمت‌های جنوبی دارای آب و هوای گرم و خشک نیمه بیابانی می‌باشد متوسط ریزش سالیانه باران و برف در سطح شهرستان ۲۲۰ میلی‌متر بوده که این بارش دارای دامنه تغییرات زیادی می‌باشد به‌طوری‌که بالاترین میزان در منطقه دشت و کمترین میزان در منطقه درق می‌باشد.",
   "districts": null,
   "elevation": 2118.0,
   "poi_candidates": [
@@ -101,7 +101,7 @@
   "area": 3500.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "آب و هوای منطقه نیمه استپی، گرم و خشک می‌باشد. میانگین بارش ۱۳۴ میلی‌متر است.",
   "districts": 3,
   "elevation": 1000.0,
   "poi_candidates": [
@@ -119,13 +119,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 26082,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "maneh",
   "villages": null
  },
@@ -134,7 +134,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87_%D9%88_%D8%B3%D9%85%D9%84%D9%82%D8%A7%D9%86",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2,
   "elevation": null,
@@ -168,7 +168,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 59210,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "raz-jargalan",
   "villages": null
  },

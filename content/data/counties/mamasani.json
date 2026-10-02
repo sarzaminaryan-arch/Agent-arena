@@ -39,6 +39,13 @@
    "url": "",
    "value": 122
   },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%85%D8%B3%D9%86%DB%8C",
+   "value": 4
+  },
   "google_map_url": {
    "fetched": "2026-10-02",
    "note": "ساخته‌شده از مختصات مرکز شهرستان",
@@ -93,6 +100,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270510",
    "value": 117527
+  },
+  "villages": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%85%D8%B3%D9%86%DB%8C",
+   "value": 600
   }
  },
  "name": "ممسنی",

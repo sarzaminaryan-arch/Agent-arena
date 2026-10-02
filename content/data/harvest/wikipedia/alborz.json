@@ -4,13 +4,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%A7%D8%BA",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "chaharbagh",
   "villages": null
  },
@@ -34,13 +34,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%DB%8C%D8%B3",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 271829,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "fardis",
   "villages": null
  },
@@ -49,15 +49,15 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D8%AC",
   "area": null,
   "census_year": null,
-  "cities": null,
-  "climate": null,
+  "cities": 288,
+  "climate": "* جدول آب و هوای شهرستان کرج {| |- | |}",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 1956267,
   "rural_districts": 6,
   "slug": "karaj",
-  "villages": null
+  "villages": 3
  },
  "nazarabad": {
   "_fetched": "2026-10-02",
@@ -104,7 +104,7 @@
    "خانه محمود طالقانی"
   ],
   "population": 16815,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "taleghan",
   "villages": null
  }

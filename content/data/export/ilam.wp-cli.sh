@@ -7,6 +7,7 @@ ID=$(wp post list --post_type=city --name=abdanan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "47851"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "128"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "badreh - شمال‌غرب\ndarreh-shahr - شمال‌غرب\ndehloran - جنوب‌غرب\npol-e-dokhtar - شمال‌شرق\nandimeshk - جنوب‌شرق"
@@ -14,8 +15,9 @@ ID=$(wp post list --post_type=city --name=abdanan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "File:3جاده دسترسی به شهرستان آبدانان در ایام عید نوروز.JPG"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.88333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.5"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "850"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "889"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=32.88333,47.5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "23946"
 
 # ایلام
 ID=$(wp post list --post_type=city --name=ilam-city --field=ID | head -1)
@@ -23,10 +25,14 @@ ID=$(wp post list --post_type=city --name=ilam-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "235144"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "chardavol - شمال‌شرق\nkarun - شمال‌شرق\nsirvan - شمال‌شرق\nmalekshahi - جنوب‌شرق\nchavar - شمال‌غرب\neyvan - شمال‌غرب\nmehran - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.60528"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.42278"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1403"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.60528,46.42278"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "194030"
 
 # ایوان
 ID=$(wp post list --post_type=city --name=eyvan --field=ID | head -1)
@@ -35,6 +41,8 @@ ID=$(wp post list --post_type=city --name=eyvan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1200"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "38"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "معتدل و نیمه مرطوب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "chavar - جنوب‌غرب\ngilangharb - شمال‌غرب\nilam-city - جنوب‌شرق\nchardavol - جنوب‌شرق\nkarun - جنوب‌شرق\nsirvan - جنوب‌شرق\ndalahu - شمال\neslamabad-e-gharb - شمال‌شرق"
@@ -43,7 +51,9 @@ ID=$(wp post list --post_type=city --name=eyvan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "آتشکده سیاهگل"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.88333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.18333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1184"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.88333,46.18333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "31299"
 
 # بدره
 ID=$(wp post list --post_type=city --name=badreh --field=ID | head -1)
@@ -51,11 +61,14 @@ ID=$(wp post list --post_type=city --name=badreh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "15614"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "102"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "darreh-shahr - شمال‌شرق\nabdanan - جنوب‌شرق\ndehloran - جنوب\nmalekshahi - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.0,47.25"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "4278"
 
 # دره‌شهر
 ID=$(wp post list --post_type=city --name=darreh-shahr --field=ID | head -1)
@@ -63,11 +76,16 @@ ID=$(wp post list --post_type=city --name=darreh-shahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "43708"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "903"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "102"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "badreh - جنوب‌غرب\nrumeshkan - شمال\nabdanan - جنوب‌شرق\npol-e-dokhtar - شرق\nmamulan - شمال‌شرق\nmalekshahi - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.13333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.36667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.13333,47.36667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "21900"
 
 # دهلران
 ID=$(wp post list --post_type=city --name=dehloran --field=ID | head -1)
@@ -76,24 +94,30 @@ ID=$(wp post list --post_type=city --name=dehloran --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "6777"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "129"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "abdanan - شمال‌شرق\nbadreh - شمال\nshush - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.68333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.26667"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "213"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "224"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=32.68333,47.26667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "32941"
 
 # سیروان
 ID=$(wp post list --post_type=city --name=sirvan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "لومار"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "14404"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "21"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "chardavol - شمال\nkarun - شمال\nilam-city - جنوب‌غرب\neslamabad-e-gharb - شمال\neyvan - شمال‌غرب\nhalilan - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.75"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.56667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.75,46.56667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "2696"
 
 # ملکشاهی
 ID=$(wp post list --post_type=city --name=malekshahi --field=ID | head -1)
@@ -114,12 +138,18 @@ ID=$(wp post list --post_type=city --name=mehran --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "مهران"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "29797"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2392"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "41"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "منطقه مهران گاهی از نواحی مورد آسیب ریزگردها است. [[File:Mehran-4.jpg|thumb|پناهگاه‌های جنگ در شهرستان مهران]]"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "malekshahi - شرق\nilam-city - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.26667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.25"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "150"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.26667,46.25"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "17435"
 
 # هلیلان
 ID=$(wp post list --post_type=city --name=halilan --field=ID | head -1)
@@ -128,6 +158,7 @@ ID=$(wp post list --post_type=city --name=halilan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "736"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "69"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kuhdasht - جنوب‌شرق\nchardavol - غرب\nkarun - غرب\nsirvan - غرب\neslamabad-e-gharb - شمال‌غرب\nmalekshahi - جنوب‌غرب\nkermanshah - شمال\nharsin - شمال‌شرق\ndelfan - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "رودخانه سیمره\nدره شیرز\nکوه کران‌بزان"
@@ -136,6 +167,7 @@ ID=$(wp post list --post_type=city --name=halilan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.71861"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.15833"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.71861,47.15833"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "2128"
 
 # چرداول
 ID=$(wp post list --post_type=city --name=chardavol --field=ID | head -1)
@@ -144,17 +176,21 @@ ID=$(wp post list --post_type=city --name=chardavol --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "805"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "21"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "karun - شمال\nsirvan - شمال\nilam-city - جنوب‌غرب\neslamabad-e-gharb - شمال\neyvan - شمال‌غرب\nhalilan - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.75"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.56667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.75,46.56667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "12393"
 
 # چوار
 ID=$(wp post list --post_type=city --name=chavar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "چوار"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1168"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "35"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "eyvan - شمال‌شرق\nilam-city - جنوب‌شرق"
@@ -162,4 +198,5 @@ ID=$(wp post list --post_type=city --name=chavar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "17"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.75,46.08333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "5831"
 

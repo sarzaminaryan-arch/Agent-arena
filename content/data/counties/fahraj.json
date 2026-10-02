@@ -31,6 +31,27 @@
    "url": "https://www.wikidata.org/wiki/Q2610751",
    "value": "فهرج"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%87%D8%B1%D8%AC",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2610751",
+   "value": 6876
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%87%D8%B1%D8%AC",
+   "value": "آب و هوای شهرستان فهرج در تابستان، گرم و خشک و در زمستان، سرد و خشک است؛ همچنین دمای هوا در تابستان گاهی به ۵۰ درجه سانتی‌گراد نیز می‌رسد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -121,6 +142,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2610751",
    "value": 67096
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%87%D8%B1%D8%AC",
+   "value": 4
   }
  },
  "name": "فهرج",

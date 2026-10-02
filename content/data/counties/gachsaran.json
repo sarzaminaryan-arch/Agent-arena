@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 738
+   },
+   "others": {
+    "wikipedia": 726.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 124096
@@ -31,6 +39,20 @@
    "url": "https://www.wikidata.org/wiki/Q1278063",
    "value": "دوگنبدان"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86",
+   "value": 1
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278063",
+   "value": 96728
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -39,12 +61,19 @@
    "url": "",
    "value": 72
   },
-  "elevation": {
+  "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86",
-   "value": 726.0
+   "value": 1
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278063",
+   "value": 738
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -100,6 +129,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278063",
    "value": 124096
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86",
+   "value": 10
   }
  },
  "name": "گچساران",

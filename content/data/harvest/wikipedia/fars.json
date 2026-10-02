@@ -23,7 +23,7 @@
    "سد قوسی ایزدخواست"
   ],
   "population": 100831,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "abadeh",
   "villages": null
  },
@@ -53,14 +53,14 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 32224,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "bakhtegan",
   "villages": null
  },
  "bavanat": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
-  "area": null,
+  "area": 2499.0,
   "census_year": null,
   "cities": null,
   "climate": null,
@@ -80,7 +80,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B6%D8%A7",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
@@ -96,7 +96,7 @@
   "area": 6592.0,
   "census_year": null,
   "cities": 5,
-  "climate": null,
+  "climate": "[[پرونده:Darab by Eugène Flandin.jpg|بندانگشتی|چپ|250px|منظره داراب در اوایل دوره قاجار]] بشتر مناطق شهرستان داراب از نظر آب و هوایی گرمسیری است که بارش در آن بیش‌تر به‌صورت باران است و در طول سال از ۳۵۰ میلی‌متر تجاوز نمی‌کند. در قسمتی از داراب که به کوهستان مشهور می‌باشد آب و هوا به نسبت سرد و کوهستانی می‌باشد و در زمستان در بیش‌تر مناطق کوهستان برف می‌بارد.",
   "districts": 5,
   "elevation": 1170.0,
   "poi_candidates": [
@@ -127,7 +127,7 @@
    "بندرعباس"
   ],
   "population": 201489,
-  "rural_districts": null,
+  "rural_districts": 12,
   "slug": "darab",
   "villages": null
  },
@@ -137,8 +137,8 @@
   "area": 7054.0,
   "census_year": null,
   "cities": 4,
-  "climate": null,
-  "districts": null,
+  "climate": "شهرستان اقلید با وسعت ۷۰۵۴ کیلومتر مربع قریب به ۷/۵ درصد کل مساحت خاکی استان فارس را به خود اختصاص داده است. این شهرستان دارای دو نقطه شهری اقلید و سده، سه بخش، نه دهستان و هشتاد روستا می‌باشد و از ۹۳۹۷۵ نفر جمعیت شهرستان، ۵۶۸۰۳ نفر(%۶۰) در نقاط شهری و ۳۵۱۵۹ نفر (%۴۰) در نقاط روستایی اسکان دارند.",
+  "districts": 3,
   "elevation": 2300.0,
   "poi_candidates": [
    "سانتی‌متر",
@@ -178,7 +178,7 @@
   "area": 2652.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "حداکثر گرمای تابستان در این منطقه ۴۴ درجه و حداقل سرمای زمستان ۴ درجه زیر صفر است. متوسط باران سالانه بین ۲۵۰ تا ۴۵۰ میلی‌متر گزارش شده است.",
   "districts": 2,
   "elevation": 1767.0,
   "poi_candidates": [
@@ -214,13 +214,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%88%D8%B2",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 40731,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "evaz",
   "villages": null
  },
@@ -265,7 +265,7 @@
    "خرمنکوه"
   ],
   "population": 207900,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "fasa",
   "villages": null
  },
@@ -274,13 +274,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
   "area": 3579.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 121417,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "firuzabad",
   "villages": null
  },
@@ -291,7 +291,7 @@
   "census_year": null,
   "cities": null,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": null,
   "poi_candidates": [
    "کوه ملک تیر",
@@ -313,7 +313,7 @@
   "elevation": 1050.0,
   "poi_candidates": [],
   "population": 186269,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "jahrom",
   "villages": null
  },
@@ -322,9 +322,9 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%85",
   "area": 1875.0,
   "census_year": null,
-  "cities": null,
-  "climate": null,
-  "districts": null,
+  "cities": 2,
+  "climate": "[[File:منطقه تفریحی رحمت آباد جویم-آبشار رحمت آباد.jpg|thumb|آبشار رحمت‌آباد|250px]] هوای مرکز بخش جویم گرم و نیمه خشک می‌باشد. بیشترین درجه حرارت در تابستان‌ها ۶۰ درجه بالای صفر و کمترین آن در زمستان‌ها به ۱۲ درجه بالای صفر می‌رسد.",
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "چشمه سرچشمه جویم",
@@ -342,7 +342,7 @@
    "مسجد جامع جویم"
   ],
   "population": 25081,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "jooyom",
   "villages": null
  },
@@ -353,11 +353,11 @@
   "census_year": null,
   "cities": 3,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": 1589.0,
   "poi_candidates": [],
   "population": 83883,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "kavar",
   "villages": null
  },
@@ -391,7 +391,7 @@
    "شهربازی شماره ۲ کازرون(در دست ساخت)"
   ],
   "population": 211341,
-  "rural_districts": null,
+  "rural_districts": 12,
   "slug": "kazerun",
   "villages": null
  },
@@ -400,8 +400,8 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%81%D8%B1",
   "area": 1815.0,
   "census_year": null,
-  "cities": null,
-  "climate": null,
+  "cities": 2,
+  "climate": "خفر دارای آب و هوای چهار فصل است به گونه‌ای که درختانی همچون انار، مرکبات، بادام، گردو، هلو، زردآلو، انجیر، سیب، ازگیل و زیتون در این منطقه رشد می‌کنند. خفر دارای آب و هوای خشک و نیمه خشک می‌باشد.",
   "districts": 2,
   "elevation": 1300.0,
   "poi_candidates": [
@@ -425,7 +425,7 @@
    "تل خزانه ای"
   ],
   "population": 42263,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "khafr",
   "villages": null
  },
@@ -449,13 +449,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%86%D8%AC",
   "area": 4420.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 41359,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "khonj",
   "villages": null
  },
@@ -481,11 +481,11 @@
   "census_year": null,
   "cities": 5,
   "climate": null,
-  "districts": null,
+  "districts": 5,
   "elevation": 52.0,
   "poi_candidates": [],
   "population": 91782,
-  "rural_districts": null,
+  "rural_districts": 10,
   "slug": "lamerd",
   "villages": null
  },
@@ -494,13 +494,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
   "area": 10740.0,
   "census_year": null,
-  "cities": null,
-  "climate": null,
+  "cities": 7,
+  "climate": "شهرستان لارستان از نظر آب‌وهوا جزو مناطق گرم و خشک به‌شمار می‌رود و دارای زمستان‌هایی سرد و خشک و تابستان‌هایی گرم و خشک است.",
   "districts": 14,
   "elevation": 950.0,
   "poi_candidates": [],
   "population": 147456,
-  "rural_districts": null,
+  "rural_districts": 9,
   "slug": "larestan",
   "villages": null
  },
@@ -511,13 +511,13 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 4,
   "elevation": null,
   "poi_candidates": [],
   "population": 157527,
   "rural_districts": null,
   "slug": "mamasani",
-  "villages": null
+  "villages": 600
  },
  "marvdasht": {
   "_fetched": "2026-10-02",
@@ -530,7 +530,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 323434,
-  "rural_districts": null,
+  "rural_districts": 15,
   "slug": "marvdasht",
   "villages": null
  },
@@ -539,13 +539,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%B1",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 6,
   "climate": null,
   "districts": 4,
   "elevation": 1738.0,
   "poi_candidates": [],
   "population": 64827,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "mehr",
   "villages": null
  },
@@ -560,7 +560,7 @@
   "elevation": 1595.0,
   "poi_candidates": [],
   "population": 91067,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "neyriz",
   "villages": null
  },
@@ -570,7 +570,7 @@
   "area": null,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "از نظر اقلیمی و کلیماتولوژی دارای آب و هوای معتدل مدیترانه‌ای با زمستان‌های نسبتاً سرد و تابستان‌های معتدل می‌باشد. میانگین بارش منطقه حدود ۴۰۰ میلی‌متر در سال است که عمدتاً به صورت برف در ارتفاعات و باران در دشت‌ها می‌باشد.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [
@@ -596,7 +596,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%DB%8C%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 5,
   "climate": null,
   "districts": 4,
   "elevation": 250.0,
@@ -613,7 +613,7 @@
    "سد سلمان فارسی"
   ],
   "population": 71203,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "qir-va-karzin",
   "villages": null
  },
@@ -622,7 +622,7 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B3%D8%AA%D9%85",
   "area": 1054.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": 920.0,
@@ -634,7 +634,7 @@
    "File:طبیعت زیبای دورگ دهنو محمدرضا اتابک.jpg"
   ],
   "population": 44386,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "rostam",
   "villages": null
  },
@@ -669,7 +669,7 @@
    "تل و گورستان محمودآباد"
   ],
   "population": 23129,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "sarchahan",
   "villages": null
  },
@@ -748,7 +748,7 @@
    "باغ جنت"
   ],
   "population": 230000,
-  "rural_districts": null,
+  "rural_districts": 11,
   "slug": "shiraz",
   "villages": null
  },
@@ -763,7 +763,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 56104,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "zarghan",
   "villages": null
  },

@@ -31,6 +31,20 @@
    "url": "https://www.wikidata.org/wiki/Q946847",
    "value": "ورزقان"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q946847",
+   "value": 5348
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%B1%D8%B2%D9%82%D8%A7%D9%86",
+   "value": "به‌خاطر اینکه معدن در منطقهٔ کوهستانی واقع شده‌است، در این مکان شاهد زمستان‌هایی سرد و یخبندان و تابستان‌های معتدل هستیم. میانگین حداکثر درجهٔ حرارت در تابستان ۳۳ درجهٔ سانتی‌گراد و در زمستان ۲۲ درجهٔ سانتی‌گراد ثبت شده‌است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",

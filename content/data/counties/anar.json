@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q4751607",
    "value": "انار"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%A7%D8%B1",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4751607",
+   "value": 15532
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +43,20 @@
    "status": "auto",
    "url": "",
    "value": 260
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%A7%D8%B1",
+   "value": 1
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4751607",
+   "value": 1409
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -88,6 +116,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4751607",
    "value": 36897
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%A7%D8%B1",
+   "value": 2
   }
  },
  "name": "انار",

@@ -31,6 +31,20 @@
    "url": "https://www.wikidata.org/wiki/Q1286542",
    "value": "کهنوج"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286542",
+   "value": 52624
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%87%D9%86%D9%88%D8%AC",
+   "value": "کهنوج یکی از شهرستان‌هایی است که مرغوب‌ترین خاک را داراست؛ به‌دلیل جوان بودن کوه‌های اطراف شهر که مواد معدنی را از اعماق زمین، طی میلیون‌ها سال پیش، بر روی زمین آورده است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -38,6 +52,13 @@
    "status": "auto",
    "url": "",
    "value": 267
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%87%D9%86%D9%88%D8%AC",
+   "value": 4
   },
   "elevation": {
    "fetched": "2026-10-02",

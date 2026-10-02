@@ -11,7 +11,9 @@ ID=$(wp post list --post_type=city --name=eshtehard --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "nazarabad - شمال‌شرق\nmalard - جنوب‌شرق\nzarandieh - جنوب\nbuin-zahra - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.72806"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.41417"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1161"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.72806,50.41417"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "29993"
 
 # ساوجبلاغ
 ID=$(wp post list --post_type=city --name=savojablogh --field=ID | head -1)
@@ -23,7 +25,9 @@ ID=$(wp post list --post_type=city --name=savojablogh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "nazarabad - غرب\nchaharbagh - جنوب‌شرق\ntaleghan - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.95"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1272"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.95,50.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "55640"
 
 # طالقان
 ID=$(wp post list --post_type=city --name=taleghan --field=ID | head -1)
@@ -32,13 +36,16 @@ ID=$(wp post list --post_type=city --name=taleghan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1200"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "46"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "savojablogh - جنوب\nkelardasht - شمال‌شرق\nabyek - غرب\ntonekabon - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "سنگ‌نوشته گردنه عسلک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "تکیه روستای جوستان\nخانه محمود طالقانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.20528"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.7761"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1823"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.20528,50.7761"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "3545"
 
 # فردیس
 ID=$(wp post list --post_type=city --name=fardis --field=ID | head -1)
@@ -46,11 +53,15 @@ ID=$(wp post list --post_type=city --name=fardis --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "271829"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "12"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "qods - شرق\nshahriar - جنوب‌شرق\nkaraj - شمال\nchaharbagh - شمال‌غرب\nmalard - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.72306"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.97861"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1237"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.72306,50.97861"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "181174"
 
 # نظرآباد
 ID=$(wp post list --post_type=city --name=nazarabad --field=ID | head -1)
@@ -63,16 +74,21 @@ ID=$(wp post list --post_type=city --name=nazarabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.91667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.51667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.91667,50.51667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "119512"
 
 # چهارباغ
 ID=$(wp post list --post_type=city --name=chaharbagh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "چهارباغ"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "15"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "karaj - شرق\nfardis - جنوب‌شرق\nsavojablogh - شمال‌غرب\nmalard - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.81667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1276"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.81667,50.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "5577"
 
 # کرج
 ID=$(wp post list --post_type=city --name=karaj --field=ID | head -1)
@@ -81,8 +97,12 @@ ID=$(wp post list --post_type=city --name=karaj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_villages "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "* جدول آب و هوای شهرستان کرج {| |- | |}"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "fardis - جنوب\nqods - جنوب‌شرق\nchaharbagh - غرب\nchalus - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.83333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1341"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.83333,51.0"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "1592492"
 

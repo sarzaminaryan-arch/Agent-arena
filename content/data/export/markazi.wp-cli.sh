@@ -8,10 +8,13 @@ ID=$(wp post list --post_type=city --name=ashtian --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1240"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "40"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان آشتیان به سبب ارتفاع زیاد، دارای زمستان‌های سرد و تابستان‌های معتدل است. این شهر از لحاظ توپوگرافی در دامنه ارتفاعات کوه‌های مرکزی واقع شده و از جنوب به دشت فراهان و کویر میقان منتهی می‌شود."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "arak - جنوب‌غرب\nfarahan - شمال‌غرب\ntafresh - شمال\njafarabady - شمال‌شرق\nmahallat - جنوب‌شرق\nkahak - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.06667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "2073"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.41667,50.06667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "8763"
 
 # اراک
 ID=$(wp post list --post_type=city --name=arak --field=ID | head -1)
@@ -19,23 +22,32 @@ ID=$(wp post list --post_type=city --name=arak --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "591756"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "10"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان اراک به لحاظ برخورداری از عوامل آب و هوایی (مانند مجاورت با تالاب میقان، وجود ارتفاعات و…) دارای نوسانات اقلیمی است، به‌طور کلی تابستان‌های نسبتاً گرم تا ملایم و زمستان‌های سرد از خصوصیات اقلیمی شهرستان اراک است. <!-- === زمین‌شناسی و زمین‌ریخت ==="
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ashtian - شمال‌شرق\nshazand - جنوب‌غرب\nfarahan - شمال\nkhomeyn - جنوب\nmahallat - جنوب‌شرق\nkhondab - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "چشمه چپقلی\nغار کل\nایوان غار\nغار برآفتاب\nاشترانکوه\nکوه غار یا شاه نشین\nکوه غاغان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "چناس\nبرآفتاب\nگورآب\nمیشو"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.13333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1738"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.13333,49.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "520944"
 
 # تفرش
 ID=$(wp post list --post_type=city --name=tafresh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "تفرش"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "24913"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2792"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "1"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "8"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "78"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "saveh - شمال\nfarahan - جنوب‌غرب\nashtian - جنوب\njafarabady - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.83333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.88333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1910"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.83333,49.88333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "16493"
 
 # خمین
 ID=$(wp post list --post_type=city --name=khomeyn --field=ID | head -1)
@@ -51,8 +63,9 @@ ID=$(wp post list --post_type=city --name=khomeyn --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "عمارت کشاورز صدر\nحمام لکان\nامامزاده اهل ابن علی\nارگ میشیجان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.66667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1830"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1809"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.66667,50.0"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "72882"
 
 # خنداب
 ID=$(wp post list --post_type=city --name=khondab --field=ID | head -1)
@@ -60,11 +73,14 @@ ID=$(wp post list --post_type=city --name=khondab --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "54018"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "62"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "malayer-city - غرب\nkomijan - شمال\nfarahan - شمال‌شرق\nshazand - جنوب\narak - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.38"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.18972"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1674"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.38,49.18972"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "7810"
 
 # دلیجان
 ID=$(wp post list --post_type=city --name=delijan --field=ID | head -1)
@@ -72,16 +88,20 @@ ID=$(wp post list --post_type=city --name=delijan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "51621"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2500"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "1"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "90"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان دلیجان در قلمرو آب و هوایی نیمه خشک قرار دارد و مرکز آن یعنی شهر دلیجان دارای زمستان‌های سرد و تابستان‌های نسبتاً گرم است. متوسط بارندگی عمومی حدود ۱۵۰ میلی‌متر می‌باشد، که کمترین میزان بارندگی را در میان شهرستان‌های استان، دارا است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mahallat - غرب\nkahak - شمال\nkashan - شرق\nmeymeh-vazvan - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار چال نخجیر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "جاذبه‌های گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کاروانسرای دودهک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.03333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.76667"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1530"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1522"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.03333,50.76667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "40902"
 
 # زرندیه
 ID=$(wp post list --post_type=city --name=zarandieh --field=ID | head -1)
@@ -90,6 +110,7 @@ ID=$(wp post list --post_type=city --name=zarandieh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4116"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "146"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "eshtehard - شمال\nmalard - شمال‌شرق\nsaveh - جنوب‌غرب\nbuin-zahra - شمال‌غرب\njafarabady - جنوب"
@@ -100,6 +121,7 @@ ID=$(wp post list --post_type=city --name=zarandieh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1256"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.36667,50.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "21814"
 
 # ساوه
 ID=$(wp post list --post_type=city --name=saveh --field=ID | head -1)
@@ -114,7 +136,9 @@ ID=$(wp post list --post_type=city --name=saveh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار ساوه\nمسجد جامع ساوه\nمناره مسجد جمعه\nمناره مسجد میدان\nمسجد سرخ\nمسجد بازار ساوه\nگنبد چهارسوق\nقلعه دختر\nقیزقلعه\nامامزاده سید اسحاق\nبنای امامزاده سید حمزه\nآرامگاه امامزاده فضل بن سلیمان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.98333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1008"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.1,49.98333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "220762"
 
 # شازند
 ID=$(wp post list --post_type=city --name=shazand --field=ID | head -1)
@@ -123,12 +147,16 @@ ID=$(wp post list --post_type=city --name=shazand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2745"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "11"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "53"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای شازند سرد و کوهستانی است که تابستان‌های معتدل و زمستان‌های سردی را به همراه دارد. سردترین نقطهٔ استان مرکزی در این شهر است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "borujerd - غرب\ndorud - جنوب‌غرب\nazna - جنوب\narak - شمال‌شرق\nkhondab - شمال\nmalayer-city - شمال‌غرب\nkhomeyn - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "2082"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.9,49.3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "21181"
 
 # فراهان
 ID=$(wp post list --post_type=city --name=farahan --field=ID | head -1)
@@ -142,6 +170,7 @@ ID=$(wp post list --post_type=city --name=farahan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.63333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.6,49.63333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "5756"
 
 # محلات
 ID=$(wp post list --post_type=city --name=mahallat --field=ID | head -1)
@@ -156,7 +185,9 @@ ID=$(wp post list --post_type=city --name=mahallat --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "منطقه حفاظت‌شده\nچنار\nنیم‌ور\nساسانیان\nدهستان خورهه\nاشکانیان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.91667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.41667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1751"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.91667,50.41667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "43245"
 
 # کمیجان
 ID=$(wp post list --post_type=city --name=komijan --field=ID | head -1)
@@ -164,6 +195,7 @@ ID=$(wp post list --post_type=city --name=komijan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "36441"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "82"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "farahan - جنوب‌شرق\nhamadan-city - شمال‌غرب\nfamenin-city - شمال\nkhondab - جنوب"
@@ -172,5 +204,7 @@ ID=$(wp post list --post_type=city --name=komijan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه تپه میلا جرد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.76667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1782"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.76667,49.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "8776"
 

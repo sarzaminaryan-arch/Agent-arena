@@ -22,6 +22,20 @@
    "url": "https://www.wikidata.org/wiki/Q2571571",
    "value": "مصیری"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B3%D8%AA%D9%85",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2571571",
+   "value": 9031
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -114,6 +128,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2571571",
    "value": 44386
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B3%D8%AA%D9%85",
+   "value": 4
   }
  },
  "name": "رستم",

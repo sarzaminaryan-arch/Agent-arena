@@ -8,6 +8,13 @@
    "url": "https://www.wikidata.org/wiki/Q378802",
    "value": 1395
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%DA%AF%D8%B2%DB%8C%D9%86",
+   "value": 3
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -15,6 +22,13 @@
    "status": "auto",
    "url": "",
    "value": 53
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%DA%AF%D8%B2%DB%8C%D9%86",
+   "value": 2
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -72,6 +86,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q378802",
    "value": 36999
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%DA%AF%D8%B2%DB%8C%D9%86",
+   "value": 4
   }
  },
  "name": "درگزین",

@@ -1,11 +1,14 @@
 {
  "amlash": {
+  "sa_city_elevation": 13,
   "sa_city_latitude": 36.98333,
   "sa_city_longitude": 50.15,
+  "sa_city_population": 15047,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "املش",
   "sa_cty_cities": 2,
   "sa_cty_distance_center": 51,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "langarud - شمال\nsiahkal - غرب\nrudsar - جنوب‌شرق\nramsar - جنوب‌شرق",
   "sa_cty_poi_nature": "شیردره\nرانکوه\nباباجان دره",
   "sa_cty_poi_offbeat": "بیلی لنگه\nتابستان نشین\nهالیدشت\nهلودشت\nخصیل دشت\nورکوره\nشلیشه\nبلوردکان\nامام\nسرتربت\nکجید\nدهستان سمام",
@@ -14,12 +17,15 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.98333,50.15"
  },
  "astaneh-ye-ashrafiyeh": {
-  "sa_city_elevation": -2,
+  "sa_city_elevation": 13,
   "sa_city_latitude": 37.31667,
   "sa_city_longitude": 49.96667,
+  "sa_city_population": 44941,
   "sa_cty_area": 426,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آستانه اشرفیه",
+  "sa_cty_cities": 14,
+  "sa_cty_climate": "[[پرونده:Iran-climate-map.svg|بندانگشتی|نقشهٔ آب و هوایی ایران. آب و هوای آستانه اشرفیه معتدل و فوق‌العاده مرطوب است.]] آب وهوای آستانه مانند دیگر نقاط گیلان از نوع آب و هوای معتدل مدیترانه‌ای با رطوبت کمی بیشتر می‌باشد.",
   "sa_cty_distance_center": 24,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "lahijan - جنوب‌شرق\nrasht - غرب\nkhomam - شمال‌غرب",
@@ -28,8 +34,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.31667,49.96667"
  },
  "astara": {
+  "sa_city_elevation": -22,
   "sa_city_latitude": 38.33333,
   "sa_city_longitude": 48.76667,
+  "sa_city_population": 51579,
   "sa_cty_area": 344,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آستارا",
@@ -44,11 +52,14 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.33333,48.76667"
  },
  "bandar-e-anzali": {
+  "sa_city_elevation": -20,
   "sa_city_latitude": 37.4719,
   "sa_city_longitude": 49.3889,
+  "sa_city_population": 118564,
   "sa_cty_area": 315,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر انزلی",
+  "sa_cty_climate": "این شهرستان دارای آب و هوای مرطوب ساحلی می‌باشد. میزان بارندگی شهرستان بسیار بالا بوده به‌طوری‌که سالیانه متوسط ۱۸۹۲ میلی‌متر بارندگی دارد بیشترین بارندگی در ماه‌های شهریور و مهر با ۴۴۰٫۹ میلی‌متر گزارش گردیده است.",
   "sa_cty_distance_center": 36,
   "sa_cty_neighbors": "someh-sara - جنوب\nkhomam - شرق\nrezvanshahr - غرب",
   "sa_cty_poi_offbeat": "شهرهای ایران",
@@ -56,8 +67,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.4719,49.3889"
  },
  "fuman": {
+  "sa_city_elevation": 30,
   "sa_city_latitude": 37.21667,
   "sa_city_longitude": 49.31667,
+  "sa_city_population": 27763,
   "sa_cty_area": 1002,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فومن",
@@ -68,21 +81,27 @@
   "sa_cty_poi_heritage": "قلعه رودخان",
   "sa_cty_poi_offbeat": "ماسوله\nفومن",
   "sa_cty_population": 92310,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.21667,49.31667"
  },
  "khomam": {
   "sa_city_latitude": 37.41667,
   "sa_city_longitude": 49.68333,
+  "sa_city_population": 12901,
   "sa_cty_area": 160,
   "sa_cty_center": "خمام",
   "sa_cty_distance_center": 17,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "rasht - جنوب\nbandar-e-anzali - غرب\nastaneh-ye-ashrafiyeh - جنوب‌شرق",
+  "sa_cty_rural_districts": 2,
+  "sa_cty_villages": 45,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.41667,49.68333"
  },
  "lahijan": {
+  "sa_city_elevation": 4,
   "sa_city_latitude": 37.23333,
   "sa_city_longitude": 50.03333,
+  "sa_city_population": 101073,
   "sa_cty_area": 407,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "لاهیجان",
@@ -90,24 +109,29 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "astaneh-ye-ashrafiyeh - شمال‌غرب\nlangarud - جنوب‌شرق",
   "sa_cty_population": 167544,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.23333,50.03333"
  },
  "langarud": {
+  "sa_city_elevation": -19,
   "sa_city_latitude": 37.15,
   "sa_city_longitude": 50.13333,
+  "sa_city_population": 79445,
   "sa_cty_area": 480,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "لنگرود",
   "sa_cty_cities": 5,
   "sa_cty_distance_center": 41,
+  "sa_cty_districts": 3,
   "sa_cty_neighbors": "lahijan - شمال‌غرب\namlash - جنوب",
   "sa_cty_population": 140686,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.15,50.13333"
  },
  "masal": {
-  "sa_city_elevation": 84,
+  "sa_city_elevation": 58,
   "sa_city_latitude": 37.38333,
   "sa_city_longitude": 49,
+  "sa_city_population": 17901,
   "sa_cty_area": 622,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ماسال",
@@ -119,8 +143,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.38333,49.0"
  },
  "rasht": {
+  "sa_city_elevation": 4,
   "sa_city_latitude": 37.26667,
   "sa_city_longitude": 49.7,
+  "sa_city_population": 679995,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رشت",
   "sa_cty_cities": 6,
@@ -136,6 +162,7 @@
  "rezvanshahr": {
   "sa_city_latitude": 37.53333,
   "sa_city_longitude": 48.95,
+  "sa_city_population": 12355,
   "sa_cty_area": 748,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شهرستان رضوانشهر",
@@ -144,12 +171,14 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "masal - جنوب\ntalesh - شمال\nkhalkhal - غرب\nbandar-e-anzali - شرق",
   "sa_cty_population": 69865,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.53333,48.95"
  },
  "rudbar": {
-  "sa_city_elevation": 1050,
+  "sa_city_elevation": 200,
   "sa_city_latitude": 36.81667,
   "sa_city_longitude": 49.58333,
+  "sa_city_population": 10504,
   "sa_cty_area": 2574,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رودبار",
@@ -158,12 +187,14 @@
   "sa_cty_districts": 4,
   "sa_cty_neighbors": "siahkal - شمال‌شرق\nshaft - شمال‌غرب\nqazvin-city - جنوب‌شرق\nkharadere - جنوب‌غرب",
   "sa_cty_population": 94720,
+  "sa_cty_rural_districts": 12,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.81667,49.58333"
  },
  "rudsar": {
-  "sa_city_elevation": 19,
+  "sa_city_elevation": -20,
   "sa_city_latitude": 36.7,
   "sa_city_longitude": 50.3,
+  "sa_city_population": 37998,
   "sa_cty_area": 1310,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رودسر",
@@ -174,12 +205,14 @@
   "sa_cty_poi_heritage": "گنبدپیرمحله",
   "sa_cty_poi_offbeat": "کیانیان\nشمال ایران",
   "sa_cty_population": 147399,
+  "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.7,50.3"
  },
  "shaft": {
   "sa_city_elevation": 15,
   "sa_city_latitude": 37.08333,
   "sa_city_longitude": 49.4,
+  "sa_city_population": 8184,
   "sa_cty_area": 586,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شفت",
@@ -196,6 +229,7 @@
  "siahkal": {
   "sa_city_latitude": 36.93333,
   "sa_city_longitude": 49.9,
+  "sa_city_population": 19924,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سیاهکل",
   "sa_cty_cities": 2,
@@ -208,6 +242,7 @@
  "someh-sara": {
   "sa_city_latitude": 37.33333,
   "sa_city_longitude": 49.33333,
+  "sa_city_population": 47083,
   "sa_cty_area": 633,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "صومعهسرا",
@@ -216,11 +251,14 @@
   "sa_cty_districts": 5,
   "sa_cty_neighbors": "fuman - جنوب\nbandar-e-anzali - شمال\nmasal - غرب\nrasht - شرق",
   "sa_cty_population": 125074,
+  "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.33333,49.33333"
  },
  "talesh": {
+  "sa_city_elevation": 80,
   "sa_city_latitude": 37.80142,
   "sa_city_longitude": 48.90669,
+  "sa_city_population": 54178,
   "sa_cty_area": 2373,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "هشتپر",

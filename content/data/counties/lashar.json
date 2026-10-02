@@ -15,6 +15,20 @@
    "url": "https://www.wikidata.org/wiki/Q109670507",
    "value": "اسپکه"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B4%D8%A7%D8%B1",
+   "value": 1
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B4%D8%A7%D8%B1",
+   "value": "آب و هوای شهرستان لاشار در تابستان، گرم و خشک و در زمستان، سرد و خشک است؛ همچنین در این منطقه، در فصل تابستان، بادهای باران‌آور موسمی و در فصل زمستان، بادهای باران‌آور مدیترانه‌ای، موجب ریزش پراکنده باران می‌شود."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -22,6 +36,20 @@
    "status": "auto",
    "url": "",
    "value": 306
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B4%D8%A7%D8%B1",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q109670507",
+   "value": 767
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -96,10 +124,18 @@
    "status": "auto",
    "url": "",
    "value": "ایرانشهر\nزاهدان\nبخش لاشار\nنیک‌شهر\nهریدوک\nکوپچ\nکشیگان\nرود\nمرکز دهستان\nجاذبه‌های گردشگری\nگیاهان دارویی\nچابهار"
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B4%D8%A7%D8%B1",
+   "value": 4
   }
  },
  "name": "لاشار",
  "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.",
   "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
  ],

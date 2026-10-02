@@ -61,16 +61,16 @@
    "تپه گیان"
   ],
   "population": 566452,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "borujerd",
-  "villages": null
+  "villages": 186
  },
  "chegeni": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
   "districts": 2,
   "elevation": null,
@@ -86,7 +86,7 @@
    "پارک جنگلی شوراب"
   ],
   "population": 41756,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "chegeni",
   "villages": null
  },
@@ -101,7 +101,7 @@
   "elevation": 2180.0,
   "poi_candidates": [],
   "population": 1439,
-  "rural_districts": null,
+  "rural_districts": 10,
   "slug": "delfan",
   "villages": null
  },
@@ -134,7 +134,7 @@
   "area": 4986.0,
   "census_year": null,
   "cities": 4,
-  "climate": null,
+  "climate": "شهرستان خرم‌آباد در مرکز استان لرستان واقع شده است. این شهرستان از شمال با شهرستان‌های بروجرد و سلسله، از شرق با شهرستان‌های دورود و الیگودرز، از غرب با شهرستان چگنی و از جنوب با شهرستان پلدختر و استان خوزستان ارتباط دارد.",
   "districts": 4,
   "elevation": 1200.0,
   "poi_candidates": [
@@ -167,13 +167,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B9%D9%85%D9%88%D9%84%D8%A7%D9%86",
   "area": 1440.0,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 21372,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "mamulan",
   "villages": null
  },
@@ -183,7 +183,7 @@
   "area": null,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "شهرستان پل‌دختر دارای آب و هوایی متفاوت است. مرکز این شهرستان یعنی شهر پلدختر آب و هوای گرمی در تابستان و معتدل و نسبتاً سرد در زمستان دارد.",
   "districts": 2,
   "elevation": null,
   "poi_candidates": [

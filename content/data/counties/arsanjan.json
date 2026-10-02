@@ -24,13 +24,27 @@
    "url": "https://www.wikidata.org/wiki/Q1270481",
    "value": "ارسنجان"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270481",
+   "value": 17706
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
    "source": "derived",
    "status": "auto",
    "url": "",
-   "value": 88
+   "value": 91
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270481",
+   "value": 1638
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -38,21 +52,21 @@
    "source": "derived",
    "status": "auto",
    "url": "",
-   "value": "https://www.google.com/maps/search/?api=1&query=29.8,53.41667"
+   "value": "https://www.google.com/maps/search/?api=1&query=29.83333,53.43333"
   },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270481",
-   "value": 29.8
+   "value": 29.83333
   },
   "lon": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270481",
-   "value": 53.41667
+   "value": 53.43333
   },
   "neighbor_dirs": {
    "fetched": "2026-10-02",

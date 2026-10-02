@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1786
+   },
+   "others": {
+    "wikipedia": 1843.0
+   }
+  }
+ },
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
@@ -22,6 +31,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
    "value": 3
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q721735",
+   "value": 38521
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
+   "value": "شهرستان خلخال یک منطقه کوهستانی است که ارتفاع آن از شرق به غرب و از شمال به جنوب کاهش می‌یابد. رشته کوه‌های تالش در شرق آن از شمال به جنوب کشیده شده است که مانند سدی میان دریای خزر و استان گیلان و آذربایجان قرار گرفته است به‌طوری‌که برخلاف دامنه‌های شرق در دامنه‌های غربی آن در منطقه خلخال به جهت کاهش باران و خشکی هوا پوشش گیاهی انبوه و چشمگیری دیده نمی‌شود."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -39,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
-   "value": 1843.0
+   "url": "https://www.wikidata.org/wiki/Q721735",
+   "value": 1786
   },
   "google_map_url": {
    "fetched": "2026-10-02",

@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 560
+   },
+   "others": {
+    "wikipedia": 1700.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -29,6 +38,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87",
    "value": 3
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282207",
+   "value": 8294
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87",
+   "value": "منطقه سوادکوه در یک درهٔ وسیع و طولانی و در دامنه‌های شمالی رشته کوه‌های البرز مرکزی واقع شده است. حوزه کلی این ناحیه از منتهی‌الیه جلگه‌های جنوبی، و ۳۰ کیلومتری دریای خزر آغاز شده و با شیب بسیار تند به سوی جنوب کشیده می‌شود."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -46,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87",
-   "value": 1700.0
+   "url": "https://www.wikidata.org/wiki/Q1282207",
+   "value": 560
   },
   "google_map_url": {
    "fetched": "2026-10-02",

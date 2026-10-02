@@ -31,6 +31,13 @@
    "url": "https://www.wikidata.org/wiki/Q1291807",
    "value": "جلفا"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291807",
+   "value": 8810
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -45,6 +52,13 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
    "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1291807",
+   "value": 704
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -124,6 +138,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291807",
    "value": 61358
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+   "value": 2
   }
  },
  "name": "جلفا",

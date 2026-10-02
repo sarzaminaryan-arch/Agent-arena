@@ -29,6 +29,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%88%D8%B1",
    "value": 2
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286316",
+   "value": 22729
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%88%D8%B1",
+   "value": "شهر راوراز نظر جغرافیایی در ۵۶ درجه درازای خاوری۳۱ درجه و ۱۵ دقیقه پهنای شمالی و در ارتفاع ۱۱۷۸ متری از سطح دریا واقع است. پست‌ترین نقطهٔ شهرستان راور با ارتفاع ۴۵۰متر از سطح دریا در کویر لوت می‌باشد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -46,10 +60,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%88%D8%B1",
-   "value": 1181.0
+   "url": "https://www.wikidata.org/wiki/Q1286316",
+   "value": 1181
   },
   "google_map_url": {
    "fetched": "2026-10-02",

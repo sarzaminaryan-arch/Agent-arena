@@ -31,6 +31,20 @@
    "url": "https://www.wikidata.org/wiki/Q1280129",
    "value": "حاجیآباد"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 3
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": "حاجی‌آباد تابستان‌های گرم و خشک و زمستان‌های نسبتاً سردی دارد. البته دوره گرما در حاجی‌آباد به دلیل نزدیکی به استان کرمان نسبت به بقیه شهرهای هرمزگان کمتر است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -127,6 +141,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1280129",
    "value": 69625
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 6
   }
  },
  "name": "حاجی‌آباد",

@@ -5,7 +5,7 @@
   "area": null,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "شهرستان اراک به لحاظ برخورداری از عوامل آب و هوایی (مانند مجاورت با تالاب میقان، وجود ارتفاعات و…) دارای نوسانات اقلیمی است، به‌طور کلی تابستان‌های نسبتاً گرم تا ملایم و زمستان‌های سرد از خصوصیات اقلیمی شهرستان اراک است. <!-- === زمین‌شناسی و زمین‌ریخت ===",
   "districts": 3,
   "elevation": null,
   "poi_candidates": [
@@ -22,7 +22,7 @@
    "کوه غاغان"
   ],
   "population": 591737,
-  "rural_districts": null,
+  "rural_districts": 10,
   "slug": "arak",
   "villages": null
  },
@@ -32,7 +32,7 @@
   "area": 1240.0,
   "census_year": null,
   "cities": null,
-  "climate": null,
+  "climate": "شهرستان آشتیان به سبب ارتفاع زیاد، دارای زمستان‌های سرد و تابستان‌های معتدل است. این شهر از لحاظ توپوگرافی در دامنه ارتفاعات کوه‌های مرکزی واقع شده و از جنوب به دشت فراهان و کویر میقان منتهی می‌شود.",
   "districts": null,
   "elevation": null,
   "poi_candidates": [],
@@ -47,8 +47,8 @@
   "area": 2500.0,
   "census_year": null,
   "cities": 2,
-  "climate": null,
-  "districts": null,
+  "climate": "شهرستان دلیجان در قلمرو آب و هوایی نیمه خشک قرار دارد و مرکز آن یعنی شهر دلیجان دارای زمستان‌های سرد و تابستان‌های نسبتاً گرم است. متوسط بارندگی عمومی حدود ۱۵۰ میلی‌متر می‌باشد، که کمترین میزان بارندگی را در میان شهرستان‌های استان، دارا است.",
+  "districts": 1,
   "elevation": 1530.0,
   "poi_candidates": [
    "جاذبه‌های گردشگری",
@@ -56,7 +56,7 @@
    "غار چال نخجیر"
   ],
   "population": 51621,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "delijan",
   "villages": null
  },
@@ -112,7 +112,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": 54018,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "khondab",
   "villages": null
  },
@@ -134,7 +134,7 @@
    "فامرین"
   ],
   "population": 36441,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "komijan",
   "villages": null
  },
@@ -211,27 +211,27 @@
   "area": 2745.0,
   "census_year": null,
   "cities": 4,
-  "climate": null,
+  "climate": "آب و هوای شازند سرد و کوهستانی است که تابستان‌های معتدل و زمستان‌های سردی را به همراه دارد. سردترین نقطهٔ استان مرکزی در این شهر است.",
   "districts": 4,
   "elevation": null,
   "poi_candidates": [],
   "population": 117571,
-  "rural_districts": null,
+  "rural_districts": 11,
   "slug": "shazand",
   "villages": null
  },
  "tafresh": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%B1%D8%B4",
-  "area": null,
+  "area": 2792.0,
   "census_year": null,
   "cities": null,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": null,
   "poi_candidates": [],
   "population": 24913,
-  "rural_districts": null,
+  "rural_districts": 8,
   "slug": "tafresh",
   "villages": null
  },
@@ -272,7 +272,7 @@
    "حمام آسیابک"
   ],
   "population": 63907,
-  "rural_districts": null,
+  "rural_districts": 7,
   "slug": "zarandieh",
   "villages": null
  }

@@ -29,13 +29,27 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
    "value": 3
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1279505",
+   "value": 74285
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
+   "value": "آب و هوای شهرستان رامهرمز گرم است؛ به گونه‌ای که در تابستان تا ۵۳ درجه سانتی‌گراد و در زمستان تا ۱۰ درجه سانتی‌گراد حرارت دارد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
    "source": "derived",
    "status": "auto",
    "url": "",
-   "value": 92
+   "value": 86
   },
   "districts": {
    "fetched": "2026-10-02",
@@ -44,27 +58,34 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
    "value": 4
   },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1279505",
+   "value": 160
+  },
   "google_map_url": {
    "fetched": "2026-10-02",
    "note": "ساخته‌شده از مختصات مرکز شهرستان",
    "source": "derived",
    "status": "auto",
    "url": "",
-   "value": "https://www.google.com/maps/search/?api=1&query=31.21667,49.65"
+   "value": "https://www.google.com/maps/search/?api=1&query=31.28104,49.59957"
   },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279505",
-   "value": 31.21667
+   "value": 31.28104
   },
   "lon": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279505",
-   "value": 49.65
+   "value": 49.59957
   },
   "neighbor_dirs": {
    "fetched": "2026-10-02",
@@ -76,7 +97,6 @@
     "bagh-e-malek": "شمال‌شرق",
     "bahmai": "جنوب‌شرق",
     "haftkel": "شمال‌غرب",
-    "omidiyeh": "جنوب",
     "ramshir": "جنوب‌غرب"
    }
   },
@@ -87,11 +107,10 @@
    "status": "auto",
    "url": "",
    "value": [
+    "haftkel",
     "bagh-e-malek",
     "ramshir",
-    "bahmai",
-    "haftkel",
-    "omidiyeh"
+    "bahmai"
    ]
   },
   "population": {
@@ -100,6 +119,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279505",
    "value": 113776
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
+   "value": 8
   }
  },
  "name": "رامهرمز",

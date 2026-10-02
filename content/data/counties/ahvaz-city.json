@@ -15,6 +15,34 @@
    "url": "https://www.wikidata.org/wiki/Q1272922",
    "value": "اهواز"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1272922",
+   "value": 1184788
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+   "value": 3
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1272922",
+   "value": 23
+  },
   "google_map_url": {
    "fetched": "2026-10-02",
    "note": "ساخته‌شده از مختصات مرکز شهرستان",
@@ -71,6 +99,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1272922",
    "value": 1302591
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+   "value": 6
   }
  },
  "name": "اهواز",

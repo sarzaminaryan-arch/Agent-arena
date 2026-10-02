@@ -29,12 +29,26 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
    "value": 6
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q115275",
+   "value": 736224
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
    "value": 5
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q115275",
+   "value": 1332
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -65,8 +79,8 @@
    "status": "auto",
    "url": "",
    "value": {
+    "ajabshir": "شرق",
     "azarshahr": "شرق",
-    "bonab": "شرق",
     "oshnavieh": "جنوب",
     "salmas": "شمال"
    }
@@ -79,9 +93,9 @@
    "url": "",
    "value": [
     "oshnavieh",
+    "ajabshir",
     "salmas",
-    "azarshahr",
-    "bonab"
+    "azarshahr"
    ]
   },
   "population": {
@@ -90,6 +104,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q115275",
    "value": 1040565
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+   "value": 20
   }
  },
  "name": "ارومیه",

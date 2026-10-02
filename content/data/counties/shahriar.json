@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1159
+   },
+   "others": {
+    "wikipedia": 1140.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -29,6 +38,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1",
    "value": 6
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282170",
+   "value": 309607
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1",
+   "value": "شهرستان شهریار بر روی دشت آبرفتی وسیعی قرار گرفته که حاصل رسوبات رودخانه‌هایی چون کرج و شادچای است. این موقعیت، خاکی عمیق و بسیار حاصلخیز را برای کشاورزی و باغداری فراهم آورده است."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -46,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1",
-   "value": 1140.0
+   "url": "https://www.wikidata.org/wiki/Q1282170",
+   "value": 1159
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -107,6 +130,20 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282170",
    "value": 744210
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1",
+   "value": 6
+  },
+  "villages": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1",
+   "value": 50
   }
  },
  "name": "شهریار",

@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 9
+   },
+   "others": {
+    "wikipedia": 77.0
+   }
+  }
+ },
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
@@ -22,6 +31,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
    "value": 4
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270657",
+   "value": 24083
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+   "value": "آب و هوای منطقه در بیشتر ایام سال گرم و مرطوب در کنار ساحل گرم و خشک در فواصل دور تر از ساحل می‌باشد. زمستان این شهرستان مشابه هوای بهاری استان‌های سردسیر کشور می‌باشد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -39,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
-   "value": 77.0
+   "url": "https://www.wikidata.org/wiki/Q1270657",
+   "value": 9
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -110,6 +133,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270657",
    "value": 60612
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+   "value": 6
   }
  },
  "name": "دیر",

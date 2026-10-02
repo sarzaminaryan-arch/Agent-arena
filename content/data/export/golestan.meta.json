@@ -2,6 +2,7 @@
  "aliabad-e-katul": {
   "sa_city_latitude": 36.83333,
   "sa_city_longitude": 54.83333,
+  "sa_city_population": 46183,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "علیآباد کتول",
   "sa_cty_cities": 4,
@@ -14,6 +15,7 @@
  "aq-qala": {
   "sa_city_latitude": 37.16667,
   "sa_city_longitude": 54.58333,
+  "sa_city_population": 35116,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آققلا",
   "sa_cty_cities": 2,
@@ -26,6 +28,7 @@
  "azadshahr": {
   "sa_city_latitude": 37.125,
   "sa_city_longitude": 55.1,
+  "sa_city_population": 43760,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آزادشهر",
   "sa_cty_cities": 3,
@@ -39,6 +42,7 @@
  "bandar-e-gaz": {
   "sa_city_latitude": 36.71667,
   "sa_city_longitude": 53.96667,
+  "sa_city_population": 20742,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر گز",
   "sa_cty_distance_center": 49,
@@ -48,30 +52,38 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.71667,53.96667"
  },
  "bandar-e-torkaman": {
+  "sa_city_elevation": -22,
   "sa_city_latitude": 37.1,
   "sa_city_longitude": 54.2,
+  "sa_city_population": 53970,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر ترکمن",
+  "sa_cty_cities": 2,
   "sa_cty_distance_center": 40,
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "gomishan - شمال‌غرب\naq-qala - شرق\ngorgan - جنوب‌شرق\nkordkuy - جنوب\nbandar-e-gaz - جنوب‌غرب",
   "sa_cty_population": 79978,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.1,54.2"
  },
  "galikesh": {
   "sa_city_latitude": 37.3,
   "sa_city_longitude": 55.65,
+  "sa_city_population": 23394,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گالیکش",
   "sa_cty_cities": 2,
   "sa_cty_distance_center": 114,
+  "sa_cty_districts": 2,
   "sa_cty_neighbors": "minudasht - جنوب‌غرب\nkalaleh - شمال\ngonbad-e-kavus - غرب\ngarmeh - جنوب‌شرق",
   "sa_cty_population": 63173,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.3,55.65"
  },
  "gomishan": {
   "sa_city_latitude": 37.15,
   "sa_city_longitude": 54.15,
+  "sa_city_population": 19191,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گمیشان",
   "sa_cty_cities": 2,
@@ -82,8 +94,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.15,54.15"
  },
  "gonbad-e-kavus": {
+  "sa_city_elevation": 52,
   "sa_city_latitude": 37.5,
   "sa_city_longitude": 55,
+  "sa_city_population": 151910,
   "sa_cty_area": 5071,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گنبد کاووس",
@@ -92,11 +106,14 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "azadshahr - جنوب\naq-qala - جنوب‌غرب\ngalikesh - شرق\nkalaleh - شرق",
   "sa_cty_population": 348744,
+  "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.5,55.0"
  },
  "gorgan": {
+  "sa_city_elevation": 148,
   "sa_city_latitude": 36.83333,
   "sa_city_longitude": 54.5,
+  "sa_city_population": 329536,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گرگان",
   "sa_cty_cities": 2,
@@ -106,8 +123,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.83333,54.5"
  },
  "kalaleh": {
+  "sa_city_elevation": 194,
   "sa_city_latitude": 37.71667,
   "sa_city_longitude": 55.81667,
+  "sa_city_population": 36176,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کلاله",
   "sa_cty_cities": 2,
@@ -118,8 +137,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.71667,55.81667"
  },
  "kordkuy": {
+  "sa_city_elevation": 50,
   "sa_city_latitude": 36.69167,
   "sa_city_longitude": 54.2,
+  "sa_city_population": 39881,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کردکوی",
   "sa_cty_distance_center": 31,
@@ -128,6 +149,7 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.69167,54.2"
  },
  "maraveh-tappeh": {
+  "sa_city_elevation": 210,
   "sa_city_latitude": 37.9,
   "sa_city_longitude": 55.95,
   "sa_cty_area": 350,
@@ -138,11 +160,13 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "kalaleh - جنوب‌غرب\nmaneh - شرق",
   "sa_cty_population": 60953,
+  "sa_cty_rural_districts": 2,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.9,55.95"
  },
  "minudasht": {
   "sa_city_latitude": 37.16667,
   "sa_city_longitude": 55.5,
+  "sa_city_population": 30085,
   "sa_cty_area": 662,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مینودشت",
@@ -151,11 +175,13 @@
   "sa_cty_districts": 2,
   "sa_cty_neighbors": "galikesh - شمال‌شرق\nramian - جنوب‌غرب\nazadshahr - غرب\nmeyami - جنوب‌شرق",
   "sa_cty_population": 75483,
+  "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.16667,55.5"
  },
  "ramian": {
   "sa_city_latitude": 36.95,
   "sa_city_longitude": 55.21667,
+  "sa_city_population": 12426,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رامیان",
   "sa_cty_cities": 3,

@@ -22,6 +22,13 @@
    "url": "https://www.wikidata.org/wiki/Q1285922",
    "value": "سردشت"
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285922",
+   "value": 46412
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +36,13 @@
    "status": "auto",
    "url": "",
    "value": 154
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285922",
+   "value": 1516
   },
   "google_map_url": {
    "fetched": "2026-10-02",

@@ -4,15 +4,15 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%AF%D8%B3%D8%AA%D8%A7%D9%86",
   "area": 1950.0,
   "census_year": null,
-  "cities": null,
+  "cities": 3,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": 77.0,
   "poi_candidates": [
    "موسی کاظم"
   ],
   "population": 76706,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "ahram",
   "villages": null
  },
@@ -23,11 +23,11 @@
   "census_year": null,
   "cities": 3,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": 77.0,
   "poi_candidates": [],
   "population": 106,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "asaluyeh",
   "villages": null
  },
@@ -42,7 +42,7 @@
   "elevation": 77.0,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 12,
   "slug": "borazjan",
   "villages": null
  },
@@ -57,7 +57,7 @@
   "elevation": 77.0,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "bushehr-city",
   "villages": null
  },
@@ -82,7 +82,7 @@
   "area": null,
   "census_year": null,
   "cities": 4,
-  "climate": null,
+  "climate": "آب و هوای منطقه در بیشتر ایام سال گرم و مرطوب در کنار ساحل گرم و خشک در فواصل دور تر از ساحل می‌باشد. زمستان این شهرستان مشابه هوای بهاری استان‌های سردسیر کشور می‌باشد.",
   "districts": 3,
   "elevation": 77.0,
   "poi_candidates": [
@@ -106,7 +106,7 @@
    "محوطه بطانه"
   ],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "deyr",
   "villages": null
  },
@@ -115,13 +115,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A7%D9%88%D9%87",
   "area": 1877.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": 77.0,
   "poi_candidates": [],
   "population": 102484,
-  "rural_districts": null,
+  "rural_districts": 2,
   "slug": "ganaveh",
   "villages": null
  },
@@ -140,7 +140,7 @@
    "جنگل گلوبردکان"
   ],
   "population": 70051,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "jam",
   "villages": null
  },
@@ -155,14 +155,14 @@
   "elevation": 77.0,
   "poi_candidates": [],
   "population": 57,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "kangan",
   "villages": null
  },
  "khormoj": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B4%D8%AA%DB%8C",
-  "area": null,
+  "area": 5028.0,
   "census_year": null,
   "cities": 4,
   "climate": null,

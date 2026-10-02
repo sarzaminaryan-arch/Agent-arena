@@ -6,7 +6,7 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "حیدرباغی",
@@ -27,7 +27,7 @@
    "آبشار باداملو"
   ],
   "population": 22385,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "baruq",
   "villages": null
  },
@@ -72,11 +72,11 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 26219,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "chaharborj",
   "villages": null
  },
@@ -98,17 +98,17 @@
  "chaypareh": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%DB%8C%D9%BE%D8%A7%D8%B1%D9%87",
-  "area": null,
+  "area": 1063.0,
   "census_year": null,
   "cities": null,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "chaypareh",
-  "villages": null
+  "villages": 26
  },
  "khoy": {
   "_fetched": "2026-10-02",
@@ -176,13 +176,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%A2%D8%A8",
   "area": 845.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 3,
   "elevation": 1300.0,
   "poi_candidates": [],
   "population": 225345,
-  "rural_districts": null,
+  "rural_districts": 9,
   "slug": "miandoab",
   "villages": null
  },
@@ -191,13 +191,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
   "area": null,
   "census_year": null,
-  "cities": null,
+  "cities": 1,
   "climate": null,
   "districts": 2,
   "elevation": null,
   "poi_candidates": [],
   "population": 22700,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "mirabad",
   "villages": null
  },
@@ -245,7 +245,7 @@
    "خرنج"
   ],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "piranshahr",
   "villages": null
  },
@@ -328,16 +328,16 @@
   "elevation": 1036.0,
   "poi_candidates": [],
   "population": 55682,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "showt",
-  "villages": null
+  "villages": 65
  },
  "takab": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%DA%A9%D8%A7%D8%A8",
   "area": 2187.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 2,
   "elevation": 1840.0,
@@ -352,7 +352,7 @@
    "احمدآباد سفلی (تکاب)"
   ],
   "population": 80556,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "takab",
   "villages": null
  },
@@ -367,7 +367,7 @@
   "elevation": null,
   "poi_candidates": [],
   "population": null,
-  "rural_districts": null,
+  "rural_districts": 20,
   "slug": "urmia",
   "villages": null
  }

@@ -8,13 +8,17 @@ ID=$(wp post list --post_type=city --name=boshruyeh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "880"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "192"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای منطقه خشک و کویری است. حداکثر و حداقل مطلق درجه حرارت هوا در ایستگاه بشرویه ۴۸ و ۲۱- درجه سانتی‌گراد گزارش شده است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ferdows - شرق\ntabas - جنوب‌غرب\neshqabad - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "حسن بن علی\nدهستان رقه\nساروج\nرباط اصفاک\nرباط نیگنان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "امامزادهٔ هوگند\nمسجد جامع رقه\nپل‌های آب بر سر پل بشرویه\nقلعه دختر بشرویه\nخانه و ساباط مستوفی\nموزه خصوصی بشرویه\nحسینیه حاج علی اشرف\nمسجد میان ده\nآب انبار میان ده\nتپه و محوطه کرند\nامامزاده ساغند\nامامزاده بی‌بی نجمه خاتون"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.86239"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "57.41893"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "879"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.86239,57.41893"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "16426"
 
 # بیرجند
 ID=$(wp post list --post_type=city --name=birjand --field=ID | head -1)
@@ -22,12 +26,16 @@ ID=$(wp post list --post_type=city --name=birjand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "261324"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "3949"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "بیرجند، شهرستانی کوهستانی است و در آن کوه‌ها و دره‌های عمیق و حاصلخیزی وجود دارد. کوه‌های عمده شهرستان عبارت‌اند از: رشته کوه باقران در جنوب، کوه شاه مشهور به رشته کوه ناحیه هردنگ در جنوب ماژان و دق اکبر آباد و شمال دشت سرچاه عماری (حاشیه کویر)، رشته کوه مؤمن آباد در شمال سربیشه."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "qayenat - شمال\ndarmiyan - شرق\nkhusf - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "رشته کوه باقران\nکوه شاه\nکویر\nرشته کوه مؤمن آباد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "کال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.07"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "59.255"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1459"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.07,59.255"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "203636"
 
 # خوسف
 ID=$(wp post list --post_type=city --name=khusf --field=ID | head -1)
@@ -43,7 +51,9 @@ ID=$(wp post list --post_type=city --name=khusf --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه بصیران\nقلعه قیس آباد\nقلعه رستم خوسف\nقلعه قدیمی خوسف\nقلعه خور\nقلعه قلاع آرک\nارگ عباس خان شیبانی\nآب‌انبار خور\nآب‌انبار سیوجان\nحمام سیوجان\nمحوطه اسپورگ\nمحوطه باراندازی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.18333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "58.76667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1309"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=32.18333,58.76667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "5716"
 
 # درمیان
 ID=$(wp post list --post_type=city --name=darmiyan --field=ID | head -1)
@@ -58,6 +68,7 @@ ID=$(wp post list --post_type=city --name=darmiyan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.94889"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60.12333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=32.94889,60.12333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "5460"
 
 # زیرکوه
 ID=$(wp post list --post_type=city --name=zirkuh --field=ID | head -1)
@@ -66,6 +77,8 @@ ID=$(wp post list --post_type=city --name=zirkuh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "9185"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "113"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "darmiyan - جنوب\nqayenat - غرب\nkhaf - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "قلعه کوه زردان\nکوه شاسکوه آبیز\nغار پهلوان"
@@ -82,11 +95,15 @@ ID=$(wp post list --post_type=city --name=sarayan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "33312"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "9305"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "111"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ferdows - غرب\nqayenat - شرق\ngonabad - شمال\nbajestan - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.85884"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "58.52079"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1449"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.85884,58.52079"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "13795"
 
 # سربیشه
 ID=$(wp post list --post_type=city --name=sarbisheh --field=ID | head -1)
@@ -95,6 +112,8 @@ ID=$(wp post list --post_type=city --name=sarbisheh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "7928"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "107"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "darmiyan - شمال\nnehbandan - جنوب\nkhusf - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "چنشت\nماخونیک"
@@ -102,6 +121,7 @@ ID=$(wp post list --post_type=city --name=sarbisheh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60.08333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=32.4,60.08333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "8715"
 
 # طبس
 ID=$(wp post list --post_type=city --name=tabas --field=ID | head -1)
@@ -117,7 +137,9 @@ ID=$(wp post list --post_type=city --name=tabas --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "امامزاده حسین بن موسی کاظم\nامامزاده علی\nامام زاده حسین\nامام زاده زرگ\nامام زاده فشاء\nباغ گلشن\nمزار شیخ ابونصرایراوه‌ای\nقلعه نایبند\nخانه گبر\nقلعه شاهزاده\nقلعه غنی آباد\nقلعه هودر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.58333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "56.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "669"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.58333,56.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "39676"
 
 # عشق‌آباد
 ID=$(wp post list --post_type=city --name=eshqabad --field=ID | head -1)
@@ -126,11 +148,14 @@ ID=$(wp post list --post_type=city --name=eshqabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "11221"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "278"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "boshruyeh - جنوب‌شرق\ntabas - جنوب\nbajestan - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.42667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "56.72806"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.42667,56.72806"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "3965"
 
 # فردوس
 ID=$(wp post list --post_type=city --name=ferdows --field=ID | head -1)
@@ -139,15 +164,19 @@ ID=$(wp post list --post_type=city --name=ferdows --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "5100"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "155"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "این شهرستان با توجه به موقعیت جغرافیایی و عدم وجود توده‌های مرطوب و کوهستان‌های مناسب و به علت مجاورت با دو کویر مرکزی و نمک دارای آب و هوای صحرایی، خشک و کم‌باران می‌باشد. میانگین میزان بارندگی این شهرستان در حدود ۱۵۵ میلی‌متر در سال است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "boshruyeh - غرب\nsarayan - شرق\nbajestan - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "آبگرم معدنی فردوس"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "جاذبه‌های گردشگری\nآسیاب آبی حاجی خان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "آرامگاه میر تونی\nآرامگاه میرزاها\nامامزاده محمد و ابراهیم\nامامزاده سلطان کریمشاه\nآرامگاه امامزاده سلطان احمد مهوید\nآسیاب آبی باغستان\nآب‌انبار آذری\nآب‌انبار امامزاده سرند\nآب‌انبار برون\nآب‌انبار بش\nآب انبار بازار\nآب‌انبار سردشت"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.95667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "57.97"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1279"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.95667,57.97"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "28695"
 
 # قائنات
 ID=$(wp post list --post_type=city --name=qayenat --field=ID | head -1)
@@ -156,6 +185,7 @@ ID=$(wp post list --post_type=city --name=qayenat --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "7601"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "8"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "73"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sarayan - غرب\nbirjand - جنوب\ngonabad - شمال‌غرب\nzirkuh - شرق\nkhaf - شمال‌شرق"
@@ -164,8 +194,9 @@ ID=$(wp post list --post_type=city --name=qayenat --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد جامع خضری\nامامزاده عبدالله کارشک\nمسجد جامع افین"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.72444"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "59.17222"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "9"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1447"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.72444,59.17222"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "42323"
 
 # نهبندان
 ID=$(wp post list --post_type=city --name=nehbandan --field=ID | head -1)
@@ -174,10 +205,13 @@ ID=$(wp post list --post_type=city --name=nehbandan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "26094"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "185"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sarbisheh - شمال\nkhusf - شمال‌غرب\nnimruz - شرق\nhamun - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "31.53333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1100"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1187"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=31.53333,60.0"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "18304"
 

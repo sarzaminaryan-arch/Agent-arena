@@ -20,7 +20,7 @@
   "area": null,
   "census_year": null,
   "cities": 6,
-  "climate": null,
+  "climate": "آب و هوای شهرستان آمل نظیر سایر نقاط مازندران است؛ در تابستان‌ها گرم و مرطوب و در زمستانها ملایم.",
   "districts": 5,
   "elevation": 40.0,
   "poi_candidates": [
@@ -58,7 +58,7 @@
  "babol": {
   "_fetched": "2026-10-02",
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%A8%D9%84",
-  "area": null,
+  "area": 1578.1,
   "census_year": null,
   "cities": 6,
   "climate": null,
@@ -68,7 +68,7 @@
   "population": 531930,
   "rural_districts": null,
   "slug": "babol",
-  "villages": null
+  "villages": 673
  },
  "babolsar": {
   "_fetched": "2026-10-02",
@@ -122,7 +122,7 @@
    "میراث جهانی یونسکو"
   ],
   "population": 168769,
-  "rural_districts": null,
+  "rural_districts": 3,
   "slug": "behshahr",
   "villages": null
  },
@@ -189,13 +189,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
   "area": 290.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
   "districts": 3,
   "elevation": 20.0,
   "poi_candidates": [],
   "population": 83988,
-  "rural_districts": null,
+  "rural_districts": 6,
   "slug": "joybar",
   "villages": null
  },
@@ -206,11 +206,11 @@
   "census_year": null,
   "cities": null,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": null,
   "poi_candidates": [],
   "population": 23648,
-  "rural_districts": null,
+  "rural_districts": 2,
   "slug": "kelardasht",
   "villages": null
  },
@@ -309,7 +309,7 @@
   "census_year": null,
   "cities": null,
   "climate": null,
-  "districts": null,
+  "districts": 3,
   "elevation": null,
   "poi_candidates": [
    "کرسی (نور)",
@@ -340,13 +340,13 @@
   "_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
   "area": 373.0,
   "census_year": null,
-  "cities": null,
+  "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 1,
   "elevation": 51.0,
   "poi_candidates": [],
   "population": 319199,
-  "rural_districts": null,
+  "rural_districts": 5,
   "slug": "qaemshahr",
   "villages": null
  },
@@ -357,14 +357,14 @@
   "census_year": null,
   "cities": 2,
   "climate": null,
-  "districts": null,
+  "districts": 2,
   "elevation": null,
   "poi_candidates": [
    "هتل قدیم رامسر",
    "رامسر"
   ],
   "population": 74179,
-  "rural_districts": null,
+  "rural_districts": 4,
   "slug": "ramsar",
   "villages": null
  },
@@ -412,7 +412,7 @@
   "area": 2078.0,
   "census_year": null,
   "cities": 3,
-  "climate": null,
+  "climate": "منطقه سوادکوه در یک درهٔ وسیع و طولانی و در دامنه‌های شمالی رشته کوه‌های البرز مرکزی واقع شده است. حوزه کلی این ناحیه از منتهی‌الیه جلگه‌های جنوبی، و ۳۰ کیلومتری دریای خزر آغاز شده و با شیب بسیار تند به سوی جنوب کشیده می‌شود.",
   "districts": 2,
   "elevation": 1700.0,
   "poi_candidates": [

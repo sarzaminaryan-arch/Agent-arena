@@ -1,5 +1,14 @@
 {
- "conflicts": {},
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 467
+   },
+   "others": {
+    "wikipedia": 19.0
+   }
+  }
+ },
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -22,6 +31,20 @@
    "url": "https://www.wikidata.org/wiki/Q1292877",
    "value": "نیکشهر"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": 3
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1292877",
+   "value": 17732
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -39,10 +62,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%E2%80%8C%D8%B4%D9%87%D8%B1",
-   "value": 19.0
+   "url": "https://www.wikidata.org/wiki/Q1292877",
+   "value": 467
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -108,6 +131,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1292877",
    "value": 141894
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": 9
   }
  },
  "name": "نیک‌شهر",

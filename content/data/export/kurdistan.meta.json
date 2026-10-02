@@ -1,7 +1,9 @@
 {
  "baneh": {
+  "sa_city_elevation": 1554,
   "sa_city_latitude": 35.91667,
   "sa_city_longitude": 45.83333,
+  "sa_city_population": 110218,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بانه",
   "sa_cty_distance_center": 111,
@@ -12,6 +14,7 @@
  "bijar": {
   "sa_city_latitude": 35.86667,
   "sa_city_longitude": 47.6,
+  "sa_city_population": 50014,
   "sa_cty_area": 4350,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بیجار",
@@ -26,6 +29,7 @@
  "dehgolan": {
   "sa_city_latitude": 35.35,
   "sa_city_longitude": 47.35,
+  "sa_city_population": 25992,
   "sa_cty_area": 2050,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دهگلان",
@@ -37,6 +41,7 @@
  "divandarreh": {
   "sa_city_latitude": 35.91667,
   "sa_city_longitude": 47,
+  "sa_city_population": 34007,
   "sa_cty_area": 3637,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دیواندره",
@@ -46,8 +51,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.91667,47.0"
  },
  "kamyaran": {
+  "sa_city_elevation": 1433,
   "sa_city_latitude": 34.91667,
   "sa_city_longitude": 46.91667,
+  "sa_city_population": 57077,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کامیاران",
   "sa_cty_distance_center": 47,
@@ -59,19 +66,26 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.91667,46.91667"
  },
  "marivan": {
+  "sa_city_elevation": 1310,
   "sa_city_latitude": 35.58333,
   "sa_city_longitude": 46.25,
+  "sa_city_population": 136654,
+  "sa_cty_area": 941,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مریوان",
   "sa_cty_cities": 2,
   "sa_cty_distance_center": 60,
+  "sa_cty_districts": 3,
   "sa_cty_neighbors": "sarvabad - جنوب\nbaneh - شمال‌غرب\nsanandaj - جنوب‌شرق\nsaqqez - شمال\ndivandarreh - شمال‌شرق",
   "sa_cty_population": 195263,
+  "sa_cty_rural_districts": 6,
+  "sa_cty_villages": 151,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.58333,46.25"
  },
  "qorveh": {
   "sa_city_latitude": 35.25,
   "sa_city_longitude": 47.66667,
+  "sa_city_population": 78276,
   "sa_cty_area": 2900,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قروه",
@@ -79,11 +93,14 @@
   "sa_cty_distance_center": 76,
   "sa_cty_neighbors": "dehgolan - غرب\nsonqor - جنوب\nkabudarahang-city - شرق\nasadabad-city - جنوب‌شرق\nbijar - شمال\nbahar-city - جنوب‌شرق",
   "sa_cty_population": 140192,
+  "sa_cty_villages": 12,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.25,47.66667"
  },
  "sanandaj": {
+  "sa_city_elevation": 1538,
   "sa_city_latitude": 35.33333,
   "sa_city_longitude": 46.83333,
+  "sa_city_population": 412767,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سنندج",
   "sa_cty_districts": 4,
@@ -92,8 +109,11 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.33333,46.83333"
  },
  "saqqez": {
+  "sa_city_elevation": 1520,
   "sa_city_latitude": 36.16667,
   "sa_city_longitude": 46.33333,
+  "sa_city_population": 165258,
+  "sa_cty_area": 900,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سقز",
   "sa_cty_distance_center": 103,
@@ -103,8 +123,10 @@
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.16667,46.33333"
  },
  "sarvabad": {
+  "sa_city_elevation": 1130,
   "sa_city_latitude": 35.25,
   "sa_city_longitude": 46.33333,
+  "sa_city_population": 5121,
   "sa_cty_area": 1200,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سروآباد",

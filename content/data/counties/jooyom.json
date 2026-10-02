@@ -22,6 +22,27 @@
    "url": "https://www.wikidata.org/wiki/Q111272414",
    "value": "جویم"
   },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%85",
+   "value": 2
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q111272414",
+   "value": 8010
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%85",
+   "value": "[[File:منطقه تفریحی رحمت آباد جویم-آبشار رحمت آباد.jpg|thumb|آبشار رحمت‌آباد|250px]] هوای مرکز بخش جویم گرم و نیمه خشک می‌باشد. بیشترین درجه حرارت در تابستان‌ها ۶۰ درجه بالای صفر و کمترین آن در زمستان‌ها به ۱۲ درجه بالای صفر می‌رسد."
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -29,6 +50,20 @@
    "status": "auto",
    "url": "",
    "value": 206
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%85",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q111272414",
+   "value": 861
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -106,6 +141,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q111272414",
    "value": 25081
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%85",
+   "value": 4
   }
  },
  "name": "جویم",

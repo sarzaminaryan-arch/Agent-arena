@@ -38,12 +38,26 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF",
    "value": 3
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278733",
+   "value": 108505
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF",
    "value": 4
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1278733",
+   "value": 1870
   },
   "google_map_url": {
    "fetched": "2026-10-02",
@@ -99,6 +113,13 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278733",
    "value": 299885
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF",
+   "value": 10
   }
  },
  "name": "بویراحمد",

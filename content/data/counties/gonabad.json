@@ -1,5 +1,13 @@
 {
  "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1095
+   },
+   "others": {
+    "wikipedia": 1105.0
+   }
+  },
   "population": {
    "chosen": {
     "wikidata": 88753
@@ -38,6 +46,20 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF",
    "value": 4
   },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1270649",
+   "value": 40773
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF",
+   "value": "شهرستان گناباد، جنوبی‌ترین شهرستان استان خراسان رضوی است. این شهرستان در طول شرقی ۴۶–۵۷ تا ۲۷–۵۹ و عرض شمالی ۰۳–۳۴ تا ۵۴–۳۴ قرار دارد."
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -47,10 +69,10 @@
   },
   "elevation": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF",
-   "value": 1105.0
+   "url": "https://www.wikidata.org/wiki/Q1270649",
+   "value": 1095
   },
   "google_map_url": {
    "fetched": "2026-10-02",
