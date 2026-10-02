@@ -1,0 +1,7 @@
+{
+  "_comment": "هر بار این فایل را تغییر بدهید و پوش کنید، ورک‌فلوی «Harvest county data» اجرا می‌شود و داده را در همین مخزن کامیت می‌کند.",
+  "province": "all",
+  "sources": "both",
+  "stubs": false,
+  "requested_at": "1405-07-10T07:30"
+}

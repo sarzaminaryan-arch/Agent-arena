@@ -40,7 +40,7 @@ UA = 'sarzaminaryan-geo-harvester/1.0 (https://sarzaminaryan.ir; Mail@sarzaminar
 QUERY = """
 SELECT ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev
        (GROUP_CONCAT(DISTINCT ?nbLabel; separator="|") AS ?neighbors) WHERE {
-  ?county wdt:P31 wd:Q137535 ; wdt:P131* wd:%(prov_qid)s .
+  ?county wdt:P31 wd:Q137535 .
   OPTIONAL { ?county wdt:P36 ?center. }
   OPTIONAL { ?county p:P1082 ?popSt. ?popSt ps:P1082 ?pop. OPTIONAL { ?popSt pq:P585 ?popDate. } }
   OPTIONAL { ?county wdt:P2046 ?area. }
@@ -52,20 +52,6 @@ SELECT ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev
 GROUP BY ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev
 """
 
-# QID استان‌ها (ثابت‌اند؛ یک‌بار برای همیشه).
-PROVINCE_QID = {
-    'east-azerbaijan': 'Q170085', 'west-azerbaijan': 'Q170089', 'ardabil': 'Q170063',
-    'isfahan': 'Q83210', 'alborz': 'Q1125160', 'ilam': 'Q170070', 'bushehr': 'Q170067',
-    'tehran': 'Q3908', 'chaharmahal-bakhtiari': 'Q170074', 'south-khorasan': 'Q170072',
-    'razavi-khorasan': 'Q170072', 'north-khorasan': 'Q170071', 'khuzestan': 'Q170078',
-    'zanjan': 'Q170095', 'semnan': 'Q170092', 'sistan-baluchestan': 'Q170093',
-    'fars': 'Q163263', 'qazvin': 'Q170080', 'qom': 'Q170081', 'kurdistan': 'Q170077',
-    'kerman': 'Q170082', 'kermanshah': 'Q170083', 'kohgiluyeh-boyer-ahmad': 'Q170084',
-    'golestan': 'Q170075', 'gilan': 'Q170076', 'lorestan': 'Q170086', 'mazandaran': 'Q170088',
-    'markazi': 'Q170087', 'hormozgan': 'Q170069', 'hamadan': 'Q170068', 'yazd': 'Q170096',
-}
-# استان‌هایی که QID بالا را باید دستی تأیید کنید (خراسان‌ها در ویکی‌دیتا جابه‌جا ثبت شده‌اند).
-SUSPECT = {'razavi-khorasan', 'south-khorasan'}
 
 
 def sparql(query):
@@ -84,11 +70,9 @@ def parse_point(coord):
         return None, None
 
 
-def harvest(province):
-    qid = PROVINCE_QID.get(province)
-    if not qid:
-        raise SystemExit('QID استان %s تعریف نشده است.' % province)
-    data = sparql(QUERY % {'prov_qid': qid})
+def harvest_all():
+    """یک پرس‌وجو برای کل کشور؛ تطبیق با فهرست رسمی بر پایهٔ نام فارسی."""
+    data = sparql(QUERY)
     today = date.today().isoformat()
     rows = {}
     for b in data['results']['bindings']:
@@ -130,26 +114,23 @@ def main():
     ap.add_argument('--sleep', type=float, default=2.0)
     args = ap.parse_args()
 
-    targets = list(PROVINCE_QID) if args.all else [args.province]
+    groups = registry.by_province()
+    targets = sorted(groups) if args.all else [args.province]
     if not targets or targets == [None]:
         raise SystemExit('--province <slug> یا --all لازم است.')
+
     out_dir = os.path.join(registry.HARVEST_DIR, 'wikidata')
     os.makedirs(out_dir, exist_ok=True)
+    national = harvest_all()
+    print('ویکی‌دیتا: %d شهرستان از %d ردیف رسمی تطبیق خورد.' % (len(national), len(registry.counties())))
 
     for prov in targets:
-        if prov in SUSPECT:
-            print('⚠️  %s: QID مشکوک است، خروجی را دستی بررسی کنید.' % prov)
-        expected = len(registry.by_province(prov)[prov])
-        try:
-            rows = harvest(prov)
-        except Exception as exc:  # noqa: BLE001
-            print('✗ %-24s %s' % (prov, exc))
-            continue
+        rows = {c['slug']: national[c['slug']] for c in groups[prov] if c['slug'] in national}
         path = os.path.join(out_dir, prov + '.json')
         with open(path, 'w', encoding='utf-8') as fh:
             json.dump(rows, fh, ensure_ascii=False, indent=1, sort_keys=True)
-        print('✓ %-24s %3d/%3d شهرستان → %s' % (prov, len(rows), expected, os.path.relpath(path, registry.ROOT)))
-        time.sleep(args.sleep)
+        print('✓ %-24s %3d/%3d شهرستان → %s' % (prov, len(rows), len(groups[prov]), os.path.relpath(path, registry.ROOT)))
+        time.sleep(0)
 
 
 if __name__ == '__main__':

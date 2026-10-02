@@ -5,6 +5,13 @@ name: Harvest county data
 # کشور برداشت، ادغام، اعتبارسنجی و همان‌جا در شاخه کامیت می‌شود.
 
 on:
+  # ۱) دستی از تب Actions. ۲) خودکار، هر بار که پروندهٔ درخواست عوض شود
+  #    (content/data/harvest-request.json) — چون دسترسی dispatch برای ربات بسته است.
+  push:
+    paths:
+      - 'content/data/harvest-request.json'
+      - 'content-templates/tools/geo/**'
+      - '.github/workflows/harvest-counties.yml'
   workflow_dispatch:
     inputs:
       province:
@@ -38,21 +45,39 @@ jobs:
 
       - name: Scope
         id: scope
+        env:
+          IN_PROVINCE: ${{ inputs.province }}
+          IN_SOURCES: ${{ inputs.sources }}
+          IN_STUBS: ${{ inputs.stubs }}
         run: |
-          if [ -z "${{ inputs.province }}" ]; then
+          set -euo pipefail
+          REQ=content/data/harvest-request.json
+          province="$IN_PROVINCE"
+          sources="${IN_SOURCES:-both}"
+          stubs="${IN_STUBS:-false}"
+          # روی push، پروندهٔ درخواست حرف آخر را می‌زند.
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ -f "$REQ" ]; then
+            province="$(jq -r '.province // ""' "$REQ")"
+            sources="$(jq -r '.sources // "both"' "$REQ")"
+            stubs="$(jq -r '.stubs // false' "$REQ")"
+          fi
+          if [ -z "$province" ] || [ "$province" = "all" ]; then
             echo "flag=--all" >> "$GITHUB_OUTPUT"
             echo "label=all provinces" >> "$GITHUB_OUTPUT"
           else
-            echo "flag=--province ${{ inputs.province }}" >> "$GITHUB_OUTPUT"
-            echo "label=${{ inputs.province }}" >> "$GITHUB_OUTPUT"
+            echo "flag=--province $province" >> "$GITHUB_OUTPUT"
+            echo "label=$province" >> "$GITHUB_OUTPUT"
           fi
+          echo "sources=$sources" >> "$GITHUB_OUTPUT"
+          echo "stubs=$stubs" >> "$GITHUB_OUTPUT"
+          echo "scope: province=$province sources=$sources stubs=$stubs"
 
       - name: Harvest Wikidata
-        if: inputs.sources == 'both' || inputs.sources == 'wikidata'
+        if: steps.scope.outputs.sources == 'both' || steps.scope.outputs.sources == 'wikidata'
         run: python3 content-templates/tools/geo/harvest_wikidata.py ${{ steps.scope.outputs.flag }} --sleep 3
 
       - name: Harvest Wikipedia (fa)
-        if: inputs.sources == 'both' || inputs.sources == 'wikipedia'
+        if: steps.scope.outputs.sources == 'both' || steps.scope.outputs.sources == 'wikipedia'
         run: python3 content-templates/tools/geo/harvest_wikipedia.py ${{ steps.scope.outputs.flag }} --sleep 1
 
       - name: Merge into fact files
@@ -68,7 +93,7 @@ jobs:
       - name: Export WordPress payloads
         run: |
           python3 content-templates/tools/geo/export_meta.py ${{ steps.scope.outputs.flag }} \
-            ${{ inputs.stubs && '--stubs' || '' }}
+            ${{ steps.scope.outputs.stubs == 'true' && '--stubs' || '' }}
 
       - name: Commit data
         run: |
@@ -78,7 +103,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no data changes"
           else
-            git commit -m "data(counties): harvest ${{ steps.scope.outputs.label }} (${{ inputs.sources }})"
+            git commit -m "data(counties): harvest ${{ steps.scope.outputs.label }} (${{ steps.scope.outputs.sources }})"
             git push origin HEAD:${{ github.ref_name }}
           fi
 
@@ -87,9 +112,10 @@ jobs:
           {
             echo "## پوشش دادهٔ شهرستان‌ها"
             echo
-            sed -n '1,45p' content/data/COUNTY-FACTS-COVERAGE.md
+            [ -f content/data/COUNTY-FACTS-COVERAGE.md ] && sed -n '1,45p' content/data/COUNTY-FACTS-COVERAGE.md
             echo
             echo "## اعتبارسنجی"
             echo
-            sed -n '1,40p' content/data/COUNTY-FACTS-ISSUES.md
-          } >> "$GITHUB_STEP_SUMMARY"
+            [ -f content/data/COUNTY-FACTS-ISSUES.md ] && sed -n '1,40p' content/data/COUNTY-FACTS-ISSUES.md
+            echo
+          } >> "$GITHUB_STEP_SUMMARY" || true
