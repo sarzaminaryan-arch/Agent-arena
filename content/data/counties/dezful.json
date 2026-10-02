@@ -220,21 +220,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه قلمبر",
-     "pageid": 5619,
-     "revision_id": 44393795,
-     "section": "گردشگری / جاذبه های تاریخی",
-     "source_title": "دزفول",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 322942,
-     "target_revision_id": 43821329,
-     "target_title": "خانه قلمبر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%82%D9%84%D9%85%D8%A8%D8%B1"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "آرامگاه مقام علی",
      "pageid": 5619,
      "revision_id": 44393795,
@@ -253,7 +238,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-   "value": "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه (دزفول)\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nآرامگاه مقام علی"
+   "value": "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه (دزفول)\nخانه تیزنو\nخانه سوزنگر\nآرامگاه مقام علی"
   },
   "poi_nature": {
    "fetched": "2026-10-02",

@@ -417,21 +417,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "سد داریان",
-    "pageid": 18273,
-    "revision_id": 43695743,
-    "section": "گردشگری",
-    "source_title": "شهرستان پاوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 2660008,
-    "target_revision_id": 44144719,
-    "target_title": "سد داریان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AF%D8%A7%D8%B1%DB%8C%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "غار سنگی حسین کوهکن",
     "pageid": 18273,
     "revision_id": 43695743,
@@ -450,6 +435,10 @@
   "fetched": "2026-10-02",
   "province": "kermanshah",
   "rejected_candidates": [
+   {
+    "name": "سد داریان",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "کوه شاهو",
     "reason": "county placement needs manual corroboration"

@@ -247,7 +247,7 @@ ID=$(wp post list --post_type=city --name=mahabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "naqadeh - شمال‌غرب\nchaharborj - شمال\nmiandoab - شرق\nbukan - جنوب‌شرق\npiranshahr - غرب\nmirabad - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار سهولان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "ایران\nمینوآ\nمادها\nفقرگاه"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد جامع سرخ\nباغ سیسه"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد جامع سرخ"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.76667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.73333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1324"

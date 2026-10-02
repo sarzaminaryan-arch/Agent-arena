@@ -183,7 +183,7 @@ ID=$(wp post list --post_type=city --name=jahrom --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "fasa - شمال‌شرق\nkhafr - شمال‌غرب\njooyom - جنوب‌شرق\nqir-va-karzin - جنوب‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار سنگ‌تراشان\nالبرزکوه (جهرم)"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار سنگ‌تراشان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nامامزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "28.64167"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.55833"

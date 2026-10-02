@@ -782,21 +782,6 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما سپاهان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 941984,
-    "target_revision_id": 43081950,
-    "target_title": "سینما سپاهان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "سینما سوره",
     "pageid": 2169,
     "revision_id": 44613583,
@@ -883,21 +868,6 @@
     "target_revision_id": 44422622,
     "target_title": "پل شهرستان",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار مسگرها (اصفهان)",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / بازارها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 640599,
-    "target_revision_id": 35204901,
-    "target_title": "بازار مسگرها (اصفهان)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%D8%B3%DA%AF%D8%B1%D9%87%D8%A7_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -1384,6 +1354,10 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "سینما سپاهان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "پل الله وردیخان",
     "reason": "generic or untyped target"
    },
@@ -1394,6 +1368,10 @@
    {
     "name": "بازار اصفهان",
     "reason": "lead locates target in another province"
+   },
+   {
+    "name": "بازار مسگرها (اصفهان)",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "مسجد جامع",

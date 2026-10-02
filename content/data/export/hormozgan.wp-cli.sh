@@ -75,7 +75,7 @@ ID=$(wp post list --post_type=city --name=bandar-abbas --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا فروردین؛ تابستان به‌سبب گرما و شرجی توصیه نمی‌شود"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "khamir - غرب\nqeshm - جنوب‌غرب\nrudan - شرق\nhajiabad - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "آبگرم خورگو\nموزه مردم‌شناسی خلیج فارس"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر (بندر عباس)\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری (بندر عباس)\nمسجد گله‌داری"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری (بندر عباس)\nمسجد گله‌داری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.53722"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "56.22417"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "9"

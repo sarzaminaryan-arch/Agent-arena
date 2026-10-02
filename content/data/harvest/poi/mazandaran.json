@@ -1553,36 +1553,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%A9%D9%86%DA%AF%D9%84%D9%88"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دریاچه شورمست",
-    "pageid": 59721,
-    "revision_id": 44273086,
-    "section": "اماکن گردشگری",
-    "source_title": "پل سفید",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 60870,
-    "target_revision_id": 43442456,
-    "target_title": "دریاچه شورمست",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B4%D9%88%D8%B1%D9%85%D8%B3%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار اسپهبد خورشید",
-    "pageid": 59721,
-    "revision_id": 44273086,
-    "section": "اماکن گردشگری",
-    "source_title": "پل سفید",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 281246,
-    "target_revision_id": 44278364,
-    "target_title": "غار اسپهبد خورشید",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A7%D8%B3%D9%BE%D9%87%D8%A8%D8%AF_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پل کلانتری دوآب",
@@ -1641,6 +1611,14 @@
    {
     "name": "کلیسای سرخ‌آباد",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "دریاچه شورمست",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "غار اسپهبد خورشید",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "آبشار شورآب",

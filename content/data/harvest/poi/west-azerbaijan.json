@@ -519,21 +519,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B3%D8%B1%D8%AE"
    },
    {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ سیسه",
-    "pageid": 9103,
-    "revision_id": 44353754,
-    "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
-    "source_title": "مهاباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 232714,
-    "target_revision_id": 43177477,
-    "target_title": "باغ سیسه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%DB%8C%D8%B3%D9%87"
-   },
-   {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "غار سهولان",
@@ -565,6 +550,10 @@
    {
     "name": "مسجد قاضی",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "باغ سیسه",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "بوستان ملت (مهاباد)",

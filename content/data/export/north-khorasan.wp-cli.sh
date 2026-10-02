@@ -14,7 +14,6 @@ ID=$(wp post list --post_type=city --name=esfarayen --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، صنایع غذایی و گردشگری طبیعی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا اسفند؛ تابستان بسیار گرم است"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "jovein - جنوب\nbam-safiabad - جنوب‌شرق\nfaruj - شمال‌شرق\nraz-jargalan - شمال\nshirvan - شمال‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "کوه شاه جهان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "پستانداران\nمنطقه حفاظت شده\nاستان خراسان\nمناطق حفاظت شده"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "57.55"

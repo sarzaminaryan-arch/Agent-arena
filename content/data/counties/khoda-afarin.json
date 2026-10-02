@@ -129,31 +129,6 @@
     "jolfa"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل‌های خداآفرین",
-     "pageid": 90117,
-     "revision_id": 43536905,
-     "section": "جاذبه های گردشگری",
-     "source_title": "خمارلو",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88",
-     "target_location_evidence": "target lead explicitly locates it in this county",
-     "target_pageid": 209866,
-     "target_revision_id": 44021119,
-     "target_title": "پل‌های خداآفرین",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AE%D8%AF%D8%A7%D8%A2%D9%81%D8%B1%DB%8C%D9%86"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88",
-   "value": "پل‌های خداآفرین"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

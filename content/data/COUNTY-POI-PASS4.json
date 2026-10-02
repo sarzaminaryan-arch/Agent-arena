@@ -1,9 +1,9 @@
 {
  "after": {
-  "poi_heritage": 229,
-  "poi_nature": 157,
+  "poi_heritage": 228,
+  "poi_nature": 155,
   "poi_offbeat": 182,
-  "poi_recreation": 34
+  "poi_recreation": 33
  },
  "baseline_coverage": {
   "poi_heritage": 130,
@@ -11,9 +11,9 @@
   "poi_offbeat": 182,
   "poi_recreation": 17
  },
- "changed_counties": 124,
+ "changed_counties": 121,
  "fetched": "2026-10-02",
- "rejected_targets": 1553,
+ "rejected_targets": 1569,
  "scope": [
   "abadan",
   "abadeh",

@@ -152,46 +152,6 @@
    "url": "",
    "value": "برج دیو کلی\nکاروانسرای گدوک\nقلعه اولاد\nپل شاپور\nپل قدیمی پل سفید\nآرامگاه اخوت\nکلیسای سرخ‌آباد\nپل ورسک\nقلعه کنگلو"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دریاچه شورمست",
-     "pageid": 59721,
-     "revision_id": 44273086,
-     "section": "اماکن گردشگری",
-     "source_title": "پل سفید",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-     "target_location_evidence": "target lead explicitly locates it in this county",
-     "target_pageid": 60870,
-     "target_revision_id": 43442456,
-     "target_title": "دریاچه شورمست",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B4%D9%88%D8%B1%D9%85%D8%B3%D8%AA"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار اسپهبد خورشید",
-     "pageid": 59721,
-     "revision_id": 44273086,
-     "section": "اماکن گردشگری",
-     "source_title": "پل سفید",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-     "target_location_evidence": "target lead explicitly locates it in this county",
-     "target_pageid": 281246,
-     "target_revision_id": 44278364,
-     "target_title": "غار اسپهبد خورشید",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A7%D8%B3%D9%BE%D9%87%D8%A8%D8%AF_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-   "value": "دریاچه شورمست\nغار اسپهبد خورشید"
-  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

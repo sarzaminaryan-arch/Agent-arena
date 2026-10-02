@@ -197,21 +197,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده سید مظفر (بندر عباس)",
-     "pageid": 433487,
-     "revision_id": 44089826,
-     "section": "اماکن زیارتی",
-     "source_title": "بندرعباس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 115143,
-     "target_revision_id": 43929315,
-     "target_title": "امامزاده سید مظفر (بندر عباس)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D9%85%D8%B8%D9%81%D8%B1_%28%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3%29"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "مسجد جامع بندر عباس",
      "pageid": 433487,
      "revision_id": 44089826,
@@ -290,7 +275,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-   "value": "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر (بندر عباس)\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری (بندر عباس)\nمسجد گله‌داری"
+   "value": "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری (بندر عباس)\nمسجد گله‌داری"
   },
   "poi_nature": {
    "entries": [

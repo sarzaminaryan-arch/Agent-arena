@@ -280,21 +280,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار مسگرها (اصفهان)",
-     "pageid": 2169,
-     "revision_id": 44613583,
-     "section": "گردشگری و تفریح / ورزش ها / بازارها",
-     "source_title": "اصفهان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 640599,
-     "target_revision_id": 35204901,
-     "target_title": "بازار مسگرها (اصفهان)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%D8%B3%DA%AF%D8%B1%D9%87%D8%A7_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "بازار هنر اصفهان",
      "pageid": 2169,
      "revision_id": 44613583,
@@ -306,6 +291,21 @@
      "target_revision_id": 35204856,
      "target_title": "بازار هنر اصفهان",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%87%D9%86%D8%B1_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد و مناره علی",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_location_evidence": "target infobox names this county",
+     "target_pageid": 93554,
+     "target_revision_id": 43617726,
+     "target_title": "مسجد و مناره علی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%88_%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D8%B9%D9%84%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -313,7 +313,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-   "value": "مسجد شاه (اصفهان)\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سید\nمسجد شیخ لطف‌الله\nکاخ هشت‌بهشت\nحمام علی‌قلی‌آقا\nحمام جارچی\nپل شهرستان\nبازار مسگرها (اصفهان)\nبازار هنر اصفهان"
+   "value": "مسجد شاه (اصفهان)\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سید\nمسجد شیخ لطف‌الله\nکاخ هشت‌بهشت\nحمام علی‌قلی‌آقا\nحمام جارچی\nپل شهرستان\nبازار هنر اصفهان\nمسجد و مناره علی"
   },
   "poi_recreation": {
    "entries": [
@@ -376,21 +376,6 @@
      "target_revision_id": 41696071,
      "target_title": "سینما بهمن خوراسگان",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%A8%D9%87%D9%85%D9%86_%D8%AE%D9%88%D8%B1%D8%A7%D8%B3%DA%AF%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سینما سپاهان",
-     "pageid": 2169,
-     "revision_id": 44613583,
-     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
-     "source_title": "اصفهان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 941984,
-     "target_revision_id": 43081950,
-     "target_title": "سینما سپاهان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86"
     },
     {
      "field": "poi_recreation",
@@ -458,7 +443,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-   "value": "پردیس سینمایی چهارباغ\nپردیس سینمایی ساحل اصفهان\nپردیس سینمایی سیتی سنتر اصفهان\nسینما بهمن خوراسگان\nسینما سپاهان\nسینما سوره\nسینما فرهنگیان اصفهان\nسینما فلسطین (اصفهان)\nسینما قدس (اصفهان)"
+   "value": "پردیس سینمایی چهارباغ\nپردیس سینمایی ساحل اصفهان\nپردیس سینمایی سیتی سنتر اصفهان\nسینما بهمن خوراسگان\nسینما سوره\nسینما فرهنگیان اصفهان\nسینما فلسطین (اصفهان)\nسینما قدس (اصفهان)"
   },
   "population": {
    "fetched": "2026-10-02",

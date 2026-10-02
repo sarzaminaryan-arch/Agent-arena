@@ -311,31 +311,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
    "value": "پل هفت‌چشمه\nپل ابراهیم‌آباد\nموزه مردم‌شناسی اردبیل\nخانه آقازاده (اردبیل)\nخانه ارشادی\nخانه چنذاب\nخانه خادم باشی\nخانه خلیل‌زاده\nخانه رضازاده\nخانه سید هاشم ابراهیمی\nخانه شریعت (اردبیل)\nخانه صادقی اردبیل"
   },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پیست اسکی آلوارس",
-     "pageid": 16047,
-     "revision_id": 44610050,
-     "section": "جاذبه های گردشگری",
-     "source_title": "اردبیل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_location_evidence": "target lead explicitly locates it in this county",
-     "target_pageid": 221232,
-     "target_revision_id": 39579426,
-     "target_title": "پیست اسکی آلوارس",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%A2%D9%84%D9%88%D8%A7%D8%B1%D8%B3"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-   "value": "پیست اسکی آلوارس"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

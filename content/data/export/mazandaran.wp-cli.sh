@@ -194,7 +194,6 @@ ID=$(wp post list --post_type=city --name=savadkuh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "اردیبهشت تا شهریور؛ پاییز هم زیباست اما پرباران است"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "firuzkuh - جنوب\nqaemshahr - شمال\nmehdishahr - جنوب‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "دریاچه شورمست\nغار اسپهبد خورشید"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "کشتی محلی\nهجری شمسی\nصنعت حمل و نقل\nگردنه گدوک\nحمل و نقل\nاوقات فراغت\nزغال‌سنگ\nخط القعر\nشهرستان ساری\nلله‌وا\nملودی\nامیری خوانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "برج دیو کلی\nکاروانسرای گدوک\nقلعه اولاد\nپل شاپور\nپل قدیمی پل سفید\nآرامگاه اخوت\nکلیسای سرخ‌آباد\nپل ورسک\nقلعه کنگلو"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.08333"

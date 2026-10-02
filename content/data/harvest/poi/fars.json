@@ -1239,21 +1239,6 @@
     "target_revision_id": 41038777,
     "target_title": "خانه طوفان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B7%D9%88%D9%81%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "البرزکوه (جهرم)",
-    "pageid": 16944,
-    "revision_id": 44138036,
-    "section": "ساختار شهری / جاذبه ها",
-    "source_title": "جهرم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 5270797,
-    "target_revision_id": 43926152,
-    "target_title": "البرزکوه (جهرم)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%B2%DA%A9%D9%88%D9%87_%28%D8%AC%D9%87%D8%B1%D9%85%29"
    }
   ],
   "center_confirmed": true,
@@ -1267,6 +1252,10 @@
    },
    {
     "name": "غار ورا",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "البرزکوه (جهرم)",
     "reason": "county placement needs manual corroboration"
    },
    {

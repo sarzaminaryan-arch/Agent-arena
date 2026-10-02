@@ -637,21 +637,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%85%D9%87%D8%B1%D9%86%DA%AF%D8%A7%D8%B1_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کویر حاج علی‌قلی",
-    "pageid": 2257,
-    "revision_id": 44199293,
-    "section": "جاذبه های گردشگری / آثار طبیعی",
-    "source_title": "دامغان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 18589,
-    "target_revision_id": 44486571,
-    "target_title": "کویر حاج علی‌قلی",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1_%D8%AD%D8%A7%D8%AC_%D8%B9%D9%84%DB%8C%E2%80%8C%D9%82%D9%84%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "قلعه منصور کوه",
@@ -679,6 +664,10 @@
    {
     "name": "مسجد تاریخانه",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "کویر حاج علی‌قلی",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "چشمه قلقل",
@@ -1129,21 +1118,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده یحیی بن موسی کاظم",
-    "pageid": 19801,
-    "revision_id": 44426855,
-    "section": "گردشگری / جاذبه های مذهبی",
-    "source_title": "سمنان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 2694083,
-    "target_revision_id": 44244170,
-    "target_title": "امامزاده یحیی بن موسی کاظم",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%DB%8C%D8%AD%DB%8C%DB%8C_%D8%A8%D9%86_%D9%85%D9%88%D8%B3%DB%8C_%DA%A9%D8%A7%D8%B8%D9%85"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "امامزاده علی بن جعفر (سمنان)",
     "pageid": 19801,
     "revision_id": 44426855,
@@ -1272,6 +1246,10 @@
    },
    {
     "name": "موزه سکه سمنان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "امامزاده یحیی بن موسی کاظم",
     "reason": "county placement needs manual corroboration"
    }
   ],

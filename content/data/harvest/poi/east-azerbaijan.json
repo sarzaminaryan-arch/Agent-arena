@@ -412,28 +412,17 @@
   ]
  },
  "khoda-afarin": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پل‌های خداآفرین",
-    "pageid": 90117,
-    "revision_id": 43536905,
-    "section": "جاذبه های گردشگری",
-    "source_title": "خمارلو",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 209866,
-    "target_revision_id": 44021119,
-    "target_title": "پل‌های خداآفرین",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AE%D8%AF%D8%A7%D8%A2%D9%81%D8%B1%DB%8C%D9%86"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "خداآفرین",
   "fetched": "2026-10-02",
   "province": "east-azerbaijan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "پل‌های خداآفرین",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%AF%D8%A7%D8%A2%D9%81%D8%B1%DB%8C%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88"
@@ -640,21 +629,6 @@
  "osku": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "جزیره شاهی",
-    "pageid": 61314,
-    "revision_id": 43488623,
-    "section": "گردشگری",
-    "source_title": "شهرستان اسکو",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%DA%A9%D9%88",
-    "target_location_evidence": "target lead explicitly locates it in this county",
-    "target_pageid": 156384,
-    "target_revision_id": 42833485,
-    "target_title": "جزیره شاهی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D8%B4%D8%A7%D9%87%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "امامزاده اسکو",
@@ -840,6 +814,10 @@
   "fetched": "2026-10-02",
   "province": "east-azerbaijan",
   "rejected_candidates": [
+   {
+    "name": "جزیره شاهی",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "دریاچه ارومیه",
     "reason": "lead locates target in another province"

@@ -14,7 +14,6 @@ ID=$(wp post list --post_type=city --name=ardabil-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی (گندم و سیب‌زمینی)، دامداری، گردشگری آب‌گرم و صنایع غذایی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sarein - جنوب‌غرب\nnamin - شمال‌شرق\ntalesh - جنوب‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "پیست اسکی آلوارس"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "پل هفت‌چشمه\nپل ابراهیم‌آباد\nموزه مردم‌شناسی اردبیل\nخانه آقازاده (اردبیل)\nخانه ارشادی\nخانه چنذاب\nخانه خادم باشی\nخانه خلیل‌زاده\nخانه رضازاده\nخانه سید هاشم ابراهیمی\nخانه شریعت (اردبیل)\nخانه صادقی اردبیل"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "38.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.3"

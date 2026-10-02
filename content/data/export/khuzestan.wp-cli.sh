@@ -266,7 +266,7 @@ ID=$(wp post list --post_type=city --name=dezful --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "آبشار شوی\nآبشارهای ایران\nتفریحگاه ساحلی دز\nسالن کوه\nکوهنوردی\nسد دز\nدریاچه شهیون"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "استان خوزستان\nمیانرود\nگوزن زرد ایرانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "پارک ملی دز\nپارک‌های ملی ایران"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه (دزفول)\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nآرامگاه مقام علی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه (دزفول)\nخانه تیزنو\nخانه سوزنگر\nآرامگاه مقام علی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.56667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.76667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "143"

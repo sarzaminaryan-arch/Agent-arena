@@ -183,7 +183,6 @@ ID=$(wp post list --post_type=city --name=khoda-afarin --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kaleybar - جنوب\naslanduz - شمال‌شرق\njolfa - غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "پل‌های خداآفرین"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "39.13751"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.96113"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=39.13751,46.96113"
