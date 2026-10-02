@@ -37,6 +37,8 @@ $sa_type = get_post_type();
 
 		<?php get_template_part( 'template-parts/entity/county-siblings' ); ?>
 
+		<?php get_template_part( 'template-parts/entity/province-counties' ); ?>
+
 		<?php sa_related_articles( $sa_id, $sa_type ); ?>
 
 		<?php sa_entity_navigation( $sa_id, $sa_type ); ?>

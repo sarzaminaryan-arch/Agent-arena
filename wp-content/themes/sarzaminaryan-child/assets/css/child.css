@@ -2775,3 +2775,14 @@ main.site-main.container,
 		gap: 2px;
 	}
 }
+
+/* ---- ۵. بلوک شهرستان‌های استان (v2.8.2) ---- */
+.sa-province-counties {
+	margin-block: 32px;
+}
+
+.sa-county__hint {
+	margin: 0 0 10px;
+	font-size: .92rem;
+	opacity: .8;
+}
