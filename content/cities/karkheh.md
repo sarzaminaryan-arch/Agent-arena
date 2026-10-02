@@ -249,13 +249,13 @@ containedInPlace: khuzestan
 schema_type: City + TouristDestination
 faq_page: yes
 breadcrumb: [خانه، استان خوزستان، شهرستان کرخه]
-image: planned
+image: yes
 
 === BLOCK 7: QUALITY CHECK ===
 [PASS] ساختار ۱۴ عنوان سطح دوم رعایت شد.
 [PASS] FAQ شامل ۱۰ سؤال است.
 [PASS] منابع دارای URL هستند.
-[PASS] تصویر شاخص و alt آمادهٔ تکمیل است.
+[PASS] تصویر شاخص + ALT شامل کلیدواژه است.
 [PASS] رابطه با استان ثبت شده است.
 [REVIEW] آمار، تقسیمات، مشاهیر و URLهای رسمی باید بررسی شوند.
 
