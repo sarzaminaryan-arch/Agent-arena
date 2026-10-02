@@ -252,21 +252,6 @@
      "target_revision_id": 44304591,
      "target_title": "قلعه قلاع سرایان",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%82%D9%84%D8%A7%D8%B9_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار میثم سرایان",
-     "pageid": 20114,
-     "revision_id": 43252945,
-     "section": "گردشگری / کاروانسرای سرایان",
-     "source_title": "سرایان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 6476543,
-     "target_revision_id": 39573817,
-     "target_title": "بازار میثم سرایان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%DB%8C%D8%AB%D9%85_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -274,7 +259,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-   "value": "آرامگاه تورانشاه\nکاروانسرای سرایان\nحمام قدیمی سرایان\nمسجد جامع سرایان\nخانه یزدانی\nآب‌انبار فاضلخانی\nآب انبار حسینیه (حاج عبدالرسول) سرایان\nقلعه قلاع سرایان\nبازار میثم سرایان"
+   "value": "آرامگاه تورانشاه\nکاروانسرای سرایان\nحمام قدیمی سرایان\nمسجد جامع سرایان\nخانه یزدانی\nآب‌انبار فاضلخانی\nآب انبار حسینیه (حاج عبدالرسول) سرایان\nقلعه قلاع سرایان"
   },
   "poi_nature": {
    "entries": [
@@ -287,56 +272,11 @@
      "section": "گردشگری / کاروانسرای سرایان",
      "source_title": "سرایان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 6475790,
      "target_revision_id": 39567708,
      "target_title": "آسیاب آبی کاه‌کوه سرایان",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8_%D8%A2%D8%A8%DB%8C_%DA%A9%D8%A7%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آبشار سبزرود",
-     "pageid": 20114,
-     "revision_id": 43252945,
-     "section": "گردشگری / کاروانسرای سرایان",
-     "source_title": "سرایان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 6477036,
-     "target_revision_id": 43250198,
-     "target_title": "آبشار سبزرود",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%D8%A8%D8%B2%D8%B1%D9%88%D8%AF"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد شهید پارسا سرایان",
-     "pageid": 20114,
-     "revision_id": 43252945,
-     "section": "گردشگری / کاروانسرای سرایان",
-     "source_title": "سرایان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 6478897,
-     "target_revision_id": 39896773,
-     "target_title": "سد شهید پارسا سرایان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B4%D9%87%DB%8C%D8%AF_%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد تاریخی زو",
-     "pageid": 20114,
-     "revision_id": 43252945,
-     "section": "گردشگری / کاروانسرای سرایان",
-     "source_title": "سرایان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 6490005,
-     "target_revision_id": 39737572,
-     "target_title": "سد تاریخی زو",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C_%D8%B2%D9%88"
     }
    ],
    "fetched": "2026-10-02",
@@ -344,7 +284,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-   "value": "آسیاب آبی کاه‌کوه سرایان\nآبشار سبزرود\nسد شهید پارسا سرایان\nسد تاریخی زو"
+   "value": "آسیاب آبی کاه‌کوه سرایان"
   },
   "population": {
    "fetched": "2026-10-02",

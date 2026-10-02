@@ -155,31 +155,6 @@
     "kharadere"
    ]
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار دربند رشی",
-     "pageid": 32556,
-     "revision_id": 44434547,
-     "section": "جاذبه های گردشگری رودبار / غار دربند رشی",
-     "source_title": "رودبار",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 1085786,
-     "target_revision_id": 44278445,
-     "target_title": "غار دربند رشی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%AF%D8%B1%D8%A8%D9%86%D8%AF_%D8%B1%D8%B4%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-   "value": "غار دربند رشی"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

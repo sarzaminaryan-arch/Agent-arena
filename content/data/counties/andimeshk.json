@@ -196,31 +196,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
    "value": "قلعه رزه (بنا)\nامامزاده بابالنگ\nقلعه‌رزه\nپل بالارود"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد کرخه",
-     "pageid": 6487,
-     "revision_id": 44399141,
-     "section": "گردشگری",
-     "source_title": "اندیمشک",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 540553,
-     "target_revision_id": 43569477,
-     "target_title": "سد کرخه",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D8%B1%D8%AE%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-   "value": "سد کرخه"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

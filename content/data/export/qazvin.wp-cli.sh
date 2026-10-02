@@ -112,7 +112,6 @@ ID=$(wp post list --post_type=city --name=qazvin-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی (گندم و انگور)، صنایع بزرگ و حمل‌ونقل"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "alborz-qazvin - جنوب‌شرق\nrudbar - شمال‌غرب\nrudsar - شمال‌شرق\ntakestan - جنوب‌غرب\nsiahkal - شمال\nkharadere - غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "قله مردمی\nقله شجاع الدین"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کاخ چهل‌ستون قزوین\nموزه قزوین\nعمارت شهرداری قزوین\nعمارت باغ سپهدار\nعمارت سردار مفخم قزوین\nمیمون‌قلعه\nخانه بهروزی\nخانه عارف قزوینی\nخانه یزدی‌ها\nخانه دائی\nخانه دربندی\nخانه رئوفی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.43333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.81667"

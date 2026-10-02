@@ -223,21 +223,6 @@
      "target_revision_id": 44343600,
      "target_title": "مسجد امام حسین (سرخه)",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%85%D8%A7%D9%85_%D8%AD%D8%B3%DB%8C%D9%86_%28%D8%B3%D8%B1%D8%AE%D9%87%29"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده عبدالله (سرخه)",
-     "pageid": 59178,
-     "revision_id": 43115825,
-     "section": "جاذبه های طبیعی",
-     "source_title": "سرخه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 5893412,
-     "target_revision_id": 40137011,
-     "target_title": "امامزاده عبدالله (سرخه)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%28%D8%B3%D8%B1%D8%AE%D9%87%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -245,7 +230,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-   "value": "مسجد چهل‌ستون سمنان\nآب‌انبار سرخه\nآرامگاه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین (سرخه)\nامامزاده عبدالله (سرخه)"
+   "value": "مسجد چهل‌ستون سمنان\nآب‌انبار سرخه\nآرامگاه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین (سرخه)"
   },
   "population": {
    "fetched": "2026-10-02",

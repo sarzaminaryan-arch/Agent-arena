@@ -129,7 +129,7 @@
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "naqadeh - شمال‌غرب\nchaharborj - شمال\nmiandoab - شرق\nbukan - جنوب‌شرق\npiranshahr - غرب\nmirabad - جنوب‌غرب",
   "sa_cty_poi_heritage": "مسجد جامع سرخ\nباغ سیسه",
-  "sa_cty_poi_nature": "سد مهاباد\nغار سهولان",
+  "sa_cty_poi_nature": "غار سهولان",
   "sa_cty_poi_offbeat": "ایران\nمینوآ\nمادها\nفقرگاه",
   "sa_cty_population": 236849,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.76667,45.73333"
@@ -206,7 +206,7 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "oshnavieh - شمال‌غرب\npiranshahr - جنوب‌غرب\nmahabad - جنوب‌شرق\nchaharborj - شمال‌شرق",
-  "sa_cty_poi_nature": "هفت چشمه\nمحوطه سد حسنلو",
+  "sa_cty_poi_nature": "محوطه سد حسنلو",
   "sa_cty_population": 127671,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.95,45.4"
  },
@@ -339,7 +339,7 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "maku - شمال‌غرب\npoldasht - شمال‌شرق\nchaldoran - جنوب‌غرب\nchaypareh - جنوب‌شرق",
-  "sa_cty_poi_nature": "آبگرم معدنی شوط\nغار چهل پله خضرلو",
+  "sa_cty_poi_nature": "غار چهل پله خضرلو",
   "sa_cty_population": 55682,
   "sa_cty_rural_districts": 4,
   "sa_cty_villages": 65,
@@ -383,8 +383,7 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "oshnavieh - جنوب\najabshir - شرق\nsalmas - شمال\nazarshahr - شرق",
-  "sa_cty_poi_heritage": "بازار ارومیه\nمسجد جامع ارومیه\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nخانه‌های جنرال\nخانه دیزج سیاوش",
-  "sa_cty_poi_nature": "دریاچه ارومیه",
+  "sa_cty_poi_heritage": "بازار ارومیه\nمسجد جامع ارومیه\nمسجد مناره\nخانه دیزج سیاوش",
   "sa_cty_population": 1040565,
   "sa_cty_rural_districts": 20,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.55,45.0"

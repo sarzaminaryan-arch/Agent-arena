@@ -2,21 +2,6 @@
  "birjand": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "رشته‌کوه باغران",
-    "pageid": 24744,
-    "revision_id": 42267120,
-    "section": "طبیعت و آب و هوا",
-    "source_title": "شهرستان بیرجند",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 57230,
-    "target_revision_id": 41750155,
-    "target_title": "رشته‌کوه باغران",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%A8%D8%A7%D8%BA%D8%B1%D8%A7%D9%86"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "باغ اکبریه",
@@ -100,7 +85,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "بیرجند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 182033,
     "target_revision_id": 43931749,
     "target_title": "بند دره",
@@ -130,7 +115,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "بیرجند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 4388751,
     "target_revision_id": 44263283,
     "target_title": "موزه میراث پهلوانی",
@@ -142,6 +127,10 @@
   "fetched": "2026-10-02",
   "province": "south-khorasan",
   "rejected_candidates": [
+   {
+    "name": "رشته‌کوه باغران",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "کوه شاه",
     "reason": "lead locates target in another county"
@@ -427,21 +416,6 @@
  "ferdows": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبگرم معدنی فردوس",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 51890,
-    "target_revision_id": 44539521,
-    "target_title": "آبگرم معدنی فردوس",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%D9%81%D8%B1%D8%AF%D9%88%D8%B3"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "آرامگاه میر تونی",
@@ -485,21 +459,6 @@
     "target_revision_id": 36847082,
     "target_title": "امامزاده محمد و ابراهیم",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%85%D8%AD%D9%85%D8%AF_%D9%88_%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "امامزاده سلطان کریمشاه",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 352440,
-    "target_revision_id": 43924651,
-    "target_title": "امامزاده سلطان کریمشاه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%DA%A9%D8%B1%DB%8C%D9%85%D8%B4%D8%A7%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -832,21 +791,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "پناهگاه حیات وحش رباط شور",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3786808,
-    "target_revision_id": 44423577,
-    "target_title": "پناهگاه حیات وحش رباط شور",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D8%B1%D8%A8%D8%A7%D8%B7_%D8%B4%D9%88%D8%B1"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "حمام بیدسگان",
@@ -1102,21 +1046,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7_%D8%B1%D8%B4%DB%8C%D8%AF_%D8%B9%D8%B7%D8%A7%DB%8C%DB%8C"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "منطقه حفاظت‌شده مظفری",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 756584,
-    "target_revision_id": 41645604,
-    "target_title": "منطقه حفاظت‌شده مظفری",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D9%85%D8%B8%D9%81%D8%B1%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "مسجد سیدی",
@@ -1145,21 +1074,6 @@
     "target_revision_id": 44344443,
     "target_title": "مسجد مهوید",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D9%87%D9%88%DB%8C%D8%AF"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد حاج عبدالله",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3759289,
-    "target_revision_id": 36598257,
-    "target_title": "مسجد حاج عبدالله",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%D8%A7%D8%AC_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -1267,21 +1181,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B1%D8%A8%D8%A7%D8%B7_%D8%B4%D9%88%D8%B1"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کویر پلوند",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3783642,
-    "target_revision_id": 40257799,
-    "target_title": "کویر پلوند",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1_%D9%BE%D9%84%D9%88%D9%86%D8%AF"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "قلعه دختر (فردوس)",
@@ -1295,21 +1194,6 @@
     "target_revision_id": 41066736,
     "target_title": "قلعه دختر (فردوس)",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%28%D9%81%D8%B1%D8%AF%D9%88%D8%B3%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه خانیک",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 158341,
-    "target_revision_id": 40054618,
-    "target_title": "قلعه خانیک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AE%D8%A7%D9%86%DB%8C%DA%A9"
    },
    {
     "field": "poi_heritage",
@@ -1348,7 +1232,19 @@
   "province": "south-khorasan",
   "rejected_candidates": [
    {
+    "name": "آبگرم معدنی فردوس",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "امامزاده سلطان کریمشاه",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "ارگ تون",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "پناهگاه حیات وحش رباط شور",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -1360,11 +1256,35 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "منطقه حفاظت‌شده مظفری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "مسجد حاج عبدالله",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "مسجد، آب‌انبار و حمام کوشک",
     "reason": "generic or untyped target"
    },
    {
+    "name": "کویر پلوند",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "گورستان خاموشی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قلعه خانیک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "منطقه حفاظت‌شده مظفری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کویر پلوند",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -2175,7 +2095,7 @@
     "section": "گردشگری / کاروانسرای سرایان",
     "source_title": "سرایان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6475790,
     "target_revision_id": 39567708,
     "target_title": "آسیاب آبی کاه‌کوه سرایان",
@@ -2195,66 +2115,6 @@
     "target_revision_id": 44304591,
     "target_title": "قلعه قلاع سرایان",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%82%D9%84%D8%A7%D8%B9_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار میثم سرایان",
-    "pageid": 20114,
-    "revision_id": 43252945,
-    "section": "گردشگری / کاروانسرای سرایان",
-    "source_title": "سرایان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 6476543,
-    "target_revision_id": 39573817,
-    "target_title": "بازار میثم سرایان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%DB%8C%D8%AB%D9%85_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آبشار سبزرود",
-    "pageid": 20114,
-    "revision_id": 43252945,
-    "section": "گردشگری / کاروانسرای سرایان",
-    "source_title": "سرایان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6477036,
-    "target_revision_id": 43250198,
-    "target_title": "آبشار سبزرود",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%D8%A8%D8%B2%D8%B1%D9%88%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد شهید پارسا سرایان",
-    "pageid": 20114,
-    "revision_id": 43252945,
-    "section": "گردشگری / کاروانسرای سرایان",
-    "source_title": "سرایان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6478897,
-    "target_revision_id": 39896773,
-    "target_title": "سد شهید پارسا سرایان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B4%D9%87%DB%8C%D8%AF_%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد تاریخی زو",
-    "pageid": 20114,
-    "revision_id": 43252945,
-    "section": "گردشگری / کاروانسرای سرایان",
-    "source_title": "سرایان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 6490005,
-    "target_revision_id": 39737572,
-    "target_title": "سد تاریخی زو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C_%D8%B2%D9%88"
    }
   ],
   "center_confirmed": true,
@@ -2272,6 +2132,22 @@
    },
    {
     "name": "آب انبار بالای سرایان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بازار میثم سرایان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار سبزرود",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "سد شهید پارسا سرایان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "سد تاریخی زو",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -2341,28 +2217,18 @@
     "target_revision_id": 44278632,
     "target_title": "غار چهل چاه",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%86%D9%87%D9%84_%DA%86%D8%A7%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رشته‌کوه باغران",
-    "pageid": 28994,
-    "revision_id": 42889869,
-    "section": "اماکن زیارتی، تفریحی و جاذبه های گردشگری سربیشه",
-    "source_title": "سربیشه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 57230,
-    "target_revision_id": 41750155,
-    "target_title": "رشته‌کوه باغران",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%A8%D8%A7%D8%BA%D8%B1%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "سربیشه",
   "fetched": "2026-10-02",
   "province": "south-khorasan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "رشته‌کوه باغران",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87"
@@ -2414,21 +2280,6 @@
     "target_revision_id": 31225153,
     "target_title": "ارگ طبس",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%D8%B7%D8%A8%D8%B3"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دره کال جنی",
-    "pageid": 57952,
-    "revision_id": 44268743,
-    "section": "گردشگری / کال جنی (درهٔ جن ها)",
-    "source_title": "طبس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 4783020,
-    "target_revision_id": 43924680,
-    "target_title": "دره کال جنی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%DA%A9%D8%A7%D9%84_%D8%AC%D9%86%DB%8C"
    }
   ],
   "center_confirmed": true,
@@ -2515,6 +2366,10 @@
    {
     "name": "مسجد دستگرد امامزاده",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "دره کال جنی",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "ژئوپارک",

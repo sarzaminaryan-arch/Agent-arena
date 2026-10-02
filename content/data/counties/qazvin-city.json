@@ -324,46 +324,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
    "value": "کاخ چهل‌ستون قزوین\nموزه قزوین\nعمارت شهرداری قزوین\nعمارت باغ سپهدار\nعمارت سردار مفخم قزوین\nمیمون‌قلعه\nخانه بهروزی\nخانه عارف قزوینی\nخانه یزدی‌ها\nخانه دائی\nخانه دربندی\nخانه رئوفی"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قله مردمی",
-     "pageid": 2925,
-     "revision_id": 44303211,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "قزوین",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 1794052,
-     "target_revision_id": 44453475,
-     "target_title": "قله مردمی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D9%85%D8%B1%D8%AF%D9%85%DB%8C"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قله شجاع الدین",
-     "pageid": 2925,
-     "revision_id": 44303211,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "قزوین",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 1869514,
-     "target_revision_id": 40574975,
-     "target_title": "قله شجاع الدین",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D8%B4%D8%AC%D8%A7%D8%B9_%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-   "value": "قله مردمی\nقله شجاع الدین"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

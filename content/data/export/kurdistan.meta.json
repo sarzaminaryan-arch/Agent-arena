@@ -138,7 +138,7 @@
   "sa_cty_language": "کردی سورانی و هورامی؛ در بخش‌هایی کردی جنوبی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، تجارت مرزی و صنایع دستی",
   "sa_cty_neighbors": "sarvabad - غرب\ndehgolan - شرق\nkamyaran - جنوب\nmarivan - شمال‌غرب\ndivandarreh - شمال",
-  "sa_cty_poi_heritage": "عمارت سالار سعید\nعمارت خسروآباد\nعمارت امجدالاشراف\nعمارت وکیل‌الملک\nخانه احمدزاده (سنندج)\nعمارت سرهنگ آزموده اردلان\nعمارت ملک‌التجار\nعمارت آصف وزیری\nخانه معمارباشی\nخانه محمد مردوخ کردستانی\nخانه مجتهدی (سنندج)\nحمام شیشه",
+  "sa_cty_poi_heritage": "عمارت سالار سعید\nخانه احمدزاده (سنندج)\nعمارت سرهنگ آزموده اردلان\nعمارت آصف وزیری\nحمام شیشه\nحمام خان (سنندج)\nحمام عبدالخالق\nپل قشلاق\nمسجد امین\nمسجد خورشیدلقا خانم\nمسجد دارالاحسان\nکلیسای سنندج",
   "sa_cty_population": 501402,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.33333,46.83333"
  },
@@ -158,7 +158,6 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، تجارت مرزی و صنایع دستی",
   "sa_cty_neighbors": "bukan - شمال\nbaneh - جنوب‌غرب\nmarivan - جنوب\ndivandarreh - جنوب‌شرق\ntakab - شمال‌شرق",
   "sa_cty_poi_heritage": "قلعه زیویه",
-  "sa_cty_poi_nature": "سد چراغ ویس\nرودخانه سقز",
   "sa_cty_population": 226451,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.16667,46.33333"
  },

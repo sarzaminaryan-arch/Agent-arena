@@ -267,28 +267,13 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار ورا",
-     "pageid": 16944,
-     "revision_id": 44138036,
-     "section": "ساختار شهری / جاذبه ها",
-     "source_title": "جهرم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 443321,
-     "target_revision_id": 29098929,
-     "target_title": "غار ورا",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%88%D8%B1%D8%A7"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "البرزکوه (جهرم)",
      "pageid": 16944,
      "revision_id": 44138036,
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 5270797,
      "target_revision_id": 43926152,
      "target_title": "البرزکوه (جهرم)",
@@ -300,7 +285,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-   "value": "غار سنگ‌تراشان\nغار ورا\nالبرزکوه (جهرم)"
+   "value": "غار سنگ‌تراشان\nالبرزکوه (جهرم)"
   },
   "population": {
    "fetched": "2026-10-02",

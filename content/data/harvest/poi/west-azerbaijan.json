@@ -10,7 +10,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان باروق",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%B1%D9%88%D9%82",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 3501394,
     "target_revision_id": 44250553,
     "target_title": "سد نوروزلو",
@@ -211,36 +211,6 @@
   "candidates": [
    {
     "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "پل قطور",
-    "pageid": 12573,
-    "revision_id": 44260658,
-    "section": "آثار تاریخی- باستانی و جاذبه های طبیعی",
-    "source_title": "شهرستان خوی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%DB%8C",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 182474,
-    "target_revision_id": 44215194,
-    "target_title": "پل قطور",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%82%D8%B7%D9%88%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه اورین",
-    "pageid": 12573,
-    "revision_id": 44260658,
-    "section": "آثار تاریخی- باستانی و جاذبه های طبیعی",
-    "source_title": "شهرستان خوی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%DB%8C",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1091044,
-    "target_revision_id": 43561851,
-    "target_title": "کوه اورین",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%A7%D9%88%D8%B1%DB%8C%D9%86"
-   },
-   {
-    "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "آرامگاه شمس تبریزی",
     "pageid": 8120,
@@ -338,7 +308,7 @@
     "section": "آثار تاریخی و مذهبی",
     "source_title": "خوی",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%DB%8C",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 113707,
     "target_revision_id": 28944805,
     "target_title": "مسجد ملاحسن",
@@ -353,41 +323,11 @@
     "section": "آثار تاریخی و مذهبی",
     "source_title": "خوی",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%DB%8C",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 1077469,
     "target_revision_id": 43349178,
     "target_title": "امامزاده سید بهلول",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%A8%D9%87%D9%84%D9%88%D9%84"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آبشار بدلان",
-    "pageid": 8120,
-    "revision_id": 44426475,
-    "section": "آثار تاریخی و مذهبی",
-    "source_title": "خوی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%DB%8C",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1108779,
-    "target_revision_id": 27303469,
-    "target_title": "آبشار بدلان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A8%D8%AF%D9%84%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار علی شیخ",
-    "pageid": 8120,
-    "revision_id": 44426475,
-    "section": "آثار تاریخی و مذهبی",
-    "source_title": "خوی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%DB%8C",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1737901,
-    "target_revision_id": 34789819,
-    "target_title": "غار علی شیخ",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B9%D9%84%DB%8C_%D8%B4%DB%8C%D8%AE"
    },
    {
     "field": "poi_heritage",
@@ -516,6 +456,14 @@
   "province": "west-azerbaijan",
   "rejected_candidates": [
    {
+    "name": "پل قطور",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه اورین",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "بقعه شیخ نوایی",
     "reason": "target page missing"
    },
@@ -524,8 +472,20 @@
     "reason": "target page missing"
    },
    {
+    "name": "پل قطور",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "مسجد شاه «سید الشهداء» خوی",
     "reason": "target page missing"
+   },
+   {
+    "name": "آبشار بدلان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "غار علی شیخ",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "جهنم‌دره خوی",
@@ -576,21 +536,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد مهاباد",
-    "pageid": 9103,
-    "revision_id": 44353754,
-    "section": "اماکن گردشگری",
-    "source_title": "مهاباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 399814,
-    "target_revision_id": 44219854,
-    "target_title": "سد مهاباد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "غار سهولان",
     "pageid": 9103,
     "revision_id": 44353754,
@@ -623,6 +568,10 @@
    },
    {
     "name": "بوستان ملت (مهاباد)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "سد مهاباد",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -679,21 +628,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "هفت چشمه",
-    "pageid": 10750,
-    "revision_id": 44374563,
-    "section": "گردشگری",
-    "source_title": "نقده",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%AF%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 750712,
-    "target_revision_id": 44385648,
-    "target_title": "هفت چشمه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%81%D8%AA_%DA%86%D8%B4%D9%85%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "محوطه سد حسنلو",
     "pageid": 10750,
     "revision_id": 44374563,
@@ -711,7 +645,12 @@
   "county": "نقده",
   "fetched": "2026-10-02",
   "province": "west-azerbaijan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "هفت چشمه",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%82%D8%AF%D9%87",
    "https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%AF%D9%87"
@@ -834,43 +773,16 @@
   ]
  },
  "shahin-dezh": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه پیر محمد",
-    "pageid": 13442,
-    "revision_id": 44446166,
-    "section": "جاذبه های طبیعی",
-    "source_title": "شهرستان شاهین‌دژ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A7%D9%87%DB%8C%D9%86%E2%80%8C%D8%AF%DA%98",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 169849,
-    "target_revision_id": 34873923,
-    "target_title": "کوه پیر محمد",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%BE%DB%8C%D8%B1_%D9%85%D8%AD%D9%85%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه قره داش",
-    "pageid": 13442,
-    "revision_id": 44446166,
-    "section": "جاذبه های طبیعی / کوه ها",
-    "source_title": "شهرستان شاهین‌دژ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A7%D9%87%DB%8C%D9%86%E2%80%8C%D8%AF%DA%98",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 5417502,
-    "target_revision_id": 44489692,
-    "target_title": "کوه قره داش",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%82%D8%B1%D9%87_%D8%AF%D8%A7%D8%B4"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "شاهین‌دژ",
   "fetched": "2026-10-02",
   "province": "west-azerbaijan",
   "rejected_candidates": [
+   {
+    "name": "کوه پیر محمد",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "رشته‌کوه زاگرس",
     "reason": "generic or untyped target"
@@ -886,6 +798,10 @@
    {
     "name": "کوه اوزون دره",
     "reason": "target page missing"
+   },
+   {
+    "name": "کوه قره داش",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "کوه تکه‌قیه‌سی",
@@ -916,6 +832,10 @@
     "reason": "target page missing"
    },
    {
+    "name": "کوه پیر محمد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "کوه یای قاری",
     "reason": "target page missing"
    },
@@ -925,6 +845,14 @@
    },
    {
     "name": "آبشار مصنوعی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه پیر محمد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه قره داش",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -942,28 +870,13 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آبگرم معدنی شوط",
-    "pageid": 26681,
-    "revision_id": 42463884,
-    "section": "مراکز گردشگری / جاذبه های طبیعی",
-    "source_title": "شوط",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5023862,
-    "target_revision_id": 36236415,
-    "target_title": "آبگرم معدنی شوط",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%D8%B4%D9%88%D8%B7"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "غار چهل پله خضرلو",
     "pageid": 26681,
     "revision_id": 42463884,
     "section": "مراکز گردشگری / جاذبه های تاریخی",
     "source_title": "شوط",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 718294,
     "target_revision_id": 43351325,
     "target_title": "غار چهل پله خضرلو",
@@ -974,7 +887,12 @@
   "county": "شوط",
   "fetched": "2026-10-02",
   "province": "west-azerbaijan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "آبگرم معدنی شوط",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%88%D8%B7",
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7"
@@ -991,7 +909,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان تکاب",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%DA%A9%D8%A7%D8%A8",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 1672,
     "target_revision_id": 44206911,
     "target_title": "تخت سلیمان",
@@ -1133,21 +1051,6 @@
  "urmia": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دریاچه ارومیه",
-    "pageid": 2326737,
-    "revision_id": 44612504,
-    "section": "مکان های تفریحی / دریاچه ارومیه",
-    "source_title": "ارومیه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 2323,
-    "target_revision_id": 44274132,
-    "target_title": "دریاچه ارومیه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بازار ارومیه",
@@ -1180,21 +1083,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد سردار",
-    "pageid": 2326737,
-    "revision_id": 44612504,
-    "section": "گردشگری / مساجد",
-    "source_title": "ارومیه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 400837,
-    "target_revision_id": 43929932,
-    "target_title": "مسجد سردار",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "مسجد مناره",
     "pageid": 2326737,
     "revision_id": 44612504,
@@ -1206,36 +1094,6 @@
     "target_revision_id": 44344433,
     "target_title": "مسجد مناره",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D9%86%D8%A7%D8%B1%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای ننه‌مریم",
-    "pageid": 2326737,
-    "revision_id": 44612504,
-    "section": "گردشگری / کلیساها",
-    "source_title": "ارومیه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 627382,
-    "target_revision_id": 43722955,
-    "target_title": "کلیسای ننه‌مریم",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D9%86%D9%86%D9%87%E2%80%8C%D9%85%D8%B1%DB%8C%D9%85"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه‌های جنرال",
-    "pageid": 2326737,
-    "revision_id": 44612504,
-    "section": "گردشگری / خانه ها",
-    "source_title": "ارومیه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 2432116,
-    "target_revision_id": 29520563,
-    "target_title": "خانه‌های جنرال",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AC%D9%86%D8%B1%D8%A7%D9%84"
    },
    {
     "field": "poi_heritage",
@@ -1259,6 +1117,10 @@
   "province": "west-azerbaijan",
   "rejected_candidates": [
    {
+    "name": "دریاچه ارومیه",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "دریاچه آب شور",
     "reason": "county placement needs manual corroboration"
    },
@@ -1275,8 +1137,16 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "مسجد سردار",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "مسجد سیدالشهداء",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "کلیسای ننه‌مریم",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "کلیسای ماریوخنه",
@@ -1284,6 +1154,10 @@
    },
    {
     "name": "کلیسای جامع حضرت مریم (ارومیه)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "خانه‌های جنرال",
     "reason": "county placement needs manual corroboration"
    },
    {

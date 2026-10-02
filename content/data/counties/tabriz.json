@@ -329,21 +329,6 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ گلستان",
-     "pageid": 1587,
-     "revision_id": 44473640,
-     "section": "اماکن تفریحی / پارک ها",
-     "source_title": "تبریز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 205037,
-     "target_revision_id": 43931737,
-     "target_title": "باغ گلستان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "بوستان بزرگ تبریز",
      "pageid": 1587,
      "revision_id": 44473640,
@@ -362,7 +347,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
-   "value": "باغ گلستان\nبوستان بزرگ تبریز"
+   "value": "بوستان بزرگ تبریز"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -135,7 +135,7 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "astaneh-ye-ashrafiyeh - شمال‌غرب\nlangarud - جنوب‌شرق",
-  "sa_cty_poi_heritage": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nمسجد اکبریه\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان",
+  "sa_cty_poi_heritage": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان",
   "sa_cty_poi_recreation": "تله‌کابین لاهیجان",
   "sa_cty_population": 167544,
   "sa_cty_rural_districts": 6,
@@ -236,7 +236,6 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "siahkal - شمال‌شرق\nshaft - شمال‌غرب\nqazvin-city - جنوب‌شرق\nkharadere - جنوب‌غرب",
-  "sa_cty_poi_nature": "غار دربند رشی",
   "sa_cty_population": 94720,
   "sa_cty_rural_districts": 12,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.81667,49.58333"
@@ -301,7 +300,6 @@
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "amlash - شرق\nrudbar - جنوب‌غرب\nrasht - شمال‌غرب\nqazvin-city - جنوب",
   "sa_cty_poi_heritage": "حمام دیلمان\nتی تی کاروانسرا\nقلعه و برج گرماور\nقلعه کوتول شاه",
-  "sa_cty_poi_nature": "آبشار لونک",
   "sa_cty_population": 46975,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.93333,49.9"
  },

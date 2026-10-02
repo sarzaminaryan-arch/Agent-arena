@@ -153,21 +153,6 @@
      "target_revision_id": 43872798,
      "target_title": "بازار سیرجان",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ سنگی",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 950378,
-     "target_revision_id": 43371597,
-     "target_title": "باغ سنگی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%D9%86%DA%AF%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -175,7 +160,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-   "value": "بازار سیرجان\nباغ سنگی"
+   "value": "بازار سیرجان"
   },
   "population": {
    "fetched": "2026-10-02",

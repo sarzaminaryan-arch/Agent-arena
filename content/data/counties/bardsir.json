@@ -148,21 +148,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "ارگ بردسیر",
-     "pageid": 3955,
-     "revision_id": 44400079,
-     "section": "جاذبه های گردشگری / تاریخی",
-     "source_title": "بردسیر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 397124,
-     "target_revision_id": 35437397,
-     "target_title": "ارگ بردسیر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "خانه بهادرالملک",
      "pageid": 3955,
      "revision_id": 44400079,
@@ -196,7 +181,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
-   "value": "ارگ بردسیر\nخانه بهادرالملک\nحمام لاله‌زار"
+   "value": "خانه بهادرالملک\nحمام لاله‌زار"
   },
   "population": {
    "fetched": "2026-10-02",

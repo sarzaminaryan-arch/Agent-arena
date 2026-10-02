@@ -281,21 +281,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام حاج‌داداش",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "آثار تاریخی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 214415,
-    "target_revision_id": 40441676,
-    "target_title": "حمام حاج‌داداش",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%AF%D8%A7%D8%AF%D8%A7%D8%B4"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پل سردار",
     "pageid": 2924,
     "revision_id": 44401023,
@@ -359,6 +344,10 @@
    {
     "name": "کارخانه کبریت سازی",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "حمام حاج‌داداش",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "پل آبکار",

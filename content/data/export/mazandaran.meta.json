@@ -34,7 +34,7 @@
   "sa_cty_poi_heritage": "آتشکده آمل\nمسجد جامع آمل\nقلعه ملک بهمن\nکاروانسرای کمبوج\nمسجد آقا عباس\nقلعه کهرود\nبازار قدیم آمل\nتکیه روستای فیروزکلا\nپل فیروزکلای آمل\nپل معلق\nامامزاده ابراهیم\nآرامگاه ناصرالحق",
   "sa_cty_poi_nature": "پل دوازده چشمه\nتپه تنگ سفید آب",
   "sa_cty_poi_offbeat": "مشهد میر بزرگ\nشکل شاه\nمحمد بن محمود آملی\nساختمان دارائی\nشهر قدیم آمل\nدخمه سنگی کافر کلی\nمیربزرگ\nمیر حیدر آملی",
-  "sa_cty_poi_recreation": "بوستان جنگلی میرزا کوچک‌خان\nپارک دهکده طلایی",
+  "sa_cty_poi_recreation": "پارک دهکده طلایی",
   "sa_cty_population": 401639,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.35"
  },
@@ -313,7 +313,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "simorgh - شمال‌غرب\nsari - شرق\nsavadkuh - جنوب",
-  "sa_cty_poi_nature": "جنگل شالتماس\nسد زمزم\nدریاچه گل‌پل",
+  "sa_cty_poi_nature": "سد زمزم",
   "sa_cty_population": 309199,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.86667"

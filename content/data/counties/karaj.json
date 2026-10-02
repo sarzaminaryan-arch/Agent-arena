@@ -129,21 +129,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ سیب مهرشهر",
-     "pageid": 2444,
-     "revision_id": 44458279,
-     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-     "source_title": "کرج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 4382471,
-     "target_revision_id": 41406511,
-     "target_title": "باغ سیب مهرشهر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%DB%8C%D8%A8_%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "کاخ مروارید",
      "pageid": 2444,
      "revision_id": 44458279,
@@ -237,7 +222,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-   "value": "باغ سیب مهرشهر\nکاخ مروارید\nکاروانسرای شاه‌عباسی (کرج)\nکاخ شهرستانک\nپل دختر کرج\nامامزاده طاهر (کرج)\nحمام مصباح"
+   "value": "کاخ مروارید\nکاروانسرای شاه‌عباسی (کرج)\nکاخ شهرستانک\nپل دختر کرج\nامامزاده طاهر (کرج)\nحمام مصباح"
   },
   "poi_nature": {
    "entries": [
@@ -259,36 +244,6 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد امیرکبیر",
-     "pageid": 2444,
-     "revision_id": 44458279,
-     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-     "source_title": "کرج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 142655,
-     "target_revision_id": 44370624,
-     "target_title": "سد امیرکبیر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D9%85%DB%8C%D8%B1%DA%A9%D8%A8%DB%8C%D8%B1"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رودخانه کرج",
-     "pageid": 2444,
-     "revision_id": 44458279,
-     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-     "source_title": "کرج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 224903,
-     "target_revision_id": 43953963,
-     "target_title": "رودخانه کرج",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%DA%A9%D8%B1%D8%AC"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "غار یخ‌مراد",
      "pageid": 2444,
      "revision_id": 44458279,
@@ -300,21 +255,6 @@
      "target_revision_id": 44278705,
      "target_title": "غار یخ‌مراد",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DB%8C%D8%AE%E2%80%8C%D9%85%D8%B1%D8%A7%D8%AF"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک ملی ایران کوچک",
-     "pageid": 2444,
-     "revision_id": 44458279,
-     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-     "source_title": "کرج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 5666991,
-     "target_revision_id": 44073602,
-     "target_title": "پارک ملی ایران کوچک",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%DA%A9%D9%88%DA%86%DA%A9"
     }
    ],
    "fetched": "2026-10-02",
@@ -322,7 +262,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-   "value": "گرمدره\nسد امیرکبیر\nرودخانه کرج\nغار یخ‌مراد\nپارک ملی ایران کوچک"
+   "value": "گرمدره\nغار یخ‌مراد"
   },
   "poi_recreation": {
    "entries": [
@@ -335,41 +275,11 @@
      "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
      "source_title": "کرج",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 58280,
      "target_revision_id": 44430714,
      "target_title": "پیست دیزین",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%AF%DB%8C%D8%B2%DB%8C%D9%86"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پیست اسکی خور",
-     "pageid": 2444,
-     "revision_id": 44458279,
-     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-     "source_title": "کرج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 538819,
-     "target_revision_id": 40936584,
-     "target_title": "پیست اسکی خور",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%AE%D9%88%D8%B1"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان چمران",
-     "pageid": 2444,
-     "revision_id": 44458279,
-     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-     "source_title": "کرج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 5666976,
-     "target_revision_id": 40908531,
-     "target_title": "بوستان چمران",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%85%D8%B1%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -377,7 +287,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-   "value": "پیست دیزین\nپیست اسکی خور\nبوستان چمران"
+   "value": "پیست دیزین"
   },
   "population": {
    "fetched": "2026-10-02",

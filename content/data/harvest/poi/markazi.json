@@ -2,21 +2,6 @@
  "arak": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه چپقلی",
-    "pageid": 7988,
-    "revision_id": 44260141,
-    "section": "فرهنگ / جاذبه های طبیعی",
-    "source_title": "شهرستان اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 2317002,
-    "target_revision_id": 44436000,
-    "target_title": "چشمه چپقلی",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%DA%86%D9%BE%D9%82%D9%84%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بازار اراک",
@@ -137,36 +122,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%AD%D8%B3%DB%8C%D9%86_%D8%AE%D8%A7%DA%A9%D8%A8%D8%A7%D8%B2_%D9%85%D8%AD%D8%B3%D9%86%DB%8C"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دره گردو",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1783189,
-    "target_revision_id": 39220374,
-    "target_title": "دره گردو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%DA%AF%D8%B1%D8%AF%D9%88"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه شاهزاده محمد عابد",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "گردشگری / جاذبه های مذهبی",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 298139,
-    "target_revision_id": 44389641,
-    "target_title": "آرامگاه شاهزاده محمد عابد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D8%A7%D8%A8%D8%AF"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "امامزاده شاهزاده عبدالله و آمنه خاتون",
@@ -195,51 +150,6 @@
     "target_revision_id": 43929184,
     "target_title": "کلیسای مسروپ مقدس، اراک",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D9%85%D8%B3%D8%B1%D9%88%D9%BE_%D9%85%D9%82%D8%AF%D8%B3%D8%8C_%D8%A7%D8%B1%D8%A7%DA%A9"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه سلطان‌آباد",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "گردشگری / موزه ها",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 715479,
-    "target_revision_id": 41649417,
-    "target_title": "موزه سلطان‌آباد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه صنایع دستی (اراک)",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "گردشگری / موزه ها",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1510463,
-    "target_revision_id": 33803760,
-    "target_title": "موزه صنایع دستی (اراک)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B5%D9%86%D8%A7%DB%8C%D8%B9_%D8%AF%D8%B3%D8%AA%DB%8C_%28%D8%A7%D8%B1%D8%A7%DA%A9%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه تنوع زیستی (اراک)",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "گردشگری / موزه ها",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1510288,
-    "target_revision_id": 42619955,
-    "target_title": "موزه تنوع زیستی (اراک)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%AA%D9%86%D9%88%D8%B9_%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C_%28%D8%A7%D8%B1%D8%A7%DA%A9%29"
    }
   ],
   "center_confirmed": true,
@@ -247,6 +157,10 @@
   "fetched": "2026-10-02",
   "province": "markazi",
   "rejected_candidates": [
+   {
+    "name": "چشمه چپقلی",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "غار کل",
     "reason": "target page missing"
@@ -273,6 +187,26 @@
    },
    {
     "name": "تالاب میقان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "دره گردو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آرامگاه شاهزاده محمد عابد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه سلطان‌آباد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه صنایع دستی (اراک)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه تنوع زیستی (اراک)",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -366,21 +300,6 @@
  },
  "khomeyn": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه بوجه",
-    "pageid": 7993,
-    "revision_id": 44299581,
-    "section": "آثار فرهنگی و گردشگری",
-    "source_title": "شهرستان خمین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%85%DB%8C%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6759705,
-    "target_revision_id": 43272755,
-    "target_title": "کوه بوجه",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%A8%D9%88%D8%AC%D9%87"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
@@ -733,6 +652,10 @@
   "province": "markazi",
   "rejected_candidates": [
    {
+    "name": "کوه بوجه",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "امامزاده اهل بن علی",
     "reason": "explicitly different county"
    },
@@ -925,21 +848,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد سرخ (ساوه)",
-    "pageid": 4758848,
-    "revision_id": 44260837,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان ساوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 517884,
-    "target_revision_id": 41410367,
-    "target_title": "مسجد سرخ (ساوه)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D8%B1%D8%AE_%28%D8%B3%D8%A7%D9%88%D9%87%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "مسجد بازار ساوه",
     "pageid": 4758848,
     "revision_id": 44260837,
@@ -966,21 +874,6 @@
     "target_revision_id": 44316199,
     "target_title": "قلعه دختر (ساوه)",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%28%D8%B3%D8%A7%D9%88%D9%87%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قیزقلعه (ساوه)",
-    "pageid": 4758848,
-    "revision_id": 44260837,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان ساوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 516240,
-    "target_revision_id": 42129926,
-    "target_title": "قیزقلعه (ساوه)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%DB%8C%D8%B2%D9%82%D9%84%D8%B9%D9%87_%28%D8%B3%D8%A7%D9%88%D9%87%29"
    },
    {
     "field": "poi_heritage",
@@ -1214,7 +1107,19 @@
   "province": "markazi",
   "rejected_candidates": [
    {
+    "name": "مسجد سرخ (ساوه)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قیزقلعه (ساوه)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "رودخانه مزلقان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "مسجد سرخ (ساوه)",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -1246,7 +1151,7 @@
     "section": "گردشگری",
     "source_title": "تفرش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 356694,
     "target_revision_id": 43929188,
     "target_title": "غار امجک",
@@ -1679,7 +1584,7 @@
     "section": "گردشگری / آثار تاریخی",
     "source_title": "شهرستان زرندیه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D9%86%D8%AF%DB%8C%D9%87",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 5765868,
     "target_revision_id": 36971560,
     "target_title": "کلیسای سرکیس مقدس (چاناقچی علیا)",

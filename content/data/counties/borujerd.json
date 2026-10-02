@@ -167,46 +167,6 @@
    "url": "",
    "value": "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قله ولاش",
-     "pageid": 6289,
-     "revision_id": 44573388,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "بروجرد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 367212,
-     "target_revision_id": 43003662,
-     "target_title": "قله ولاش",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D9%88%D9%84%D8%A7%D8%B4"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تنگه کپرگه",
-     "pageid": 6289,
-     "revision_id": 44573388,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "بروجرد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 217106,
-     "target_revision_id": 27055417,
-     "target_title": "تنگه کپرگه",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DA%AF%D9%87_%DA%A9%D9%BE%D8%B1%DA%AF%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-   "value": "قله ولاش\nتنگه کپرگه"
-  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
@@ -246,21 +206,6 @@
      "target_revision_id": 43844843,
      "target_title": "باغ پرندگان بروجرد",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان جنگلی شهید بهشتی بروجرد",
-     "pageid": 6289,
-     "revision_id": 44573388,
-     "section": "گردشگری / پارکها و فضای سبز",
-     "source_title": "بروجرد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 2014708,
-     "target_revision_id": 43844832,
-     "target_title": "بوستان جنگلی شهید بهشتی بروجرد",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%B4%D9%87%DB%8C%D8%AF_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -268,7 +213,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-   "value": "بوستان فدک بروجرد\nباغ پرندگان بروجرد\nبوستان جنگلی شهید بهشتی بروجرد"
+   "value": "بوستان فدک بروجرد\nباغ پرندگان بروجرد"
   },
   "population": {
    "fetched": "2026-10-02",

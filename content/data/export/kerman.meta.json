@@ -118,7 +118,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "rabor - جنوب‌شرق\nbaft - جنوب\narzuiyeh - جنوب\nrafsanjan - شمال‌غرب\nsirjan - غرب\nzarand - شمال\nkerman - شمال‌شرق",
-  "sa_cty_poi_heritage": "ارگ بردسیر\nخانه بهادرالملک\nحمام لاله‌زار",
+  "sa_cty_poi_heritage": "خانه بهادرالملک\nحمام لاله‌زار",
   "sa_cty_population": 81983,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.83333,56.58333"
@@ -348,8 +348,6 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "baft - غرب\njiroft - جنوب‌شرق\nbardsir - شمال‌غرب\nkerman - شمال‌شرق",
-  "sa_cty_poi_heritage": "امامزاده سیدمرتضی (رابر)",
-  "sa_cty_poi_nature": "چشمه عروس",
   "sa_cty_population": 35362,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.25,56.98333"
@@ -469,7 +467,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "arzuiyeh - جنوب‌شرق\nshahr-e-babak - شمال‌غرب\nbardsir - شرق\nneyriz - غرب\ndarab - جنوب‌غرب\nrafsanjan - شمال\nhajiabad - جنوب",
-  "sa_cty_poi_heritage": "بازار سیرجان\nباغ سنگی",
+  "sa_cty_poi_heritage": "بازار سیرجان",
   "sa_cty_population": 324103,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.5,55.5"

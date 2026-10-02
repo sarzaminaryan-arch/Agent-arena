@@ -315,31 +315,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
    "value": "مسجد شاه (اصفهان)\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سید\nمسجد شیخ لطف‌الله\nکاخ هشت‌بهشت\nحمام علی‌قلی‌آقا\nحمام جارچی\nپل شهرستان\nبازار مسگرها (اصفهان)\nبازار هنر اصفهان"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کوه صفه",
-     "pageid": 2169,
-     "revision_id": 44613583,
-     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
-     "source_title": "اصفهان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 31899,
-     "target_revision_id": 44484832,
-     "target_title": "کوه صفه",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B5%D9%81%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-   "value": "کوه صفه"
-  },
   "poi_recreation": {
    "entries": [
     {

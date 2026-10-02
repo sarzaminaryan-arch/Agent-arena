@@ -15,21 +15,6 @@
     "target_revision_id": 43922761,
     "target_title": "آرامگاه شیخ شهاب‌الدین اهری",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B4%DB%8C%D8%AE_%D8%B4%D9%87%D8%A7%D8%A8%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%A7%D9%87%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه‌های مریخی زگلیک",
-    "pageid": 57113,
-    "revision_id": 44574091,
-    "section": "هویت فرهنگی / جاذبه های گردشگری",
-    "source_title": "اهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 5382457,
-    "target_revision_id": 43922811,
-    "target_title": "کوه‌های مریخی زگلیک",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D8%B1%DB%8C%D8%AE%DB%8C_%D8%B2%DA%AF%D9%84%DB%8C%DA%A9"
    }
   ],
   "center_confirmed": true,
@@ -39,6 +24,10 @@
   "rejected_candidates": [
    {
     "name": "بازار اهر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه‌های مریخی زگلیک",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -105,21 +94,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%88_%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D9%84%D8%B1_%28%D9%BE%DB%8C%D8%B1_%D8%AD%DB%8C%D8%B1%D8%A7%D9%86%29"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "هفت‌چشمه (آذرشهر)",
-    "pageid": 13338,
-    "revision_id": 44323893,
-    "section": "گردشگری",
-    "source_title": "آذرشهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 289540,
-    "target_revision_id": 44244673,
-    "target_title": "هفت‌چشمه (آذرشهر)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%81%D8%AA%E2%80%8C%DA%86%D8%B4%D9%85%D9%87_%28%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1%29"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "حمام چهار سوق",
@@ -154,7 +128,12 @@
   "county": "آذرشهر",
   "fetched": "2026-10-02",
   "province": "east-azerbaijan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "هفت‌چشمه (آذرشهر)",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1"
@@ -311,21 +290,6 @@
     "target_revision_id": 44444964,
     "target_title": "کاروانسرای خواجه نظر",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D9%86%D8%B8%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "امامزاده سید محمد (جلفا)",
-    "pageid": 59508,
-    "revision_id": 44161029,
-    "section": "آثار تاریخی و دیدنی",
-    "source_title": "شهرستان جلفا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1856562,
-    "target_revision_id": 44062555,
-    "target_title": "امامزاده سید محمد (جلفا)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%28%D8%AC%D9%84%D9%81%D8%A7%29"
    }
   ],
   "center_confirmed": true,
@@ -358,6 +322,10 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "امامزاده سید محمد (جلفا)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "قلعه علی بیگ",
     "reason": "target page missing"
    },
@@ -386,7 +354,7 @@
     "section": "قابلیت های گردشگری",
     "source_title": "شهرستان کلیبر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 352031,
     "target_revision_id": 41207617,
     "target_title": "دره مکیدی",
@@ -454,7 +422,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "خمارلو",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 209866,
     "target_revision_id": 44021119,
     "target_title": "پل‌های خداآفرین",
@@ -680,7 +648,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان اسکو",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%DA%A9%D9%88",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 156384,
     "target_revision_id": 42833485,
     "target_title": "جزیره شاهی",
@@ -928,21 +896,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%87%D8%AF%D8%A7%DB%8C%D8%A7%DB%8C_%D8%AE%D8%A7%D9%85%D9%86%D9%87"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار سرکنددیزج",
-    "pageid": 18317,
-    "revision_id": 44260909,
-    "section": "جاذبه های تاریخی، مذهبی",
-    "source_title": "شهرستان شبستر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 352439,
-    "target_revision_id": 44539339,
-    "target_title": "آبشار سرکنددیزج",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%D8%B1%DA%A9%D9%86%D8%AF%D8%AF%DB%8C%D8%B2%D8%AC"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "آب‌انبار قدیمی کوزه‌کنان",
@@ -970,6 +923,10 @@
    {
     "name": "مسجد جامع تسوج",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "آبشار سرکنددیزج",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "کلیسای هریپسیمه مقدس (موجومبار)",
@@ -1456,21 +1413,6 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ گلستان",
-    "pageid": 1587,
-    "revision_id": 44473640,
-    "section": "اماکن تفریحی / پارک ها",
-    "source_title": "تبریز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 205037,
-    "target_revision_id": 43931737,
-    "target_title": "باغ گلستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بوستان بزرگ تبریز",
     "pageid": 1587,
     "revision_id": 44473640,
@@ -1482,21 +1424,6 @@
     "target_revision_id": 42275778,
     "target_title": "بوستان بزرگ تبریز",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B2%D8%B1%DA%AF_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوچه‌باغ (محله)",
-    "pageid": 1587,
-    "revision_id": 44473640,
-    "section": "اماکن تفریحی / پارک ها",
-    "source_title": "تبریز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 262527,
-    "target_revision_id": 41457994,
-    "target_title": "کوچه‌باغ (محله)",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DA%86%D9%87%E2%80%8C%D8%A8%D8%A7%D8%BA_%28%D9%85%D8%AD%D9%84%D9%87%29"
    },
    {
     "field": "poi_heritage",
@@ -1626,6 +1553,14 @@
   "rejected_candidates": [
    {
     "name": "مسجد جامع",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "باغ گلستان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوچه‌باغ (محله)",
     "reason": "county placement needs manual corroboration"
    },
    {

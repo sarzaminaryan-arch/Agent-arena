@@ -151,31 +151,6 @@
     "hamadan-city"
    ]
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کوه گرمه",
-     "pageid": 13070,
-     "revision_id": 44466677,
-     "section": "ساختار شهری / پارک ها",
-     "source_title": "ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 2322415,
-     "target_revision_id": 40746071,
-     "target_title": "کوه گرمه",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%DA%AF%D8%B1%D9%85%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "کوه گرمه"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

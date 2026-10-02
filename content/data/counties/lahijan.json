@@ -162,21 +162,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد اکبریه",
-     "pageid": 1573816,
-     "revision_id": 44612928,
-     "section": "جاذبه های گردشگری / تاریخی",
-     "source_title": "لاهیجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 208613,
-     "target_revision_id": 43252632,
-     "target_title": "مسجد اکبریه",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%DA%A9%D8%A8%D8%B1%DB%8C%D9%87"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "بقعه میرشمس‌الدین لاهیجانی",
      "pageid": 1573816,
      "revision_id": 44612928,
@@ -240,7 +225,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-   "value": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nمسجد اکبریه\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان"
+   "value": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان"
   },
   "poi_recreation": {
    "entries": [

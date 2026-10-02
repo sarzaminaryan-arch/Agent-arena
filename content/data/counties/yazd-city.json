@@ -146,21 +146,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ دولت‌آباد",
-     "pageid": 19818,
-     "revision_id": 44613507,
-     "section": "گردشگری / بناها و مکان های تاریخی",
-     "source_title": "یزد",
-     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 26239,
-     "target_revision_id": 44147516,
-     "target_title": "باغ دولت‌آباد",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%AF%D9%88%D9%84%D8%AA%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "مجموعه باغ خان",
      "pageid": 19818,
      "revision_id": 44613507,
@@ -322,6 +307,21 @@
      "target_revision_id": 44343947,
      "target_title": "مسجد جامع یزد",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DB%8C%D8%B2%D8%AF"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد امیرچقماق",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_location_evidence": "target infobox names this county",
+     "target_pageid": 656317,
+     "target_revision_id": 44343615,
+     "target_title": "مسجد امیرچقماق",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%85%DB%8C%D8%B1%DA%86%D9%82%D9%85%D8%A7%D9%82"
     }
    ],
    "fetched": "2026-10-02",
@@ -329,7 +329,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-   "value": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت‌سازی\nبازار افشار\nبازار محمدعلی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد"
+   "value": "مجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت‌سازی\nبازار افشار\nبازار محمدعلی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد\nمسجد امیرچقماق"
   },
   "population": {
    "fetched": "2026-10-02",

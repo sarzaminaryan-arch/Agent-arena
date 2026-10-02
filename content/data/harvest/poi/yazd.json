@@ -156,26 +156,11 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان خاتم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%AA%D9%85",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6634638,
     "target_revision_id": 43867021,
     "target_title": "بوستان سرچشمه نهر مسیح",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87_%D9%86%D9%87%D8%B1_%D9%85%D8%B3%DB%8C%D8%AD"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "منطقه حفاظت‌شده باغ شادی",
-    "pageid": 142031,
-    "revision_id": 44351321,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان خاتم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%AA%D9%85",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 5849510,
-    "target_revision_id": 41918743,
-    "target_title": "منطقه حفاظت‌شده باغ شادی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%A8%D8%A7%D8%BA_%D8%B4%D8%A7%D8%AF%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -186,7 +171,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان خاتم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%AA%D9%85",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6501796,
     "target_revision_id": 44423559,
     "target_title": "پناهگاه حیات وحش بروئیه",
@@ -302,7 +287,12 @@
   "county": "خاتم",
   "fetched": "2026-10-02",
   "province": "yazd",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "منطقه حفاظت‌شده باغ شادی",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%AA%D9%85"
   ]
@@ -353,21 +343,6 @@
     "target_revision_id": 37672423,
     "target_title": "آرامگاه شریف السادات",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B4%D8%B1%DB%8C%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پناهگاه حیات وحش بروئیه",
-    "pageid": 91810,
-    "revision_id": 43024696,
-    "section": "جاذبه های تاریخی، طبیعی و گردشگری مروست / منابع طبیعی",
-    "source_title": "مروست",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6501796,
-    "target_revision_id": 44423559,
-    "target_title": "پناهگاه حیات وحش بروئیه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D8%A8%D8%B1%D9%88%D8%A6%DB%8C%D9%87"
    }
   ],
   "center_confirmed": true,
@@ -382,6 +357,10 @@
    {
     "name": "آرامگاه شیخ بهاءالدین",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "پناهگاه حیات وحش بروئیه",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -737,21 +716,6 @@
  },
  "taft-city": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار درگاهان",
-    "pageid": 52294,
-    "revision_id": 44469408,
-    "section": "عوارض طبیعی و پدیده های جغرافیایی / جاذبه های طبیعی",
-    "source_title": "شهرستان تفت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5214012,
-    "target_revision_id": 43312044,
-    "target_title": "آبشار درگاهان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AF%D8%B1%DA%AF%D8%A7%D9%87%D8%A7%D9%86"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
@@ -1250,21 +1214,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه پهلوان بادی",
-    "pageid": 52294,
-    "revision_id": 44469408,
-    "section": "آثار تاریخی شهرستان تفت",
-    "source_title": "شهرستان تفت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3229452,
-    "target_revision_id": 34135578,
-    "target_title": "قلعه پهلوان بادی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%BE%D9%87%D9%84%D9%88%D8%A7%D9%86_%D8%A8%D8%A7%D8%AF%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "قلعه گاریز",
     "pageid": 52294,
     "revision_id": 44469408,
@@ -1498,6 +1447,18 @@
     "reason": "target page missing"
    },
    {
+    "name": "آبشار درگاهان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قلعه پهلوان بادی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار درگاهان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "حسینیه شاه‌ولی",
     "reason": "target page missing"
    },
@@ -1524,6 +1485,10 @@
    {
     "name": "قلعه گرمسیر",
     "reason": "target page missing"
+   },
+   {
+    "name": "قلعه پهلوان بادی",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -1533,21 +1498,6 @@
  },
  "yazd-city": {
   "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ دولت‌آباد",
-    "pageid": 19818,
-    "revision_id": 44613507,
-    "section": "گردشگری / بناها و مکان های تاریخی",
-    "source_title": "یزد",
-    "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 26239,
-    "target_revision_id": 44147516,
-    "target_title": "باغ دولت‌آباد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%AF%D9%88%D9%84%D8%AA%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -1959,6 +1909,10 @@
   "fetched": "2026-10-02",
   "province": "yazd",
   "rejected_candidates": [
+   {
+    "name": "باغ دولت‌آباد",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "مسجد صاحب‌الامر",
     "reason": "explicitly different county"

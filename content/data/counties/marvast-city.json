@@ -197,31 +197,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
    "value": "قلعه مروست\nکاروانسرای شعبه\nآرامگاه شریف السادات"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پناهگاه حیات وحش بروئیه",
-     "pageid": 91810,
-     "revision_id": 43024696,
-     "section": "جاذبه های تاریخی، طبیعی و گردشگری مروست / منابع طبیعی",
-     "source_title": "مروست",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 6501796,
-     "target_revision_id": 44423559,
-     "target_title": "پناهگاه حیات وحش بروئیه",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D8%A8%D8%B1%D9%88%D8%A6%DB%8C%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
-   "value": "پناهگاه حیات وحش بروئیه"
-  },
   "rural_districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",

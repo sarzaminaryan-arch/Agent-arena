@@ -245,7 +245,7 @@ ID=$(wp post list --post_type=city --name=kermanshah --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "eslamabad-e-gharb - جنوب‌غرب\nharsin - شرق\nravansar - شمال‌غرب\nhalilan - جنوب\nsonqor - شمال‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "پارک شیرین (کرمانشاه)\nبوستان لاله (کرمانشاه)"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "بوستان لاله (کرمانشاه)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "طاق‌بستان\nشکارگاه خسرو پرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد شاهزاده (کرمانشاه)\nمسجد دولتشاه\nخانه رنده‌کش"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47"

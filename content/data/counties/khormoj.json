@@ -161,21 +161,6 @@
      "target_revision_id": 43923992,
      "target_title": "قلعه خورموج",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت شیرینه",
-     "pageid": 23599,
-     "revision_id": 44388553,
-     "section": "گردشگری",
-     "source_title": "خورموج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 261115,
-     "target_revision_id": 31065813,
-     "target_title": "عمارت شیرینه",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -183,7 +168,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
-   "value": "قلعه خورموج\nعمارت شیرینه"
+   "value": "قلعه خورموج"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

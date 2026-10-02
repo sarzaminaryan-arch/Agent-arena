@@ -34,7 +34,7 @@ ID=$(wp post list --post_type=city --name=arak --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ashtian - شمال‌شرق\nshazand - جنوب‌غرب\nfarahan - شمال\nkhomeyn - جنوب\nmahallat - جنوب‌شرق\nkhondab - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "چشمه چپقلی\nغار کل\nایوان غار\nغار برآفتاب\nاشترانکوه\nکوه غار یا شاه نشین\nکوه غاغان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "چناس\nبرآفتاب\nگورآب\nمیشو"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار اراک\nحمام چهارفصل\nخانه حسن‌پور\nبرج شیشه اراک\nقلعه حاج وکیل\nارگ حکومتی اراک\nخانه حاج‌آقا محسن اراکی\nخانه حاج‌حسین خاکباز محسنی\nآرامگاه شاهزاده محمد عابد\nامامزاده شاهزاده عبدالله و آمنه خاتون\nکلیسای مسروپ مقدس، اراک\nموزه سلطان‌آباد"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار اراک\nحمام چهارفصل\nخانه حسن‌پور\nبرج شیشه اراک\nقلعه حاج وکیل\nارگ حکومتی اراک\nخانه حاج‌آقا محسن اراکی\nخانه حاج‌حسین خاکباز محسنی\nامامزاده شاهزاده عبدالله و آمنه خاتون\nکلیسای مسروپ مقدس، اراک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.13333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.8"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1738"

@@ -144,7 +144,6 @@
   "sa_cty_livelihood": "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری",
   "sa_cty_neighbors": "khatam-city - جنوب\nbavanat - جنوب‌غرب\nmehriz-city - شمال‌شرق\nabarkuh-city - شمال‌غرب\nanar - شرق",
   "sa_cty_poi_heritage": "قلعه مروست\nکاروانسرای شعبه\nآرامگاه شریف السادات",
-  "sa_cty_poi_nature": "پناهگاه حیات وحش بروئیه",
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.65,54.2"
  },
@@ -228,7 +227,7 @@
   "sa_cty_language": "فارسی با گویش یزدی؛ گویش بهدینان در میان زرتشتیان",
   "sa_cty_livelihood": "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری",
   "sa_cty_neighbors": "zarch-city - شمال\nmeybod-city - شمال‌غرب\ntaft-city - جنوب‌غرب\nmehriz-city - جنوب\nbafq-city - شرق",
-  "sa_cty_poi_heritage": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت‌سازی\nبازار افشار\nبازار محمدعلی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد",
+  "sa_cty_poi_heritage": "مجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت‌سازی\nبازار افشار\nبازار محمدعلی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد\nمسجد امیرچقماق",
   "sa_cty_population": 656474,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.88333,54.45"

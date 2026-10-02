@@ -55,36 +55,6 @@
  "baft": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "پارک ملی خبر و پناهگاه حیات وحش روچون",
-    "pageid": 15351,
-    "revision_id": 44260298,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان بافت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 883082,
-    "target_revision_id": 44412991,
-    "target_title": "پارک ملی خبر و پناهگاه حیات وحش روچون",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%AE%D8%A8%D8%B1_%D9%88_%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D8%B1%D9%88%DA%86%D9%88%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "غار جفریز",
-    "pageid": 15351,
-    "revision_id": 44260298,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان بافت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 2453947,
-    "target_revision_id": 37145083,
-    "target_title": "غار جفریز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%AC%D9%81%D8%B1%DB%8C%D8%B2"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "قلعه غنجعلیخان افشار",
@@ -108,26 +78,11 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بافت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 5856384,
     "target_revision_id": 41568569,
     "target_title": "آبشار سه کاسه",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%D9%87_%DA%A9%D8%A7%D8%B3%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سد بافت",
-    "pageid": 15351,
-    "revision_id": 44260298,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان بافت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 4297983,
-    "target_revision_id": 40325343,
-    "target_title": "سد بافت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A8%D8%A7%D9%81%D8%AA"
    },
    {
     "field": "poi_nature",
@@ -138,7 +93,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بافت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 978821,
     "target_revision_id": 42949084,
     "target_title": "آبشار بنگان",
@@ -153,7 +108,7 @@
     "section": "جاذبه های گردشگری / [[غار طرنگ]]",
     "source_title": "شهرستان بافت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 219729,
     "target_revision_id": 36971474,
     "target_title": "غار طرنگ",
@@ -168,6 +123,18 @@
    {
     "name": "کوه شاه",
     "reason": "lead locates target in another county"
+   },
+   {
+    "name": "پارک ملی خبر و پناهگاه حیات وحش روچون",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "غار جفریز",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "سد بافت",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "منطقه حفاظت شده انجرک",
@@ -200,21 +167,6 @@
  },
  "bardsir": {
   "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "ارگ بردسیر",
-    "pageid": 3955,
-    "revision_id": 44400079,
-    "section": "جاذبه های گردشگری / تاریخی",
-    "source_title": "بردسیر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 397124,
-    "target_revision_id": 35437397,
-    "target_title": "ارگ بردسیر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -251,6 +203,10 @@
   "fetched": "2026-10-02",
   "province": "kerman",
   "rejected_candidates": [
+   {
+    "name": "ارگ بردسیر",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "امامزاده عبدالله (ری)",
     "reason": "explicitly different county"
@@ -757,43 +713,25 @@
   ]
  },
  "rabor": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "امامزاده سیدمرتضی (رابر)",
-    "pageid": 357825,
-    "revision_id": 44378997,
-    "section": "اماکن سیاحتی و زیارتی",
-    "source_title": "شهرستان رابر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6514704,
-    "target_revision_id": 42886604,
-    "target_title": "امامزاده سیدمرتضی (رابر)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%28%D8%B1%D8%A7%D8%A8%D8%B1%29"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه عروس",
-    "pageid": 357825,
-    "revision_id": 44378997,
-    "section": "اماکن سیاحتی و زیارتی",
-    "source_title": "شهرستان رابر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1703132,
-    "target_revision_id": 44435947,
-    "target_title": "چشمه عروس",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%B9%D8%B1%D9%88%D8%B3"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "رابر",
   "fetched": "2026-10-02",
   "province": "kerman",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "امامزاده سیدمرتضی (رابر)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه عروس",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه عروس",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%D8%B1"
@@ -1206,21 +1144,6 @@
     "target_revision_id": 43872798,
     "target_title": "بازار سیرجان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ سنگی",
-    "pageid": 3954,
-    "revision_id": 44482714,
-    "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
-    "source_title": "سیرجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 950378,
-    "target_revision_id": 43371597,
-    "target_title": "باغ سنگی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%D9%86%DA%AF%DB%8C"
    }
   ],
   "center_confirmed": true,
@@ -1231,6 +1154,10 @@
    {
     "name": "خانه علی اکبر شوکت سعیدی",
     "reason": "target page missing"
+   },
+   {
+    "name": "باغ سنگی",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "آرامگاه میر زبیر",

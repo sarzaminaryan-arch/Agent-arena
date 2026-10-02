@@ -35,7 +35,6 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "rostam - شرق\ngachsaran - غرب\nchoram - شمال‌غرب\nboyer-ahmad - شمال",
-  "sa_cty_poi_nature": "کوه خامی",
   "sa_cty_population": 21690,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.45,51.11667"
@@ -55,8 +54,6 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "dena - شرق\nchoram - جنوب‌غرب\nmargoun - شمال‌غرب\nbasht - جنوب",
-  "sa_cty_poi_nature": "آبشار یاسوج",
-  "sa_cty_poi_recreation": "پیست اسکی کاکان",
   "sa_cty_population": 299885,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.9,51.11667"
@@ -140,7 +137,6 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "landeh - غرب\nchoram - جنوب‌شرق\nmargoun - شمال‌شرق",
-  "sa_cty_poi_nature": "آبشار کمردوغ",
   "sa_cty_population": 131351,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.96667,50.55"

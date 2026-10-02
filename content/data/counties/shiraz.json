@@ -223,21 +223,6 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک قلعه‌بندر",
-     "pageid": 5509,
-     "revision_id": 44401722,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "شیراز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 329154,
-     "target_revision_id": 27174820,
-     "target_title": "پارک قلعه‌بندر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%A8%D9%86%D8%AF%D8%B1"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "باغ پرندگان شیراز",
      "pageid": 5509,
      "revision_id": 44401722,
@@ -249,21 +234,6 @@
      "target_revision_id": 43931733,
      "target_title": "باغ پرندگان شیراز",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان آزادی (شیراز)",
-     "pageid": 5509,
-     "revision_id": 44401722,
-     "section": "گردشگری / فضای سبز",
-     "source_title": "شیراز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 347548,
-     "target_revision_id": 43844628,
-     "target_title": "بوستان آزادی (شیراز)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C_%28%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -271,7 +241,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-   "value": "بوستان کوهستانی دراک\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nپارک قلعه‌بندر\nباغ پرندگان شیراز\nبوستان آزادی (شیراز)"
+   "value": "بوستان کوهستانی دراک\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nباغ پرندگان شیراز"
   },
   "population": {
    "fetched": "2026-10-02",

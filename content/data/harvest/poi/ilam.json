@@ -40,7 +40,7 @@
     "section": "گردشگری",
     "source_title": "آبدانان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 3276950,
     "target_revision_id": 43439592,
     "target_title": "دریاچه دوقلو سیاه گاو",
@@ -179,23 +179,7 @@
   ]
  },
  "ilam-city": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد ایلام",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 3855676,
-    "target_revision_id": 42940734,
-    "target_title": "سد ایلام",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%DB%8C%D9%84%D8%A7%D9%85"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "ایلام",
   "fetched": "2026-10-02",
@@ -228,6 +212,10 @@
    {
     "name": "کوه قلاقیران",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "سد ایلام",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "پارک جنگلی چغا سبز",

@@ -126,7 +126,7 @@
     "section": "جاذبه های گردشگری و تاریخی درگز",
     "source_title": "درگز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 201715,
     "target_revision_id": 44284340,
     "target_title": "پارک ملی تندوره",
@@ -243,7 +243,7 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "شهرستان جوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 657824,
     "target_revision_id": 44259480,
     "target_title": "شهر آق قلعه",
@@ -311,21 +311,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد جامع کاشمر",
-    "pageid": 38450,
-    "revision_id": 44446626,
-    "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
-    "source_title": "کاشمر",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 223150,
-    "target_revision_id": 44325113,
-    "target_title": "مسجد جامع کاشمر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DA%A9%D8%A7%D8%B4%D9%85%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "قلعه ریگ",
     "pageid": 38450,
     "revision_id": 44446626,
@@ -356,21 +341,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه آتشگاه",
-    "pageid": 38450,
-    "revision_id": 44446626,
-    "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
-    "source_title": "کاشمر",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 4908639,
-    "target_revision_id": 44325146,
-    "target_title": "قلعه آتشگاه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A2%D8%AA%D8%B4%DA%AF%D8%A7%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "سرو باغ‌مزار",
     "pageid": 38450,
     "revision_id": 44446626,
@@ -382,21 +352,6 @@
     "target_revision_id": 43925211,
     "target_title": "سرو باغ‌مزار",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88_%D8%A8%D8%A7%D8%BA%E2%80%8C%D9%85%D8%B2%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دره آبگرم",
-    "pageid": 38450,
-    "revision_id": 44446626,
-    "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
-    "source_title": "کاشمر",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6563270,
-    "target_revision_id": 43925174,
-    "target_title": "دره آبگرم",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%A2%D8%A8%DA%AF%D8%B1%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -596,47 +551,17 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار آتشگاه",
-    "pageid": 38450,
-    "revision_id": 44446626,
-    "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
-    "source_title": "کاشمر",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5547296,
-    "target_revision_id": 44325137,
-    "target_title": "غار آتشگاه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A2%D8%AA%D8%B4%DA%AF%D8%A7%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "رودخانه قوژد",
     "pageid": 38450,
     "revision_id": 44446626,
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6560227,
     "target_revision_id": 40590399,
     "target_title": "رودخانه قوژد",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%82%D9%88%DA%98%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کویر گندم‌بر",
-    "pageid": 38450,
-    "revision_id": 44446626,
-    "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
-    "source_title": "کاشمر",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6531817,
-    "target_revision_id": 43925220,
-    "target_title": "کویر گندم‌بر",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1_%DA%AF%D9%86%D8%AF%D9%85%E2%80%8C%D8%A8%D8%B1"
    },
    {
     "field": "poi_recreation",
@@ -660,7 +585,27 @@
   "province": "razavi-khorasan",
   "rejected_candidates": [
    {
+    "name": "مسجد جامع کاشمر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قلعه آتشگاه",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "دره آبگرم",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "آتشکده کشمر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "غار آتشگاه",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کویر گندم‌بر",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -778,108 +723,47 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 677134,
     "target_revision_id": 44150324,
     "target_title": "حمام بند قراء",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D9%86%D8%AF_%D9%82%D8%B1%D8%A7%D8%A1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "رودخانه نابای",
-    "pageid": 51599,
-    "revision_id": 44473588,
-    "section": "اماکن تاریخی، آثار باستانی و گردشگری",
-    "source_title": "شهرستان کوهسرخ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 5841419,
-    "target_revision_id": 40408505,
-    "target_title": "رودخانه نابای",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%86%D8%A7%D8%A8%D8%A7%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار کریز",
-    "pageid": 51599,
-    "revision_id": 44473588,
-    "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
-    "source_title": "شهرستان کوهسرخ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6531801,
-    "target_revision_id": 43312272,
-    "target_title": "آبشار کریز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%A9%D8%B1%DB%8C%D8%B2"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبگرم معدنی کریز",
-    "pageid": 51599,
-    "revision_id": 44473588,
-    "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
-    "source_title": "شهرستان کوهسرخ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6531804,
-    "target_revision_id": 44539523,
-    "target_title": "آبگرم معدنی کریز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%DA%A9%D8%B1%DB%8C%D8%B2"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دره آسیاب",
-    "pageid": 51599,
-    "revision_id": 44473588,
-    "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
-    "source_title": "شهرستان کوهسرخ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 956511,
-    "target_revision_id": 44175676,
-    "target_title": "دره آسیاب",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "رشته‌کوه باغدشت",
-    "pageid": 51599,
-    "revision_id": 44473588,
-    "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
-    "source_title": "شهرستان کوهسرخ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 4922756,
-    "target_revision_id": 44191104,
-    "target_title": "رشته‌کوه باغدشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%A8%D8%A7%D8%BA%D8%AF%D8%B4%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه آریا",
-    "pageid": 50929,
-    "revision_id": 44199786,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
-    "source_title": "ریوش",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%88%D8%B4",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 6338334,
-    "target_revision_id": 43925178,
-    "target_title": "کوه آریا",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%A2%D8%B1%DB%8C%D8%A7"
    }
   ],
   "center_confirmed": true,
   "county": "کوهسرخ",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "رودخانه نابای",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار کریز",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبگرم معدنی کریز",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "دره آسیاب",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "رشته‌کوه باغدشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "رودخانه نابای",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه آریا",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
    "https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%88%D8%B4"
@@ -987,23 +871,7 @@
   ]
  },
  "sheshtamad": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سد سنگرد سبزوار",
-    "pageid": 176903,
-    "revision_id": 43808864,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / سد سنگرد",
-    "source_title": "شهرستان ششتمد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 5982800,
-    "target_revision_id": 41374551,
-    "target_title": "سد سنگرد سبزوار",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B3%D9%86%DA%AF%D8%B1%D8%AF_%D8%B3%D8%A8%D8%B2%D9%88%D8%A7%D8%B1"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "ششتمد",
   "fetched": "2026-10-02",
@@ -1012,6 +880,10 @@
    {
     "name": "باغ خیرات",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "سد سنگرد سبزوار",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -1042,7 +914,7 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "تربت حیدریه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6409277,
     "target_revision_id": 38957614,
     "target_title": "رودخانه حصار",

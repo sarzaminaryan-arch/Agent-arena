@@ -37,7 +37,6 @@ ID=$(wp post list --post_type=city --name=ilam-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "نفت و گاز، کشاورزی و دامداری، تجارت مرزی و صنایع دستی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "chardavol - شمال‌شرق\nkarun - شمال‌شرق\nsirvan - شمال‌شرق\nmalekshahi - جنوب‌شرق\nchavar - شمال‌غرب\neyvan - شمال‌غرب\nmehran - جنوب‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "سد ایلام"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.60528"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.42278"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1403"

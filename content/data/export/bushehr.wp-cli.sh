@@ -100,7 +100,7 @@ ID=$(wp post list --post_type=city --name=khormoj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا فروردین؛ تابستان به‌سبب گرما و شرجی توصیه نمی‌شود"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "deyr - جنوب\nahram - شمال‌غرب\nfarashband - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "دیالیز\nهیدرات"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه خورموج\nعمارت شیرینه"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه خورموج"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "28.48333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.55"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "56"

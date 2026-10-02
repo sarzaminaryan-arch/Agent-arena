@@ -55,7 +55,6 @@
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "hamidiyeh - شمال‌غرب\nbavi - شمال‌شرق\nshadegan - جنوب\nramshir - جنوب‌شرق\nkhorramshahr - جنوب‌غرب",
   "sa_cty_poi_heritage": "کارخانه ریسندگی و بافندگی",
-  "sa_cty_poi_nature": "سد اهواز",
   "sa_cty_poi_recreation": "سینما ساحل اهواز\nسینما هلال (اهواز)\nسینما قدس (اهواز)",
   "sa_cty_population": 1302591,
   "sa_cty_rural_districts": 6,
@@ -95,7 +94,6 @@
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "dezful - شرق\nshush - جنوب\npol-e-dokhtar - شمال‌غرب\nabdanan - شمال‌غرب",
   "sa_cty_poi_heritage": "قلعه رزه (بنا)\nامامزاده بابالنگ\nقلعه‌رزه\nپل بالارود",
-  "sa_cty_poi_nature": "سد کرخه",
   "sa_cty_population": 171412,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.58333,48.33333"
  },
@@ -336,7 +334,6 @@
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "dezpart - جنوب‌شرق\nardal - شرق\nbagh-e-malek - جنوب\nkuhrang - شمال\nandika - شمال‌غرب\nhaftkel - جنوب‌غرب\nmasjed-soleyman - غرب",
   "sa_cty_poi_heritage": "قنات‌های راسوند\nقلعه کژدم",
-  "sa_cty_poi_nature": "تالاب میانگران",
   "sa_cty_population": 198871,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.91667,49.98333"
@@ -454,8 +451,6 @@
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "andika - شمال‌شرق\nshushtar - غرب\nhaftkel - جنوب\ngotvand - شمال‌غرب\nbavi - جنوب‌غرب\nizeh - شرق",
   "sa_cty_poi_heritage": "آتشکده جاویدان\nکلیسای ارامنه (مسجدسلیمان)\nباشگاه فوتبال نفت مسجدسلیمان",
-  "sa_cty_poi_nature": "چشمه آب گرم گلگیر",
-  "sa_cty_poi_recreation": "بوستان جنگلی تمبی",
   "sa_cty_population": 113419,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.98333,49.26667"
@@ -536,7 +531,6 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "mahshahr - شرق\nabadan - جنوب\nkhorramshahr - غرب\nahvaz-city - شمال",
-  "sa_cty_poi_nature": "تالاب شادگان",
   "sa_cty_population": 138480,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.66667,48.66667"

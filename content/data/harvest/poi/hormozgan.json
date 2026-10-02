@@ -76,21 +76,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب‌گرم گنو",
-    "pageid": 433487,
-    "revision_id": 44089826,
-    "section": "اماکن تاریخی / جاذبه های طبیعی",
-    "source_title": "بندرعباس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 111509,
-    "target_revision_id": 29610068,
-    "target_title": "آب‌گرم گنو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%DA%AF%D9%86%D9%88"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "آبگرم خورگو",
     "pageid": 433487,
     "revision_id": 44089826,
@@ -142,7 +127,7 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 118389,
     "target_revision_id": 40278018,
     "target_title": "امامزاده سید کامل",
@@ -157,7 +142,7 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 116482,
     "target_revision_id": 43786873,
     "target_title": "امامزاده شاه محمد تقی",
@@ -172,7 +157,7 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 118438,
     "target_revision_id": 38509937,
     "target_title": "مسجد ناصری (بندر عباس)",
@@ -192,36 +177,6 @@
     "target_revision_id": 43929314,
     "target_title": "مسجد گله‌داری",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%DA%AF%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان ساحلی سورو",
-    "pageid": 433487,
-    "revision_id": 44089826,
-    "section": "اماکن تفریحی",
-    "source_title": "بندرعباس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 6595346,
-    "target_revision_id": 44097059,
-    "target_title": "بوستان ساحلی سورو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%D9%88"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان ساحلی غدیر",
-    "pageid": 433487,
-    "revision_id": 44089826,
-    "section": "اماکن تفریحی",
-    "source_title": "بندرعباس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 6828292,
-    "target_revision_id": 43142370,
-    "target_title": "بوستان ساحلی غدیر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%BA%D8%AF%DB%8C%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -246,6 +201,18 @@
   "rejected_candidates": [
    {
     "name": "کوه گنو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آب‌گرم گنو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان ساحلی سورو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان ساحلی غدیر",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -367,21 +334,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%87%D8%B2%D8%A7%D8%B1%D9%87"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد استقلال",
-    "pageid": 57051,
-    "revision_id": 44612197,
-    "section": "جاذبه های گردشگری",
-    "source_title": "میناب",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 254133,
-    "target_revision_id": 43207132,
-    "target_title": "سد استقلال",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پنجشنبه‌بازار میناب",
@@ -401,7 +353,12 @@
   "county": "میناب",
   "fetched": "2026-10-02",
   "province": "hormozgan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "سد استقلال",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
    "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8"
@@ -420,21 +377,6 @@
  },
  "qeshm": {
   "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه لافت",
-    "pageid": 18109,
-    "revision_id": 44319196,
-    "section": "جاذبه های گردشگری / دژ پرتغالی ها",
-    "source_title": "جزیره قشم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 113184,
-    "target_revision_id": 43929197,
-    "target_title": "قلعه لافت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%84%D8%A7%D9%81%D8%AA"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -469,6 +411,10 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "قلعه لافت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "ژئوپارک",
     "reason": "county placement needs manual corroboration"
    }
@@ -479,28 +425,17 @@
   ]
  },
  "rudan": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "امامزاده سید سلطان محمد",
-    "pageid": 57041,
-    "revision_id": 44091543,
-    "section": "آثار تاریخی و جاذبه های گردشگری",
-    "source_title": "شهرستان رودان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 118449,
-    "target_revision_id": 29104413,
-    "target_title": "امامزاده سید سلطان محمد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D8%AF"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "رودان",
   "fetched": "2026-10-02",
   "province": "hormozgan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "امامزاده سید سلطان محمد",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A7%D9%86_%28%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86%29"

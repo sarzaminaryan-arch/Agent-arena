@@ -119,21 +119,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد بردستان",
-    "pageid": 142159,
-    "revision_id": 44260728,
-    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
-    "source_title": "شهرستان دیر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 630188,
-    "target_revision_id": 44345991,
-    "target_title": "مسجد بردستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "قلعه بردستان",
     "pageid": 142159,
     "revision_id": 44260728,
@@ -241,7 +226,12 @@
   "county": "دیر",
   "fetched": "2026-10-02",
   "province": "bushehr",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "مسجد بردستان",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AF%DB%8C%D8%B1"
@@ -270,7 +260,7 @@
     "section": "نقاط دیدنی",
     "source_title": "شهرستان جم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%85",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 326900,
     "target_revision_id": 44284005,
     "target_title": "کوه پدری",
@@ -285,7 +275,7 @@
     "section": "نقاط دیدنی",
     "source_title": "شهرستان جم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%85",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 1780548,
     "target_revision_id": 38613444,
     "target_title": "جنگل گلوبردکان",
@@ -329,21 +319,6 @@
     "target_revision_id": 43923992,
     "target_title": "قلعه خورموج",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "عمارت شیرینه",
-    "pageid": 23599,
-    "revision_id": 44388553,
-    "section": "گردشگری",
-    "source_title": "خورموج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 261115,
-    "target_revision_id": 31065813,
-    "target_title": "عمارت شیرینه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86%D9%87"
    }
   ],
   "center_confirmed": true,
@@ -362,6 +337,10 @@
    {
     "name": "قلعه دختر",
     "reason": "disambiguation page"
+   },
+   {
+    "name": "عمارت شیرینه",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "بوستان بزرگ مفتون (۲۵هکتار)",

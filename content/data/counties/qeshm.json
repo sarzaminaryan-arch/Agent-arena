@@ -162,21 +162,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه لافت",
-     "pageid": 18109,
-     "revision_id": 44319196,
-     "section": "جاذبه های گردشگری / دژ پرتغالی ها",
-     "source_title": "جزیره قشم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 113184,
-     "target_revision_id": 43929197,
-     "target_title": "قلعه لافت",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%84%D8%A7%D9%81%D8%AA"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "قلعه هرمز",
      "pageid": 18109,
      "revision_id": 44319196,
@@ -195,7 +180,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-   "value": "قلعه لافت\nقلعه هرمز"
+   "value": "قلعه هرمز"
   },
   "population": {
    "fetched": "2026-10-02",

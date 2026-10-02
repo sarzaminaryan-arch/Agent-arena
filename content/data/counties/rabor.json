@@ -138,56 +138,6 @@
     "kerman"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "امامزاده سیدمرتضی (رابر)",
-     "pageid": 357825,
-     "revision_id": 44378997,
-     "section": "اماکن سیاحتی و زیارتی",
-     "source_title": "شهرستان رابر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 6514704,
-     "target_revision_id": 42886604,
-     "target_title": "امامزاده سیدمرتضی (رابر)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%28%D8%B1%D8%A7%D8%A8%D8%B1%29"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
-   "value": "امامزاده سیدمرتضی (رابر)"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "چشمه عروس",
-     "pageid": 357825,
-     "revision_id": 44378997,
-     "section": "اماکن سیاحتی و زیارتی",
-     "source_title": "شهرستان رابر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 1703132,
-     "target_revision_id": 44435947,
-     "target_title": "چشمه عروس",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%B9%D8%B1%D9%88%D8%B3"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
-   "value": "چشمه عروس"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

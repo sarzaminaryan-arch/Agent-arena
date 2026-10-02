@@ -451,36 +451,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب‌انبار زنانه بازار",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 479889,
-    "target_revision_id": 31311808,
-    "target_title": "آب‌انبار زنانه بازار",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%B2%D9%86%D8%A7%D9%86%D9%87_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب‌انبار سردار کوچک",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 479861,
-    "target_revision_id": 38633186,
-    "target_title": "آب‌انبار سردار کوچک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1_%DA%A9%D9%88%DA%86%DA%A9"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "آب‌انبار حاج کاظم",
     "pageid": 2925,
     "revision_id": 44303211,
@@ -582,51 +552,6 @@
     "target_revision_id": 43926355,
     "target_title": "کلیسای کانتور",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%DA%A9%D8%A7%D9%86%D8%AA%D9%88%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قله مردمی",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1794052,
-    "target_revision_id": 44453475,
-    "target_title": "قله مردمی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D9%85%D8%B1%D8%AF%D9%85%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قله شجاع الدین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1869514,
-    "target_revision_id": 40574975,
-    "target_title": "قله شجاع الدین",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D8%B4%D8%AC%D8%A7%D8%B9_%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده اباذر",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 535423,
-    "target_revision_id": 41031198,
-    "target_title": "امامزاده اباذر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A7%D8%A8%D8%A7%D8%B0%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -798,6 +723,14 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "آب‌انبار زنانه بازار",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آب‌انبار سردار کوچک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "آب‌انبار سردار بزرگ",
     "reason": "explicitly different county"
    },
@@ -822,12 +755,24 @@
     "reason": "target page missing"
    },
    {
+    "name": "قله مردمی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قله شجاع الدین",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "قله سلطان ویس",
     "reason": "target page missing"
    },
    {
     "name": "امامزاده شاهزاده حسین",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "امامزاده اباذر",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "امامزاده اسماعیل",

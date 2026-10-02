@@ -54,21 +54,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ سیب مهرشهر",
-    "pageid": 2444,
-    "revision_id": 44458279,
-    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-    "source_title": "کرج",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 4382471,
-    "target_revision_id": 41406511,
-    "target_title": "باغ سیب مهرشهر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%DB%8C%D8%A8_%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "کاخ مروارید",
     "pageid": 2444,
     "revision_id": 44458279,
@@ -142,21 +127,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B7%D8%A7%D9%87%D8%B1_%28%DA%A9%D8%B1%D8%AC%29"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد امیرکبیر",
-    "pageid": 2444,
-    "revision_id": 44458279,
-    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-    "source_title": "کرج",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 142655,
-    "target_revision_id": 44370624,
-    "target_title": "سد امیرکبیر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D9%85%DB%8C%D8%B1%DA%A9%D8%A8%DB%8C%D8%B1"
-   },
-   {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پیست دیزین",
@@ -165,26 +135,11 @@
     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
     "source_title": "کرج",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 58280,
     "target_revision_id": 44430714,
     "target_title": "پیست دیزین",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%AF%DB%8C%D8%B2%DB%8C%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پیست اسکی خور",
-    "pageid": 2444,
-    "revision_id": 44458279,
-    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-    "source_title": "کرج",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 538819,
-    "target_revision_id": 40936584,
-    "target_title": "پیست اسکی خور",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%AE%D9%88%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -204,21 +159,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رودخانه کرج",
-    "pageid": 2444,
-    "revision_id": 44458279,
-    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-    "source_title": "کرج",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 224903,
-    "target_revision_id": 43953963,
-    "target_title": "رودخانه کرج",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%DA%A9%D8%B1%D8%AC"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "غار یخ‌مراد",
     "pageid": 2444,
     "revision_id": 44458279,
@@ -230,36 +170,6 @@
     "target_revision_id": 44278705,
     "target_title": "غار یخ‌مراد",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DB%8C%D8%AE%E2%80%8C%D9%85%D8%B1%D8%A7%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک ملی ایران کوچک",
-    "pageid": 2444,
-    "revision_id": 44458279,
-    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-    "source_title": "کرج",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5666991,
-    "target_revision_id": 44073602,
-    "target_title": "پارک ملی ایران کوچک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%DA%A9%D9%88%DA%86%DA%A9"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان چمران",
-    "pageid": 2444,
-    "revision_id": 44458279,
-    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
-    "source_title": "کرج",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5666976,
-    "target_revision_id": 40908531,
-    "target_title": "بوستان چمران",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%85%D8%B1%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
@@ -268,7 +178,19 @@
   "province": "alborz",
   "rejected_candidates": [
    {
+    "name": "باغ سیب مهرشهر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "باغ لاله‌های گچسر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "سد امیرکبیر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "پیست اسکی خور",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -284,8 +206,20 @@
     "reason": "target page missing"
    },
    {
+    "name": "رودخانه کرج",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "پیست موتور کراس حصارک",
     "reason": "target page missing"
+   },
+   {
+    "name": "پارک ملی ایران کوچک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان چمران",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -1112,21 +1046,6 @@
     "target_revision_id": 27326635,
     "target_title": "گورستان گبری",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%A8%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد طالقان",
-    "pageid": 441814,
-    "revision_id": 44596529,
-    "section": "جاذبه های فرهنگی، تاریخی",
-    "source_title": "طالقان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 757870,
-    "target_revision_id": 43334870,
-    "target_title": "سد طالقان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
@@ -1136,6 +1055,10 @@
   "rejected_candidates": [
    {
     "name": "قلعه پراچان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "سد طالقان",
     "reason": "county placement needs manual corroboration"
    }
   ],

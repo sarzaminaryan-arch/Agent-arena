@@ -153,7 +153,7 @@
      "section": "گردشگری / آثار باستانی",
      "source_title": "مسجدسلیمان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 3867149,
      "target_revision_id": 44539973,
      "target_title": "آتشکده جاویدان",
@@ -196,56 +196,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
    "value": "آتشکده جاویدان\nکلیسای ارامنه (مسجدسلیمان)\nباشگاه فوتبال نفت مسجدسلیمان"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چشمه آب گرم گلگیر",
-     "pageid": 10154,
-     "revision_id": 44407273,
-     "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
-     "source_title": "مسجدسلیمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 6549359,
-     "target_revision_id": 41372260,
-     "target_title": "چشمه آب گرم گلگیر",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A2%D8%A8_%DA%AF%D8%B1%D9%85_%DA%AF%D9%84%DA%AF%DB%8C%D8%B1"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
-   "value": "چشمه آب گرم گلگیر"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان جنگلی تمبی",
-     "pageid": 10154,
-     "revision_id": 44407273,
-     "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
-     "source_title": "مسجدسلیمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 6549639,
-     "target_revision_id": 44096998,
-     "target_title": "بوستان جنگلی تمبی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%AA%D9%85%D8%A8%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
-   "value": "بوستان جنگلی تمبی"
   },
   "population": {
    "fetched": "2026-10-02",

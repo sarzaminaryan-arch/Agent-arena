@@ -150,31 +150,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
    "value": "کارخانه ریسندگی و بافندگی"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد اهواز",
-     "pageid": 13904,
-     "revision_id": 44408088,
-     "section": "آثار تاریخی اهواز / [[سد اهواز|سد خداآفرید]]",
-     "source_title": "اهواز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 6745348,
-     "target_revision_id": 44219641,
-     "target_title": "سد اهواز",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-   "value": "سد اهواز"
-  },
   "poi_recreation": {
    "entries": [
     {
@@ -186,7 +161,7 @@
      "section": "اماکن تفریحی / سینما",
      "source_title": "اهواز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 2070193,
      "target_revision_id": 42973390,
      "target_title": "سینما ساحل اهواز",
@@ -201,7 +176,7 @@
      "section": "اماکن تفریحی / سینما",
      "source_title": "اهواز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 2061142,
      "target_revision_id": 43508988,
      "target_title": "سینما هلال (اهواز)",

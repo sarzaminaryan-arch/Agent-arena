@@ -55,7 +55,6 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "arsanjan - شمال‌غرب\nkharameh - غرب\nneyriz - جنوب‌شرق\nsarchahan - شمال\nestahban - جنوب\nkhatam-city - شمال‌شرق",
-  "sa_cty_poi_nature": "پارک ملی و پناهگاه حیات وحش بختگان",
   "sa_cty_population": 32224,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.63333,53.86667"
@@ -255,7 +254,6 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "farashband - جنوب‌غرب\nkavar - شمال‌شرق\nkhafr - شرق\nqir-va-karzin - جنوب‌شرق\nkazerun - شمال‌غرب",
   "sa_cty_poi_heritage": "کاخ اردشیر بابکان\nقلعه دختر (فیروزآباد)\nسنگ‌نگاره تاجگذاری اردشیر بابکان\nسنگ‌نگاره پیروزی اردشیر بابکان",
-  "sa_cty_poi_nature": "چشمه حنیفقان\nسد تنگاب",
   "sa_cty_population": 121417,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.91667,52.56667"
@@ -297,7 +295,7 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "fasa - شمال‌شرق\nkhafr - شمال‌غرب\njooyom - جنوب‌شرق\nqir-va-karzin - جنوب‌غرب",
   "sa_cty_poi_heritage": "بازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nامامزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان",
-  "sa_cty_poi_nature": "غار سنگ‌تراشان\nغار ورا\nالبرزکوه (جهرم)",
+  "sa_cty_poi_nature": "غار سنگ‌تراشان\nالبرزکوه (جهرم)",
   "sa_cty_population": 228532,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.64167,53.55833"
@@ -479,7 +477,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "evaz - شمال‌غرب\nbastak - جنوب\nzarrin-dasht - شمال\nkhamir - شرق",
-  "sa_cty_poi_heritage": "قلعه اژدهاپیکر\nبازار قیصریه (لار)\nبرج ننه نادر",
+  "sa_cty_poi_heritage": "قلعه اژدهاپیکر",
   "sa_cty_population": 213920,
   "sa_cty_rural_districts": 9,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.68333,54.33333"
@@ -518,7 +516,7 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "beyza - غرب\nzarghan - جنوب‌شرق\npasargad - شرق\nkhorrambid - شمال‌شرق",
   "sa_cty_poi_heritage": "تخت جمشید\nکاخ تچر\nنقش رستم\nپل خان\nقلعه استخر",
-  "sa_cty_poi_nature": "سد درودزن\nآبشار دشتک ابرج",
+  "sa_cty_poi_nature": "آبشار دشتک ابرج",
   "sa_cty_population": 323434,
   "sa_cty_rural_districts": 15,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.08333,52.66667"
@@ -705,7 +703,7 @@
   "sa_cty_poi_heritage": "حرم شاهچراغ\nارگ کریم خان زند\nحمام وکیل\nقلعه کریمخانی\nبازار وکیل\nموزه پارس\nآرامگاه کریم خان زند\nآرامگاه حافظ\nآرامگاه سعدی\nباغ تخت\nباغ ملی\nباغ نظر",
   "sa_cty_poi_nature": "دریاچه مهارلو\nدریاچه ارژن\nکوه دراک\nکوه بمو\nباباکوهی\nرودخانه خشک",
   "sa_cty_poi_offbeat": "قلات\nمحله قصردشت",
-  "sa_cty_poi_recreation": "بوستان کوهستانی دراک\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nپارک قلعه‌بندر\nباغ پرندگان شیراز\nبوستان آزادی (شیراز)",
+  "sa_cty_poi_recreation": "بوستان کوهستانی دراک\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nباغ پرندگان شیراز",
   "sa_cty_population": 1869001,
   "sa_cty_rural_districts": 11,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.61,52.53"

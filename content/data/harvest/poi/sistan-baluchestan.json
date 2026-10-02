@@ -15,21 +15,6 @@
   "candidates": [
    {
     "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه‌های مریخی چابهار",
-    "pageid": 13420,
-    "revision_id": 43111016,
-    "section": "جاذبه های تاریخی و گردشگری",
-    "source_title": "شهرستان چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 3926550,
-    "target_revision_id": 39230068,
-    "target_title": "کوه‌های مریخی چابهار",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D8%B1%DB%8C%D8%AE%DB%8C_%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "خلیج چابهار",
     "pageid": 35022,
@@ -58,6 +43,10 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "کوه‌های مریخی چابهار",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "جنگل‌های حرا",
     "reason": "generic or untyped target"
    },
@@ -76,6 +65,10 @@
    {
     "name": "باهوکلات (رودخانه)",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "کوه‌های مریخی چابهار",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "جزیره شیطان",
@@ -213,21 +206,6 @@
     "target_revision_id": 44304448,
     "target_title": "قلعه سه کوهه",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B3%D9%87_%DA%A9%D9%88%D9%87%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آرامگاه خواجه غلطان",
-    "pageid": 1827056,
-    "revision_id": 44098648,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان هامون",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 161159,
-    "target_revision_id": 43925947,
-    "target_title": "آرامگاه خواجه غلطان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D8%BA%D9%84%D8%B7%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
@@ -250,6 +228,10 @@
    {
     "name": "قلعه رامرود",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "آرامگاه خواجه غلطان",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "قلعه کک کهزاد",
@@ -323,21 +305,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "غار گواتامک",
-    "pageid": 13424,
-    "revision_id": 44339761,
-    "section": "گردشگری",
-    "source_title": "شهرستان خاش",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%B4",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3473525,
-    "target_revision_id": 33798375,
-    "target_title": "غار گواتامک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%AF%D9%88%D8%A7%D8%AA%D8%A7%D9%85%DA%A9"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "غار صداکی",
     "pageid": 13424,
     "revision_id": 44339761,
@@ -359,6 +326,10 @@
    {
     "name": "کوه بیرک",
     "reason": "lead locates target in another county"
+   },
+   {
+    "name": "غار گواتامک",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "کوه تفتان",
@@ -590,21 +561,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF_%D9%86%DA%AF%D8%A7%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AF%D8%B1%D9%87_%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه مهرگان",
-    "pageid": 18306,
-    "revision_id": 43864146,
-    "section": "جاذبه های گردشگری و تاریخی / سنگ نگاره های سراوان / [[کوه مهرگان|سنگ نگاره های کوه مهرگان]]",
-    "source_title": "شهرستان سراوان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 4873473,
-    "target_revision_id": 40898310,
-    "target_title": "کوه مهرگان",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%85%D9%87%D8%B1%DA%AF%D8%A7%D9%86"
-   },
-   {
     "field": "poi_offbeat",
     "location_evidence": "county tourism section",
     "name": "دزک (سراوان)",
@@ -688,7 +644,7 @@
     "section": "آثار تاریخی",
     "source_title": "سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 5228552,
     "target_revision_id": 42011285,
     "target_title": "سنگ نگاره‌های گشت",
@@ -705,7 +661,15 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "کوه مهرگان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "تابستان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه مهرگان",
     "reason": "county placement needs manual corroboration"
    }
   ],

@@ -270,21 +270,6 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک شیرین (کرمانشاه)",
-    "pageid": 7878,
-    "revision_id": 44458955,
-    "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
-    "source_title": "کرمانشاه",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 3739086,
-    "target_revision_id": 44412853,
-    "target_title": "پارک شیرین (کرمانشاه)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87%29"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بوستان لاله (کرمانشاه)",
     "pageid": 7878,
     "revision_id": 44458955,
@@ -402,6 +387,10 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "پارک شیرین (کرمانشاه)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "کوه بیستون",
     "reason": "generic or untyped target"
    },
@@ -434,7 +423,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان پاوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 2660008,
     "target_revision_id": 44144719,
     "target_title": "سد داریان",
@@ -449,26 +438,11 @@
     "section": "گردشگری",
     "source_title": "شهرستان پاوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 2673685,
     "target_revision_id": 44453146,
     "target_title": "غار سنگی حسین کوهکن",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%D9%86%DA%AF%DB%8C_%D8%AD%D8%B3%DB%8C%D9%86_%DA%A9%D9%88%D9%87%DA%A9%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه شاهو",
-    "pageid": 18273,
-    "revision_id": 43695743,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "شهرستان پاوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 2000769,
-    "target_revision_id": 43170953,
-    "target_title": "کوه شاهو",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B4%D8%A7%D9%87%D9%88"
    }
   ],
   "center_confirmed": true,
@@ -477,12 +451,20 @@
   "province": "kermanshah",
   "rejected_candidates": [
    {
+    "name": "کوه شاهو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "غار قوری‌قلعه",
     "reason": "lead locates target in another county"
    },
    {
     "name": "آرامگاه سید عبیدالله",
     "reason": "target page missing"
+   },
+   {
+    "name": "کوه شاهو",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [

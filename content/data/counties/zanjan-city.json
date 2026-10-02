@@ -227,21 +227,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام حاج‌داداش",
-     "pageid": 2924,
-     "revision_id": 44401023,
-     "section": "آثار تاریخی",
-     "source_title": "زنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 214415,
-     "target_revision_id": 40441676,
-     "target_title": "حمام حاج‌داداش",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%AF%D8%A7%D8%AF%D8%A7%D8%B4"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "پل سردار",
      "pageid": 2924,
      "revision_id": 44401023,
@@ -290,7 +275,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "مسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی (زنجان)\nکاروانسرای سنگی (زنجان)\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین"
+   "value": "مسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی (زنجان)\nکاروانسرای سنگی (زنجان)\nکاروانسرای دخان\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین"
   },
   "population": {
    "fetched": "2026-10-02",

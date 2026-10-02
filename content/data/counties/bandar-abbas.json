@@ -233,7 +233,7 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 118389,
      "target_revision_id": 40278018,
      "target_title": "امامزاده سید کامل",
@@ -248,7 +248,7 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 116482,
      "target_revision_id": 43786873,
      "target_title": "امامزاده شاه محمد تقی",
@@ -263,7 +263,7 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 118438,
      "target_revision_id": 38509937,
      "target_title": "مسجد ناصری (بندر عباس)",
@@ -294,21 +294,6 @@
   },
   "poi_nature": {
    "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آب‌گرم گنو",
-     "pageid": 433487,
-     "revision_id": 44089826,
-     "section": "اماکن تاریخی / جاذبه های طبیعی",
-     "source_title": "بندرعباس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 111509,
-     "target_revision_id": 29610068,
-     "target_title": "آب‌گرم گنو",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%DA%AF%D9%86%D9%88"
-    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -345,47 +330,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-   "value": "آب‌گرم گنو\nآبگرم خورگو\nموزه مردم‌شناسی خلیج فارس"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ساحلی سورو",
-     "pageid": 433487,
-     "revision_id": 44089826,
-     "section": "اماکن تفریحی",
-     "source_title": "بندرعباس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 6595346,
-     "target_revision_id": 44097059,
-     "target_title": "بوستان ساحلی سورو",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%D9%88"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ساحلی غدیر",
-     "pageid": 433487,
-     "revision_id": 44089826,
-     "section": "اماکن تفریحی",
-     "source_title": "بندرعباس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 6828292,
-     "target_revision_id": 43142370,
-     "target_title": "بوستان ساحلی غدیر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%BA%D8%AF%DB%8C%D8%B1"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-   "value": "بوستان ساحلی سورو\nبوستان ساحلی غدیر"
+   "value": "آبگرم خورگو\nموزه مردم‌شناسی خلیج فارس"
   },
   "population": {
    "fetched": "2026-10-02",

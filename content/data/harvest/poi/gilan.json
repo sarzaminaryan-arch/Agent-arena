@@ -62,51 +62,6 @@
  "astara": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "ساحل صدف",
-    "pageid": 56973,
-    "revision_id": 44371148,
-    "section": "گردشگری",
-    "source_title": "شهرستان آستارا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3377862,
-    "target_revision_id": 42709565,
-    "target_title": "ساحل صدف",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AD%D9%84_%D8%B5%D8%AF%D9%81"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تالاب استیل",
-    "pageid": 56973,
-    "revision_id": 44371148,
-    "section": "گردشگری",
-    "source_title": "شهرستان آستارا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1267345,
-    "target_revision_id": 40338296,
-    "target_title": "تالاب استیل",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A7%D8%B3%D8%AA%DB%8C%D9%84"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار لاتون",
-    "pageid": 56973,
-    "revision_id": 44371148,
-    "section": "گردشگری / اماکن گردشگری",
-    "source_title": "شهرستان آستارا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 281058,
-    "target_revision_id": 43580923,
-    "target_title": "آبشار لاتون",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%84%D8%A7%D8%AA%D9%88%D9%86"
-   },
-   {
     "field": "poi_recreation",
     "location_evidence": "county tourism section",
     "name": "باغ پرندگان آستارا",
@@ -120,21 +75,6 @@
     "target_revision_id": 40853652,
     "target_title": "باغ پرندگان آستارا",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "بوستان جنگلی بی‌بی یانلو",
-    "pageid": 56973,
-    "revision_id": 44371148,
-    "section": "گردشگری / اماکن گردشگری",
-    "source_title": "شهرستان آستارا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1601504,
-    "target_revision_id": 43844746,
-    "target_title": "بوستان جنگلی بی‌بی یانلو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%A8%DB%8C%E2%80%8C%D8%A8%DB%8C_%DB%8C%D8%A7%D9%86%D9%84%D9%88"
    },
    {
     "field": "poi_heritage",
@@ -220,7 +160,7 @@
     "section": "گردشگری / اماکن تاریخی",
     "source_title": "شهرستان آستارا",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 1751411,
     "target_revision_id": 44451689,
     "target_title": "کتابخانه عمومی شماره یک آستارا",
@@ -237,7 +177,15 @@
     "reason": "lead locates target in another county"
    },
    {
+    "name": "ساحل صدف",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "بازار بزرگ ساحلی آستارا",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "تالاب استیل",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -245,8 +193,16 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "آبشار لاتون",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "تله کابین حیران",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "بوستان جنگلی بی‌بی یانلو",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "کوه اسپیناس",
@@ -261,7 +217,15 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "ساحل صدف",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "بازار بزرگ ساحلی آستارا",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "تالاب استیل",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -269,8 +233,16 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "آبشار لاتون",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "تله کابین حیران",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "بوستان جنگلی بی‌بی یانلو",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "کوه اسپیناس",
@@ -417,21 +389,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد اکبریه",
-    "pageid": 1573816,
-    "revision_id": 44612928,
-    "section": "جاذبه های گردشگری / تاریخی",
-    "source_title": "لاهیجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 208613,
-    "target_revision_id": 43252632,
-    "target_title": "مسجد اکبریه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%DA%A9%D8%A8%D8%B1%DB%8C%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بقعه میرشمس‌الدین لاهیجانی",
     "pageid": 1573816,
     "revision_id": 44612928,
@@ -518,6 +475,10 @@
    {
     "name": "حمام گلشن",
     "reason": "disambiguation page"
+   },
+   {
+    "name": "مسجد اکبریه",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "خانه صادقی",
@@ -621,36 +582,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%D8%A7%D8%AC_%D8%B5%D9%85%D8%AF_%D8%AE%D8%A7%D9%86"
    },
    {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد سفید (رشت)",
-    "pageid": 56976,
-    "revision_id": 44438494,
-    "section": "جاذبه های گردشگری (طبیعی و تاریخی ـ مذهبی)",
-    "source_title": "شهرستان رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 364850,
-    "target_revision_id": 44273730,
-    "target_title": "مسجد سفید (رشت)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D9%81%DB%8C%D8%AF_%28%D8%B1%D8%B4%D8%AA%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "موزه رشت",
-    "pageid": 56976,
-    "revision_id": 44438494,
-    "section": "جاذبه های گردشگری (طبیعی و تاریخی ـ مذهبی)",
-    "source_title": "شهرستان رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 26232,
-    "target_revision_id": 43915807,
-    "target_title": "موزه رشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B1%D8%B4%D8%AA"
-   },
-   {
     "field": "poi_recreation",
     "location_evidence": "county tourism section",
     "name": "باغ محتشم",
@@ -666,51 +597,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%85%D8%AD%D8%AA%D8%B4%D9%85"
    },
    {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "بوستان مفاخر رشت",
-    "pageid": 56976,
-    "revision_id": 44438494,
-    "section": "جاذبه های گردشگری (طبیعی و تاریخی ـ مذهبی)",
-    "source_title": "شهرستان رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 2585583,
-    "target_revision_id": 43008522,
-    "target_title": "بوستان مفاخر رشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%81%D8%A7%D8%AE%D8%B1_%D8%B1%D8%B4%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تالاب عینک",
-    "pageid": 56976,
-    "revision_id": 44438494,
-    "section": "جاذبه های گردشگری (طبیعی و تاریخی ـ مذهبی)",
-    "source_title": "شهرستان رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 858496,
-    "target_revision_id": 43745413,
-    "target_title": "تالاب عینک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%B9%DB%8C%D9%86%DA%A9"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "عمارت پست میدان شهرداری رشت",
-    "pageid": 42397,
-    "revision_id": 44596836,
-    "section": "اماکن تاریخی / بناها",
-    "source_title": "رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 3765710,
-    "target_revision_id": 40739547,
-    "target_title": "عمارت پست میدان شهرداری رشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%BE%D8%B3%D8%AA_%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C_%D8%B1%D8%B4%D8%AA"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "مسجد حاج سمیع",
@@ -724,21 +610,6 @@
     "target_revision_id": 44591225,
     "target_title": "مسجد حاج سمیع",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%D8%A7%D8%AC_%D8%B3%D9%85%DB%8C%D8%B9"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد جامع رشت",
-    "pageid": 42397,
-    "revision_id": 44596836,
-    "section": "اماکن تاریخی / مساجد",
-    "source_title": "رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5885122,
-    "target_revision_id": 35854425,
-    "target_title": "مسجد جامع رشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B1%D8%B4%D8%AA"
    },
    {
     "field": "poi_nature",
@@ -829,21 +700,6 @@
     "target_revision_id": 44155374,
     "target_title": "خانه سید علی مقیمی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%DB%8C%D8%AF_%D8%B9%D9%84%DB%8C_%D9%85%D9%82%DB%8C%D9%85%DB%8C"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان ملت (رشت)",
-    "pageid": 42397,
-    "revision_id": 44596836,
-    "section": "اماکن تفریحی رشت / بوستان ها",
-    "source_title": "رشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 5322108,
-    "target_revision_id": 44428905,
-    "target_title": "بوستان ملت (رشت)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%AA_%28%D8%B1%D8%B4%D8%AA%29"
    },
    {
     "field": "poi_recreation",
@@ -1021,15 +877,55 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "مسجد سفید (رشت)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه رشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان مفاخر رشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "تالاب عینک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "عمارت پست میدان شهرداری رشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "عمارت کلاه فرنگی",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "مسجد سفید (رشت)",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "مسجد گلشن",
     "reason": "explicitly different county"
    },
    {
+    "name": "مسجد جامع رشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "جنبش جنگل",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان مفاخر رشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان ملت (رشت)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه رشت",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -1043,6 +939,10 @@
    {
     "name": "بوستان ملت",
     "reason": "disambiguation page"
+   },
+   {
+    "name": "تالاب عینک",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -1062,23 +962,7 @@
   ]
  },
  "rudbar": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار دربند رشی",
-    "pageid": 32556,
-    "revision_id": 44434547,
-    "section": "جاذبه های گردشگری رودبار / غار دربند رشی",
-    "source_title": "رودبار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1085786,
-    "target_revision_id": 44278445,
-    "target_title": "غار دربند رشی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%AF%D8%B1%D8%A8%D9%86%D8%AF_%D8%B1%D8%B4%DB%8C"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "رودبار",
   "fetched": "2026-10-02",
@@ -1102,6 +986,10 @@
    },
    {
     "name": "سد تاریک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "غار دربند رشی",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -1327,21 +1215,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87%E2%80%8C%D8%A7%D8%B3%D8%AD%D9%82"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار دودوزن",
-    "pageid": 56979,
-    "revision_id": 44260911,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان شفت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 4796576,
-    "target_revision_id": 41027746,
-    "target_title": "آبشار دودوزن",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AF%D9%88%D8%AF%D9%88%D8%B2%D9%86"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "امامزاده ابراهیم (شفت)",
@@ -1350,7 +1223,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان شفت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%81%D8%AA",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 795758,
     "target_revision_id": 44389615,
     "target_title": "امامزاده ابراهیم (شفت)",
@@ -1362,6 +1235,10 @@
   "fetched": "2026-10-02",
   "province": "gilan",
   "rejected_candidates": [
+   {
+    "name": "آبشار دودوزن",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "بقعه متبرکه شاه درویشان",
     "reason": "target page missing"
@@ -1377,21 +1254,6 @@
  },
  "siahkal": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آبشار لونک",
-    "pageid": 56996,
-    "revision_id": 44244794,
-    "section": "جاذبه ها / آبشار لونک",
-    "source_title": "سیاهکل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 144778,
-    "target_revision_id": 41633502,
-    "target_title": "آبشار لونک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%84%D9%88%D9%86%DA%A9"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -1458,6 +1320,10 @@
   "fetched": "2026-10-02",
   "province": "gilan",
   "rejected_candidates": [
+   {
+    "name": "آبشار لونک",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "آبشار بابا ولی",
     "reason": "target page missing"
@@ -1545,7 +1411,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان تالش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%D9%84%D8%B4",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 4330110,
     "target_revision_id": 41878993,
     "target_title": "تالاب جوکندان",
@@ -1560,7 +1426,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان تالش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%D9%84%D8%B4",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6861621,
     "target_revision_id": 44499787,
     "target_title": "آبشار لوشکی ویزنه",

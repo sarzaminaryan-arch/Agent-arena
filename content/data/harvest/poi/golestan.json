@@ -91,26 +91,11 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 18236,
     "target_revision_id": 44509578,
     "target_title": "برج گنبد قابوس",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دریاچه مصنوعی گنبد کاووس",
-    "pageid": 8236,
-    "revision_id": 44505392,
-    "section": "مناطق دیدنی",
-    "source_title": "گنبد کاووس",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 515449,
-    "target_revision_id": 43928374,
-    "target_title": "دریاچه مصنوعی گنبد کاووس",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3"
    },
    {
     "field": "poi_nature",
@@ -121,7 +106,7 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 429111,
     "target_revision_id": 44105096,
     "target_title": "تالاب آلماگل",
@@ -136,7 +121,7 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 226922,
     "target_revision_id": 37201897,
     "target_title": "تالاب آلاگل",
@@ -148,6 +133,10 @@
   "fetched": "2026-10-02",
   "province": "golestan",
   "rejected_candidates": [
+   {
+    "name": "دریاچه مصنوعی گنبد کاووس",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "پارک توریستی الغدیر",
     "reason": "target page missing"
@@ -172,21 +161,6 @@
  },
  "gorgan": {
   "candidates": [
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک جنگلی النگدره",
-    "pageid": 15272,
-    "revision_id": 44500396,
-    "section": "گردشگری / النگدره",
-    "source_title": "گرگان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3685485,
-    "target_revision_id": 44383388,
-    "target_title": "پارک جنگلی النگدره",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%A7%D9%84%D9%86%DA%AF%D8%AF%D8%B1%D9%87"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -375,6 +349,10 @@
   "rejected_candidates": [
    {
     "name": "جنگل‌های هیرکانی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "پارک جنگلی النگدره",
     "reason": "county placement needs manual corroboration"
    },
    {

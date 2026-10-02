@@ -323,31 +323,6 @@
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
    "value": "شاه‌کوه سفلی"
   },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک جنگلی النگدره",
-     "pageid": 15272,
-     "revision_id": 44500396,
-     "section": "گردشگری / النگدره",
-     "source_title": "گرگان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
-     "target_location_evidence": "target lead names this county",
-     "target_pageid": 3685485,
-     "target_revision_id": 44383388,
-     "target_title": "پارک جنگلی النگدره",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%A7%D9%84%D9%86%DA%AF%D8%AF%D8%B1%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
-   "value": "پارک جنگلی النگدره"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

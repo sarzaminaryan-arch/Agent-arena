@@ -240,122 +240,17 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "قله امیری",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3348097,
-    "target_revision_id": 39528610,
-    "target_title": "قله امیری",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D8%A7%D9%85%DB%8C%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سد لار",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 309449,
-    "target_revision_id": 43334057,
-    "target_title": "سد لار",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%84%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه دوخواهران",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3701039,
-    "target_revision_id": 41040109,
-    "target_title": "دریاچه دوخواهران",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه ساهون",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 925341,
-    "target_revision_id": 44176703,
-    "target_title": "دریاچه ساهون",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B3%D8%A7%D9%87%D9%88%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "دریاچه امامزاده علی",
     "pageid": 13679,
     "revision_id": 43580063,
     "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
     "source_title": "شهرستان آمل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 2079216,
     "target_revision_id": 42830292,
     "target_title": "دریاچه امامزاده علی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B9%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار ترا",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3351286,
-    "target_revision_id": 35156971,
-    "target_title": "آبشار ترا",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AA%D8%B1%D8%A7"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار شاهان‌دشت",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 118455,
-    "target_revision_id": 44135843,
-    "target_title": "آبشار شاهان‌دشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B4%D8%A7%D9%87%D8%A7%D9%86%E2%80%8C%D8%AF%D8%B4%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار امیری",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 2656446,
-    "target_revision_id": 44539309,
-    "target_title": "آبشار امیری",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A7%D9%85%DB%8C%D8%B1%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -381,7 +276,7 @@
     "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
     "source_title": "شهرستان آمل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 1110027,
     "target_revision_id": 36568820,
     "target_title": "آبشار قلعه دختر",
@@ -396,7 +291,7 @@
     "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
     "source_title": "شهرستان آمل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 3750249,
     "target_revision_id": 18211009,
     "target_title": "آبشار سنگ‌درکا",
@@ -416,66 +311,6 @@
     "target_revision_id": 43931624,
     "target_title": "آبشار آب مراد",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A2%D8%A8_%D9%85%D8%B1%D8%A7%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار برز",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3665789,
-    "target_revision_id": 36568809,
-    "target_title": "آبشار برز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A8%D8%B1%D8%B2"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "جنگل بلیران",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 3353413,
-    "target_revision_id": 44428598,
-    "target_title": "جنگل بلیران",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D8%A8%D9%84%DB%8C%D8%B1%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "بوستان جنگلی میرزا کوچک‌خان",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 220768,
-    "target_revision_id": 43844720,
-    "target_title": "بوستان جنگلی میرزا کوچک‌خان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7_%DA%A9%D9%88%DA%86%DA%A9%E2%80%8C%D8%AE%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آب‌گرم لاریجان",
-    "pageid": 13679,
-    "revision_id": 43580063,
-    "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
-    "source_title": "شهرستان آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 220757,
-    "target_revision_id": 36033262,
-    "target_title": "آب‌گرم لاریجان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%D9%84%D8%A7%D8%B1%DB%8C%D8%AC%D8%A7%D9%86"
    },
    {
     "field": "poi_nature",
@@ -641,21 +476,6 @@
     "target_revision_id": 27483226,
     "target_title": "آرامگاه یوسف اسماعیل آمل",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%DB%8C%D9%88%D8%B3%D9%81_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%D8%A2%D9%85%D9%84"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رودخانه هراز",
-    "pageid": 3874,
-    "revision_id": 44590110,
-    "section": "جاذبه های دیدنی و گردشگری / جاذبه های ورزشی",
-    "source_title": "آمل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D9%84",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 298853,
-    "target_revision_id": 43027801,
-    "target_title": "رودخانه هراز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%87%D8%B1%D8%A7%D8%B2"
    }
   ],
   "center_confirmed": true,
@@ -676,6 +496,10 @@
     "reason": "generic or untyped target"
    },
    {
+    "name": "قله امیری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "قله دوبرار",
     "reason": "generic or untyped target"
    },
@@ -684,11 +508,51 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "سد لار",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "سد هراز",
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "دریاچه دوخواهران",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "دریاچه ساهون",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "دشت و آبشار دریوک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار ترا",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار شاهان‌دشت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار امیری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار برز",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "جنگل بلیران",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان جنگلی میرزا کوچک‌خان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آب‌گرم لاریجان",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -716,8 +580,20 @@
     "reason": "target page missing"
    },
    {
+    "name": "رودخانه هراز",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان جنگلی میرزا کوچک‌خان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "پارک مینیاتوری آمل",
     "reason": "target page missing"
+   },
+   {
+    "name": "جنگل بلیران",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -762,7 +638,7 @@
     "section": "جاذبه های گردشگری / باغ وحش",
     "source_title": "بابلسر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 963497,
     "target_revision_id": 41439907,
     "target_title": "باغ‌وحش بابلسر",
@@ -795,21 +671,6 @@
     "target_revision_id": 43929028,
     "target_title": "آتشکده کاووس",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%DA%A9%D8%A7%D9%88%D9%88%D8%B3"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "باغ عباس‌آباد",
-    "pageid": 19668,
-    "revision_id": 44260386,
-    "section": "جاذبه های گردشگری، طبیعی و تاریخی",
-    "source_title": "شهرستان بهشهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 739610,
-    "target_revision_id": 43723096,
-    "target_title": "باغ عباس‌آباد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B9%D8%A8%D8%A7%D8%B3%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -910,7 +771,7 @@
     "section": "جاذبه های گردشگری، طبیعی و تاریخی",
     "source_title": "بهشهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%87%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6760264,
     "target_revision_id": 44439216,
     "target_title": "پل زیر قوسی شهدای اشرف البلاد بهشهر",
@@ -939,6 +800,10 @@
     "reason": "target page missing"
    },
    {
+    "name": "باغ عباس‌آباد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "آبشار اسپه‌او",
     "reason": "target page missing"
    },
@@ -949,6 +814,10 @@
    {
     "name": "آبشار سنگ‌نو",
     "reason": "target page missing"
+   },
+   {
+    "name": "باغ عباس‌آباد",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -967,7 +836,7 @@
     "section": "مراکز گردشگری",
     "source_title": "شهرستان چالوس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D9%84%D9%88%D8%B3",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 6635595,
     "target_revision_id": 43449993,
     "target_title": "منطقه نمونه گردشگری دریاچه ولشت",
@@ -1106,28 +975,20 @@
   ]
  },
  "neka": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه آب معدنی قرمرض",
-    "pageid": 63940,
-    "revision_id": 43311599,
-    "section": "مراکز دیدنی",
-    "source_title": "شهرستان نکا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DA%A9%D8%A7",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 390678,
-    "target_revision_id": 38621336,
-    "target_title": "چشمه آب معدنی قرمرض",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A2%D8%A8_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%D9%82%D8%B1%D9%85%D8%B1%D8%B6"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "نکا",
   "fetched": "2026-10-02",
   "province": "mazandaran",
   "rejected_candidates": [
+   {
+    "name": "چشمه آب معدنی قرمرض",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه آب معدنی قرمرض",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "سد گلورد بزرگ",
     "reason": "county placement needs manual corroboration"
@@ -1140,66 +1001,6 @@
  },
  "nowshahr": {
   "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "موزه کندلوس",
-    "pageid": 90066,
-    "revision_id": 43531094,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان نوشهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 632799,
-    "target_revision_id": 43516268,
-    "target_title": "موزه کندلوس",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%DA%A9%D9%86%D8%AF%D9%84%D9%88%D8%B3"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سد آویدر",
-    "pageid": 90066,
-    "revision_id": 43531094,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان نوشهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 267451,
-    "target_revision_id": 40649035,
-    "target_title": "سد آویدر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A2%D9%88%DB%8C%D8%AF%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه گردو",
-    "pageid": 90066,
-    "revision_id": 43531094,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان نوشهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 297518,
-    "target_revision_id": 38222268,
-    "target_title": "چشمه گردو",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%DA%AF%D8%B1%D8%AF%D9%88"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه ممرز",
-    "pageid": 90066,
-    "revision_id": 43531094,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان نوشهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 4797821,
-    "target_revision_id": 44274133,
-    "target_title": "دریاچه ممرز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%85%D9%85%D8%B1%D8%B2"
-   },
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -1316,15 +1117,39 @@
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "موزه کندلوس",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "غار قندیلی خاچک",
     "reason": "target page missing"
+   },
+   {
+    "name": "سد آویدر",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه گردو",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "دیو چشمه",
     "reason": "county placement needs manual corroboration"
    },
    {
+    "name": "دریاچه ممرز",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "دیو چشمه",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه گردو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه کندلوس",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -1349,21 +1174,6 @@
     "target_revision_id": 44379612,
     "target_title": "بوستان جنگلی نور",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%86%D9%88%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد جامع یالو",
-    "pageid": 19951,
-    "revision_id": 44410573,
-    "section": "گردشگری",
-    "source_title": "شهرستان نور",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 2224527,
-    "target_revision_id": 20376175,
-    "target_title": "مسجد جامع یالو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DB%8C%D8%A7%D9%84%D9%88"
    }
   ],
   "center_confirmed": false,
@@ -1384,6 +1194,10 @@
     "reason": "target page missing"
    },
    {
+    "name": "مسجد جامع یالو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "جنگل لاویج",
     "reason": "target page missing"
    },
@@ -1401,21 +1215,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "جنگل شالتماس",
-    "pageid": 5381,
-    "revision_id": 44300615,
-    "section": "جاذبه های گردشگری / منابع طبیعی و جنگل ها",
-    "source_title": "قائم‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1256491,
-    "target_revision_id": 36520942,
-    "target_title": "جنگل شالتماس",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D8%B4%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B3"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "سد زمزم",
     "pageid": 5381,
     "revision_id": 44300615,
@@ -1427,21 +1226,6 @@
     "target_revision_id": 41043416,
     "target_title": "سد زمزم",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B2%D9%85%D8%B2%D9%85"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دریاچه گل‌پل",
-    "pageid": 5381,
-    "revision_id": 44300615,
-    "section": "جاذبه های گردشگری / دریاچه ها و آب بندان ها",
-    "source_title": "قائم‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 1063889,
-    "target_revision_id": 21238199,
-    "target_title": "دریاچه گل‌پل",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%DA%AF%D9%84%E2%80%8C%D9%BE%D9%84"
    }
   ],
   "center_confirmed": true,
@@ -1455,6 +1239,14 @@
    },
    {
     "name": "کبوتر جنگلی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "جنگل شالتماس",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "دریاچه گل‌پل",
     "reason": "county placement needs manual corroboration"
    },
    {
@@ -1552,21 +1344,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D9%85%D8%AF%D8%A7%D9%86%DB%8C"
    },
    {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "مجتمع فرهنگ و هنر بوستان \" ولایت ساری\"",
-    "pageid": 29021,
-    "revision_id": 43827427,
-    "section": "مکان های دیدنی ساری",
-    "source_title": "شهرستان ساری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%B1%DB%8C",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 6273151,
-    "target_revision_id": 44412941,
-    "target_title": "مجتمع فرهنگ و هنر بوستان \" ولایت ساری\"",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D8%AA%D9%85%D8%B9_%D9%81%D8%B1%D9%87%D9%86%DA%AF_%D9%88_%D9%87%D9%86%D8%B1_%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%22_%D9%88%D9%84%D8%A7%DB%8C%D8%AA_%D8%B3%D8%A7%D8%B1%DB%8C%22"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "مسجد جامع ساری",
@@ -1595,21 +1372,6 @@
     "target_revision_id": 43929047,
     "target_title": "پل تجن",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AA%D8%AC%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "موزه ساری",
-    "pageid": 29021,
-    "revision_id": 43827427,
-    "section": "مکان های دیدنی ساری",
-    "source_title": "شهرستان ساری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%B1%DB%8C",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 1169991,
-    "target_revision_id": 44356790,
-    "target_title": "موزه ساری",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B3%D8%A7%D8%B1%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1670,36 +1432,6 @@
     "target_revision_id": 43929012,
     "target_title": "امامزاده یحیی (ساری)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%DB%8C%D8%AD%DB%8C%DB%8C_%28%D8%B3%D8%A7%D8%B1%DB%8C%29"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "بوستان ملل ساری",
-    "pageid": 29021,
-    "revision_id": 43827427,
-    "section": "مکان های دیدنی ساری",
-    "source_title": "شهرستان ساری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%B1%DB%8C",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 3367903,
-    "target_revision_id": 44205735,
-    "target_title": "بوستان ملل ساری",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D9%84_%D8%B3%D8%A7%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه چورت",
-    "pageid": 29021,
-    "revision_id": 43827427,
-    "section": "مکان های دیدنی ساری",
-    "source_title": "شهرستان ساری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%B1%DB%8C",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 882970,
-    "target_revision_id": 43929052,
-    "target_title": "دریاچه چورت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%DA%86%D9%88%D8%B1%D8%AA"
    }
   ],
   "center_confirmed": true,
@@ -1708,8 +1440,24 @@
   "province": "mazandaran",
   "rejected_candidates": [
    {
+    "name": "مجتمع فرهنگ و هنر بوستان \" ولایت ساری\"",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "موزه ساری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان ملل ساری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "دریاچه ازنی",
     "reason": "target page missing"
+   },
+   {
+    "name": "دریاچه چورت",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "جزیره اشک",
@@ -1744,6 +1492,10 @@
     "reason": "target page missing"
    },
    {
+    "name": "بوستان ملل ساری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "بوستان موزه دفاع مقدس ساری",
     "reason": "target page missing"
    }
@@ -1764,26 +1516,11 @@
     "section": "مراکز تاریخی و باستانی / دیگر جاذبه های تاریخی",
     "source_title": "شهرستان سوادکوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 77360,
     "target_revision_id": 36037700,
     "target_title": "برج دیو کلی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%AF%DB%8C%D9%88_%DA%A9%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "پل قدیمی پل سفید",
-    "pageid": 369749,
-    "revision_id": 44596574,
-    "section": "مراکز تاریخی و باستانی / دیگر جاذبه های تاریخی",
-    "source_title": "شهرستان سوادکوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87",
-    "target_location_evidence": "target lead explicitly locates it in this county seat",
-    "target_pageid": 77363,
-    "target_revision_id": 35192967,
-    "target_title": "پل قدیمی پل سفید",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%82%D8%AF%DB%8C%D9%85%DB%8C_%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -1794,7 +1531,7 @@
     "section": "جاذبه های اقامتی و ارتباطی",
     "source_title": "شهرستان سوادکوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 35712,
     "target_revision_id": 44357506,
     "target_title": "پل ورسک",
@@ -1824,7 +1561,7 @@
     "section": "اماکن گردشگری",
     "source_title": "پل سفید",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 60870,
     "target_revision_id": 43442456,
     "target_title": "دریاچه شورمست",
@@ -1839,7 +1576,7 @@
     "section": "اماکن گردشگری",
     "source_title": "پل سفید",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 281246,
     "target_revision_id": 44278364,
     "target_title": "غار اسپهبد خورشید",
@@ -1854,7 +1591,7 @@
     "section": "اماکن گردشگری",
     "source_title": "پل سفید",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 4862133,
     "target_revision_id": 43928905,
     "target_title": "پل کلانتری دوآب",
@@ -1892,6 +1629,10 @@
    {
     "name": "پل شاپور",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "پل قدیمی پل سفید",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "آرامگاه اخوت",

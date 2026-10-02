@@ -645,7 +645,7 @@
     "section": "جاذبه های گردشگری / آثار طبیعی",
     "source_title": "دامغان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county",
     "target_pageid": 18589,
     "target_revision_id": 44486571,
     "target_title": "کویر حاج علی‌قلی",
@@ -792,21 +792,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "حسینیه المهدی",
-    "pageid": 145717,
-    "revision_id": 44452912,
-    "section": "نقاط دیدنی",
-    "source_title": "شهرستان مهدی‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 416846,
-    "target_revision_id": 44155868,
-    "target_title": "حسینیه المهدی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86%DB%8C%D9%87_%D8%A7%D9%84%D9%85%D9%87%D8%AF%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "خانه کیپور",
     "pageid": 145717,
     "revision_id": 44452912,
@@ -888,26 +873,11 @@
     "section": "اماکن گردشگری",
     "source_title": "مهدی‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 765206,
     "target_revision_id": 44432430,
     "target_title": "پارک آبشار مهدی‌شهر",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "چشمه گل رودبار",
-    "pageid": 24239,
-    "revision_id": 44469554,
-    "section": "اماکن گردشگری",
-    "source_title": "مهدی‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 42985,
-    "target_revision_id": 44436009,
-    "target_title": "چشمه گل رودبار",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%DA%AF%D9%84_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -955,6 +925,10 @@
     "reason": "target page missing"
    },
    {
+    "name": "حسینیه المهدی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "شکارگاه ملاده",
     "reason": "target page missing"
    },
@@ -964,6 +938,14 @@
    },
    {
     "name": "منطقه حفاظت‌شده پرور",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "حسینیه المهدی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه گل رودبار",
     "reason": "county placement needs manual corroboration"
    }
   ],
@@ -1331,21 +1313,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "جنگل ابر",
-    "pageid": 6494,
-    "revision_id": 44612577,
-    "section": "گردشگری / جاذبه های طبیعی شاهرود",
-    "source_title": "شاهرود",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 419839,
-    "target_revision_id": 44137379,
-    "target_title": "جنگل ابر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D8%A7%D8%A8%D8%B1"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "آرامگاه ابوالحسن خرقانی",
@@ -1411,6 +1378,10 @@
   "fetched": "2026-10-02",
   "province": "semnan",
   "rejected_candidates": [
+   {
+    "name": "جنگل ابر",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "پارک ملی توران",
     "reason": "generic or untyped target"
@@ -1505,21 +1476,6 @@
     "target_revision_id": 44343600,
     "target_title": "مسجد امام حسین (سرخه)",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%85%D8%A7%D9%85_%D8%AD%D8%B3%DB%8C%D9%86_%28%D8%B3%D8%B1%D8%AE%D9%87%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده عبدالله (سرخه)",
-    "pageid": 59178,
-    "revision_id": 43115825,
-    "section": "جاذبه های طبیعی",
-    "source_title": "سرخه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-    "target_location_evidence": "target lead names this county",
-    "target_pageid": 5893412,
-    "target_revision_id": 40137011,
-    "target_title": "امامزاده عبدالله (سرخه)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%28%D8%B3%D8%B1%D8%AE%D9%87%29"
    }
   ],
   "center_confirmed": true,
@@ -1538,6 +1494,10 @@
    {
     "name": "امامزاده محمد بن زید سرخه",
     "reason": "target page missing"
+   },
+   {
+    "name": "امامزاده عبدالله (سرخه)",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [

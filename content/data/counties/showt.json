@@ -152,28 +152,13 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آبگرم معدنی شوط",
-     "pageid": 26681,
-     "revision_id": 42463884,
-     "section": "مراکز گردشگری / جاذبه های طبیعی",
-     "source_title": "شوط",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 5023862,
-     "target_revision_id": 36236415,
-     "target_title": "آبگرم معدنی شوط",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%D8%B4%D9%88%D8%B7"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "غار چهل پله خضرلو",
      "pageid": 26681,
      "revision_id": 42463884,
      "section": "مراکز گردشگری / جاذبه های تاریخی",
      "source_title": "شوط",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-     "target_location_evidence": "target lead names this county",
+     "target_location_evidence": "target lead explicitly locates it in this county",
      "target_pageid": 718294,
      "target_revision_id": 43351325,
      "target_title": "غار چهل پله خضرلو",
@@ -185,7 +170,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-   "value": "آبگرم معدنی شوط\nغار چهل پله خضرلو"
+   "value": "غار چهل پله خضرلو"
   },
   "population": {
    "fetched": "2026-10-02",

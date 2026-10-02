@@ -165,21 +165,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد سردار",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "گردشگری / مساجد",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 400837,
-     "target_revision_id": 43929932,
-     "target_title": "مسجد سردار",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "مسجد مناره",
      "pageid": 2326737,
      "revision_id": 44612504,
@@ -191,36 +176,6 @@
      "target_revision_id": 44344433,
      "target_title": "مسجد مناره",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D9%86%D8%A7%D8%B1%D9%87"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کلیسای ننه‌مریم",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "گردشگری / کلیساها",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 627382,
-     "target_revision_id": 43722955,
-     "target_title": "کلیسای ننه‌مریم",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D9%86%D9%86%D9%87%E2%80%8C%D9%85%D8%B1%DB%8C%D9%85"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه‌های جنرال",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "گردشگری / خانه ها",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 2432116,
-     "target_revision_id": 29520563,
-     "target_title": "خانه‌های جنرال",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AC%D9%86%D8%B1%D8%A7%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -243,32 +198,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-   "value": "بازار ارومیه\nمسجد جامع ارومیه\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nخانه‌های جنرال\nخانه دیزج سیاوش"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دریاچه ارومیه",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "مکان های تفریحی / دریاچه ارومیه",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_location_evidence": "target lead explicitly locates it in this county seat",
-     "target_pageid": 2323,
-     "target_revision_id": 44274132,
-     "target_title": "دریاچه ارومیه",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-   "value": "دریاچه ارومیه"
+   "value": "بازار ارومیه\nمسجد جامع ارومیه\nمسجد مناره\nخانه دیزج سیاوش"
   },
   "population": {
    "fetched": "2026-10-02",
