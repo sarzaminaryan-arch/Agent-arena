@@ -1,0 +1,195 @@
+{
+ "conflicts": {
+  "elevation": {
+   "chosen": {
+    "wikidata": 1829
+   },
+   "others": {
+    "wikipedia": 1784.0
+   }
+  },
+  "population": {
+   "chosen": {
+    "wikidata": 101666
+   },
+   "others": {
+    "wikipedia": 105738
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+   "value": 1556.0
+  },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فروردین تا خرداد و شهریور تا آبان"
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": 1395
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": "تویسرکان"
+  },
+  "city_population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": 50455
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+   "value": "تویسرکان به دلیل قرار گرفتن در دامنه‌های رشته‌کوه زاگرس و در ارتفاع حدود ۱٬۸۰۰ متر از سطح دریا، دارای اقلیم کوهستانی با زمستان‌های سرد و برفی و تابستان‌های معتدل تا گرم است. بیشترین میزان بارندگی سالانه معمولاً در اواخر پاییز، زمستان و اوایل بهار رخ می‌دهد و تابستان‌ها نسبتاً خشک هستند."
+  },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 67
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": 1829
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=34.56667,48.35"
+  },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی"
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": 34.56667
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی"
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": 48.35
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "asadabad-city": "شمال‌غرب",
+    "hamadan-city": "شمال‌شرق",
+    "kangavar": "غرب",
+    "malayer-city": "جنوب‌شرق",
+    "nahavand-city": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "asadabad-city",
+    "nahavand-city",
+    "kangavar",
+    "malayer-city",
+    "hamadan-city"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه اردلان\nکاروانسرای فرسفج\nمدرسه شیخ علی خان زنگنه\nمسجد جامع تویسرکان\nخانه مسعودی\nمسجد باغوار\nآرامگاه میررضی‌الدین آرتیمانی\nآرامگاه حبقوق نبی"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مسجد جامع سرابی\nسرابی\nحمام سرابی\nدره گزندر سرابی\nآبشار افشار"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "اشتران\nفرسفج\nکرزان\nقاجار\nچنار\nسرکان\nروستای آرتیمان\nگشانی\nشهرستانه\nباباپیرعلی\nبوجان"
+  },
+  "poi_recreation": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پارک توریستی کمربسته"
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1285930",
+   "value": 101666
+  }
+ },
+ "name": "تویسرکان",
+ "province": "hamadan",
+ "slug": "tuyserkan-city"
+}

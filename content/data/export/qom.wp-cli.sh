@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# جعفرآباد
+ID=$(wp post list --post_type=city --name=jafarabady --field=ID | head -1)
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "جعفریه"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "21963"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1105"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "45"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "گرم و خشک کویری؛ اختلاف دمای شبانه‌روزی زیاد و بارش بسیار کم"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی؛ در کنارش ترکی آذربایجانی و عربی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "خدمات مذهبی و گردشگری زیارتی، صنعت، کشاورزی و دامداری"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "qom-city - شرق\nkahak - جنوب‌شرق\nashtian - جنوب‌غرب\ntafresh - غرب\nsaveh - شمال‌غرب\nzarandieh - شمال\nrobat-karim - شمال‌شرق"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.7725"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.55889"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.7725,50.55889"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "9387"
+
+# قم
+ID=$(wp post list --post_type=city --name=qom-city --field=ID | head -1)
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "قم"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "1292283"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "گرم و خشک کویری؛ اختلاف دمای شبانه‌روزی زیاد و بارش بسیار کم"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی؛ در کنارش ترکی آذربایجانی و عربی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "خدمات مذهبی و گردشگری زیارتی، صنعت، کشاورزی و دامداری"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kahak - جنوب\njafarabady - غرب\nrey - شمال\nvaramin - شمال‌شرق"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "کوه خضر نبی\nگنبد نمکی قم\nکوه دوبرادران\nغار کهک\nمجموعه معادن چاله غار وشنوه\nتنگه قاهان"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "حوض سلطان\nکهک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "حرم فاطمه معصومه\nمسجد جمکران\nخانه یزدانپناه\nتیمچه بزرگ قم\nقلعه قمرود\nحمام حاج عسگرخان\nکاروانسرای پاسنگان\nدیر گچین\nکاروانسرای حوض سلطان\nخانه ملاصدرا\nمجموعه راسته بازار کهنه و نو\nخانه حاج علی خان زند"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.73333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "935"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.73333,51.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "1201158"
+
+# کهک
+ID=$(wp post list --post_type=city --name=kahak --field=ID | head -1)
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "کهک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "20588"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "1"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "40"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "گرم و خشک کویری؛ اختلاف دمای شبانه‌روزی زیاد و بارش بسیار کم"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی؛ در کنارش ترکی آذربایجانی و عربی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "خدمات مذهبی و گردشگری زیارتی، صنعت، کشاورزی و دامداری"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "qom-city - شمال\ndelijan - جنوب\njafarabady - شمال‌غرب\nkashan - جنوب‌شرق\nashtian - غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.39444"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.90417"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1438"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.39444,50.90417"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "4837"
+

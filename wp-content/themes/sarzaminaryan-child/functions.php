@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'SA_CHILD_VERSION', '2.6.0' );
+define( 'SA_CHILD_VERSION', '2.8.8' );
 define( 'SA_CHILD_DIR', trailingslashit( get_stylesheet_directory() ) );
 define( 'SA_CHILD_URI', trailingslashit( get_stylesheet_directory_uri() ) );
 define( 'SA_MODEL_VERSION', '1.1' );
@@ -40,6 +40,8 @@ $sa_child_includes = array(
 	'inc/schema.php',
 	'inc/breadcrumbs.php',
 	'inc/template-tags.php',
+	'inc/geo-counties.php',
+	'inc/geo-import.php',
 	'inc/security.php',
 	'inc/performance.php',
 	'inc/customizer.php',
