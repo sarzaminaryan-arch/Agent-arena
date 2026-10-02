@@ -1,0 +1,48 @@
+{
+ "format": "1.0",
+ "built": "2026-10-02",
+ "counties": [
+  {
+   "title": "اسفراین",
+   "slug": "esfarayen",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  },
+  {
+   "title": "بجنورد",
+   "slug": "bojnord",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  },
+  {
+   "title": "جاجرم",
+   "slug": "jajarm",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  },
+  {
+   "title": "راز و جرگلان",
+   "slug": "raz-jargalan",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  },
+  {
+   "title": "شیروان",
+   "slug": "shirvan",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  },
+  {
+   "title": "فاروج",
+   "slug": "faruj",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  },
+  {
+   "title": "گرمه",
+   "slug": "garmeh",
+   "province": "north-khorasan",
+   "province_name": "خراسان شمالی"
+  }
+ ]
+}

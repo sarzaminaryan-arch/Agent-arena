@@ -1,0 +1,129 @@
+{
+ "batch": "north-khorasan",
+ "batch_id": "north-khorasan",
+ "label": "درون‌ریز شهرستان‌های استان خراسان شمالی",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-02",
+ "province": {
+  "slug": "north-khorasan",
+  "name_fa": "استان خراسان شمالی",
+  "term_name": "خراسان شمالی"
+ },
+ "file": "north-khorasan.json",
+ "counties_count": 7,
+ "counties": [
+  {
+   "slug": "esfarayen",
+   "title": "شهرستان اسفراین",
+   "status": "article",
+   "word_count": 1160,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "bojnord",
+   "title": "شهرستان بجنورد",
+   "status": "article",
+   "word_count": 1158,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "jajarm",
+   "title": "شهرستان جاجرم",
+   "status": "article",
+   "word_count": 1140,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "raz-jargalan",
+   "title": "شهرستان راز و جرگلان",
+   "status": "article",
+   "word_count": 1193,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "shirvan",
+   "title": "شهرستان شیروان",
+   "status": "article",
+   "word_count": 1132,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "faruj",
+   "title": "شهرستان فاروج",
+   "status": "article",
+   "word_count": 1130,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "garmeh",
+   "title": "شهرستان گرمه",
+   "status": "article",
+   "word_count": 1159,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  }
+ ]
+}

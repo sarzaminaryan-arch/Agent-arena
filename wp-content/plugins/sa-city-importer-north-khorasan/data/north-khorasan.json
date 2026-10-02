@@ -1,0 +1,799 @@
+{
+ "batch": "north-khorasan",
+ "batch_id": "north-khorasan",
+ "label": "درون‌ریز شهرستان‌های استان خراسان شمالی",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-02",
+ "province": {
+  "slug": "north-khorasan",
+  "name_fa": "استان خراسان شمالی",
+  "term_name": "خراسان شمالی"
+ },
+ "counties": [
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/esfarayen.md",
+   "source_sha1": "8321cfe8156b2d5b2147b38fff717d8e7e7b8176",
+   "slug": "esfarayen",
+   "status": "article",
+   "title": "شهرستان اسفراین",
+   "name_fa": "شهرستان اسفراین",
+   "name_en": "Esfarayen County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان اسفراین",
+    "excerpt": "شهرستان اسفراین با مرکزیت اسفراین، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان اسفراین</strong> با مرکزیت شهر <strong>اسفراین</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>کوه شاه‌جهان و چشم‌اندازهای آلاداغ</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>دشت کشاورزی و روستاهای خراسان شمالی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>میراث تاریخی و محوطه‌های پیرامون شهر بلقیس</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>پیوند جغرافیایی با دشت جوین و شمال خراسان</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>اسفراین در جنوب خراسان شمالی و میان دشت‌های کشاورزی و ارتفاعات آلاداغ قرار دارد. از جنوب با جوین، از جنوب‌شرق با بام و صفی‌آباد، از شمال‌شرق با فاروج، از شمال با راز و جرگلان و از شمال‌شرق با شیروان همسایه است. شهر اسفراین مرکز شهرستان است.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,57.55\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/اسفراین\">2</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۱۲۰٬۵۱۳ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></td></tr><tr><td>مساحت</td><td>۵٬۰۱۹ کیلومتر مربع</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/اسفراین\">2</a></sup></td></tr><tr><td>مختصات</td><td>۳۷٫۰۰ شمالی، ۵۷٫۵۵ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,57.55\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>نیازمند تطبیق رسمی؛ ۲ شهر در دادهٔ پایه</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اسفراین در جنوب خراسان شمالی و میان دشت‌های کشاورزی و ارتفاعات آلاداغ قرار دارد. از جنوب با جوین، از جنوب‌شرق با بام و صفی‌آباد، از شمال‌شرق با فاروج، از شمال با راز و جرگلان و از شمال‌شرق با شیروان همسایه است. شهر اسفراین مرکز شهرستان است. همسایه‌های شهرستان شامل جوین، بام و صفی‌آباد، فاروج، راز و جرگلان و شیروان هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اسفراین در حوزهٔ تاریخی خراسان و در مسیر پیوند دشت‌های شمال‌شرق ایران قرار دارد. شهر بلقیس در پیرامون اسفراین، یکی از نشانه‌های اهمیت تاریخی منطقه است و آبادی‌های امروزی در کنار منابع آب و زمین‌های کشاورزی گسترش یافته‌اند. شهرستان در تقسیمات اداری معاصر جایگاه کنونی خود را پیدا کرد و سال تشکیل، مرزها و بخش‌های آن باید با مصوبه‌های وزارت کشور تطبیق داده شوند. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان اسفراین در ساختار اداری معاصر با مرکزیت اسفراین معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>اسفراین</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>اسفراین</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>اسفراین نام شهر و شهرستان امروزی است و در منابع تاریخی با صورت‌های گوناگون آمده است. ریشه‌شناسی قطعی نام نیازمند منبع تاریخی و زبان‌شناختی تخصصی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اسفراین اقلیمی نیمه‌خشک و معتدل دارد؛ ارتفاعات سردتر و دشت‌ها در تابستان گرم‌تر هستند. بهار و پاییز برای بازدید از محوطه‌های تاریخی و طبیعت مناسب‌ترند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، دامداری، صنایع غذایی و خدمات محلی پایه‌های اقتصاد اسفراین‌اند. دشت‌های کشاورزی و ظرفیت‌های گردشگری طبیعی و تاریخی اهمیت دارند؛ ارقام تولید و اشتغال باید با گزارش رسمی سال‌دار تکمیل شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ اسفراین با میراث خراسان شمالی، زندگی روستایی، موسیقی کرمانجی و آیین‌های محلی پیوند دارد. معرفی گروه‌های زبانی و فرهنگی باید به پژوهش معتبر متکی باشد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکی و فارسی خراسانی در داده‌های پایه برای استان گزارش شده‌اند؛ سهم هر زبان در شهرستان نیازمند پژوهش رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">شهر بلقیس</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهر بلقیس از محوطه‌های تاریخی شناخته‌شدهٔ پیرامون اسفراین است؛ وضعیت ثبت، مسیر و ساعت بازدید باید از میراث فرهنگی کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">کوه شاه‌جهان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کوه شاه‌جهان از عوارض مهم طبیعی خراسان شمالی و مقصدی برای شناخت ارتفاعات منطقه است؛ برنامهٔ صعود به هوا و ایمنی وابسته است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دشت و روستاهای کشاورزی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>دشت و آبادی‌های اسفراین الگوی کشاورزی و معماری بومی جنوب خراسان شمالی را نشان می‌دهند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">محوطه‌های حفاظت‌شده</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مناطق حفاظت‌شدهٔ پیرامون باید فقط با نام و محدودهٔ تأییدشدهٔ ادارهٔ محیط‌زیست معرفی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">بافت مرکزی اسفراین</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>بازار و مرکز شهر، خدمات و چهرهٔ امروز شهرستان را نمایش می‌دهند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان اسفراین در مختصات <strong>۳۷٫۰۰ شمالی، ۵۷٫۵۵ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,57.55\">مشاهدهٔ موقعیت اسفراین در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,57.55\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>پژوهشگران شهر بلقیس و تاریخ اسفراین؛ نام‌ها باید مستند باشند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>استادان موسیقی کرمانجی منطقه؛ نسبت شهرستانی نیازمند سند است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بزرگان فرهنگی اسفراین؛ زندگی‌نامهٔ معتبر لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی شهرستان؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های علمی و ورزشی اسفراین؛ زادگاه باید مستقل کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>اسفراین در جنوب خراسان شمالی قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ شهرستان حدود ۱۲۰٬۵۱۳ نفر گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مساحت پایهٔ شهرستان حدود ۵٬۰۱۹ کیلومتر مربع است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کوه شاه‌جهان در جغرافیای پیرامون آن اهمیت دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>شهر بلقیس از میراث تاریخی منطقه است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جوین و شیروان از همسایه‌های اسفراین هستند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کشاورزی و دامداری در اقتصاد شهرستان نقش دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>اقلیم شهرستان نیمه‌خشک و معتدل است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تنوع زبانی استان در فرهنگ منطقه بازتاب دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تقسیمات باید با آخرین مصوبهٔ رسمی کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان اسفراین، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1160
+   },
+   "meta": {
+    "sa_city_slug": "esfarayen",
+    "sa_city_population": "۱۲۰۵۱۳",
+    "sa_city_latitude": "۳۷٫۰۰ شمالی",
+    "sa_city_longitude": "۵۷٫۵۵ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.0,57.55",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_اسفراین\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان اسفراین؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان اسفراین؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان اسفراین",
+    "sa_og_title": "شهرستان اسفراین — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان اسفراین در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "اسفراین",
+    "سفر به اسفراین",
+    "جاذبه‌های اسفراین",
+    "تاریخ اسفراین"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=37.0,57.55",
+   "faq": [
+    {
+     "q": "شهرستان اسفراین کجاست؟",
+     "a": "شهرستان اسفراین در استان خراسان شمالی و در اسفراین در جنوب خراسان شمالی و میان دشت‌های کشاورزی و ارتفاعات آلاداغ قرار دارد. از جنوب با جوین، از جنوب‌شرق با بام و صفی‌آباد، از شمال‌شرق با فاروج، از شمال با راز و جرگلان و از شمال‌شرق با شیروان همسایه است. شهر اسفراین مرکز شهرستان است."
+    },
+    {
+     "q": "مرکز شهرستان اسفراین کدام شهر است؟",
+     "a": "مرکز شهرستان اسفراین، شهر اسفراین است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان اسفراین ۱۲۰٬۵۱۳ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان اسفراین نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکی و فارسی خراسانی در داده‌های پایه برای استان گزارش شده‌اند؛ سهم هر زبان در شهرستان نیازمند پژوهش رسمی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، دامداری، صنایع غذایی و خدمات محلی پایه‌های اقتصاد اسفراین‌اند. دشت‌های کشاورزی و ظرفیت‌های گردشگری طبیعی و تاریخی اهمیت دارند؛ ارقام تولید و اشتغال باید با گزارش رسمی سال‌دار تکمیل شوند."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان اسفراین؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_اسفراین | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر اسفراین | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/اسفراین | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان اسفراین | Google Maps | https://www.google.com/maps/search/?api=1&query=37.0,57.55 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/esfarayen.webp",
+    "source": "assets/featured/counties/north-khorasan/esfarayen.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان اسفراین در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان اسفراین در یک نگاه.",
+    "title": "شهرستان اسفراین — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان اسفراین در استان خراسان شمالی",
+    "sha1": "41f64f559ab3cc4ee59046fc44e11b1bb1519615"
+   }
+  },
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/bojnord.md",
+   "source_sha1": "71895a08445a0b057e6ba9a81704bd7403d8a0db",
+   "slug": "bojnord",
+   "status": "article",
+   "title": "شهرستان بجنورد",
+   "name_fa": "شهرستان بجنورد",
+   "name_en": "Bojnord County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان بجنورد",
+    "excerpt": "شهرستان بجنورد با مرکزیت بجنورد، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان بجنورد</strong> با مرکزیت شهر <strong>بجنورد</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>مرکز استان خراسان شمالی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>گردشگاه باباامان و چشمه‌های پیرامون</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>بش‌قارداش و چشم‌اندازهای طبیعی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>تنوع فرهنگی و زبان‌های خراسان شمالی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>بجنورد در مرکز خراسان شمالی و در میان کوه‌های آلاداغ و دشت‌های میان‌کوهی قرار دارد. این شهرستان از شمال‌شرق با راز و جرگلان و از غرب با مانه و سملقان همسایه است و شهر بجنورد مرکز استان و شهرستان به شمار می‌آید.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.58333,57.33333\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/بجنورد\">2</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۳۲۴٬۰۸۳ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></td></tr><tr><td>مساحت</td><td>نیازمند تطبیق رسمی</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/بجنورد\">2</a></sup></td></tr><tr><td>مختصات</td><td>۳۷٫۵۸۳۳۳ شمالی، ۵۷٫۳۳۳۳۳ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.58333,57.33333\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>۲ بخش و ۲ شهر؛ تعداد دهستان‌ها نیازمند تطبیق</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>بجنورد در مرکز خراسان شمالی و در میان کوه‌های آلاداغ و دشت‌های میان‌کوهی قرار دارد. این شهرستان از شمال‌شرق با راز و جرگلان و از غرب با مانه و سملقان همسایه است و شهر بجنورد مرکز استان و شهرستان به شمار می‌آید. همسایه‌های شهرستان شامل راز و جرگلان و مانه و سملقان هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>بجنورد در مسیر تاریخی خراسان و در محل پیوند راه‌های شمال‌شرق ایران قرار دارد. آبادی‌های پیرامون رودها و چشمه‌ها شکل گرفتند و شهر در دورهٔ معاصر به مرکز اداری خراسان شمالی تبدیل شد. عمارت جاجرمی و بافت تاریخی شهر از نشانه‌های میراث معاصر آن هستند؛ تاریخ دقیق تشکیل شهرستان و تغییرات تقسیماتی باید با اسناد رسمی کنترل شود. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان بجنورد در ساختار اداری معاصر با مرکزیت بجنورد معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>بجنورد</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>بجنورد</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>بجنورد نام مرکز استان و شهرستان است. دربارهٔ ریشهٔ نام و صورت‌های تاریخی آن روایت‌هایی وجود دارد و برای معنی قطعی باید به منابع تاریخی و زبان‌شناختی استناد کرد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>بجنورد اقلیم نیمه‌خشک و معتدل دارد؛ زمستان‌ها سرد و تابستان‌ها گرم و خشک‌اند و دامنه‌های اطراف خنک‌تر می‌شوند. بهار و پاییز برای گردش شهری و طبیعت‌گردی مناسب‌ترند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، دامداری، صنایع غذایی، خدمات اداری و گردشگری طبیعی پایه‌های اقتصاد بجنورد هستند. مرکز استان بودن، بازار خدمات و ارتباطات گسترده‌تری ایجاد کرده است؛ آمار تولید، اشتغال و سرمایه‌گذاری باید با سال مرجع ارائه شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ بجنورد با حضور کرمانج‌ها، ترک‌ها و فارسی‌زبانان خراسانی و آیین‌های موسیقایی منطقه شکل گرفته است. این تنوع باید بدون کلی‌گویی و بر اساس منابع مردم‌شناختی معرفی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکی و فارسی خراسانی در استان رایج‌اند؛ سهم دقیق زبان‌ها در شهرستان نیازمند دادهٔ رسمی یا پژوهش زبان‌شناختی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">گردشگاه باباامان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>باباامان از گردشگاه‌های شناخته‌شدهٔ پیرامون بجنورد و دارای چشمه و فضای طبیعی است؛ وضعیت امکانات و بازدید باید به‌روز شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">بش‌قارداش</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>بش‌قارداش از جاذبه‌های طبیعی و تفریحی شناخته‌شدهٔ شهرستان است؛ ضوابط و کیفیت آب باید از مرجع محلی بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">عمارت جاجرمی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>عمارت جاجرمی از آثار معماری شهری بجنورد است و اطلاعات ثبت و ساعت بازدید باید از میراث فرهنگی کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">رود اترک و دشت‌های پیرامون</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>رودها و دشت‌های شهرستان در شکل‌گیری سکونت و کشاورزی نقش دارند؛ وضعیت محیطی باید با گزارش رسمی بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">بازار و مرکز شهر</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز بجنورد، خدمات اداری، بازار و تنوع فرهنگی استان را در یک فضای شهری نشان می‌دهد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان بجنورد در مختصات <strong>۳۷٫۵۸۳۳۳ شمالی، ۵۷٫۳۳۳۳۳ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.58333,57.33333\">مشاهدهٔ موقعیت بجنورد در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.58333,57.33333\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>استادان موسیقی مقامی خراسان شمالی؛ نسبت شهرستانی باید مستند باشد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>پژوهشگران فرهنگ و معماری بجنورد؛ نام‌ها به منبع نیاز دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بزرگان ادبی و علمی بجنورد؛ زادگاه باید کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی شهرستان؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های ورزشی و اجتماعی بجنورد؛ زندگی‌نامهٔ مستقل ضروری است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>بجنورد مرکز استان خراسان شمالی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ شهرستان حدود ۳۲۴٬۰۸۳ نفر گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>باباامان و بش‌قارداش از جاذبه‌های پیرامونی بجنورد هستند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>عمارت جاجرمی از آثار معماری شهر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>رود اترک در جغرافیای استان نقش دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>راز و جرگلان از همسایه‌های بجنورد است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>خدمات اداری و کشاورزی در اقتصاد شهرستان اهمیت دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>اقلیم بجنورد نیمه‌خشک و معتدل است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کرمانجی، ترکی و فارسی خراسانی در منطقه رایج‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>آمار مساحت و تقسیمات نیازمند تطبیق رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان بجنورد، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1158
+   },
+   "meta": {
+    "sa_city_slug": "bojnord",
+    "sa_city_population": "۳۲۴۰۸۳",
+    "sa_city_latitude": "۳۷٫۵۸۳۳۳ شمالی",
+    "sa_city_longitude": "۵۷٫۳۳۳۳۳ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.58333,57.33333",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_بجنورد\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان بجنورد؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان بجنورد؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان بجنورد",
+    "sa_og_title": "شهرستان بجنورد — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان بجنورد در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "بجنورد",
+    "سفر به بجنورد",
+    "جاذبه‌های بجنورد",
+    "تاریخ بجنورد"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=37.58333,57.33333",
+   "faq": [
+    {
+     "q": "شهرستان بجنورد کجاست؟",
+     "a": "شهرستان بجنورد در استان خراسان شمالی و در بجنورد در مرکز خراسان شمالی و در میان کوه‌های آلاداغ و دشت‌های میان‌کوهی قرار دارد. این شهرستان از شمال‌شرق با راز و جرگلان و از غرب با مانه و سملقان همسایه است و شهر بجنورد مرکز استان و شهرستان به شمار می‌آید."
+    },
+    {
+     "q": "مرکز شهرستان بجنورد کدام شهر است؟",
+     "a": "مرکز شهرستان بجنورد، شهر بجنورد است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان بجنورد ۳۲۴٬۰۸۳ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان بجنورد نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکی و فارسی خراسانی در استان رایج‌اند؛ سهم دقیق زبان‌ها در شهرستان نیازمند دادهٔ رسمی یا پژوهش زبان‌شناختی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، دامداری، صنایع غذایی، خدمات اداری و گردشگری طبیعی پایه‌های اقتصاد بجنورد هستند. مرکز استان بودن، بازار خدمات و ارتباطات گسترده‌تری ایجاد کرده است؛ آمار تولید، اشتغال و سرمایه‌گذاری باید با سال مرجع ارائه شود."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان بجنورد؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_بجنورد | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر بجنورد | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/بجنورد | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان بجنورد | Google Maps | https://www.google.com/maps/search/?api=1&query=37.58333,57.33333 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/bojnord.webp",
+    "source": "assets/featured/counties/north-khorasan/bojnord.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان بجنورد در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان بجنورد در یک نگاه.",
+    "title": "شهرستان بجنورد — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان بجنورد در استان خراسان شمالی",
+    "sha1": "6508df6ed3eebf2b65d5fc49804b152b961e9564"
+   }
+  },
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/jajarm.md",
+   "source_sha1": "f473323146dc39d539a97b99b514476ba6c9969d",
+   "slug": "jajarm",
+   "status": "article",
+   "title": "شهرستان جاجرم",
+   "name_fa": "شهرستان جاجرم",
+   "name_en": "Jajarm County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان جاجرم",
+    "excerpt": "شهرستان جاجرم با مرکزیت جاجرم، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان جاجرم</strong> با مرکزیت شهر <strong>جاجرم</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>مسجد جامع تاریخی جاجرم</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>تپهٔ پهلوان و لایه‌های باستانی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>دشت‌های گرم و خشک جنوب استان</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>پیوند راهی با جوین و گرمه</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>جاجرم در جنوب‌غرب خراسان شمالی و در پهنه‌ای گرم و خشک میان جغتای، گرمه و مانه و سملقان قرار دارد. شهر جاجرم مرکز شهرستان است و دشت‌ها و ارتفاعات کم‌ارتفاع پیرامون، سیمای جغرافیایی آن را شکل می‌دهند.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,56.5\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/جاجرم\">2</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۳۶٬۶۷۳ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></td></tr><tr><td>مساحت</td><td>۳٬۵۰۰ کیلومتر مربع</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/جاجرم\">2</a></sup></td></tr><tr><td>مختصات</td><td>۳۷٫۰۰ شمالی، ۵۶٫۵۰ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,56.5\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>۳ بخش؛ تعداد شهر و دهستان‌ها نیازمند تطبیق</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>جاجرم در جنوب‌غرب خراسان شمالی و در پهنه‌ای گرم و خشک میان جغتای، گرمه و مانه و سملقان قرار دارد. شهر جاجرم مرکز شهرستان است و دشت‌ها و ارتفاعات کم‌ارتفاع پیرامون، سیمای جغرافیایی آن را شکل می‌دهند. همسایه‌های شهرستان شامل گرمه، جغتای و مانه و سملقان هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>جاجرم در مسیر تاریخی خراسان و در حاشیهٔ راه‌های میان دشت‌های شمال‌شرق و نواحی مرکزی ایران قرار داشته است. مسجد جامع جاجرم و تپهٔ پهلوان از نشانه‌های تاریخی منطقه‌اند. در دورهٔ معاصر، شهرستان با اقتصاد کشاورزی، معدن و ارتباطات جاده‌ای توسعه یافت؛ سال تشکیل و مرزهای تقسیماتی باید از وزارت کشور تطبیق داده شوند. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان جاجرم در ساختار اداری معاصر با مرکزیت جاجرم معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>جاجرم</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>جاجرم</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>جاجرم نام تاریخی شهر و شهرستان است. ریشهٔ واژه و صورت‌های کهن آن باید با منابع تاریخی و زبان‌شناختی معتبر بررسی شود و روایت‌های عامه به‌تنهایی کافی نیستند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>جاجرم اقلیمی نیمه‌استپی، گرم و خشک دارد و بارش آن در دادهٔ پایه کم گزارش شده است. بهار و پاییز برای بازدید از آثار تاریخی و دشت‌ها مناسب‌ترند؛ تابستان گرم و مسیرهای بیرونی نیازمند آمادگی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، دامداری، معدن و خدمات محلی پایه‌های اقتصاد جاجرم‌اند. ظرفیت‌های صنعتی و معدنی باید با گزارش دستگاه مربوط و سال مرجع بیان شوند و از بازگویی اعداد قدیمی پرهیز شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ جاجرم با زندگی دشت‌نشین، میراث خراسانی، آیین‌های مذهبی و پیوندهای روستایی شکل گرفته است. معرفی خوراک‌ها و رسم‌ها به منبع محلی یا مردم‌شناختی نیاز دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکی و فارسی خراسانی در استان حضور دارند؛ زبان غالب و سهم هر گویش در شهرستان نیازمند بررسی رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">مسجد جامع جاجرم</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مسجد جامع جاجرم از آثار تاریخی شناخته‌شدهٔ شهر است و دوره، ثبت و شرایط بازدید آن باید با میراث فرهنگی کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">تپهٔ پهلوان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>تپهٔ پهلوان در دادهٔ پایه به‌عنوان محوطهٔ تاریخی آمده است؛ اطلاعات باستان‌شناختی و حریم آن نیازمند منبع تخصصی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دشت‌های جنوب استان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>دشت‌های گرم و خشک جاجرم چشم‌انداز طبیعی شهرستان را می‌سازند و گشت در آن‌ها به فصل و امکانات مناسب نیاز دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">روستاهای پیرامون</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>آبادی‌های جاجرم سازگاری معماری و کشاورزی با کم‌آبی را نشان می‌دهند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">راه‌های جاجرم</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>راه‌های شهرستان پیوند شمال خراسان را با جغتای و گرمه برقرار می‌کنند؛ وضعیت مسیر باید روز سفر بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان جاجرم در مختصات <strong>۳۷٫۰۰ شمالی، ۵۶٫۵۰ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,56.5\">مشاهدهٔ موقعیت جاجرم در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.0,56.5\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>پژوهشگران مسجد جامع و تاریخ جاجرم؛ نام‌ها باید مستند باشند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>باستان‌شناسان محوطه‌های جاجرم؛ ارتباط پژوهشی نیازمند منبع است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بزرگان فرهنگی شهرستان؛ زندگی‌نامهٔ معتبر لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی جاجرم؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های علمی و اداری شهرستان؛ نسبت محلی باید کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>جاجرم در جنوب‌غرب خراسان شمالی قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ آن حدود ۳۶٬۶۷۳ نفر گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مساحت پایهٔ شهرستان حدود ۳٬۵۰۰ کیلومتر مربع است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مسجد جامع جاجرم از آثار تاریخی شهرستان است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تپهٔ پهلوان در دادهٔ اولیهٔ میراثی آمده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جاجرم اقلیم گرم و خشک دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>گرمه و جغتای از همسایه‌های شهرستان‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کشاورزی، دامداری و معدن در اقتصاد آن اهمیت دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>راه‌های جاجرم با شهرستان‌های پیرامون ارتباط دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تقسیمات اداری باید با مصوبهٔ رسمی کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان جاجرم، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1140
+   },
+   "meta": {
+    "sa_city_slug": "jajarm",
+    "sa_city_population": "۳۶۶۷۳",
+    "sa_city_latitude": "۳۷٫۰۰ شمالی",
+    "sa_city_longitude": "۵۶٫۵۰ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.0,56.5",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_جاجرم\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان جاجرم؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان جاجرم؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان جاجرم",
+    "sa_og_title": "شهرستان جاجرم — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان جاجرم در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "جاجرم",
+    "سفر به جاجرم",
+    "جاذبه‌های جاجرم",
+    "تاریخ جاجرم"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=37.0,56.5",
+   "faq": [
+    {
+     "q": "شهرستان جاجرم کجاست؟",
+     "a": "شهرستان جاجرم در استان خراسان شمالی و در جاجرم در جنوب‌غرب خراسان شمالی و در پهنه‌ای گرم و خشک میان جغتای، گرمه و مانه و سملقان قرار دارد. شهر جاجرم مرکز شهرستان است و دشت‌ها و ارتفاعات کم‌ارتفاع پیرامون، سیمای جغرافیایی آن را شکل می‌دهند."
+    },
+    {
+     "q": "مرکز شهرستان جاجرم کدام شهر است؟",
+     "a": "مرکز شهرستان جاجرم، شهر جاجرم است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان جاجرم ۳۶٬۶۷۳ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان جاجرم نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکی و فارسی خراسانی در استان حضور دارند؛ زبان غالب و سهم هر گویش در شهرستان نیازمند بررسی رسمی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، دامداری، معدن و خدمات محلی پایه‌های اقتصاد جاجرم‌اند. ظرفیت‌های صنعتی و معدنی باید با گزارش دستگاه مربوط و سال مرجع بیان شوند و از بازگویی اعداد قدیمی پرهیز شود."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان جاجرم؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_جاجرم | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر جاجرم | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/جاجرم | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان جاجرم | Google Maps | https://www.google.com/maps/search/?api=1&query=37.0,56.5 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/jajarm.webp",
+    "source": "assets/featured/counties/north-khorasan/jajarm.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان جاجرم در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان جاجرم در یک نگاه.",
+    "title": "شهرستان جاجرم — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان جاجرم در استان خراسان شمالی",
+    "sha1": "e3bb0d6fc8d19b5c98f3de89f0e40b8ad0710512"
+   }
+  },
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/raz-jargalan.md",
+   "source_sha1": "0b22cd6a7bf8a1b1abfa8f1afe882593ad39974a",
+   "slug": "raz-jargalan",
+   "status": "article",
+   "title": "شهرستان راز و جرگلان",
+   "name_fa": "شهرستان راز و جرگلان",
+   "name_en": "Raz and Jargalan County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان راز و جرگلان",
+    "excerpt": "شهرستان راز و جرگلان با مرکزیت راز، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان راز و جرگلان</strong> با مرکزیت شهر <strong>راز</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>مرز ترکمنستان و چشم‌انداز کپه‌داغ</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>فرهنگ ترکمنی و کرمانجی خراسان شمالی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>دره‌ها و روستاهای سرسبز جرگلان</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>راه‌های مرزی و کشاورزی کوهپایه‌ای</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>راز و جرگلان در شمال خراسان شمالی و در امتداد مرز ایران و ترکمنستان قرار دارد. از شمال به مرز کشور ترکمنستان، از شرق با شیروان، از جنوب با اسفراین و از شمال‌غرب با بجنورد همسایه است. شهر راز مرکز شهرستان است و دره‌های جرگلان تنوع طبیعی منطقه را افزایش می‌دهند.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.56667,57.35\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.&lt;sup&gt;<a href=\"https://fa.wikipedia.org/wiki/راز_(خراسان_شمالی\">2</a>)&lt;/sup&gt;</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۵۹٬۲۱۰ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></td></tr><tr><td>مساحت</td><td>۲٬۵۳۸ کیلومتر مربع</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است &lt;sup&gt;<a href=\"https://fa.wikipedia.org/wiki/راز_(خراسان_شمالی\">2</a>)&lt;/sup&gt;</td></tr><tr><td>مختصات</td><td>۳۷٫۵۶۶۶۷ شمالی، ۵۷٫۳۵ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.56667,57.35\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>۳ بخش و ۶ دهستان؛ تعداد شهرها نیازمند تطبیق</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>راز و جرگلان در شمال خراسان شمالی و در امتداد مرز ایران و ترکمنستان قرار دارد. از شمال به مرز کشور ترکمنستان، از شرق با شیروان، از جنوب با اسفراین و از شمال‌غرب با بجنورد همسایه است. شهر راز مرکز شهرستان است و دره‌های جرگلان تنوع طبیعی منطقه را افزایش می‌دهند. همسایه‌های شهرستان شامل بجنورد، شیروان و اسفراین هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>راز و جرگلان در حوزهٔ تاریخی کپه‌داغ و مسیرهای مرزی خراسان جای دارد. روستاهای دره‌ای بر پایهٔ آب، دامداری و کشاورزی شکل گرفته‌اند و پیوندهای فرهنگی ترکمنی و کرمانجی در زندگی اجتماعی منطقه دیده می‌شود. شهرستان در تقسیمات اداری جدید شکل گرفت و سال تشکیل، مرزها و ساختار بخش‌ها باید از اسناد وزارت کشور بررسی شوند. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان راز و جرگلان در ساختار اداری معاصر با مرکزیت راز معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>راز و جرگلان</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>راز</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>راز و جرگلان نام مرکبی برای شهر راز و پهنهٔ جرگلان است. معنی و پیشینهٔ هر دو نام باید با منابع تاریخی و زبان‌شناختی بررسی شود؛ در این پیش‌نویس از قطعیت دادن به روایت‌های محلی خودداری شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>راز و جرگلان اقلیمی نیمه‌خشک و معتدل دارد؛ زمستان‌ها سرد و دره‌ها و ارتفاعات خنک‌ترند. بهار برای دیدن روستاها و مراتع مناسب‌تر است و سفر به نواحی مرزی باید با مقررات و وضعیت مسیر هماهنگ شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، دامداری، باغداری، صنایع دستی و خدمات مرزی پایه‌های اقتصاد راز و جرگلان‌اند. آمار تولید و تجارت مرزی باید از منابع رسمی و با سال مرجع مشخص دریافت شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ راز و جرگلان با تنوع ترکمنی، کرمانجی و فارسی خراسانی، موسیقی مقامی، پوشاک و هنرهای دستی پیوند دارد. معرفی هر سنت باید بر پژوهش مردم‌شناختی یا منبع محلی معتبر استوار باشد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکمنی، ترکی و فارسی خراسانی در پهنهٔ استان و شهرستان‌های شمالی دیده می‌شوند؛ سهم دقیق هر زبان نیازمند دادهٔ رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دره‌ها و روستاهای جرگلان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>دره‌های جرگلان، باغ‌ها و روستاهای کوهپایه‌ای، چهرهٔ طبیعی و فرهنگی شمال خراسان را نشان می‌دهند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">مرز ایران و ترکمنستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرز شمالی شهرستان بخشی از هویت جغرافیایی آن است و دسترسی و عکاسی در این نواحی تابع مقررات رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">چشم‌انداز کپه‌داغ</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>ارتفاعات کپه‌داغ برای شناخت جغرافیای مرزی اهمیت دارند؛ مسیرهای کوهستانی به کنترل هوا و ایمنی نیاز دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">صنایع دستی و روستاها</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>بافته‌ها، پوشاک و هنرهای روستایی باید با معرفی کارگاه یا منبع محلی معتبر ثبت شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">راز</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>راز مرکز اداری شهرستان و محل تمرکز خدمات و بازار منطقه است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان راز و جرگلان در مختصات <strong>۳۷٫۵۶۶۶۷ شمالی، ۵۷٫۳۵ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.56667,57.35\">مشاهدهٔ موقعیت راز و جرگلان در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.56667,57.35\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>استادان موسیقی ترکمنی و کرمانجی؛ نسبت شهرستانی باید مستند باشد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>پژوهشگران فرهنگ مرزی خراسان شمالی؛ نام‌ها به منبع نیاز دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی جرگلان؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بزرگان ادبی و فرهنگی راز؛ زندگی‌نامهٔ معتبر ضروری است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های علمی و اجتماعی شهرستان؛ ارتباط محلی باید کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>راز و جرگلان در شمال خراسان شمالی قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>راز مرکز شهرستان است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ شهرستان حدود ۵۹٬۲۱۰ نفر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مساحت پایهٔ آن حدود ۲٬۵۳۸ کیلومتر مربع گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مرز ترکمنستان در جغرافیای شهرستان نقش دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>فرهنگ ترکمنی و کرمانجی در شمال استان اهمیت دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بجنورد و شیروان از همسایه‌های شهرستان‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کشاورزی و دامداری در اقتصاد محلی مهم هستند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>دره‌های جرگلان بخشی از چشم‌انداز طبیعی شهرستان‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مقررات مرزی باید پیش از سفر بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان راز و جرگلان، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1193
+   },
+   "meta": {
+    "sa_city_slug": "raz-jargalan",
+    "sa_city_population": "۵۹۲۱۰",
+    "sa_city_latitude": "۳۷٫۵۶۶۶۷ شمالی",
+    "sa_city_longitude": "۵۷٫۳۵ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.56667,57.35",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان راز و جرگلان؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان راز و جرگلان؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان راز و جرگلان",
+    "sa_og_title": "شهرستان راز و جرگلان — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان راز و جرگلان در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "راز و جرگلان",
+    "سفر به راز و جرگلان",
+    "جاذبه‌های راز و جرگلان",
+    "تاریخ راز و جرگلان"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=37.56667,57.35",
+   "faq": [
+    {
+     "q": "شهرستان راز و جرگلان کجاست؟",
+     "a": "شهرستان راز و جرگلان در استان خراسان شمالی و در راز و جرگلان در شمال خراسان شمالی و در امتداد مرز ایران و ترکمنستان قرار دارد. از شمال به مرز کشور ترکمنستان، از شرق با شیروان، از جنوب با اسفراین و از شمال‌غرب با بجنورد همسایه است. شهر راز مرکز شهرستان است و دره‌های جرگلان تنوع طبیعی منطقه را افزایش می‌دهند."
+    },
+    {
+     "q": "مرکز شهرستان راز و جرگلان کدام شهر است؟",
+     "a": "مرکز شهرستان راز و جرگلان، شهر راز است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان راز و جرگلان ۵۹٬۲۱۰ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان راز و جرگلان نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکمنی، ترکی و فارسی خراسانی در پهنهٔ استان و شهرستان‌های شمالی دیده می‌شوند؛ سهم دقیق هر زبان نیازمند دادهٔ رسمی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، دامداری، باغداری، صنایع دستی و خدمات مرزی پایه‌های اقتصاد راز و جرگلان‌اند. آمار تولید و تجارت مرزی باید از منابع رسمی و با سال مرجع مشخص دریافت شود."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان راز و جرگلان؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_راز_و_جرگلان | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر راز | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/راز_(خراسان_شمالی) | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان راز و جرگلان | Google Maps | https://www.google.com/maps/search/?api=1&query=37.56667,57.35 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/raz-jargalan.webp",
+    "source": "assets/featured/counties/north-khorasan/raz-jargalan.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان راز و جرگلان در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان راز و جرگلان در یک نگاه.",
+    "title": "شهرستان راز و جرگلان — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان راز و جرگلان در استان خراسان شمالی",
+    "sha1": "93573d9976a3fe6240f42979b350de59e06ffdfc"
+   }
+  },
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/shirvan.md",
+   "source_sha1": "b1cb3a617bede905214abe1f0af4e32653087b56",
+   "slug": "shirvan",
+   "status": "article",
+   "title": "شهرستان شیروان",
+   "name_fa": "شهرستان شیروان",
+   "name_en": "Shirvan County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان شیروان",
+    "excerpt": "شهرستان شیروان با مرکزیت شیروان، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان شیروان</strong> با مرکزیت شهر <strong>شیروان</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>ییلاق زوارم و روستاهای کوهستانی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>آبشار استرخی و کوه‌های آلاداغ</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>تنوع میراث روستایی و زیارتگاه‌ها</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>سد بارزو و چشم‌اندازهای آبی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>شیروان در شمال خراسان شمالی و میان کوه‌های آلاداغ و کپه‌داغ قرار دارد. از شرق با فاروج، از غرب با راز و جرگلان و از جنوب‌غرب با اسفراین همسایه است. شهر شیروان مرکز شهرستان است و دشت و ارتفاعات پیرامون آن تنوع طبیعی ایجاد کرده‌اند.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.53333,57.9\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شیروان\">2</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۱۴۶٬۱۴۰ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></td></tr><tr><td>مساحت</td><td>۳٬۷۸۹ کیلومتر مربع</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شیروان\">2</a></sup></td></tr><tr><td>مختصات</td><td>۳۷٫۵۳۳۳۳ شمالی، ۵۷٫۹ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.53333,57.9\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>۳ بخش؛ تعداد شهر و دهستان‌ها نیازمند تطبیق</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شیروان در شمال خراسان شمالی و میان کوه‌های آلاداغ و کپه‌داغ قرار دارد. از شرق با فاروج، از غرب با راز و جرگلان و از جنوب‌غرب با اسفراین همسایه است. شهر شیروان مرکز شهرستان است و دشت و ارتفاعات پیرامون آن تنوع طبیعی ایجاد کرده‌اند. همسایه‌های شهرستان شامل فاروج، راز و جرگلان و اسفراین هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شیروان در پهنهٔ تاریخی خراسان و در مسیر ارتباطی بجنورد و قوچان جای دارد. روستاهای کوهستانی و دشت‌های کشاورزی از گذشته در کنار منابع آب شکل گرفته‌اند و حمام‌ها، تپه‌ها و زیارتگاه‌های محلی لایه‌های تاریخی منطقه را نشان می‌دهند. تاریخ دقیق تشکیل و ساختار اداری شهرستان باید با مصوبه‌های رسمی کنترل شود. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان شیروان در ساختار اداری معاصر با مرکزیت شیروان معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>شیروان</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>شیروان</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>شیروان نام شهر و شهرستان امروزی است و دربارهٔ ریشهٔ آن دیدگاه‌های تاریخی گوناگون وجود دارد. معنی قطعی نام به منبع تخصصی زبان‌شناختی نیازمند است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شیروان اقلیم نیمه‌خشک و معتدل دارد؛ ارتفاعات و ییلاق‌ها خنک‌ترند و زمستان‌ها می‌تواند سرد و برفی باشد. بهار و اوایل پاییز برای جاذبه‌های روباز مناسب‌ترند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، دامداری، صنایع غذایی، باغداری و گردشگری طبیعی پایه‌های اقتصاد شیروان‌اند. ظرفیت تولید و بازدید باید با گزارش‌های سال‌دار جهاد کشاورزی، میراث فرهنگی و دستگاه‌های محلی تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ شیروان با موسیقی کرمانجی، زندگی روستایی، آیین‌های مذهبی و ییلاق‌های کوهستانی شکل گرفته است. تنوع روستاها باید با منابع مردم‌شناختی و محلی معرفی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکی و فارسی خراسانی در استان رایج‌اند؛ سهم دقیق زبان‌ها در شهرستان نیازمند پژوهش رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">ییلاق زوارم</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>زوارم از روستاهای کوهستانی شناخته‌شدهٔ شهرستان است؛ مسیر، امکانات و وضعیت فصلی آن باید پیش از سفر بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">آبشار استرخی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>آبشار استرخی از جاذبه‌های طبیعی دادهٔ پایه است و میزان آب، مسیر دسترسی و حفاظت آن نیازمند منبع محلی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">سد بارزو</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>سد بارزو در فهرست جاذبه‌های پیرامونی شیروان آمده است؛ حریم و امکان بازدید باید از مرجع مربوط استعلام شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">کوهستان پارک شیرکوه</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کوهستان پارک شیرکوه فضایی طبیعی در پیرامون شیروان است و اطلاعات امکانات آن باید به‌روز باشد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">حمام‌ها و تپه‌های تاریخی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>حمام روستای پیرشهید، تپه‌ها و زیارتگاه‌ها باید بر پایهٔ پرونده‌های میراث فرهنگی معرفی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان شیروان در مختصات <strong>۳۷٫۵۳۳۳۳ شمالی، ۵۷٫۹ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.53333,57.9\">مشاهدهٔ موقعیت شیروان در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.53333,57.9\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>استادان موسیقی کرمانجی شیروان؛ نسبت شهرستانی نیازمند سند است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>پژوهشگران تاریخ و میراث روستاهای شیروان؛ نام‌ها باید مستند باشند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی شهرستان؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بزرگان ادبی و فرهنگی شیروان؛ زندگی‌نامهٔ معتبر ضروری است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های علمی و ورزشی شهرستان؛ زادگاه باید مستقل بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>شیروان در شمال خراسان شمالی قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ شهرستان حدود ۱۴۶٬۱۴۰ نفر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مساحت پایهٔ آن حدود ۳٬۷۸۹ کیلومتر مربع گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>زوارم و آبشار استرخی از جاذبه‌های طبیعی‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>سد بارزو در جغرافیای پیرامون شهرستان قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>فاروج و اسفراین از همسایه‌های شیروان هستند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کشاورزی، دامداری و باغداری در اقتصاد آن اهمیت دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>اقلیم شهرستان نیمه‌خشک و معتدل است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>موسیقی کرمانجی بخشی از فرهنگ منطقه است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تقسیمات اداری باید با آخرین مصوبه کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان شیروان، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1132
+   },
+   "meta": {
+    "sa_city_slug": "shirvan",
+    "sa_city_population": "۱۴۶۱۴۰",
+    "sa_city_latitude": "۳۷٫۵۳۳۳۳ شمالی",
+    "sa_city_longitude": "۵۷٫۹ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.53333,57.9",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_شیروان\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان شیروان؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان شیروان؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان شیروان",
+    "sa_og_title": "شهرستان شیروان — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان شیروان در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "شیروان",
+    "سفر به شیروان",
+    "جاذبه‌های شیروان",
+    "تاریخ شیروان"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=37.53333,57.9",
+   "faq": [
+    {
+     "q": "شهرستان شیروان کجاست؟",
+     "a": "شهرستان شیروان در استان خراسان شمالی و در شیروان در شمال خراسان شمالی و میان کوه‌های آلاداغ و کپه‌داغ قرار دارد. از شرق با فاروج، از غرب با راز و جرگلان و از جنوب‌غرب با اسفراین همسایه است. شهر شیروان مرکز شهرستان است و دشت و ارتفاعات پیرامون آن تنوع طبیعی ایجاد کرده‌اند."
+    },
+    {
+     "q": "مرکز شهرستان شیروان کدام شهر است؟",
+     "a": "مرکز شهرستان شیروان، شهر شیروان است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان شیروان ۱۴۶٬۱۴۰ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان شیروان نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکی و فارسی خراسانی در استان رایج‌اند؛ سهم دقیق زبان‌ها در شهرستان نیازمند پژوهش رسمی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، دامداری، صنایع غذایی، باغداری و گردشگری طبیعی پایه‌های اقتصاد شیروان‌اند. ظرفیت تولید و بازدید باید با گزارش‌های سال‌دار جهاد کشاورزی، میراث فرهنگی و دستگاه‌های محلی تکمیل شود."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان شیروان؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_شیروان | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر شیروان | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شیروان | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان شیروان | Google Maps | https://www.google.com/maps/search/?api=1&query=37.53333,57.9 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/shirvan.webp",
+    "source": "assets/featured/counties/north-khorasan/shirvan.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان شیروان در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان شیروان در یک نگاه.",
+    "title": "شهرستان شیروان — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان شیروان در استان خراسان شمالی",
+    "sha1": "5cccba2aff34f7c7f77667de875a81be9cfbf4f5"
+   }
+  },
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/faruj.md",
+   "source_sha1": "dcfa8fd0ade019b6420ead45bb4e172c56cbb023",
+   "slug": "faruj",
+   "status": "article",
+   "title": "شهرستان فاروج",
+   "name_fa": "شهرستان فاروج",
+   "name_en": "Faruj County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان فاروج",
+    "excerpt": "شهرستان فاروج با مرکزیت فاروج، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان فاروج</strong> با مرکزیت شهر <strong>فاروج</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>باغ‌ها و محصولات خشکبار فاروج</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>کوه شاه‌جهان و چشم‌اندازهای شمال‌شرق</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>تپهٔ امامزاده و امامزاده عبدالله</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>قرارگیری در مسیر مشهد و بجنورد</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>فاروج در غرب خراسان شمالی و در مسیر ارتباطی مشهد و بجنورد قرار دارد. از شمال‌غرب با شیروان، از جنوب‌غرب با بام و صفی‌آباد و اسفراین، از شرق با درگز و از جنوب‌شرق با چناران همسایه است. شهر فاروج مرکز شهرستان است.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.22829,58.21542\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/فاروج\">2</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۴۹٬۲۷۱ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></td></tr><tr><td>مساحت</td><td>۱٬۶۱۵ کیلومتر مربع</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/فاروج\">2</a></sup></td></tr><tr><td>مختصات</td><td>۳۷٫۲۲۸۲۹ شمالی، ۵۸٫۲۱۵۴۲ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.22829,58.21542\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>۲ بخش، ۲ شهر و ۵ دهستان</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فاروج در غرب خراسان شمالی و در مسیر ارتباطی مشهد و بجنورد قرار دارد. از شمال‌غرب با شیروان، از جنوب‌غرب با بام و صفی‌آباد و اسفراین، از شرق با درگز و از جنوب‌شرق با چناران همسایه است. شهر فاروج مرکز شهرستان است. همسایه‌های شهرستان شامل شیروان، بام و صفی‌آباد، اسفراین، درگز و چناران هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فاروج در حوزهٔ تاریخی خراسان و در مسیرهای ارتباطی شمال‌شرق قرار دارد. تپه‌ها، آبادی‌های کشاورزی و ارتفاعات شاه‌جهان، گذشته و جغرافیای منطقه را به هم پیوند داده‌اند. شهر و شهرستان در تقسیمات اداری معاصر جایگاه کنونی خود را یافتند و تاریخ تشکیل و مرزهای آن باید از وزارت کشور کنترل شود. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان فاروج در ساختار اداری معاصر با مرکزیت فاروج معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>فاروج</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>فاروج</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>فاروج نام شهر و شهرستان امروزی است. دربارهٔ ریشهٔ نام و نام‌های کهن آن، منابع تاریخی و زبان‌شناختی دیدگاه‌های مختلف دارند و معنی قطعی نیازمند بررسی تخصصی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فاروج اقلیمی نیمه‌خشک و معتدل دارد؛ ارتفاعات سردتر و دشت‌ها در تابستان گرم‌ترند. بهار و پاییز برای باغ‌ها، روستاها و جاذبه‌های روباز مناسب‌ترند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، باغداری، دامداری، خشکبار و خدمات مسیر ارتباطی پایه‌های اقتصاد فاروج‌اند. رتبه یا حجم تولید خشکبار و سایر محصولات باید با آمار رسمی سال‌دار بیان شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ فاروج با باغداری، بازار خشکبار، موسیقی خراسانی و زندگی روستایی شکل گرفته است. آیین‌ها و خوراک‌های محلی باید با منابع معتبر شهرستانی معرفی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکی و فارسی خراسانی در منطقه رایج‌اند؛ سهم دقیق هر زبان در شهرستان نیازمند پژوهش رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">کوه شاه‌جهان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کوه شاه‌جهان از عناصر طبیعی شاخص پیرامون فاروج است؛ مسیرهای ارتفاعی به راهنما و بررسی هوا نیاز دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">تپهٔ امامزاده</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>تپهٔ امامزاده در دادهٔ پایه به‌عنوان میراث شهرستان آمده است و تاریخ و ثبت آن باید با میراث فرهنگی کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">امامزاده عبدالله</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>امامزاده عبدالله از مکان‌های مذهبی معرفی‌شده در دادهٔ اولیه است؛ اطلاعات زیارت و دسترسی نیازمند منبع محلی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">باغ‌ها و روستاهای فاروج</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>باغ‌ها و آبادی‌های شهرستان پیوند کشاورزی با زندگی روستایی شمال خراسان را نشان می‌دهند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">محور ارتباطی فاروج</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>جاده‌های شهرستان ارتباط بجنورد، قوچان و مشهد را برقرار می‌کنند؛ زمان سفر به وضعیت روز راه وابسته است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان فاروج در مختصات <strong>۳۷٫۲۲۸۲۹ شمالی، ۵۸٫۲۱۵۴۲ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.22829,58.21542\">مشاهدهٔ موقعیت فاروج در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=37.22829,58.21542\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>پژوهشگران تاریخ و تپه‌های فاروج؛ نام‌ها باید مستند باشند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>باغداران و فعالان خشکبار شهرستان؛ دستاوردها به منبع رسمی نیاز دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>استادان موسیقی خراسانی فاروج؛ نسبت محلی باید کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی منطقه؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های علمی و فرهنگی فاروج؛ زادگاه باید مستقل بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>فاروج در غرب خراسان شمالی قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ شهرستان حدود ۴۹٬۲۷۱ نفر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مساحت پایهٔ آن حدود ۱٬۶۱۵ کیلومتر مربع گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کوه شاه‌جهان در جغرافیای پیرامون اهمیت دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تپهٔ امامزاده و امامزاده عبدالله در دادهٔ پایه آمده‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>شیروان و اسفراین از همسایه‌های فاروج هستند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>باغداری و خشکبار در اقتصاد شهرستان اهمیت دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>اقلیم فاروج نیمه‌خشک و معتدل است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>شهرستان در مسیر ارتباطی بجنورد و مشهد قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>تقسیمات باید با مصوبهٔ رسمی کنترل شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان فاروج، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1130
+   },
+   "meta": {
+    "sa_city_slug": "faruj",
+    "sa_city_population": "۴۹۲۷۱",
+    "sa_city_latitude": "۳۷٫۲۲۸۲۹ شمالی",
+    "sa_city_longitude": "۵۸٫۲۱۵۴۲ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.22829,58.21542",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_فاروج\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان فاروج؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان فاروج؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان فاروج",
+    "sa_og_title": "شهرستان فاروج — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان فاروج در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "فاروج",
+    "سفر به فاروج",
+    "جاذبه‌های فاروج",
+    "تاریخ فاروج"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=37.22829,58.21542",
+   "faq": [
+    {
+     "q": "شهرستان فاروج کجاست؟",
+     "a": "شهرستان فاروج در استان خراسان شمالی و در فاروج در غرب خراسان شمالی و در مسیر ارتباطی مشهد و بجنورد قرار دارد. از شمال‌غرب با شیروان، از جنوب‌غرب با بام و صفی‌آباد و اسفراین، از شرق با درگز و از جنوب‌شرق با چناران همسایه است. شهر فاروج مرکز شهرستان است."
+    },
+    {
+     "q": "مرکز شهرستان فاروج کدام شهر است؟",
+     "a": "مرکز شهرستان فاروج، شهر فاروج است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان فاروج ۴۹٬۲۷۱ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان فاروج نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکی و فارسی خراسانی در منطقه رایج‌اند؛ سهم دقیق هر زبان در شهرستان نیازمند پژوهش رسمی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، باغداری، دامداری، خشکبار و خدمات مسیر ارتباطی پایه‌های اقتصاد فاروج‌اند. رتبه یا حجم تولید خشکبار و سایر محصولات باید با آمار رسمی سال‌دار بیان شود."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان فاروج؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_فاروج | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر فاروج | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/فاروج | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان فاروج | Google Maps | https://www.google.com/maps/search/?api=1&query=37.22829,58.21542 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/faruj.webp",
+    "source": "assets/featured/counties/north-khorasan/faruj.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان فاروج در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان فاروج در یک نگاه.",
+    "title": "شهرستان فاروج — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان فاروج در استان خراسان شمالی",
+    "sha1": "b87b3f23a23c2dab1ec0644b2042efe3a570de96"
+   }
+  },
+  {
+   "package_format": "1.0",
+   "built": "2026-10-02",
+   "source_file": "content/cities/garmeh.md",
+   "source_sha1": "0bf6fa06df4cb3af00c5cc999f86fc365d284e01",
+   "slug": "garmeh",
+   "status": "article",
+   "title": "شهرستان گرمه",
+   "name_fa": "شهرستان گرمه",
+   "name_en": "Garmeh County",
+   "province": {
+    "slug": "north-khorasan",
+    "name_fa": "استان خراسان شمالی",
+    "term_name": "خراسان شمالی"
+   },
+   "post": {
+    "title": "شهرستان گرمه",
+    "excerpt": "شهرستان گرمه با مرکزیت گرمه، یکی از شهرستان‌های خراسان شمالی با جغرافیای ویژه است.",
+    "content_html": "<!-- wp:paragraph --><p>```</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">معرفی شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p><strong>شهرستان گرمه</strong> با مرکزیت شهر <strong>گرمه</strong> در <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> قرار دارد. ویژگی‌های شاخص آن عبارت‌اند از:</p><!-- /wp:paragraph -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><strong>رباط عشق و مسیر تاریخی خراسان</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>قلعه خداوردی درق و تپه‌های تاریخی</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>چشم‌اندازهای نیمه‌بیابانی جنوب استان</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li><strong>پیوند جاده‌ای با جاجرم و استان‌های همسایه</strong><sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>گرمه در جنوب‌غرب خراسان شمالی و در پهنه‌ای میان دشت‌های خشک و ارتفاعات شمالی قرار دارد. از شرق با جاجرم، از جنوب‌غرب با میامی در استان سمنان و از شمال‌غرب با گالیکش در استان گلستان همسایه است. شهر گرمه مرکز شهرستان است.<sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=36.98333,56.28333\">3</a></sup> این مقاله مشخصات اداری، تاریخ، فرهنگ، زبان، صنایع و جاذبه‌های شهرستان را برای بازبینی و ویرایش انسانی معرفی می‌کند.&lt;sup&gt;<a href=\"https://fa.wikipedia.org/wiki/گرمه_(خراسان_شمالی\">2</a>)&lt;/sup&gt;</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشخصات کلی</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>شاخص</th><th>مقدار</th><th>توضیح</th></tr></thead><tbody><tr><td>جمعیت شهرستان</td><td>۲۵٬۴۷۵ نفر</td><td>سرشماری ۱۳۹۵؛ بازبینی مرکز آمار لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></td></tr><tr><td>مساحت</td><td>۲٬۴۰۷ کیلومتر مربع</td><td>دادهٔ پایه؛ تطبیق رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></td></tr><tr><td>ارتفاع مرکز</td><td>نیازمند تطبیق رسمی</td><td>منبع جغرافیایی لازم است &lt;sup&gt;<a href=\"https://fa.wikipedia.org/wiki/گرمه_(خراسان_شمالی\">2</a>)&lt;/sup&gt;</td></tr><tr><td>مختصات</td><td>۳۶٫۹۸۳۳۳ شمالی، ۵۶٫۲۸۳۳۳ شرقی</td><td>موقعیت تقریبی <sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=36.98333,56.28333\">3</a></sup></td></tr><tr><td>استان</td><td>خراسان شمالی</td><td>رابطهٔ داخلی استان <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/استان_خراسان_شمالی\">5</a></sup></td></tr><tr><td>تقسیمات</td><td>نیازمند تطبیق رسمی؛ ۳ شهر و ۹ دهستان در دادهٔ پایه</td><td>کنترل آخرین مصوبه <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></td></tr><tr><td>پیش‌شماره</td><td>۰۵۸؛ نیازمند بررسی</td><td>کنترل مخابراتی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></td></tr><tr><td>سال تشکیل</td><td>نیازمند تطبیق مصوبهٔ وزارت کشور</td><td>منبع رسمی لازم است <sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>نام مرکز و ساختار اداری پیش از انتشار باید با آخرین اسناد رسمی تطبیق داده شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">موقعیت جغرافیایی</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>گرمه در جنوب‌غرب خراسان شمالی و در پهنه‌ای میان دشت‌های خشک و ارتفاعات شمالی قرار دارد. از شرق با جاجرم، از جنوب‌غرب با میامی در استان سمنان و از شمال‌غرب با گالیکش در استان گلستان همسایه است. شهر گرمه مرکز شهرستان است. همسایه‌های شهرستان شامل جاجرم، میامی در سمنان و گالیکش در گلستان هستند. مرزهای اداری و نام واحدهای پیرامونی باید با نقشهٔ رسمی بازبینی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>پیوندهای داخلی برای مقایسهٔ شهرستان‌های خراسان شمالی: <a href=\"/city/bojnord/\">بجنورد</a>، <a href=\"/city/esfarayen/\">اسفراین</a>، <a href=\"/city/shirvan/\">شیروان</a>، <a href=\"/city/jajarm/\">جاجرم</a>، <a href=\"/city/raz-jargalan/\">راز و جرگلان</a>، <a href=\"/city/faruj/\">فاروج</a>، <a href=\"/city/garmeh/\">گرمه</a>، <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a>.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">تاریخچه</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دوره‌های باستانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>گرمه در حاشیهٔ مسیرهای تاریخی خراسان و در پیوند میان دشت‌های شمالی و نواحی کویری قرار دارد. رباط عشق، قلعه خداوردی درق و تپه‌های پیرامون از نشانه‌های تاریخی منطقه‌اند. شهرستان در تقسیمات اداری معاصر شکل گرفت و مرزهای آن با استان‌های همسایه باید از نقشه و مصوبهٔ رسمی کنترل شود. منابع آب، راه‌ها و جایگاه کوهستانی در شکل‌گیری آبادی‌های خراسان شمالی اهمیت داشته‌اند؛ انتساب هر محوطه به دوره‌ای مشخص نیازمند منبع باستان‌شناسی همان اثر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ اسلامی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>در دورهٔ اسلامی، این پهنه بخشی از شبکهٔ تاریخی خراسان بود. راه‌های کاروانی، آبادی‌های کشاورزی، زیارتگاه‌ها و دژها آن را با شهرهای بزرگ منطقه مرتبط می‌کردند. جزئیات هر بنا یا رویداد باید با منبع تخصصی همان موضوع کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">دورهٔ معاصر و تشکیل شهرستان</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>شهرستان گرمه در ساختار اداری معاصر با مرکزیت گرمه معرفی می‌شود؛ تاریخ دقیق تشکیل، تغییر مرزها و بخش‌ها باید با شماره و تاریخ مصوبهٔ وزارت کشور تکمیل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">وجه تسمیه</h2><!-- /wp:heading -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>نام</th><th>کاربرد</th><th>توضیح</th></tr></thead><tbody><tr><td>گرمه</td><td>نام رسمی شهرستان</td><td>صورت امروزی در تقسیمات</td></tr><tr><td>گرمه</td><td>مرکز شهرستان</td><td>ریشهٔ تاریخی نیازمند منبع تخصصی</td></tr><tr><td>نام‌های تاریخی منطقه</td><td>دوره‌های پیشین</td><td>نیازمند بررسی زبان‌شناختی</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:paragraph --><p>گرمه نام شهر و شهرستان امروزی است و نام روستاها و آبادی‌های پیرامون نیز لایه‌های تاریخی منطقه را حفظ کرده‌اند. ریشه‌شناسی قطعی نام نیازمند منابع زبان‌شناختی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">آب و هوا</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>گرمه اقلیم سرد و خشک و نیمه‌بیابانی دارد و در شمال و شمال‌غرب، ارتفاعات معتدل‌تر می‌شوند. بهار و پاییز برای آثار تاریخی و دشت مناسب‌ترند و تابستان گرم و زمستان مسیرهای ارتفاعی ممکن است دشوار باشد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup> فصل مناسب بازدید به هدف سفر، ارتفاع و وضعیت روز راه وابسته است.</p><!-- /wp:paragraph -->\n\n<!-- wp:table --><figure class=\"wp-block-table\"><table><thead><tr><th>فصل</th><th>ویژگی کلی</th><th>پیشنهاد</th></tr></thead><tbody><tr><td>بهار</td><td>هوای معتدل‌تر و پوشش گیاهی بهتر</td><td>جاذبه‌های روباز و روستاها</td></tr><tr><td>تابستان</td><td>گرم در دشت و خنک‌تر در ارتفاع</td><td>برنامهٔ صبحگاهی و کنترل هوا</td></tr><tr><td>پاییز</td><td>هوای خنک‌تر</td><td>گشت فرهنگی و طبیعت‌گردی سبک</td></tr><tr><td>زمستان</td><td>سرد و گاه برفی</td><td>کنترل مسیر و تجهیزات</td></tr></tbody></table></figure><!-- /wp:table -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">صنایع مهم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کشاورزی، دامداری، معدن، خدمات جاده‌ای و گردشگری تاریخی پایه‌های اقتصاد گرمه‌اند. ظرفیت‌های صنعتی و معدنی و آمار تولید باید از منابع دستگاه‌های مسئول و با سال مرجع نقل شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup> برای انتشار نهایی باید آمار تولید، اشتغال و ظرفیت‌های اقتصادی از دستگاه مربوط و با سال مرجع مشخص دریافت شود. اعداد بدون منبع سال‌دار نباید در نسخهٔ انتشار باقی بمانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">فرهنگ و مردم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>فرهنگ گرمه با زندگی نیمه‌بیابانی، روستاهای تاریخی، آیین‌های خراسانی و پیوندهای همسایگی با سمنان و گلستان شکل گرفته است. هر ادعای فرهنگی یا خوراکی به منبع محلی نیاز دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup> معرفی مردم شهرستان باید بر پایهٔ آیین‌ها، هنرها، موسیقی و زندگی روزمرهٔ مستند انجام شود. از تعمیم یک رسم به همهٔ ساکنان پرهیز می‌شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">زبان و گویش</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>کردی کرمانجی، ترکی و فارسی خراسانی در استان رایج‌اند؛ سهم زبان‌ها در شهرستان نیازمند پژوهش رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup> برای ثبت درصد جمعیت یا نسبت زبانی، منبع زبان‌شناختی یا گزارش رسمی لازم است؛ موارد حل‌نشده با «نیازمند بررسی» باقی می‌مانند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">جاذبه‌های گردشگری</h2><!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">رباط عشق</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>رباط عشق از آثار تاریخی شناخته‌شدهٔ دادهٔ پایه و نشانهٔ اهمیت مسیرهای کاروانی منطقه است؛ ثبت و ساعت بازدید باید کنترل شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">قلعه خداوردی درق</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>قلعه خداوردی درق در فهرست میراثی شهرستان آمده است و دوره، ثبت و وضعیت حفاظتی آن نیازمند منبع رسمی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">تپه‌های تاریخی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>منجاق‌تپه و تپه رباط عشق باید با گزارش باستان‌شناسی و حریم حفاظتی معرفی شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">چشم‌انداز نیمه‌بیابانی</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>دشت‌های خشک جنوب خراسان شمالی برای شناخت طبیعت منطقه مناسب‌اند؛ گرما و دسترسی باید پیش از سفر بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} --><h3 class=\"wp-block-heading\">روستاهای گرمه</h3><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>آبادی‌ها و معماری بومی گرمه سازگاری سکونتگاه‌ها با اقلیم کم‌آب را نشان می‌دهند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></p><!-- /wp:paragraph -->\n\n<!-- wp:paragraph --><p>ساعت بازدید، مسیر، حریم حفاظتی و محدودیت دسترسی هر جاذبه باید پیش از انتشار و سفر از مرجع محلی بررسی شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">نقشه و لوکیشن</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>مرکز شهرستان گرمه در مختصات <strong>۳۶٫۹۸۳۳۳ شمالی، ۵۶٫۲۸۳۳۳ شرقی</strong> معرفی شده است. <a href=\"https://www.google.com/maps/search/?api=1&amp;query=36.98333,56.28333\">مشاهدهٔ موقعیت گرمه در Google Maps</a><sup class=\"sa-cite\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=36.98333,56.28333\">3</a></sup>. فاصله و زمان رانندگی باید با مسیر مشخص و تاریخ بازبینی ثبت شوند.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">مشاهیر شهرستان</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>پژوهشگران رباط عشق و راه‌های تاریخی خراسان؛ نام‌ها باید مستند باشند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>باستان‌شناسان تپه‌ها و قلعه‌های گرمه؛ ارتباط پژوهشی نیازمند منبع است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>بزرگان فرهنگی شهرستان؛ زندگی‌نامهٔ معتبر لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>هنرمندان صنایع دستی روستاهای گرمه؛ تأیید میراث فرهنگی لازم است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>چهره‌های علمی و اجتماعی گرمه؛ نسبت محلی باید مستقل بررسی شود.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:paragraph --><p>این فهرست اولیه است و زادگاه، نسبت شهرستانی و دلیل شهرت هر چهره باید با منبع مستقل کنترل شود.</p><!-- /wp:paragraph -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">حقایق جالب</h2><!-- /wp:heading -->\n\n<!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li>گرمه در جنوب‌غرب خراسان شمالی قرار دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جمعیت پایهٔ شهرستان حدود ۲۵٬۴۷۵ نفر است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مساحت پایهٔ آن حدود ۲٬۴۰۷ کیلومتر مربع گزارش شده است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>رباط عشق از آثار تاریخی شاخص دادهٔ پایه است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>قلعه خداوردی درق و تپه‌ها در فهرست اولیه آمده‌اند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>جاجرم از همسایه‌های شرقی شهرستان است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>اقلیم گرمه سرد و خشک و نیمه‌بیابانی است.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>کشاورزی، دامداری و خدمات جاده‌ای در اقتصاد آن اهمیت دارند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>گرمه با سمنان و گلستان نیز همسایگی اداری دارد.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --><!-- wp:list-item --><li>مرزهای استانی باید با نقشهٔ رسمی کنترل شوند.<sup class=\"sa-cite\"><a href=\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\">1</a></sup></li><!-- /wp:list-item --></ul><!-- /wp:list -->\n\n<!-- wp:heading --><h2 class=\"wp-block-heading\">از مردم عزیز شهرستان گرمه، یک درخواست داریم</h2><!-- /wp:heading -->\n\n<!-- wp:paragraph --><p>اگر دربارهٔ تاریخ، جاذبه‌ها، نام‌های محلی، عکس‌ها یا داده‌های این مقاله اصلاحیه و منبع معتبر دارید، آن را به <strong>Mail@sarzaminaryan.ir</strong> بفرستید. راهنمای <a href=\"/province/north-khorasan/\">استان خراسان شمالی</a> برای شناخت شهرستان‌های همسایه در دسترس است.</p><!-- /wp:paragraph -->",
+    "word_count": 1159
+   },
+   "meta": {
+    "sa_city_slug": "garmeh",
+    "sa_city_population": "۲۵۴۷۵",
+    "sa_city_latitude": "۳۶٫۹۸۳۳۳ شمالی",
+    "sa_city_longitude": "۵۶٫۲۸۳۳۳ شرقی",
+    "sa_access_air": "",
+    "sa_access_rail": "",
+    "sa_access_road": "",
+    "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.98333,56.28333",
+    "sa_city_schema_type": "City + TouristDestination",
+    "sa_schema_sameas": "[\"https://fa.wikipedia.org/wiki/شهرستان_گرمه\"]",
+    "sa_schema_contained_in": "north-khorasan"
+   },
+   "seo": {
+    "sa_seo_title": "شهرستان گرمه؛ راهنمای تاریخ، فرهنگ و جاذبه‌های خراسان شمالی",
+    "sa_seo_description": "راهنمای شهرستان گرمه؛ مشخصات، تاریخچه، فرهنگ، جاذبه‌ها و مسیرهای شناخت این شهرستان در استان خراسان شمالی.",
+    "sa_focus_keyword": "شهرستان گرمه",
+    "sa_og_title": "شهرستان گرمه — راهنمای سرزمین آریان",
+    "sa_og_description": "راهنمای شهرستان گرمه در استان خراسان شمالی."
+   },
+   "secondary_keywords": [
+    "گرمه",
+    "سفر به گرمه",
+    "جاذبه‌های گرمه",
+    "تاریخ گرمه"
+   ],
+   "travel_season": [
+    "بهار، پاییز"
+   ],
+   "google_map_url": "https://www.google.com/maps/search/?api=1&query=36.98333,56.28333",
+   "faq": [
+    {
+     "q": "شهرستان گرمه کجاست؟",
+     "a": "شهرستان گرمه در استان خراسان شمالی و در گرمه در جنوب‌غرب خراسان شمالی و در پهنه‌ای میان دشت‌های خشک و ارتفاعات شمالی قرار دارد. از شرق با جاجرم، از جنوب‌غرب با میامی در استان سمنان و از شمال‌غرب با گالیکش در استان گلستان همسایه است. شهر گرمه مرکز شهرستان است."
+    },
+    {
+     "q": "مرکز شهرستان گرمه کدام شهر است؟",
+     "a": "مرکز شهرستان گرمه، شهر گرمه است."
+    },
+    {
+     "q": "جمعیت شهرستان چقدر است؟",
+     "a": "جمعیت پایهٔ شهرستان گرمه ۲۵٬۴۷۵ نفر است و باید با مرکز آمار تطبیق داده شود."
+    },
+    {
+     "q": "مهم‌ترین جاذبه‌ها کدام‌اند؟",
+     "a": "جاذبه‌های اصلی در بخش گردشگری مقاله آمده‌اند و شرایط بازدید باید بررسی شود."
+    },
+    {
+     "q": "بهترین زمان سفر چیست؟",
+     "a": "بهار و پاییز معمولاً برای گشت روباز مناسب‌ترند، اما وضعیت هوا و راه باید کنترل شود."
+    },
+    {
+     "q": "شهرستان چه زمانی تشکیل شد؟",
+     "a": "تاریخ دقیق تشکیل شهرستان گرمه نیازمند تطبیق مصوبهٔ وزارت کشور است."
+    },
+    {
+     "q": "زبان مردم شهرستان چیست؟",
+     "a": "کردی کرمانجی، ترکی و فارسی خراسانی در استان رایج‌اند؛ سهم زبان‌ها در شهرستان نیازمند پژوهش رسمی است."
+    },
+    {
+     "q": "فعالیت اقتصادی مهم چیست؟",
+     "a": "کشاورزی، دامداری، معدن، خدمات جاده‌ای و گردشگری تاریخی پایه‌های اقتصاد گرمه‌اند. ظرفیت‌های صنعتی و معدنی و آمار تولید باید از منابع دستگاه‌های مسئول و با سال مرجع نقل شوند."
+    },
+    {
+     "q": "آیا جاذبهٔ طبیعی دارد؟",
+     "a": "بله؛ جاذبه‌های طبیعی و روستایی در بخش گردشگری معرفی شده‌اند."
+    },
+    {
+     "q": "برای اصلاح مقاله چه باید کرد؟",
+     "a": "اصلاحیه یا منبع معتبر را به Mail@sarzaminaryan.ir ارسال کنید."
+    }
+   ],
+   "sources": "1. صفحهٔ شهرستان گرمه؛ جغرافیا و تقسیمات | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/شهرستان_گرمه | ۱۴۰۵/۰۷/۱۰\n2. صفحهٔ شهر گرمه | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/گرمه_(خراسان_شمالی) | ۱۴۰۵/۰۷/۱۰\n3. [نقشه] موقعیت شهرستان گرمه | Google Maps | https://www.google.com/maps/search/?api=1&query=36.98333,56.28333 | ۱۴۰۵/۰۷/۱۰\n4. درگاه استانداری خراسان شمالی | دولت جمهوری اسلامی ایران | https://nkhorasan.ir/ | ۱۴۰۵/۰۷/۱۰\n5. صفحهٔ استان خراسان شمالی | ویکی‌پدیای فارسی | https://fa.wikipedia.org/wiki/استان_خراسان_شمالی | ۱۴۰۵/۰۷/۱۰\n\n--- FACT CHECK ---\n\n۱. این فایل پیش‌نویس پژوهشی است؛ آمار جمعیت، مساحت، تقسیمات، سال تشکیل، مختصات و پیش‌شماره باید با منابع رسمی تطبیق داده شوند.\n۲. ویکی‌پدیا برای کشف داده و ساخت پیش‌نویس استفاده شده است؛ منابع رسمی، میراثی و دانشگاهی باید در بازبینی جایگزین یا تکمیل شوند.\n۳. وضعیت مسیرها، دسترسی، مشاهیر، آیین‌ها و ثبت‌های میراثی نیازمند بازبینی اختصاصی است.\n۴. ادعاهای حساس، رتبه‌ها و اعداد بدون منبع معتبر نباید وارد نسخهٔ انتشار شوند.",
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "image": {
+    "file": "assets/counties/garmeh.webp",
+    "source": "assets/featured/counties/north-khorasan/garmeh.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان گرمه در استان خراسان شمالی",
+    "caption": "نمادهای شهرستان گرمه در یک نگاه.",
+    "title": "شهرستان گرمه — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان گرمه در استان خراسان شمالی",
+    "sha1": "101661ed2c0717b2fd4127578cb738ed8c25d604"
+   }
+  }
+ ]
+}

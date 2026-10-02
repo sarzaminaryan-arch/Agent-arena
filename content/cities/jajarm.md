@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان جاجرم
 overlay_text_en: Jajarm County
 alt: تصویرسازی گرافیکی از شهرستان جاجرم در استان خراسان شمالی
 caption: نمادهای شهرستان جاجرم در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/jajarm.webp
 symbols_used: [مسجد جامع تاریخی جاجرم، تپهٔ پهلوان و لایه‌های باستانی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

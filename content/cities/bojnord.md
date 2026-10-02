@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان بجنورد
 overlay_text_en: Bojnord County
 alt: تصویرسازی گرافیکی از شهرستان بجنورد در استان خراسان شمالی
 caption: نمادهای شهرستان بجنورد در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/bojnord.webp
 symbols_used: [مرکز استان خراسان شمالی، گردشگاه باباامان و چشمه‌های پیرامون، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

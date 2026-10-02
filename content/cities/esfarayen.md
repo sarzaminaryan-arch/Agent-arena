@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان اسفراین
 overlay_text_en: Esfarayen County
 alt: تصویرسازی گرافیکی از شهرستان اسفراین در استان خراسان شمالی
 caption: نمادهای شهرستان اسفراین در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/esfarayen.webp
 symbols_used: [کوه شاه‌جهان و چشم‌اندازهای آلاداغ، دشت کشاورزی و روستاهای خراسان شمالی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

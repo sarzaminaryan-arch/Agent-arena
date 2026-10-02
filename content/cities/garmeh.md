@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان گرمه
 overlay_text_en: Garmeh County
 alt: تصویرسازی گرافیکی از شهرستان گرمه در استان خراسان شمالی
 caption: نمادهای شهرستان گرمه در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/garmeh.webp
 symbols_used: [رباط عشق و مسیر تاریخی خراسان، قلعه خداوردی درق و تپه‌های تاریخی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

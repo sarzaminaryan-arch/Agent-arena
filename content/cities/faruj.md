@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان فاروج
 overlay_text_en: Faruj County
 alt: تصویرسازی گرافیکی از شهرستان فاروج در استان خراسان شمالی
 caption: نمادهای شهرستان فاروج در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/faruj.webp
 symbols_used: [باغ‌ها و محصولات خشکبار فاروج، کوه شاه‌جهان و چشم‌اندازهای شمال‌شرق، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان شیروان
 overlay_text_en: Shirvan County
 alt: تصویرسازی گرافیکی از شهرستان شیروان در استان خراسان شمالی
 caption: نمادهای شهرستان شیروان در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/shirvan.webp
 symbols_used: [ییلاق زوارم و روستاهای کوهستانی، آبشار استرخی و کوه‌های آلاداغ، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

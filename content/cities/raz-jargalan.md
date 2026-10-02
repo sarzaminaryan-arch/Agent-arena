@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان راز و جرگلان
 overlay_text_en: Raz and Jargalan County
 alt: تصویرسازی گرافیکی از شهرستان راز و جرگلان در استان خراسان شمالی
 caption: نمادهای شهرستان راز و جرگلان در یک نگاه.
+image_file: assets/featured/counties/north-khorasan/raz-jargalan.webp
 symbols_used: [مرز ترکمنستان و چشم‌انداز کپه‌داغ، فرهنگ ترکمنی و کرمانجی خراسان شمالی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===
