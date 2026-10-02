@@ -432,7 +432,7 @@ ID=$(wp post list --post_type=city --name=nain --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "127"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "معتدل کوهستانی؛ زمستان سرد، بهار پرباران و تابستان خنک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "شهرستان نائین دارای آب و هوایی کویری است و اختلاف درجه حرارت شب و روز در فصول سال کاملاً محسوس است و بارش آن بسیار کم و تابستان‌ها طولانی و بدون باران است. انارک از بخش‌های شهرستان نائین، دارای آب و هوایی گرم و خشک است آب و هوای بخش خور و بیابانک به مرکزیت خور کاملاَ خشک و معتدل، متمایل به گرم است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
@@ -455,7 +455,7 @@ ID=$(wp post list --post_type=city --name=najafabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "50"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "معتدل کوهستانی؛ زمستان سرد، بهار پرباران و تابستان خنک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "نجف آباد در دشتی با آب و هوای معتدل و نسبتاً خشک قرار گرفته‌است. میانگین بارش سالیانه در آن ۱۵۰ میلی‌متر بوده که بیشتر در فصل‌های سرد انجام می‌گیرد."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
@@ -510,7 +510,7 @@ ID=$(wp post list --post_type=city --name=harand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.28333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1519"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=32.51667,52.28333"
-[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "6613"
+[ -n "$ID" ] && wp post meta update "$ID" sa_city_population "7829"
 
 # ورزنه
 ID=$(wp post list --post_type=city --name=varzaneh --field=ID | head -1)
@@ -566,7 +566,7 @@ ID=$(wp post list --post_type=city --name=kashan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "158"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "گرم و خشک کویری؛ اختلاف دمای شبانه‌روزی زیاد و بارش بسیار کم"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای شهرستان کاشان همانند دیگر شهرستان‌های مرکزی کشور بنا بر پستی و بلندی متغیر است. قسمت‌های مرتفع آن در غرب و جنوب کاشان سردسیر است دامنه‌های معتدل و جلگه به خصوص حاشیه کویر در شرق و شمال کاشان گرمسیر می‌باشد."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"

@@ -115,7 +115,7 @@ ID=$(wp post list --post_type=city --name=deyr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "142"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "گرم و شرجی سواحل جنوب؛ تابستان بسیار گرم و مرطوب، زمستان ملایم و دلپذیر"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "آب و هوای منطقه در بیشتر ایام سال گرم و مرطوب در کنار ساحل گرم و خشک در فواصل دور تر از ساحل می‌باشد. زمستان این شهرستان مشابه هوای بهاری استان‌های سردسیر کشور می‌باشد."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی با گویش بوشهری و دشتستانی؛ در بخش‌هایی عربی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "نفت و گاز (پارس جنوبی)، شیلات، نخلستان و بنادر بازرگانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا فروردین؛ تابستان به‌سبب گرما و شرجی توصیه نمی‌شود"

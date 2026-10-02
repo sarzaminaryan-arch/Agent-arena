@@ -122,7 +122,7 @@ ID=$(wp post list --post_type=city --name=karaj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_villages "3"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "نیمه‌خشک معتدل؛ زمستان سرد و تابستان گرم و خشک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "* جدول آب و هوای شهرستان کرج {| |- | |}"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی؛ در کنارش ترکی آذربایجانی، مازندرانی و کردی به‌سبب مهاجرت"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "صنعت و خدمات، کشاورزی حومه‌ای و گردشگری کوهستان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"

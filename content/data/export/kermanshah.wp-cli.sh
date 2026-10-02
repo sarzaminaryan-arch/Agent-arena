@@ -133,7 +133,7 @@ ID=$(wp post list --post_type=city --name=sonqor --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2308"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "72"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "معتدل کوهستانی؛ زمستان سرد، بهار پرباران و تابستان خنک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "[[پرونده:Sun Flower at the World Garden - geograph.org.uk - 2049750.jpg|بندانگشتی|شهرستان سنقر و کلیایی قطب تولید تخمه آفتابگردان ]] شهرستان سنقر و کلیایی دارای زمستان سرد و طولانی با سرمای سخت و سنگین است. تابستانش گرم و کوتاه، بهار پرباران و پاییز این شهرستان سرد است."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"

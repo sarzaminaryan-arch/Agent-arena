@@ -204,7 +204,7 @@ ID=$(wp post list --post_type=city --name=kuhrang --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "76"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "سردسیری کوهستانی؛ زمستان‌های سرد و پربرف و تابستان‌های خنک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "منطقه کوهرنگ از سردترین مناطق ایران است و همچنین پر برف‌ترین نقطه کشور، که ارتفاع برف در این منطقه در سال‌های نرمال به چندین متر می‌رسد و به پایتخت برفی ایران شهرت دارد. کوهرنگ در زمان ایلامیان ییلاق قبایل [ [تمدن ایلام | ایلامی] ] بود که به دلیل گرما به این منطقه کوچ می‌کردند."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "لری بختیاری؛ در بخش‌هایی ترکی و فارسی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "دامداری عشایری، کشاورزی، صنایع دستی و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "اردیبهشت تا شهریور برای طبیعت‌گردی؛ دی تا اسفند برای زمستان‌گردی"

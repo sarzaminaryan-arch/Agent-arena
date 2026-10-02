@@ -55,7 +55,7 @@ ID=$(wp post list --post_type=city --name=tuyserkan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1556"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "67"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "معتدل کوهستانی؛ زمستان سرد، بهار پرباران و تابستان خنک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_climate "تویسرکان به دلیل قرار گرفتن در دامنه‌های رشته‌کوه زاگرس و در ارتفاع حدود ۱٬۸۰۰ متر از سطح دریا، دارای اقلیم کوهستانی با زمستان‌های سرد و برفی و تابستان‌های معتدل تا گرم است. بیشترین میزان بارندگی سالانه معمولاً در اواخر پاییز، زمستان و اوایل بهار رخ می‌دهد و تابستان‌ها نسبتاً خشک هستند."
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_language "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"

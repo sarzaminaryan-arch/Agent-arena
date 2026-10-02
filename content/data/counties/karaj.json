@@ -41,11 +41,10 @@
   },
   "climate": {
    "fetched": "2026-10-02",
-   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
-   "source": "derived",
+   "source": "wikipedia",
    "status": "auto",
-   "url": "",
-   "value": "نیمه‌خشک معتدل؛ زمستان سرد و تابستان گرم و خشک"
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D8%AC",
+   "value": "* جدول آب و هوای شهرستان کرج {| |- | |}"
   },
   "districts": {
    "fetched": "2026-10-02",
