@@ -33,6 +33,14 @@
    "url": "https://www.wikidata.org/wiki/Q1282190",
    "value": 1358.8
   },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "اردیبهشت تا شهریور؛ پاییز هم زیباست اما پرباران است"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -53,6 +61,14 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282190",
    "value": 60991
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "معتدل و مرطوب خزری؛ بارش فراوان در پاییز و زمستان، تابستان گرم و شرجی"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -84,12 +100,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=36.5,53.53333"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282190",
    "value": 36.5
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری"
   },
   "lon": {
    "fetched": "2026-10-02",

@@ -10,6 +10,14 @@
   }
  },
  "fields": {
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبان تا فروردین؛ تابستان به‌سبب گرما و شرجی توصیه نمی‌شود"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -30,6 +38,14 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1568659",
    "value": 223504
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "گرم و شرجی سواحل جنوب؛ تابستان بسیار گرم و مرطوب، زمستان ملایم و دلپذیر"
   },
   "districts": {
    "fetched": "2026-10-02",
@@ -53,12 +69,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=29.15,50.98333"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی با گویش بوشهری و دشتستانی؛ در بخش‌هایی عربی"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1568659",
    "value": 29.15
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "نفت و گاز (پارس جنوبی)، شیلات، نخلستان و بنادر بازرگانی"
   },
   "lon": {
    "fetched": "2026-10-02",

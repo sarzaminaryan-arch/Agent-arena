@@ -8,6 +8,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
    "value": 3140.0
   },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبان تا فروردین؛ تابستان به‌سبب گرما و شرجی توصیه نمی‌شود"
+  },
   "center": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -24,10 +32,11 @@
   },
   "climate": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
-   "value": "زرآباد به دلیل نزدیکی به دریای آزاد عمان دارای آب و هوا و دمایی ثابت است. هوای این نقطه از ایران در زمستان گرم و بهاری است در تابستان به دلیل وزش بادهای موسمی از سمت دریا «مونسون»، معتدل می‌باشد."
+   "url": "",
+   "value": "گرم و شرجی سواحل جنوب؛ تابستان بسیار گرم و مرطوب، زمستان ملایم و دلپذیر"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -52,12 +61,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=25.66667,59.4"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "بلوچی در جنوب و سیستانی در شمال استان"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q109672842",
    "value": 25.66667
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کشاورزی و دامداری، تجارت مرزی و صنایع دستی؛ در جنوب شیلات و بنادر"
   },
   "lon": {
    "fetched": "2026-10-02",

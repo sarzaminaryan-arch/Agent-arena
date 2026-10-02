@@ -1,6 +1,14 @@
 {
  "conflicts": {},
  "fields": {
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فروردین تا خرداد و شهریور تا آبان"
+  },
   "center": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -21,6 +29,14 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q16048620",
    "value": 4658
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "نیمه‌خشک معتدل؛ زمستان سرد و تابستان گرم و خشک"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -45,12 +61,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=38.86667,47.36667"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q16048620",
    "value": 38.86667
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف"
   },
   "lon": {
    "fetched": "2026-10-02",

@@ -1,6 +1,14 @@
 {
  "conflicts": {},
  "fields": {
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "خرداد تا شهریور برای ییلاق‌ها؛ دی تا اسفند برای برف"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -29,6 +37,14 @@
    "url": "https://www.wikidata.org/wiki/Q1292562",
    "value": 46183
   },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "در دشت معتدل و مرطوب خزری و در ارتفاعات البرز سرد کوهستانی با زمستان پربرف"
+  },
   "distance_center": {
    "fetched": "2026-10-02",
    "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
@@ -52,12 +68,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=36.83333,54.83333"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی، ترکمنی، مازندرانی (کتولی) و سیستانی"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1292562",
    "value": 36.83333
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کشاورزی (گندم، پنبه و برنج)، دامداری، شیلات و گردشگری"
   },
   "lon": {
    "fetched": "2026-10-02",

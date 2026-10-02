@@ -8,6 +8,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%D8%B4%D9%87%D8%B1",
    "value": 2235.0
   },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "اردیبهشت تا شهریور برای طبیعت‌گردی؛ دی تا اسفند برای زمستان‌گردی"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +43,14 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q946746",
    "value": 13475
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "سردسیری کوهستانی؛ زمستان‌های سرد و پربرف و تابستان‌های خنک"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -66,12 +82,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=32.91667,50.0"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q946746",
    "value": 32.91667
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری"
   },
   "lon": {
    "fetched": "2026-10-02",

@@ -8,6 +8,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%DB%8C%D8%B1%D9%81%D8%AA",
    "value": 9654.0
   },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +43,14 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1119016",
    "value": 130429
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "گرم و خشک کویری؛ اختلاف دمای شبانه‌روزی زیاد و بارش بسیار کم"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -66,12 +82,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=28.83333,57.58333"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1119016",
    "value": 28.83333
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی"
   },
   "lon": {
    "fetched": "2026-10-02",

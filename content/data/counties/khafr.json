@@ -8,6 +8,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%81%D8%B1",
    "value": 1815.0
   },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فروردین تا خرداد و شهریور تا آبان"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -38,10 +46,11 @@
   },
   "climate": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%81%D8%B1",
-   "value": "خفر دارای آب و هوای چهار فصل است به گونه‌ای که درختانی همچون انار، مرکبات، بادام، گردو، هلو، زردآلو، انجیر، سیب، ازگیل و زیتون در این منطقه رشد می‌کنند. خفر دارای آب و هوای خشک و نیمه خشک می‌باشد."
+   "url": "",
+   "value": "نیمه‌خشک معتدل؛ زمستان سرد و تابستان گرم و خشک"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -73,12 +82,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=28.95,53.16667"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q371283",
    "value": 28.95
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی"
   },
   "lon": {
    "fetched": "2026-10-02",

@@ -17,6 +17,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
    "value": 5100.0
   },
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"
+  },
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -47,10 +55,11 @@
   },
   "climate": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-   "value": "این شهرستان با توجه به موقعیت جغرافیایی و عدم وجود توده‌های مرطوب و کوهستان‌های مناسب و به علت مجاورت با دو کویر مرکزی و نمک دارای آب و هوای صحرایی، خشک و کم‌باران می‌باشد. میانگین میزان بارندگی این شهرستان در حدود ۱۵۵ میلی‌متر در سال است."
+   "url": "",
+   "value": "گرم و خشک کویری؛ اختلاف دمای شبانه‌روزی زیاد و بارش بسیار کم"
   },
   "distance_center": {
    "fetched": "2026-10-02",
@@ -82,12 +91,28 @@
    "url": "",
    "value": "https://www.google.com/maps/search/?api=1&query=33.95667,57.97"
   },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارسی با گویش خراسان جنوبی (بیرجندی و قاینی)"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286278",
    "value": 33.95667
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "زعفران، زرشک و عناب، دامداری، معدن و تجارت مرزی"
   },
   "lon": {
    "fetched": "2026-10-02",

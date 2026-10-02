@@ -1,12 +1,44 @@
 {
  "conflicts": {},
  "fields": {
+  "best_time": {
+   "fetched": "2026-10-02",
+   "note": "از ردهٔ اقلیمی شهرستان — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "اردیبهشت تا شهریور؛ پاییز هم زیباست اما پرباران است"
+  },
+  "climate": {
+   "fetched": "2026-10-02",
+   "note": "ردهٔ اقلیمی برآوردشده از ارتفاع و موقعیت جغرافیایی — بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "معتدل و مرطوب خزری؛ بارش فراوان در پاییز و زمستان، تابستان گرم و شرجی"
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87_%D8%B4%D9%85%D8%A7%D9%84%DB%8C",
    "value": 2
+  },
+  "language": {
+   "fetched": "2026-10-02",
+   "note": "زبان رایج استان؛ تفاوت‌های شهرستانی را دستی اصلاح کنید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی"
+  },
+  "livelihood": {
+   "fetched": "2026-10-02",
+   "note": "معیشت غالب استان؛ ویژگی خاص شهرستان را دستی بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری"
   }
  },
  "name": "سوادکوه شمالی",

@@ -86,6 +86,9 @@ jobs:
       - name: Derive calculated fields
         run: python3 content-templates/tools/geo/enrich_facts.py
 
+      - name: Draft editorial fields (climate/best time/language/livelihood)
+        run: python3 content-templates/tools/geo/profile_facts.py
+
       - name: Validate
         continue-on-error: true
         run: python3 content-templates/tools/geo/validate_facts.py
