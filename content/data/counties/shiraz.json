@@ -178,6 +178,20 @@
     {
      "field": "poi_recreation",
      "location_evidence": "county tourism section",
+     "name": "باغ ایرانی",
+     "pageid": 57867,
+     "revision_id": 44349954,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "شهرستان شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_pageid": 241856,
+     "target_revision_id": 44005432,
+     "target_title": "باغ ایرانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
      "name": "بوستان کوهستانی دراک",
      "pageid": 57867,
      "revision_id": 44349954,
@@ -233,20 +247,6 @@
     },
     {
      "field": "poi_recreation",
-     "location_evidence": "county tourism section",
-     "name": "لونا پارک",
-     "pageid": 57867,
-     "revision_id": 44349954,
-     "section": "جاذبه های تاریخی و گردشگری",
-     "source_title": "شهرستان شیراز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_pageid": 365448,
-     "target_revision_id": 35578990,
-     "target_title": "لونا پارک",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%84%D9%88%D9%86%D8%A7_%D9%BE%D8%A7%D8%B1%DA%A9"
-    },
-    {
-     "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "باغ‌وحش شیراز",
      "pageid": 5509,
@@ -276,7 +276,21 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان آزادی",
+     "name": "باغ پرندگان شیراز",
+     "pageid": 5509,
+     "revision_id": 44401722,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_pageid": 899885,
+     "target_revision_id": 43931733,
+     "target_title": "باغ پرندگان شیراز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان آزادی (شیراز)",
      "pageid": 5509,
      "revision_id": 44401722,
      "section": "گردشگری / فضای سبز",
@@ -293,7 +307,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-   "value": "بوستان کوهستانی دراک\nپردیس سینمایی شهر آفتاب\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nلونا پارک\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nبوستان آزادی"
+   "value": "باغ ایرانی\nبوستان کوهستانی دراک\nپردیس سینمایی شهر آفتاب\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nباغ پرندگان شیراز\nبوستان آزادی (شیراز)"
   },
   "population": {
    "fetched": "2026-10-02",

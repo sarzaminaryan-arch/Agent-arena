@@ -176,7 +176,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه باقری",
+     "name": "خانه باقری (رفسنجان)",
      "pageid": 6477,
      "revision_id": 43956883,
      "section": "گردشگری / جاذبه های تاریخی",
@@ -207,24 +207,10 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "خانه حاج‌آقاعلی\nخانه باقری\nعمارت کلاه‌فرنگی رفسنجان"
+   "value": "خانه حاج‌آقاعلی\nخانه باقری (رفسنجان)\nعمارت کلاه‌فرنگی رفسنجان"
   },
   "poi_nature": {
    "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "منطقه شکارممنوع كوه نودرهنگ",
-     "pageid": 6477,
-     "revision_id": 43956883,
-     "section": "طبیعت رفسنجان",
-     "source_title": "رفسنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_pageid": 943923,
-     "target_revision_id": 41918389,
-     "target_title": "منطقه شکارممنوع كوه نودرهنگ",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%B4%DA%A9%D8%A7%D8%B1%D9%85%D9%85%D9%86%D9%88%D8%B9_%D9%83%D9%88%D9%87_%D9%86%D9%88%D8%AF%D8%B1%D9%87%D9%86%DA%AF"
-    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -245,7 +231,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "منطقه شکارممنوع كوه نودرهنگ\nمس سرچشمه"
+   "value": "مس سرچشمه"
   },
   "population": {
    "fetched": "2026-10-02",

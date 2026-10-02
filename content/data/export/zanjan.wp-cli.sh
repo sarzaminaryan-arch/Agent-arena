@@ -99,7 +99,7 @@ ID=$(wp post list --post_type=city --name=zanjan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، صنایع فلزی و روی، چاقوسازی و ملیله‌کاری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ejrud - جنوب\nmahneshan - غرب\ntarom - شمال‌شرق\nmianeh - شمال‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار زنجان\nمسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی\nکاروانسرای سنگی\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین\nپل آبکار"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار زنجان\nمسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی (زنجان)\nکاروانسرای سنگی (زنجان)\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین\nپل آبکار"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.58333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "48.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1638"

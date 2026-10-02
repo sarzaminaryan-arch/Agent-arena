@@ -129,7 +129,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پاقلعه",
+     "name": "پاقلعه (رامیان)",
      "pageid": 141815,
      "revision_id": 43775753,
      "section": "جاذبه های گردشگری",
@@ -139,20 +139,6 @@
      "target_revision_id": 44144754,
      "target_title": "پاقلعه (رامیان)",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%82%D9%84%D8%B9%D9%87_%28%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86%29"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه مردم‌شناسی تهران",
-     "pageid": 141815,
-     "revision_id": 43775753,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامیان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_pageid": 259007,
-     "target_revision_id": 43924400,
-     "target_title": "موزه مردم‌شناسی تهران",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -160,7 +146,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-   "value": "پاقلعه\nموزه مردم‌شناسی تهران"
+   "value": "پاقلعه (رامیان)"
   },
   "poi_nature": {
    "entries": [

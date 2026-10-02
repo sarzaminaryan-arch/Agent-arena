@@ -15,7 +15,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "eslamshahr - شمال‌شرق\nrobat-karim - غرب\nshahriar - شمال‌غرب\nrey - جنوب‌شرق",
-  "sa_cty_poi_heritage": "تپه قلعه وجه‌آباد\nامامزاده حسن\nامامزاده باقر",
+  "sa_cty_poi_heritage": "تپه قلعه وجه‌آباد\nامامزاده حسن (اسماعیل‌آباد)\nامامزاده باقر",
   "sa_cty_population": 536329,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.52528,51.16278"
  },
@@ -170,7 +170,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "pakdasht - شرق\npishva - جنوب‌شرق\nrey - غرب\ntehran-city - شمال‌غرب",
-  "sa_cty_poi_heritage": "پل باقرآباد",
+  "sa_cty_poi_heritage": "پل باقرآباد (تهران)",
   "sa_cty_population": 269138,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.41667,51.56667"
  },
@@ -207,8 +207,8 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "qarchak - شرق\nbaharestan - شمال‌غرب\neslamshahr - شمال‌غرب\nqom-city - جنوب",
-  "sa_cty_poi_heritage": "کارخانه سیمان ری\nکاروانسرای شاه‌عباسی\nبرج طغرل\nکاروانسرای کنارگرد",
-  "sa_cty_poi_nature": "تپه چشمه‌علی\nچشمه‌علی\nکوه نقارخانه",
+  "sa_cty_poi_heritage": "کارخانه سیمان ری\nکاروانسرای شاه‌عباسی (شهر ری)\nبرج طغرل\nکاروانسرای کنارگرد\nقلعه گبری (شهر ری)",
+  "sa_cty_poi_nature": "تپه چشمه‌علی\nکوه نقارخانه",
   "sa_cty_population": 349700,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.38333,51.33333"
  },
@@ -308,7 +308,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "pishva - شمال\ngarmsar - شرق\nqom-city - جنوب‌غرب",
-  "sa_cty_poi_heritage": "امامزاده شاه حسین\nمسجد جامع ورامین\nبرج آرامگاه علاءالدین\nامامزاده یحیی\nامامزاده حسین رضا\nامامزاده بی‌بی سکینه\nامامزاده کوکب‌الدین\nآرامگاه سید فتح‌الله\nامامزاده زید ابوالحسن الحسینی",
+  "sa_cty_poi_heritage": "امامزاده شاه حسین\nمسجد جامع ورامین\nبرج آرامگاه علاءالدین\nامامزاده یحیی (ورامین)\nامامزاده حسین رضا\nامامزاده بی‌بی سکینه\nامامزاده کوکب‌الدین\nآرامگاه سید فتح‌الله\nامامزاده زید ابوالحسن الحسینی",
   "sa_cty_population": 283742,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.2,51.7"
  }

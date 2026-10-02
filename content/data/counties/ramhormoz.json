@@ -156,7 +156,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه یزدگرد",
+     "name": "قلعه یزدگرد (رامهرمز)",
      "pageid": 26891,
      "revision_id": 44445595,
      "section": "جاذبه های گردشگری",
@@ -187,7 +187,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-   "value": "قلعه امیر مجاهد\nقلعه یزدگرد\nعمارت صمیمی"
+   "value": "قلعه امیر مجاهد\nقلعه یزدگرد (رامهرمز)\nعمارت صمیمی"
   },
   "poi_nature": {
    "entries": [
@@ -204,20 +204,6 @@
      "target_revision_id": 44432719,
      "target_title": "چشمه‌های قیر ماماتین",
      "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%82%DB%8C%D8%B1_%D9%85%D8%A7%D9%85%D8%A7%D8%AA%DB%8C%D9%86"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "منطقه حفاظت‌شده",
-     "pageid": 26891,
-     "revision_id": 44445595,
-     "section": "جاذبه های گردشگری / حیات وحش و زیستگاها",
-     "source_title": "رامهرمز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_pageid": 457177,
-     "target_revision_id": 41813235,
-     "target_title": "منطقه حفاظت‌شده",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -225,7 +211,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-   "value": "چشمه‌های قیر ماماتین\nمنطقه حفاظت‌شده"
+   "value": "چشمه‌های قیر ماماتین"
   },
   "population": {
    "fetched": "2026-10-02",

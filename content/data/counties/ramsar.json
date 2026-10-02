@@ -198,20 +198,6 @@
      "target_revision_id": 42747157,
      "target_title": "سد میجران",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%85%DB%8C%D8%AC%D8%B1%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چشمه",
-     "pageid": 20772,
-     "revision_id": 44400880,
-     "section": "جاذبه های فرهنگی و تاریخی رامسر",
-     "source_title": "رامسر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
-     "target_pageid": 16282,
-     "target_revision_id": 42748244,
-     "target_title": "چشمه",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -219,7 +205,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
-   "value": "سد میجران\nچشمه"
+   "value": "سد میجران"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

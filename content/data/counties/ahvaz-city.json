@@ -192,7 +192,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سینما هلال",
+     "name": "سینما هلال (اهواز)",
      "pageid": 13904,
      "revision_id": 44408088,
      "section": "اماکن تفریحی / سینما",
@@ -206,7 +206,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سینما قدس",
+     "name": "سینما قدس (اهواز)",
      "pageid": 13904,
      "revision_id": 44408088,
      "section": "اماکن تفریحی / سینما",
@@ -216,20 +216,6 @@
      "target_revision_id": 35330239,
      "target_title": "سینما قدس (اهواز)",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%82%D8%AF%D8%B3_%28%D8%A7%D9%87%D9%88%D8%A7%D8%B2%29"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سینما",
-     "pageid": 13904,
-     "revision_id": 44408088,
-     "section": "اماکن تفریحی / فرهنگسراها",
-     "source_title": "اهواز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_pageid": 54221,
-     "target_revision_id": 43284874,
-     "target_title": "سینما",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7"
     }
    ],
    "fetched": "2026-10-02",
@@ -237,7 +223,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-   "value": "سینما ساحل اهواز\nسینما هلال\nسینما قدس\nسینما"
+   "value": "سینما ساحل اهواز\nسینما هلال (اهواز)\nسینما قدس (اهواز)"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -194,20 +194,6 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "جنگل پسته",
-     "pageid": 418529,
-     "revision_id": 44394078,
-     "section": "جاذبه های گردشگری و تاریخی درگز",
-     "source_title": "درگز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_pageid": 395517,
-     "target_revision_id": 41037123,
-     "target_title": "جنگل پسته",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%BE%D8%B3%D8%AA%D9%87"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "پارک ملی تندوره",
      "pageid": 418529,
      "revision_id": 44394078,
@@ -225,7 +211,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-   "value": "جنگل پسته\nپارک ملی تندوره"
+   "value": "پارک ملی تندوره"
   },
   "population": {
    "fetched": "2026-10-02",

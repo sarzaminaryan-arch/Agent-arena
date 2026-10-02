@@ -171,7 +171,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای شاه‌عباسی",
+     "name": "کاروانسرای شاه‌عباسی (کرج)",
      "pageid": 2444,
      "revision_id": 44458279,
      "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
@@ -213,7 +213,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده طاهر",
+     "name": "امامزاده طاهر (کرج)",
      "pageid": 2444,
      "revision_id": 44458279,
      "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
@@ -258,7 +258,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
-   "value": "باغ سیب مهرشهر\nکاخ مروارید\nباغ لاله‌های گچسر\nکاروانسرای شاه‌عباسی\nکاخ شهرستانک\nپل دختر کرج\nامامزاده طاهر\nکاخ سلیمانیه\nحمام مصباح"
+   "value": "باغ سیب مهرشهر\nکاخ مروارید\nباغ لاله‌های گچسر\nکاروانسرای شاه‌عباسی (کرج)\nکاخ شهرستانک\nپل دختر کرج\nامامزاده طاهر (کرج)\nکاخ سلیمانیه\nحمام مصباح"
   },
   "poi_nature": {
    "entries": [

@@ -146,20 +146,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه دختر",
-     "pageid": 115389,
-     "revision_id": 44458927,
-     "section": "تاریخ / قدمت بناهای تاریخی",
-     "source_title": "کرمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_pageid": 138052,
-     "target_revision_id": 43584844,
-     "target_title": "قلعه دختر (کرمان)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%29"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "قلعه اردشیر",
      "pageid": 115389,
      "revision_id": 44458927,
@@ -184,34 +170,6 @@
      "target_revision_id": 43851828,
      "target_title": "خودمختارگرایی",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%AF%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آتشکده",
-     "pageid": 115389,
-     "revision_id": 44458927,
-     "section": "تاریخ / قدمت بناهای تاریخی",
-     "source_title": "کرمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_pageid": 13362,
-     "target_revision_id": 43859624,
-     "target_title": "آتشکده",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام",
-     "pageid": 115389,
-     "revision_id": 44458927,
-     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
-     "source_title": "کرمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_pageid": 22606,
-     "target_revision_id": 44432887,
-     "target_title": "حمام",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85"
     },
     {
      "field": "poi_heritage",
@@ -258,7 +216,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار وکیل",
+     "name": "بازار وکیل (کرمان)",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
@@ -272,7 +230,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام وکیل",
+     "name": "حمام وکیل (کرمان)",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
@@ -286,7 +244,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای وکیل",
+     "name": "کاروانسرای وکیل (کرمان)",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
@@ -310,30 +268,48 @@
      "target_revision_id": 43859030,
      "target_title": "آرامگاه خواجه اتابک",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-   "value": "قلعه دختر\nقلعه اردشیر\nخودمختارگرایی\nآتشکده\nحمام\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل\nحمام وکیل\nکاروانسرای وکیل\nآرامگاه خواجه اتابک"
-  },
-  "poi_nature": {
-   "entries": [
+    },
     {
-     "field": "poi_nature",
+     "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غارتگران",
+     "name": "خانه امینیان",
      "pageid": 115389,
      "revision_id": 44458927,
-     "section": "تاریخ / قدمت بناهای تاریخی",
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_pageid": 3960774,
-     "target_revision_id": 19583226,
-     "target_title": "غارتگران (ابهام‌زدایی)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1%D8%AA%DA%AF%D8%B1%D8%A7%D9%86_%28%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C%29"
+     "target_pageid": 664330,
+     "target_revision_id": 44154425,
+     "target_title": "خانه امینیان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D9%85%DB%8C%D9%86%DB%8C%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه غفاری",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_pageid": 665026,
+     "target_revision_id": 44155749,
+     "target_title": "خانه غفاری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%BA%D9%81%D8%A7%D8%B1%DB%8C"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه پرداختی",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_pageid": 661765,
+     "target_revision_id": 44156460,
+     "target_title": "خانه پرداختی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -341,7 +317,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-   "value": "غارتگران"
+   "value": "قلعه اردشیر\nخودمختارگرایی\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل (کرمان)\nحمام وکیل (کرمان)\nکاروانسرای وکیل (کرمان)\nآرامگاه خواجه اتابک\nخانه امینیان\nخانه غفاری\nخانه پرداختی"
   },
   "population": {
    "fetched": "2026-10-02",

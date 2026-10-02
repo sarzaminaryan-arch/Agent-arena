@@ -193,7 +193,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده سید مظفر",
+     "name": "امامزاده سید مظفر (بندر عباس)",
      "pageid": 433487,
      "revision_id": 44089826,
      "section": "اماکن زیارتی",
@@ -249,7 +249,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد ناصری",
+     "name": "مسجد ناصری (بندر عباس)",
      "pageid": 433487,
      "revision_id": 44089826,
      "section": "اماکن زیارتی",
@@ -280,7 +280,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-   "value": "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری\nمسجد گله‌داری"
+   "value": "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر (بندر عباس)\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری (بندر عباس)\nمسجد گله‌داری"
   },
   "poi_nature": {
    "entries": [

@@ -141,30 +141,6 @@
    "url": "",
    "value": "کاروانسراهای میان‌دشت"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "پارک ملی گلستان",
-     "pageid": 1790454,
-     "revision_id": 42954374,
-     "section": "مراکز تاریخی و باستانی و گردشگری / [[یخدان تاریخی میامی|''روستای قدس'']]",
-     "source_title": "شهرستان میامی",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%85%DB%8C",
-     "target_pageid": 53793,
-     "target_revision_id": 44103754,
-     "target_title": "پارک ملی گلستان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%85%DB%8C",
-   "value": "پارک ملی گلستان"
-  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

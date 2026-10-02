@@ -173,7 +173,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار کهنه",
+     "name": "بازار کهنه (دزفول)",
      "pageid": 5619,
      "revision_id": 44393795,
      "section": "گردشگری / جاذبه های تاریخی",
@@ -260,7 +260,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-   "value": "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه\nآرامگاه یعقوب لیث\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nآرامگاه مقام علی"
+   "value": "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه (دزفول)\nآرامگاه یعقوب لیث\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nآرامگاه مقام علی"
   },
   "poi_nature": {
    "fetched": "2026-10-02",

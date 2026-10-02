@@ -16,48 +16,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%DA%86%D9%BE%D9%82%D9%84%DB%8C"
    },
    {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "شهربازی",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "مراکز تفریحی / پارک ها",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_pageid": 442335,
-    "target_revision_id": 43377222,
-    "target_title": "شهربازی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک آبی",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "مراکز تفریحی / پارک ها",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_pageid": 442337,
-    "target_revision_id": 44367379,
-    "target_title": "پارک آبی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%A2%D8%A8%DB%8C"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ‌وحش",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "مراکز تفریحی / پارک ها",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_pageid": 32487,
-    "target_revision_id": 42745967,
-    "target_title": "باغ‌وحش",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA%E2%80%8C%D9%88%D8%AD%D8%B4"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بازار اراک",
@@ -140,20 +98,6 @@
     "target_revision_id": 43929099,
     "target_title": "ارگ حکومتی اراک",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%D8%AD%DA%A9%D9%88%D9%85%D8%AA%DB%8C_%D8%A7%D8%B1%D8%A7%DA%A9"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای شاه‌عباسی",
-    "pageid": 5967,
-    "revision_id": 44609638,
-    "section": "گردشگری / آثار تاریخی",
-    "source_title": "اراک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-    "target_pageid": 739643,
-    "target_revision_id": 33754728,
-    "target_title": "کاروانسرای شاه‌عباسی",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B4%D8%A7%D9%87%E2%80%8C%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -270,7 +214,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه صنایع دستی",
+    "name": "موزه صنایع دستی (اراک)",
     "pageid": 5967,
     "revision_id": 44609638,
     "section": "گردشگری / موزه ها",
@@ -284,7 +228,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه تنوع زیستی",
+    "name": "موزه تنوع زیستی (اراک)",
     "pageid": 5967,
     "revision_id": 44609638,
     "section": "گردشگری / موزه ها",
@@ -334,6 +278,10 @@
    {
     "name": "کوه غاغان",
     "reason": "target page missing"
+   },
+   {
+    "name": "کاروانسرای شاه عباسی",
+    "reason": "disambiguation page"
    },
    {
     "name": "قالی سرابند",
@@ -509,20 +457,6 @@
     "target_revision_id": 44304390,
     "target_title": "قلعه سالار محتشم",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1_%D9%85%D8%AD%D8%AA%D8%B4%D9%85"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه مردم‌شناسی تهران",
-    "pageid": 899,
-    "revision_id": 44466307,
-    "section": "گردشگری",
-    "source_title": "خمین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%DB%8C%D9%86",
-    "target_pageid": 259007,
-    "target_revision_id": 43924400,
-    "target_title": "موزه مردم‌شناسی تهران",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -813,6 +747,10 @@
     "reason": "target page missing"
    },
    {
+    "name": "موزه مردم‌شناسی تهران",
+    "reason": "lead locates target in another province"
+   },
+   {
     "name": "شبستان مسجد جامع کرمانشاه",
     "reason": "explicitly different county"
    },
@@ -891,35 +829,7 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "منطقه حفاظت‌شده",
-    "pageid": 7996,
-    "revision_id": 43470120,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان محلات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%84%D8%A7%D8%AA",
-    "target_pageid": 457177,
-    "target_revision_id": 41813235,
-    "target_title": "منطقه حفاظت‌شده",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آب‌گرم",
-    "pageid": 7996,
-    "revision_id": 43470120,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان محلات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%84%D8%A7%D8%AA",
-    "target_pageid": 3958467,
-    "target_revision_id": 42004059,
-    "target_title": "آب‌گرم",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آب‌گرم",
+    "name": "آب‌گرم (محلات)",
     "pageid": 7996,
     "revision_id": 43470120,
     "section": "جاذبه های گردشگری",
@@ -943,20 +853,6 @@
     "target_revision_id": 43929183,
     "target_title": "آتشکده آتشکوه",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%D8%A2%D8%AA%D8%B4%DA%A9%D9%88%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آتشکده",
-    "pageid": 3695,
-    "revision_id": 44553135,
-    "section": "جاذبه های گردشگری",
-    "source_title": "محلات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D8%A7%D8%AA",
-    "target_pageid": 13362,
-    "target_revision_id": 43859624,
-    "target_title": "آتشکده",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
    }
   ],
   "center_confirmed": true,
@@ -1035,7 +931,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد سرخ",
+    "name": "مسجد سرخ (ساوه)",
     "pageid": 4758848,
     "revision_id": 44260837,
     "section": "آثار تاریخی",
@@ -1063,7 +959,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه دختر",
+    "name": "قلعه دختر (ساوه)",
     "pageid": 4758848,
     "revision_id": 44260837,
     "section": "آثار تاریخی",
@@ -1077,7 +973,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قیزقلعه",
+    "name": "قیزقلعه (ساوه)",
     "pageid": 4758848,
     "revision_id": 44260837,
     "section": "آثار تاریخی",
@@ -1091,7 +987,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده سید اسحاق",
+    "name": "امامزاده سید اسحاق (ساوه)",
     "pageid": 4758848,
     "revision_id": 44260837,
     "section": "آثار تاریخی",
@@ -1231,6 +1127,20 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
+    "name": "کاروانسرای عبدالغفارخان (مجیدآباد)",
+    "pageid": 4758848,
+    "revision_id": 44260837,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان ساوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%88%D9%87",
+    "target_pageid": 657216,
+    "target_revision_id": 27325095,
+    "target_title": "کاروانسرای عبدالغفارخان (مجیدآباد)",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1%D8%AE%D8%A7%D9%86_%28%D9%85%D8%AC%DB%8C%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF%29"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
     "name": "تکیه باغ شیخ",
     "pageid": 4758848,
     "revision_id": 44260837,
@@ -1245,7 +1155,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "گورستان رازین",
+    "name": "گورستان رازین (سوسن نقین)",
     "pageid": 4758848,
     "revision_id": 44260837,
     "section": "آثار تاریخی",
@@ -1271,7 +1181,7 @@
     "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%D9%87_%D8%AF%D8%B4%D8%AA"
    },
    {
-    "field": "poi_nature",
+    "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "پل‌های یک چشمه و هشت چشمه سرخده",
     "pageid": 4758848,
@@ -1382,7 +1292,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده احمد",
+    "name": "امامزاده احمد (تفرش)",
     "pageid": 3761,
     "revision_id": 44596164,
     "section": "گردشگری",
@@ -1452,7 +1362,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه امامزاده قاسم",
+    "name": "آرامگاه امامزاده قاسم (شاهوارق)",
     "pageid": 3761,
     "revision_id": 44596164,
     "section": "گردشگری",
@@ -1549,6 +1459,20 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
+    "name": "تپه‌های روستای آجان (قلعه گبری)",
+    "pageid": 23361,
+    "revision_id": 44260830,
+    "section": "گردشگری / آثار تاریخی",
+    "source_title": "شهرستان زرندیه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%B1%D9%86%D8%AF%DB%8C%D9%87",
+    "target_pageid": 657076,
+    "target_revision_id": 44124141,
+    "target_title": "تپه‌های روستای آجان (قلعه گبری)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C_%D8%A2%D8%AC%D8%A7%D9%86_%28%D9%82%D9%84%D8%B9%D9%87_%DA%AF%D8%A8%D8%B1%DB%8C%29"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
     "name": "تپه قلعه باش علیشار",
     "pageid": 23361,
     "revision_id": 44260830,
@@ -1577,7 +1501,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "آب‌انبار محمودآباد",
+    "name": "آب‌انبار محمودآباد (زرندیه)",
     "pageid": 23361,
     "revision_id": 44260830,
     "section": "گردشگری / آثار تاریخی",
@@ -1605,7 +1529,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده پنج‌تن",
+    "name": "امامزاده پنج‌تن (زرندیه)",
     "pageid": 23361,
     "revision_id": 44260830,
     "section": "گردشگری / آثار تاریخی",
@@ -1717,7 +1641,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "کلیسای سرکیس مقدس",
+    "name": "کلیسای سرکیس مقدس (چاناقچی علیا)",
     "pageid": 23361,
     "revision_id": 44260830,
     "section": "گردشگری / آثار تاریخی",
@@ -1754,7 +1678,7 @@
    },
    {
     "name": "تپه سرقلعه",
-    "reason": "explicitly different county"
+    "reason": "explicitly different province"
    },
    {
     "name": "امامزاده سید منصور",

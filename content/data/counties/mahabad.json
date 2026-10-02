@@ -231,7 +231,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ملت",
+     "name": "بوستان ملت (مهاباد)",
      "pageid": 9103,
      "revision_id": 44353754,
      "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
@@ -248,7 +248,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-   "value": "بوستان ملت"
+   "value": "بوستان ملت (مهاباد)"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -246,6 +246,20 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ پرندگان بروجرد",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / پارکها و فضای سبز",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_pageid": 2014572,
+     "target_revision_id": 43844843,
+     "target_title": "باغ پرندگان بروجرد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "بوستان جنگلی شهید بهشتی بروجرد",
      "pageid": 6289,
      "revision_id": 44573388,
@@ -263,7 +277,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-   "value": "بوستان فدک بروجرد\nبوستان جنگلی شهید بهشتی بروجرد"
+   "value": "بوستان فدک بروجرد\nباغ پرندگان بروجرد\nبوستان جنگلی شهید بهشتی بروجرد"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -170,20 +170,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تخت جمشید",
-     "pageid": 13070,
-     "revision_id": 44466677,
-     "section": "جاذبه ها",
-     "source_title": "ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_pageid": 3197,
-     "target_revision_id": 44505260,
-     "target_title": "تخت جمشید",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "برج آزادی",
      "pageid": 13070,
      "revision_id": 44466677,
@@ -201,7 +187,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "برج ایفل\nتخت جمشید\nبرج آزادی"
+   "value": "برج ایفل\nبرج آزادی"
   },
   "poi_nature": {
    "entries": [

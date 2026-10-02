@@ -42,27 +42,18 @@
     "target_revision_id": 44365656,
     "target_title": "دریاچه نمک",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%86%D9%85%DA%A9"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دشت کویر",
-    "pageid": 52936,
-    "revision_id": 44555270,
-    "section": "جاذبه های طبیعی",
-    "source_title": "آران و بیدگل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-    "target_pageid": 43243,
-    "target_revision_id": 44451480,
-    "target_title": "دشت کویر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B4%D8%AA_%DA%A9%D9%88%DB%8C%D8%B1"
    }
   ],
   "center_confirmed": true,
   "county": "آران و بیدگل",
   "fetched": "2026-10-02",
   "province": "isfahan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "دشت کویر",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
    "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84"
@@ -225,7 +216,7 @@
     "reason": "target page missing"
    },
    {
-    "name": "قنات ارونه",
+    "name": "قنات ارونه (محال)",
     "reason": "target page missing"
    },
    {
@@ -432,6 +423,20 @@
     "target_revision_id": 15281228,
     "target_title": "دره غول",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%BA%D9%88%D9%84"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سیاه‌کوه (فریدون‌شهر)",
+    "pageid": 21755,
+    "revision_id": 44335078,
+    "section": "مکان های دیدنی / تفرج گاه / کوه ها",
+    "source_title": "شهرستان فریدون‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_pageid": 626754,
+    "target_revision_id": 39208892,
+    "target_title": "سیاه‌کوه (فریدون‌شهر)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%28%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1%29"
    },
    {
     "field": "poi_nature",
@@ -662,20 +667,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سنگ‌نگاره",
-    "pageid": 16085,
-    "revision_id": 44504233,
-    "section": "آثار تاریخی گلپایگان",
-    "source_title": "گلپایگان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_pageid": 1728420,
-    "target_revision_id": 41248595,
-    "target_title": "سنگ‌نگاره",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "مسجد جامع گلپایگان",
     "pageid": 16085,
     "revision_id": 44504233,
@@ -784,7 +775,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد شاه",
+    "name": "مسجد شاه (اصفهان)",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
@@ -868,6 +859,20 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ هشت‌بهشت",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / جاذبه های تاریخی",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 4367582,
+    "target_revision_id": 44256317,
+    "target_title": "کاخ هشت‌بهشت",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%D9%87%D8%B4%D8%AA%E2%80%8C%D8%A8%D9%87%D8%B4%D8%AA"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "کلیسای وانک",
     "pageid": 2169,
     "revision_id": 44613583,
@@ -908,7 +913,7 @@
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B5%D9%81%D9%87"
    },
    {
-    "field": "poi_heritage",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "باغ پرندگان اصفهان",
     "pageid": 2169,
@@ -934,6 +939,20 @@
     "target_revision_id": 43815620,
     "target_title": "باغ فدک اصفهان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%81%D8%AF%DA%A9_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان (پارک)",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 158524,
+    "target_revision_id": 43780111,
+    "target_title": "بوستان (پارک)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%28%D9%BE%D8%A7%D8%B1%DA%A9%29"
    },
    {
     "field": "poi_recreation",
@@ -1036,7 +1055,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما فلسطین",
+    "name": "سینما فلسطین (اصفهان)",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
@@ -1050,7 +1069,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما قدس",
+    "name": "سینما قدس (اصفهان)",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
@@ -1092,21 +1111,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار اصفهان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / بازارها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_pageid": 366893,
-    "target_revision_id": 44018622,
-    "target_title": "بازار اصفهان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار مسگرها",
+    "name": "بازار مسگرها (اصفهان)",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / بازارها",
@@ -1372,7 +1377,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه تاریخ طبیعی",
+    "name": "موزه تاریخ طبیعی (اصفهان)",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
@@ -1414,7 +1419,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه مشروطه",
+    "name": "خانه مشروطه (اصفهان)",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
@@ -1588,6 +1593,14 @@
     "reason": "generic or untyped target"
    },
    {
+    "name": "بازار اصفهان",
+    "reason": "lead locates target in another province"
+   },
+   {
+    "name": "بازار اصفهان",
+    "reason": "lead locates target in another province"
+   },
+   {
     "name": "خانه حقیقی",
     "reason": "explicitly different county"
    },
@@ -1596,7 +1609,7 @@
     "reason": "explicitly different county"
    },
    {
-    "name": "کلیسای گئورگ مقدس",
+    "name": "کلیسای گئورگ مقدس (اصفهان)",
     "reason": "explicitly different county"
    },
    {
@@ -1779,20 +1792,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "حمام خان",
-    "pageid": 44534,
-    "revision_id": 44534478,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان کاشان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_pageid": 753834,
-    "target_revision_id": 26980617,
-    "target_title": "حمام خان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AE%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "خانه منوچهری",
     "pageid": 44534,
     "revision_id": 44534478,
@@ -1803,6 +1802,20 @@
     "target_revision_id": 39304455,
     "target_title": "خانه منوچهری",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D9%86%D9%88%DA%86%D9%87%D8%B1%DB%8C"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام خان (کاشان)",
+    "pageid": 44534,
+    "revision_id": 44534478,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کاشان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
+    "target_pageid": 3345411,
+    "target_revision_id": 44150400,
+    "target_title": "حمام خان (کاشان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AE%D8%A7%D9%86_%28%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -1853,6 +1866,10 @@
   "province": "isfahan",
   "rejected_candidates": [
    {
+    "name": "حمام خان",
+    "reason": "disambiguation page"
+   },
+   {
     "name": "خانه ی وکیل",
     "reason": "target page missing"
    },
@@ -1885,20 +1902,6 @@
     "target_revision_id": 44613446,
     "target_title": "طرح باغ‌شهر",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%AD_%D8%A8%D8%A7%D8%BA%E2%80%8C%D8%B4%D9%87%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "چشمه",
-    "pageid": 11931,
-    "revision_id": 43815341,
-    "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
-    "source_title": "خوانسار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_pageid": 16282,
-    "target_revision_id": 42748244,
-    "target_title": "چشمه",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87"
    },
    {
     "field": "poi_nature",
@@ -2113,7 +2116,7 @@
   "province": "isfahan",
   "rejected_candidates": [
    {
-    "name": "نارین قلعه",
+    "name": "نارین قلعه (نائین)",
     "reason": "explicitly different county"
    },
    {
@@ -2244,20 +2247,6 @@
  },
  "natanz": {
   "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آتشکده",
-    "pageid": 41458,
-    "revision_id": 44261226,
-    "section": "جاذبه های تاریخی و گردشگری",
-    "source_title": "شهرستان نطنز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B7%D9%86%D8%B2",
-    "target_pageid": 13362,
-    "target_revision_id": 43859624,
-    "target_title": "آتشکده",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
@@ -2432,20 +2421,6 @@
     "target_revision_id": 44413090,
     "target_title": "پارک ملی و پناهگاه حیات وحش قمیشلو",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D9%88_%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D9%82%D9%85%DB%8C%D8%B4%D9%84%D9%88"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "منطقه حفاظت‌شده",
-    "pageid": 32378,
-    "revision_id": 44140359,
-    "section": "جاذبه های طبیعی",
-    "source_title": "تیران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86",
-    "target_pageid": 457177,
-    "target_revision_id": 41813235,
-    "target_title": "منطقه حفاظت‌شده",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87"
    }
   ],
   "center_confirmed": true,

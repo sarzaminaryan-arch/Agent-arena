@@ -94,7 +94,6 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "paveh - شمال\nsalasa-babajani - غرب\nravansar - شرق\ndalahu - جنوب",
-  "sa_cty_poi_nature": "غار کاوات",
   "sa_cty_population": 75169,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.76667,46.31667"
  },
@@ -132,8 +131,8 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "eslamabad-e-gharb - جنوب‌غرب\nharsin - شرق\nravansar - شمال‌غرب\nhalilan - جنوب\nsonqor - شمال‌شرق",
-  "sa_cty_poi_heritage": "طاق‌بستان\nشکارگاه خسرو پرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد جامع شافعی\nمسجد حاج شهبازخان\nمسجد شاهزاده\nمسجد دولتشاه\nخانه رنده‌کش",
-  "sa_cty_poi_recreation": "پارک کوهستان\nبوستان شاهد\nپارک شیرین\nبوستان لاله",
+  "sa_cty_poi_heritage": "طاق‌بستان\nشکارگاه خسرو پرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد جامع شافعی\nمسجد حاج شهبازخان\nمسجد شاهزاده (کرمانشاه)\nمسجد دولتشاه\nخانه رنده‌کش",
+  "sa_cty_poi_recreation": "بوستان شاهد\nپارک شیرین (کرمانشاه)\nبوستان لاله (کرمانشاه)",
   "sa_cty_population": 1083833,
   "sa_cty_rural_districts": 13,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,47.0"

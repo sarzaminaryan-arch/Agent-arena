@@ -154,7 +154,7 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تپه سراب",
+     "name": "تپه سراب (گنبدک)",
      "pageid": 6506,
      "revision_id": 44458604,
      "section": "گردشگری / جاذبه های تاریخی",
@@ -182,7 +182,7 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چشمه وقت و ساعت",
+     "name": "چشمه وقت و ساعت (جهان‌بین)",
      "pageid": 6506,
      "revision_id": 44458604,
      "section": "گردشگری / جاذبه های طبیعی",
@@ -213,7 +213,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
-   "value": "تپه سراب\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت\nغار جهان‌بین"
+   "value": "تپه سراب (گنبدک)\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت (جهان‌بین)\nغار جهان‌بین"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

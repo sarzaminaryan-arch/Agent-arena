@@ -231,7 +231,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "sari - جنوب‌غرب\njoybar - غرب\nneka - شرق\nbehshahr - شرق",
-  "sa_cty_poi_nature": "پناهگاه حیات وحش\nدریاچه ارومیه\nجنگل‌های هیرکانی\nگربه جنگلی",
+  "sa_cty_poi_nature": "جنگل‌های هیرکانی\nگربه جنگلی",
   "sa_cty_population": 55053,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.595,53.2075"
  },
@@ -338,7 +338,7 @@
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "rudsar - جنوب‌غرب\ntonekabon - جنوب‌شرق\namlash - شمال‌غرب",
   "sa_cty_poi_heritage": "قلعه مارکوه\nکاخ مرمر رامسر",
-  "sa_cty_poi_nature": "سد میجران\nچشمه",
+  "sa_cty_poi_nature": "سد میجران",
   "sa_cty_poi_offbeat": "هتل قدیم رامسر\nرامسر",
   "sa_cty_population": 74179,
   "sa_cty_rural_districts": 4,
@@ -428,8 +428,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "abbasabad - شرق\nramsar - شمال‌غرب\nkelardasht - جنوب‌شرق\ntaleghan - جنوب",
-  "sa_cty_poi_heritage": "تخت سلیمان\nقلعه تنکا\nقلعه کوتی لشکرک\nموزه مردم‌شناسی تهران\nپل قلعه گردن",
-  "sa_cty_poi_nature": "منطقه حفاظت‌شده\nغار علیصدر\nچشمه",
+  "sa_cty_poi_heritage": "تخت سلیمان (مازندران)\nقلعه تنکا\nقلعه کوتی لشکرک\nپل قلعه گردن",
   "sa_cty_population": 166132,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63333,50.81667"
  }

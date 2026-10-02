@@ -4,7 +4,7 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "شیردره",
+    "name": "شیردره (املش)",
     "pageid": 12637,
     "revision_id": 44441258,
     "section": "جاذبه های گردشگری",
@@ -59,20 +59,6 @@
  },
  "astara": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "جنگل فندقلو",
-    "pageid": 56973,
-    "revision_id": 44371148,
-    "section": "گردشگری",
-    "source_title": "شهرستان آستارا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7",
-    "target_pageid": 37154,
-    "target_revision_id": 43492593,
-    "target_title": "جنگل فندقلو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%81%D9%86%D8%AF%D9%82%D9%84%D9%88"
-   },
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
@@ -144,7 +130,7 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%84%D8%A7%D8%AA%D9%88%D9%86"
    },
    {
-    "field": "poi_heritage",
+    "field": "poi_recreation",
     "location_evidence": "county tourism section",
     "name": "باغ پرندگان آستارا",
     "pageid": 56973,
@@ -304,6 +290,10 @@
   "province": "gilan",
   "rejected_candidates": [
    {
+    "name": "جنگل فندقلو",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "تله کابین حیران",
     "reason": "generic or untyped target"
    },
@@ -372,20 +362,6 @@
  "khomam": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تالاب انزلی",
-    "pageid": 51253,
-    "revision_id": 42049791,
-    "section": "جغرافیا و طبیعت خمام",
-    "source_title": "خمام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D9%85",
-    "target_pageid": 1137864,
-    "target_revision_id": 44164029,
-    "target_title": "تالاب انزلی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A7%D9%86%D8%B2%D9%84%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "عمارت و باغ تاریخی چوکام",
@@ -404,7 +380,12 @@
   "county": "خمام",
   "fetched": "2026-10-02",
   "province": "gilan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "تالاب انزلی",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%85%D8%A7%D9%85",
    "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D9%85"
@@ -425,20 +406,6 @@
     "target_revision_id": 44111896,
     "target_title": "تله‌کابین لاهیجان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86_%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تله‌کابین",
-    "pageid": 1573816,
-    "revision_id": 44612928,
-    "section": "جاذبه های گردشگری / طبیعی و تفریحی",
-    "source_title": "لاهیجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-    "target_pageid": 18187,
-    "target_revision_id": 42324267,
-    "target_title": "تله‌کابین",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -467,20 +434,6 @@
     "target_revision_id": 43598686,
     "target_title": "آرامگاه زاهد گیلانی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B2%D8%A7%D9%87%D8%AF_%DA%AF%DB%8C%D9%84%D8%A7%D9%86%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام گلشن",
-    "pageid": 1573816,
-    "revision_id": 44612928,
-    "section": "جاذبه های گردشگری / تاریخی",
-    "source_title": "لاهیجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-    "target_pageid": 2505683,
-    "target_revision_id": 17184043,
-    "target_title": "حمام گلشن",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%DA%AF%D9%84%D8%B4%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -573,7 +526,7 @@
   "province": "gilan",
   "rejected_candidates": [
    {
-    "name": "پارک بعثت",
+    "name": "پارک بعثت (باغ ملی)",
     "reason": "target page missing"
    },
    {
@@ -591,6 +544,10 @@
    {
     "name": "کوه عطاکوه",
     "reason": "target page missing"
+   },
+   {
+    "name": "حمام گلشن",
+    "reason": "disambiguation page"
    },
    {
     "name": "خانه صادقی",
@@ -623,12 +580,7 @@
   "county": "لنگرود",
   "fetched": "2026-10-02",
   "province": "gilan",
-  "rejected_candidates": [
-   {
-    "name": "رودخانه",
-    "reason": "generic or untyped target"
-   }
-  ],
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%DA%AF%D8%B1%D9%88%D8%AF",
    "https://fa.wikipedia.org/wiki/%D9%84%D9%86%DA%AF%D8%B1%D9%88%D8%AF"
@@ -679,7 +631,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده هاشم",
+    "name": "امامزاده هاشم (رشت)",
     "pageid": 56976,
     "revision_id": 44438494,
     "section": "جاذبه های گردشگری (طبیعی و تاریخی ـ مذهبی)",
@@ -707,7 +659,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد سفید",
+    "name": "مسجد سفید (رشت)",
     "pageid": 56976,
     "revision_id": 44438494,
     "section": "جاذبه های گردشگری (طبیعی و تاریخی ـ مذهبی)",
@@ -733,7 +685,7 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B1%D8%B4%D8%AA"
    },
    {
-    "field": "poi_heritage",
+    "field": "poi_recreation",
     "location_evidence": "county tourism section",
     "name": "باغ محتشم",
     "pageid": 56976,
@@ -917,7 +869,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان ملت",
+    "name": "بوستان ملت (رشت)",
     "pageid": 42397,
     "revision_id": 44596836,
     "section": "اماکن تفریحی رشت / بوستان ها",
@@ -931,7 +883,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما ۲۲ بهمن",
+    "name": "سینما ۲۲ بهمن (رشت)",
     "pageid": 42397,
     "revision_id": 44596836,
     "section": "اماکن تفریحی رشت / سینماهای رشت",
@@ -1109,6 +1061,10 @@
    {
     "name": "مسجد گلشن",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "بوستان ملت",
+    "reason": "disambiguation page"
    }
   ],
   "sources": [
@@ -1132,7 +1088,7 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "رودخانه",
+    "name": "رودخانه (رودبار)",
     "pageid": 19005,
     "revision_id": 44434695,
     "section": "اقتصاد / گردشگری / مذهبی",
@@ -1242,7 +1198,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه‌گردن",
+    "name": "قلعه‌گردن (رودسر)",
     "pageid": 56977,
     "revision_id": 44436788,
     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / [[قلعه گردن (رودسر)|قلعه گردن رودسر]]",
@@ -1298,7 +1254,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "کاخ رضاخان",
+    "name": "کاخ رضاخان (ناهارخوران)",
     "pageid": 56977,
     "revision_id": 44436788,
     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / عمارت شهرداری رودسر",
@@ -1426,7 +1382,12 @@
   "county": "رودسر",
   "fetched": "2026-10-02",
   "province": "gilan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "قلعه گردن",
+    "reason": "disambiguation page"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%B3%D8%B1"
@@ -1465,7 +1426,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده ابراهیم",
+    "name": "امامزاده ابراهیم (شفت)",
     "pageid": 56979,
     "revision_id": 44260911,
     "section": "جاذبه های گردشگری",
@@ -1475,20 +1436,6 @@
     "target_revision_id": 44389615,
     "target_title": "امامزاده ابراهیم (شفت)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85_%28%D8%B4%D9%81%D8%AA%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "پل لیشاوندان",
-    "pageid": 56979,
-    "revision_id": 44260911,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان شفت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%81%D8%AA",
-    "target_pageid": 657618,
-    "target_revision_id": 37072426,
-    "target_title": "پل لیشاوندان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%84%DB%8C%D8%B4%D8%A7%D9%88%D9%86%D8%AF%D8%A7%D9%86"
    }
   ],
   "center_confirmed": false,
@@ -1499,6 +1446,10 @@
    {
     "name": "بقعه متبرکه شاه درویشان",
     "reason": "target page missing"
+   },
+   {
+    "name": "پل لیشاوندان",
+    "reason": "lead locates target in another county"
    }
   ],
   "sources": [

@@ -4,34 +4,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کویر",
-    "pageid": 142243,
-    "revision_id": 44306804,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی",
-    "source_title": "بجستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_pageid": 6580,
-    "target_revision_id": 44486505,
-    "target_title": "کویر",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "منطقه حفاظت‌شده هلن",
-    "pageid": 142243,
-    "revision_id": 44306804,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی",
-    "source_title": "بجستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_pageid": 1068874,
-    "target_revision_id": 44352175,
-    "target_title": "منطقه حفاظت‌شده هلن",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D9%87%D9%84%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "اقلیم بیابانی",
     "pageid": 142243,
     "revision_id": 44306804,
@@ -48,7 +20,16 @@
   "county": "بجستان",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "سیاه‌کوه (فردوس)",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "منطقه حفاظت‌شده هلن",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86"
@@ -117,20 +98,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%DA%AF%D8%B1%D8%AF"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "جنگل پسته",
-    "pageid": 418529,
-    "revision_id": 44394078,
-    "section": "جاذبه های گردشگری و تاریخی درگز",
-    "source_title": "درگز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_pageid": 395517,
-    "target_revision_id": 41037123,
-    "target_title": "جنگل پسته",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%BE%D8%B3%D8%AA%D9%87"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "محوطه باستانی بندیان",
@@ -179,7 +146,11 @@
   "province": "razavi-khorasan",
   "rejected_candidates": [
    {
-    "name": "امامزاده محمد دیباج",
+    "name": "جنگل پسته",
+    "reason": "lead locates target in another province"
+   },
+   {
+    "name": "امامزاده محمد دیباج (دامغان)",
     "reason": "explicitly different county"
    }
   ],
@@ -476,7 +447,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده سید حمزه",
+    "name": "امامزاده سید حمزه (کاشمر)",
     "pageid": 38450,
     "revision_id": 44446626,
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
@@ -588,7 +559,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه کهنه",
+    "name": "قلعه کهنه (زنده‌جان)",
     "pageid": 38450,
     "revision_id": 44446626,
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / تپه محوطه ها",
@@ -776,10 +747,6 @@
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
   "rejected_candidates": [
-   {
-    "name": "رودخانه",
-    "reason": "generic or untyped target"
-   },
    {
     "name": "رشته کوه البرز",
     "reason": "generic or untyped target"
@@ -1088,27 +1055,18 @@
     "target_revision_id": 38957614,
     "target_title": "رودخانه حصار",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%B5%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رشته‌کوه کوهسرخ",
-    "pageid": 26651,
-    "revision_id": 44305757,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / روستاها",
-    "source_title": "تربت حیدریه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-    "target_pageid": 6346295,
-    "target_revision_id": 44191132,
-    "target_title": "رشته‌کوه کوهسرخ",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE"
    }
   ],
   "center_confirmed": true,
   "county": "تربت حیدریه",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "رشته‌کوه کوهسرخ",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87"

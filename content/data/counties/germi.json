@@ -154,20 +154,6 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "دره رود",
-     "pageid": 8955,
-     "revision_id": 44160389,
-     "section": "جغرافیا و طبیعت / بارش، رودها، چشمه ها و قناتها",
-     "source_title": "شهرستان گرمی",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
-     "target_pageid": 1662927,
-     "target_revision_id": 20135461,
-     "target_title": "دره رود",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%B1%D9%88%D8%AF"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
      "name": "جنگل‌های ایران",
      "pageid": 8955,
      "revision_id": 44160389,
@@ -185,7 +171,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
-   "value": "دره رود\nجنگل‌های ایران"
+   "value": "جنگل‌های ایران"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

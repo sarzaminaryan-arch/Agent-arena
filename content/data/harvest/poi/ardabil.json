@@ -14,7 +14,7 @@
  "ardabil-city": {
   "candidates": [
    {
-    "field": "poi_nature",
+    "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پل هفت‌چشمه",
     "pageid": 16047,
@@ -128,20 +128,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه باستان شناسی اردبیل",
-    "pageid": 16047,
-    "revision_id": 44610050,
-    "section": "اماکن تاریخی / موزه ها",
-    "source_title": "اردبیل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-    "target_pageid": 5168961,
-    "target_revision_id": 41074112,
-    "target_title": "موزه باستان شناسی اردبیل",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "موزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی",
     "pageid": 16047,
     "revision_id": 44610050,
@@ -198,7 +184,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه آقازاده",
+    "name": "خانه آقازاده (اردبیل)",
     "pageid": 16047,
     "revision_id": 44610050,
     "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
@@ -296,7 +282,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه شریعت",
+    "name": "خانه شریعت (اردبیل)",
     "pageid": 16047,
     "revision_id": 44610050,
     "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
@@ -324,7 +310,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه مرحوم مروج",
+    "name": "خانه مرحوم مروج (خلیل‌زاده)",
     "pageid": 16047,
     "revision_id": 44610050,
     "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
@@ -338,7 +324,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه مشروطه",
+    "name": "خانه مشروطه (اردبیل)",
     "pageid": 16047,
     "revision_id": 44610050,
     "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
@@ -380,7 +366,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه نوری زینال",
+    "name": "خانه نوری زینال (خوئی)",
     "pageid": 16047,
     "revision_id": 44610050,
     "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
@@ -434,20 +420,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%81%D9%86%D8%AF%D9%82%D9%84%D9%88"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "جنگل‌های هیرکانی",
-    "pageid": 16047,
-    "revision_id": 44610050,
-    "section": "جاذبه های گردشگری",
-    "source_title": "اردبیل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-    "target_pageid": 1317542,
-    "target_revision_id": 44415077,
-    "target_title": "جنگل‌های هیرکانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "جمعه‌مسجد",
@@ -488,20 +460,6 @@
     "target_revision_id": 41582034,
     "target_title": "دریاچه شورابیل",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B4%D9%88%D8%B1%D8%A7%D8%A8%DB%8C%D9%84"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "چشمه آبشار سیبیه خانی",
-    "pageid": 16047,
-    "revision_id": 44610050,
-    "section": "جاذبه های گردشگری",
-    "source_title": "اردبیل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-    "target_pageid": 5630356,
-    "target_revision_id": 44435854,
-    "target_title": "چشمه آبشار سیبیه خانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%DB%8C%D8%A8%DB%8C%D9%87_%D8%AE%D8%A7%D9%86%DB%8C"
    },
    {
     "field": "poi_recreation",
@@ -546,20 +504,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%85%D8%B9%D9%84%D9%82_%D8%B4%DB%8C%D8%B4%D9%87%E2%80%8C%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دریاچه سوها",
-    "pageid": 16047,
-    "revision_id": 44610050,
-    "section": "جاذبه های گردشگری",
-    "source_title": "اردبیل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-    "target_pageid": 5569858,
-    "target_revision_id": 43823803,
-    "target_title": "دریاچه سوها",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B3%D9%88%D9%87%D8%A7"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پل معلق پیرتقی",
@@ -572,20 +516,6 @@
     "target_revision_id": 43349685,
     "target_title": "پل معلق پیرتقی",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%85%D8%B9%D9%84%D9%82_%D9%BE%DB%8C%D8%B1%D8%AA%D9%82%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "منطقه حفاظت‌شده آق‌داغ",
-    "pageid": 16047,
-    "revision_id": 44610050,
-    "section": "جاذبه های گردشگری",
-    "source_title": "اردبیل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-    "target_pageid": 2313473,
-    "target_revision_id": 44352012,
-    "target_title": "منطقه حفاظت‌شده آق‌داغ",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%A2%D9%82%E2%80%8C%D8%AF%D8%A7%D8%BA"
    },
    {
     "field": "poi_nature",
@@ -608,16 +538,32 @@
   "province": "ardabil",
   "rejected_candidates": [
    {
-    "name": "بقعه",
-    "reason": "generic or untyped target"
+    "name": "موزه باستان شناسی اردبیل",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "کاروانسرای سنگی صائین",
     "reason": "explicitly different county"
    },
    {
+    "name": "جنگل‌های هیرکانی",
+    "reason": "lead locates target in another province"
+   },
+   {
+    "name": "چشمه آبشار سیبیه خانی",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "پیست اسکی فندقلو",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "دریاچه سوها",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "منطقه حفاظت‌شده آق‌داغ",
+    "reason": "lead locates target in another county"
    }
   ],
   "sources": [
@@ -637,27 +583,17 @@
   ]
  },
  "bileh-savar": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه دختر",
-    "pageid": 8950,
-    "revision_id": 44260419,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان بیله‌سوار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D9%84%D9%87%E2%80%8C%D8%B3%D9%88%D8%A7%D8%B1",
-    "target_pageid": 261117,
-    "target_revision_id": 42791497,
-    "target_title": "قلعه دختر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": false,
   "county": "بیله‌سوار",
   "fetched": "2026-10-02",
   "province": "ardabil",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "قلعه دختر",
+    "reason": "disambiguation page"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D9%84%D9%87%E2%80%8C%D8%B3%D9%88%D8%A7%D8%B1"
   ]
@@ -677,20 +613,6 @@
     "target_revision_id": 44356928,
     "target_title": "موزه ملی ایران",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D9%84%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دره رود",
-    "pageid": 8955,
-    "revision_id": 44160389,
-    "section": "جغرافیا و طبیعت / بارش، رودها، چشمه ها و قناتها",
-    "source_title": "شهرستان گرمی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
-    "target_pageid": 1662927,
-    "target_revision_id": 20135461,
-    "target_title": "دره رود",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%B1%D9%88%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -715,6 +637,14 @@
    {
     "name": "قیز قلعه سی",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "کاریز (قنات)",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "دره رود",
+    "reason": "disambiguation page"
    }
   ],
   "sources": [
@@ -851,7 +781,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "کهنه‌قلعه",
+    "name": "کهنه‌قلعه (مشگین‌شهر)",
     "pageid": 45655,
     "revision_id": 44374275,
     "section": "آثار تاریخی",
@@ -928,20 +858,6 @@
     "target_revision_id": 43922957,
     "target_title": "عمارت صارم السلطنه نمین",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B5%D8%A7%D8%B1%D9%85_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D9%86%D9%87_%D9%86%D9%85%DB%8C%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "جنگل فندقلو",
-    "pageid": 8947,
-    "revision_id": 44452913,
-    "section": "آثار تاریخی و جاذبه های گردشگری",
-    "source_title": "شهرستان نمین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%85%DB%8C%D9%86",
-    "target_pageid": 37154,
-    "target_revision_id": 43492593,
-    "target_title": "جنگل فندقلو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%81%D9%86%D8%AF%D9%82%D9%84%D9%88"
    }
   ],
   "center_confirmed": true,
@@ -952,6 +868,14 @@
    {
     "name": "شغاله دره",
     "reason": "target page missing"
+   },
+   {
+    "name": "جنگل فندقلو",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "جنگل فندقلو",
+    "reason": "lead locates target in another county"
    }
   ],
   "sources": [
@@ -1035,27 +959,18 @@
     "target_revision_id": 43931675,
     "target_title": "آبشار گورگور آلوارس",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%AF%D9%88%D8%B1%DA%AF%D9%88%D8%B1_%D8%A2%D9%84%D9%88%D8%A7%D8%B1%D8%B3"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پیست اسکی آلوارس",
-    "pageid": 41906,
-    "revision_id": 44276692,
-    "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
-    "source_title": "سرعین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
-    "target_pageid": 221232,
-    "target_revision_id": 39579426,
-    "target_title": "پیست اسکی آلوارس",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%A2%D9%84%D9%88%D8%A7%D8%B1%D8%B3"
    }
   ],
   "center_confirmed": true,
   "county": "سرعین",
   "fetched": "2026-10-02",
   "province": "ardabil",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "پیست اسکی آلوارس",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86"

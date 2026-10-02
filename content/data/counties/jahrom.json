@@ -232,20 +232,6 @@
      "target_revision_id": 41038777,
      "target_title": "خانه طوفان",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B7%D9%88%D9%81%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ ملی",
-     "pageid": 16944,
-     "revision_id": 44138036,
-     "section": "ساختار شهری / پارک ها",
-     "source_title": "جهرم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_pageid": 5275807,
-     "target_revision_id": 43844612,
-     "target_title": "باغ ملی (جهرم)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%85%D9%84%DB%8C_%28%D8%AC%D9%87%D8%B1%D9%85%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -253,7 +239,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-   "value": "بازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nامامزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان\nباغ ملی"
+   "value": "بازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nامامزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان"
   },
   "poi_nature": {
    "entries": [
@@ -284,6 +270,20 @@
      "target_revision_id": 29098929,
      "target_title": "غار ورا",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%88%D8%B1%D8%A7"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "البرزکوه (جهرم)",
+     "pageid": 16944,
+     "revision_id": 44138036,
+     "section": "ساختار شهری / جاذبه ها",
+     "source_title": "جهرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
+     "target_pageid": 5270797,
+     "target_revision_id": 43926152,
+     "target_title": "البرزکوه (جهرم)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%B2%DA%A9%D9%88%D9%87_%28%D8%AC%D9%87%D8%B1%D9%85%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -291,7 +291,31 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-   "value": "غار سنگ‌تراشان\nغار ورا"
+   "value": "غار سنگ‌تراشان\nغار ورا\nالبرزکوه (جهرم)"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ ملی (جهرم)",
+     "pageid": 16944,
+     "revision_id": 44138036,
+     "section": "ساختار شهری / پارک ها",
+     "source_title": "جهرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
+     "target_pageid": 5275807,
+     "target_revision_id": 43844612,
+     "target_title": "باغ ملی (جهرم)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%85%D9%84%DB%8C_%28%D8%AC%D9%87%D8%B1%D9%85%29"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
+   "value": "باغ ملی (جهرم)"
   },
   "population": {
    "fetched": "2026-10-02",

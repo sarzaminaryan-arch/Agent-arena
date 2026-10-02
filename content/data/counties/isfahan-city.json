@@ -130,7 +130,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد شاه",
+     "name": "مسجد شاه (اصفهان)",
      "pageid": 2169,
      "revision_id": 44613583,
      "section": "گردشگری و تفریح / جاذبه های تاریخی",
@@ -214,6 +214,20 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاخ هشت‌بهشت",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_pageid": 4367582,
+     "target_revision_id": 44256317,
+     "target_title": "کاخ هشت‌بهشت",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%D9%87%D8%B4%D8%AA%E2%80%8C%D8%A8%D9%87%D8%B4%D8%AA"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "کلیسای وانک",
      "pageid": 2169,
      "revision_id": 44613583,
@@ -238,20 +252,6 @@
      "target_revision_id": 44150604,
      "target_title": "حمام علی‌قلی‌آقا",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B9%D9%84%DB%8C%E2%80%8C%D9%82%D9%84%DB%8C%E2%80%8C%D8%A2%D9%82%D8%A7"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ پرندگان اصفهان",
-     "pageid": 2169,
-     "revision_id": 44613583,
-     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
-     "source_title": "اصفهان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-     "target_pageid": 2491686,
-     "target_revision_id": 42847330,
-     "target_title": "باغ پرندگان اصفهان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -301,7 +301,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-   "value": "مسجد شاه\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سید\nمسجد شیخ لطف‌الله\nکلیسای وانک\nحمام علی‌قلی‌آقا\nباغ پرندگان اصفهان\nباغ فدک اصفهان\nحمام جارچی\nپل شهرستان"
+   "value": "مسجد شاه (اصفهان)\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سید\nمسجد شیخ لطف‌الله\nکاخ هشت‌بهشت\nکلیسای وانک\nحمام علی‌قلی‌آقا\nباغ فدک اصفهان\nحمام جارچی\nپل شهرستان"
   },
   "poi_nature": {
    "entries": [
@@ -329,6 +329,34 @@
   },
   "poi_recreation": {
    "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ پرندگان اصفهان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_pageid": 2491686,
+     "target_revision_id": 42847330,
+     "target_title": "باغ پرندگان اصفهان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان (پارک)",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_pageid": 158524,
+     "target_revision_id": 43780111,
+     "target_title": "بوستان (پارک)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%28%D9%BE%D8%A7%D8%B1%DA%A9%29"
+    },
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -430,7 +458,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سینما فلسطین",
+     "name": "سینما فلسطین (اصفهان)",
      "pageid": 2169,
      "revision_id": 44613583,
      "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
@@ -444,7 +472,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سینما قدس",
+     "name": "سینما قدس (اصفهان)",
      "pageid": 2169,
      "revision_id": 44613583,
      "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
@@ -461,7 +489,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-   "value": "پردیس سینمایی چهارباغ\nپردیس سینمایی ساحل اصفهان\nپردیس سینمایی سیتی سنتر اصفهان\nسینما بهمن خوراسگان\nسینما سپاهان\nسینما سوره\nسینما فرهنگیان اصفهان\nسینما فلسطین\nسینما قدس"
+   "value": "باغ پرندگان اصفهان\nبوستان (پارک)\nپردیس سینمایی چهارباغ\nپردیس سینمایی ساحل اصفهان\nپردیس سینمایی سیتی سنتر اصفهان\nسینما بهمن خوراسگان\nسینما سپاهان\nسینما سوره\nسینما فرهنگیان اصفهان\nسینما فلسطین (اصفهان)\nسینما قدس (اصفهان)"
   },
   "population": {
    "fetched": "2026-10-02",

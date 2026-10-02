@@ -166,7 +166,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار قیصریه",
+     "name": "بازار قیصریه (لار)",
      "pageid": 12689,
      "revision_id": 44418878,
      "section": "تاریخ / بناهای تاریخی",
@@ -197,7 +197,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
-   "value": "قلعه اژدهاپیکر\nبازار قیصریه\nبرج ننه نادر"
+   "value": "قلعه اژدهاپیکر\nبازار قیصریه (لار)\nبرج ننه نادر"
   },
   "population": {
    "fetched": "2026-10-02",

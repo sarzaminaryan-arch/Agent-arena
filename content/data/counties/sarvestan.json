@@ -144,7 +144,7 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "هزاردره",
+     "name": "هزاردره (سروستان)",
      "pageid": 91550,
      "revision_id": 44296944,
      "section": "جاذبه های مذهبی شهرستان / بقاع متبرکه",
@@ -175,7 +175,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
-   "value": "هزاردره\nدریاچه مهارلو"
+   "value": "هزاردره (سروستان)\nدریاچه مهارلو"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

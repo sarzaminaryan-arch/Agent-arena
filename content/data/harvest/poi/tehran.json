@@ -18,7 +18,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده حسن",
+    "name": "امامزاده حسن (اسماعیل‌آباد)",
     "pageid": 621473,
     "revision_id": 44509576,
     "section": "بناهای تاریخی",
@@ -217,7 +217,7 @@
   "province": "tehran",
   "rejected_candidates": [
    {
-    "name": "چشمه‌علی",
+    "name": "چشمه‌علی (شهرری)",
     "reason": "explicitly different county"
    }
   ],
@@ -277,7 +277,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پل باقرآباد",
+    "name": "پل باقرآباد (تهران)",
     "pageid": 88763,
     "revision_id": 43487215,
     "section": "گردشگری و جاذبه ها",
@@ -327,20 +327,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B9%D9%84%DB%8C"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "چشمه‌علی",
-    "pageid": 50049,
-    "revision_id": 44401660,
-    "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
-    "source_title": "شهر ری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-    "target_pageid": 26744,
-    "target_revision_id": 33670056,
-    "target_title": "چشمه‌علی",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B9%D9%84%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "کارخانه سیمان ری",
@@ -357,7 +343,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای شاه‌عباسی",
+    "name": "کاروانسرای شاه‌عباسی (شهر ری)",
     "pageid": 50049,
     "revision_id": 44401660,
     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
@@ -409,6 +395,20 @@
     "target_revision_id": 40714967,
     "target_title": "کاروانسرای کنارگرد",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%DA%A9%D9%86%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه گبری (شهر ری)",
+    "pageid": 50049,
+    "revision_id": 44401660,
+    "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+    "source_title": "شهر ری",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+    "target_pageid": 262620,
+    "target_revision_id": 44305018,
+    "target_title": "قلعه گبری (شهر ری)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%AF%D8%A8%D8%B1%DB%8C_%28%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C%29"
    }
   ],
   "center_confirmed": true,
@@ -416,6 +416,10 @@
   "fetched": "2026-10-02",
   "province": "tehran",
   "rejected_candidates": [
+   {
+    "name": "چشمه علی",
+    "reason": "disambiguation page"
+   },
    {
     "name": "قلعه گبری",
     "reason": "explicitly different county"
@@ -596,7 +600,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده قاسم",
+    "name": "امامزاده قاسم (تهران)",
     "pageid": 2085,
     "revision_id": 44081541,
     "section": "جاذبه های گردشگری",
@@ -748,7 +752,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده یحیی",
+    "name": "امامزاده یحیی (ورامین)",
     "pageid": 21017,
     "revision_id": 44402497,
     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",

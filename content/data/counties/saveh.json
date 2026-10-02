@@ -148,20 +148,6 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "پل‌های یک چشمه و هشت چشمه سرخده",
-     "pageid": 4758848,
-     "revision_id": 44260837,
-     "section": "آثار تاریخی",
-     "source_title": "شهرستان ساوه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%88%D9%87",
-     "target_pageid": 657071,
-     "target_revision_id": 43929130,
-     "target_title": "پل‌های یک چشمه و هشت چشمه سرخده",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%DB%8C%DA%A9_%DA%86%D8%B4%D9%85%D9%87_%D9%88_%D9%87%D8%B4%D8%AA_%DA%86%D8%B4%D9%85%D9%87_%D8%B3%D8%B1%D8%AE%D8%AF%D9%87"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
      "name": "رودخانه مزلقان",
      "pageid": 4758848,
      "revision_id": 44260837,
@@ -179,7 +165,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%88%D9%87",
-   "value": "پل‌های یک چشمه و هشت چشمه سرخده\nرودخانه مزلقان"
+   "value": "رودخانه مزلقان"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

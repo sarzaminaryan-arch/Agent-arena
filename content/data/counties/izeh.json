@@ -201,20 +201,6 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد کارون ۳",
-     "pageid": 18806,
-     "revision_id": 44418096,
-     "section": "گردشگری جهانگردی",
-     "source_title": "ایذه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-     "target_pageid": 21390,
-     "target_revision_id": 44135735,
-     "target_title": "سد کارون ۳",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D8%A7%D8%B1%D9%88%D9%86_%DB%B3"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "کوه منگشت",
      "pageid": 18806,
      "revision_id": 44418096,
@@ -232,7 +218,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-   "value": "تالاب میانگران\nسد کارون ۳\nکوه منگشت"
+   "value": "تالاب میانگران\nکوه منگشت"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -34,7 +34,6 @@ ID=$(wp post list --post_type=city --name=avaj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی (گندم و انگور)، صنایع بزرگ و حمل‌ونقل"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا اسفند؛ تابستان بسیار گرم است"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "razan-city - جنوب‌غرب\ndargazin - جنوب\nbuin-zahra - شرق\ntakestan - شمال‌شرق\nabhar - شمال\nkhodabandeh - شمال‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "محراب مسجد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.57685"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.22241"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1"

@@ -160,7 +160,7 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "رودخانه",
+     "name": "رودخانه (رودبار)",
      "pageid": 19005,
      "revision_id": 44434695,
      "section": "اقتصاد / گردشگری / مذهبی",
@@ -219,7 +219,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-   "value": "رودخانه\nسد سفیدرود\nسد تاریک\nغار دربند رشی"
+   "value": "رودخانه (رودبار)\nسد سفیدرود\nسد تاریک\nغار دربند رشی"
   },
   "population": {
    "fetched": "2026-10-02",

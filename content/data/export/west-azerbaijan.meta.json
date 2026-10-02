@@ -36,7 +36,6 @@
   "sa_cty_poi_heritage": "تپه قلایچی",
   "sa_cty_poi_nature": "غار قلایچی",
   "sa_cty_poi_offbeat": "زرینه‌رود\nشمس‌الدین برهانی\nنقشبندی\nعلی بیگ حیدری\nسیف القضات\nصالح حریق\nمیلاد مسیح\nایران\nحسنلو\nنقده\nزیویه\nسقز",
-  "sa_cty_poi_recreation": "شهربازی\nسینما",
   "sa_cty_population": 251409,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.53333,46.16667"
  },
@@ -132,7 +131,7 @@
   "sa_cty_poi_heritage": "مسجد جامع سرخ\nباغ سیسه",
   "sa_cty_poi_nature": "سد مهاباد\nغار سهولان\nتالاب کانی برازان",
   "sa_cty_poi_offbeat": "ایران\nمینوآ\nمادها\nفقرگاه",
-  "sa_cty_poi_recreation": "بوستان ملت",
+  "sa_cty_poi_recreation": "بوستان ملت (مهاباد)",
   "sa_cty_population": 236849,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.76667,45.73333"
  },
@@ -321,7 +320,6 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "baruq - شمال\nmiandoab - شمال‌غرب\ntakab - جنوب‌شرق\nbukan - جنوب‌غرب",
-  "sa_cty_poi_heritage": "حمام",
   "sa_cty_poi_nature": "کوه پیر محمد",
   "sa_cty_poi_offbeat": "زرینه‌رود\nمنطقه شکارممنوع بیان\nآغاجاری",
   "sa_cty_poi_recreation": "بوستان شهری",
@@ -388,7 +386,7 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "oshnavieh - جنوب\najabshir - شرق\nsalmas - شمال\nazarshahr - شرق",
-  "sa_cty_poi_heritage": "موزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nآتشکده\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nکلیسای جامع حضرت مریم\nخانه‌های جنرال\nخانه انصاری\nخانه اتحادیه\nخانه دیزج سیاوش",
+  "sa_cty_poi_heritage": "موزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nکلیسای جامع حضرت مریم (ارومیه)\nخانه‌های جنرال\nخانه انصاری (ارومیه)\nخانه دیزج سیاوش\nیتیمچه",
   "sa_cty_poi_nature": "دریاچه ارومیه\nدریاچه آب شور\nپارک ملی دریاچه ارومیه",
   "sa_cty_population": 1040565,
   "sa_cty_rural_districts": 20,

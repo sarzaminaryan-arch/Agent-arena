@@ -155,22 +155,7 @@
   ]
  },
  "halilan": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "گورستان",
-    "pageid": 170517,
-    "revision_id": 43738008,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان هلیلان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86",
-    "target_pageid": 166257,
-    "target_revision_id": 43722548,
-    "target_title": "گورستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": false,
   "county": "هلیلان",
   "fetched": "2026-10-02",
@@ -181,8 +166,8 @@
     "reason": "generic or untyped target"
    },
    {
-    "name": "پل دختر",
-    "reason": "explicitly different county"
+    "name": "پل دختر (پل)",
+    "reason": "explicitly different province"
    }
   ],
   "sources": [
@@ -204,20 +189,6 @@
     "target_revision_id": 42940734,
     "target_title": "سد ایلام",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%DB%8C%D9%84%D8%A7%D9%85"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار زینگان",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_pageid": 5380492,
-    "target_revision_id": 29953446,
-    "target_title": "غار زینگان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B2%DB%8C%D9%86%DA%AF%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
@@ -276,6 +247,10 @@
    {
     "name": "تنگه کافرین",
     "reason": "target page missing"
+   },
+   {
+    "name": "غار زینگان",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "دربند بدره",

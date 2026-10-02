@@ -169,7 +169,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه بالا",
+     "name": "قلعه بالا (شاهرود)",
      "pageid": 6494,
      "revision_id": 44612577,
      "section": "گردشگری / جاذبه های طبیعی شاهرود",
@@ -256,7 +256,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
-   "value": "مسجد شیخ علی‌اکبر\nمسجد جامع شاهرود\nقلعه بالا\nآرامگاه ابوالحسن خرقانی\nقلعه‌نو خرقان\nخانه یغمایی\nبازار شاهرود\nخانه عطاردی"
+   "value": "مسجد شیخ علی‌اکبر\nمسجد جامع شاهرود\nقلعه بالا (شاهرود)\nآرامگاه ابوالحسن خرقانی\nقلعه‌نو خرقان\nخانه یغمایی\nبازار شاهرود\nخانه عطاردی"
   },
   "poi_nature": {
    "entries": [

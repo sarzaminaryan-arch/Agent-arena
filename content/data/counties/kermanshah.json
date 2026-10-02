@@ -221,7 +221,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد شاهزاده",
+     "name": "مسجد شاهزاده (کرمانشاه)",
      "pageid": 7878,
      "revision_id": 44458955,
      "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
@@ -266,24 +266,10 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-   "value": "طاق‌بستان\nشکارگاه خسرو پرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد جامع شافعی\nمسجد حاج شهبازخان\nمسجد شاهزاده\nمسجد دولتشاه\nخانه رنده‌کش"
+   "value": "طاق‌بستان\nشکارگاه خسرو پرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد جامع شافعی\nمسجد حاج شهبازخان\nمسجد شاهزاده (کرمانشاه)\nمسجد دولتشاه\nخانه رنده‌کش"
   },
   "poi_recreation": {
    "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک کوهستان",
-     "pageid": 7878,
-     "revision_id": 44458955,
-     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
-     "source_title": "کرمانشاه",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-     "target_pageid": 5612189,
-     "target_revision_id": 31805851,
-     "target_title": "پارک کوهستان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%DA%A9%D9%88%D9%87%D8%B3%D8%AA%D8%A7%D9%86"
-    },
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -301,7 +287,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک شیرین",
+     "name": "پارک شیرین (کرمانشاه)",
      "pageid": 7878,
      "revision_id": 44458955,
      "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
@@ -315,7 +301,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان لاله",
+     "name": "بوستان لاله (کرمانشاه)",
      "pageid": 7878,
      "revision_id": 44458955,
      "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
@@ -332,7 +318,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-   "value": "پارک کوهستان\nبوستان شاهد\nپارک شیرین\nبوستان لاله"
+   "value": "بوستان شاهد\nپارک شیرین (کرمانشاه)\nبوستان لاله (کرمانشاه)"
   },
   "population": {
    "fetched": "2026-10-02",

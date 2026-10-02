@@ -153,20 +153,6 @@
      "target_revision_id": 42940734,
      "target_title": "سد ایلام",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%DB%8C%D9%84%D8%A7%D9%85"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار زینگان",
-     "pageid": 1516167,
-     "revision_id": 44466154,
-     "section": "جاذبه های گردشگری",
-     "source_title": "ایلام",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-     "target_pageid": 5380492,
-     "target_revision_id": 29953446,
-     "target_title": "غار زینگان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B2%DB%8C%D9%86%DA%AF%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -174,7 +160,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-   "value": "سد ایلام\nغار زینگان"
+   "value": "سد ایلام"
   },
   "population": {
    "fetched": "2026-10-02",

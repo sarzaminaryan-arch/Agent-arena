@@ -4,20 +4,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد سلطانی",
-    "pageid": 48821,
-    "revision_id": 44260148,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان اسدآباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_pageid": 223531,
-    "target_revision_id": 29689241,
-    "target_title": "مسجد سلطانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "پل شکسته خسروآباد",
     "pageid": 48821,
     "revision_id": 44260148,
@@ -56,6 +42,10 @@
    {
     "name": "حمام گلستان",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "مسجد سلطانی",
+    "reason": "disambiguation page"
    },
    {
     "name": "بهمن دره",
@@ -246,20 +236,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه خضر",
-    "pageid": 2926,
-    "revision_id": 44594221,
-    "section": "جاذبه های گردشگری / آثار تاریخی",
-    "source_title": "همدان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-    "target_pageid": 3933851,
-    "target_revision_id": 24726485,
-    "target_title": "آرامگاه خضر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D8%B6%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "آرامگاه استر و مردخای",
     "pageid": 2926,
     "revision_id": 44594221,
@@ -330,7 +306,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه باباطاهر",
+    "name": "آرامگاه باباطاهر (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / آثار تاریخی",
@@ -400,7 +376,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ‌موزه دفاع مقدس",
+    "name": "باغ‌موزه دفاع مقدس (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / موزه ها",
@@ -414,7 +390,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه سفال",
+    "name": "موزه سفال (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / موزه ها",
@@ -526,7 +502,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آتشکده بهرام",
+    "name": "آتشکده بهرام (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
@@ -594,20 +570,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86_%DA%AF%D9%86%D8%AC%E2%80%8C%D9%86%D8%A7%D9%85%D9%87"
    },
    {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تله‌کابین",
-    "pageid": 2926,
-    "revision_id": 44594221,
-    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / نگرانی از اثرات زیست محیطی تله کابین گنجنامه",
-    "source_title": "همدان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-    "target_pageid": 18187,
-    "target_revision_id": 42324267,
-    "target_title": "تله‌کابین",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "مسجد میرزا تقی",
@@ -624,7 +586,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده عبدالله",
+    "name": "امامزاده عبدالله (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
@@ -652,7 +614,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده اسماعیل",
+    "name": "امامزاده اسماعیل (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
@@ -680,7 +642,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده یحیی",
+    "name": "امامزاده یحیی (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
@@ -694,7 +656,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده عیسی‌بن‌احمد",
+    "name": "امامزاده عیسی‌بن‌احمد (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
@@ -708,7 +670,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده خضر",
+    "name": "امامزاده خضر (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
@@ -722,7 +684,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سقاخانه حضرت ابوالفضل",
+    "name": "سقاخانه حضرت ابوالفضل (همدان)",
     "pageid": 2926,
     "revision_id": 44594221,
     "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
@@ -756,6 +718,10 @@
    {
     "name": "کتیبه‌های گنج‌نامه",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "بقعه خضر",
+    "reason": "disambiguation page"
    },
    {
     "name": "دره گنج‌نامه",
@@ -845,20 +811,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تخت جمشید",
-    "pageid": 13070,
-    "revision_id": 44466677,
-    "section": "جاذبه ها",
-    "source_title": "ملایر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-    "target_pageid": 3197,
-    "target_revision_id": 44505260,
-    "target_title": "تخت جمشید",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "برج آزادی",
     "pageid": 13070,
     "revision_id": 44466677,
@@ -891,7 +843,11 @@
   "province": "hamadan",
   "rejected_candidates": [
    {
-    "name": "آرامگاه باباطاهر",
+    "name": "تخت جمشید",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "آرامگاه باباطاهر (همدان)",
     "reason": "explicitly different county"
    },
    {
@@ -937,7 +893,22 @@
   ]
  },
  "razan-city": {
-  "candidates": [],
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج (سازه)",
+    "pageid": 92200,
+    "revision_id": 44263418,
+    "section": "گردشگری",
+    "source_title": "رزن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86",
+    "target_pageid": 219104,
+    "target_revision_id": 44483479,
+    "target_title": "برج (سازه)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%28%D8%B3%D8%A7%D8%B2%D9%87%29"
+   }
+  ],
   "center_confirmed": true,
   "county": "رزن",
   "fetched": "2026-10-02",
@@ -950,10 +921,6 @@
    {
     "name": "امامزاده اظهر بن علی",
     "reason": "explicitly different county"
-   },
-   {
-    "name": "بقعه",
-    "reason": "generic or untyped target"
    }
   ],
   "sources": [
@@ -966,7 +933,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه اردلان",
+    "name": "قلعه اردلان (تویسرکان)",
     "pageid": 16705,
     "revision_id": 44605764,
     "section": "گردشگری",
@@ -1110,7 +1077,7 @@
   "province": "hamadan",
   "rejected_candidates": [
    {
-    "name": "سرابی",
+    "name": "سرابی (تویسرکان)",
     "reason": "target page missing"
    },
    {
@@ -1122,7 +1089,7 @@
     "reason": "target page missing"
    },
    {
-    "name": "سرابی",
+    "name": "سرابی (تویسرکان)",
     "reason": "target page missing"
    },
    {

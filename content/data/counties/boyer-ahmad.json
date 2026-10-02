@@ -178,20 +178,6 @@
      "target_revision_id": 44430687,
      "target_title": "پیست اسکی کاکان",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%DA%A9%D8%A7%DA%A9%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "شهربازی",
-     "pageid": 50156,
-     "revision_id": 44511081,
-     "section": "گردشگری",
-     "source_title": "یاسوج",
-     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
-     "target_pageid": 442335,
-     "target_revision_id": 43377222,
-     "target_title": "شهربازی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -199,7 +185,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
-   "value": "پیست اسکی کاکان\nشهربازی"
+   "value": "پیست اسکی کاکان"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -160,20 +160,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام گلشن",
-     "pageid": 1573816,
-     "revision_id": 44612928,
-     "section": "جاذبه های گردشگری / تاریخی",
-     "source_title": "لاهیجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-     "target_pageid": 2505683,
-     "target_revision_id": 17184043,
-     "target_title": "حمام گلشن",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%DA%AF%D9%84%D8%B4%D9%86"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "مسجد اکبریه",
      "pageid": 1573816,
      "revision_id": 44612928,
@@ -261,7 +247,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-   "value": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nحمام گلشن\nمسجد اکبریه\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان\nمسجد جامع لاهیجان"
+   "value": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nمسجد اکبریه\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان\nمسجد جامع لاهیجان"
   },
   "poi_recreation": {
    "entries": [
@@ -278,20 +264,6 @@
      "target_revision_id": 44111896,
      "target_title": "تله‌کابین لاهیجان",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86_%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تله‌کابین",
-     "pageid": 1573816,
-     "revision_id": 44612928,
-     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
-     "source_title": "لاهیجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-     "target_pageid": 18187,
-     "target_revision_id": 42324267,
-     "target_title": "تله‌کابین",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -299,7 +271,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
-   "value": "تله‌کابین لاهیجان\nتله‌کابین"
+   "value": "تله‌کابین لاهیجان"
   },
   "population": {
    "fetched": "2026-10-02",

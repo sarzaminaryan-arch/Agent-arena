@@ -164,20 +164,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه دختر",
-     "pageid": 23599,
-     "revision_id": 44388553,
-     "section": "گردشگری",
-     "source_title": "خورموج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
-     "target_pageid": 261117,
-     "target_revision_id": 42791497,
-     "target_title": "قلعه دختر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "عمارت شیرینه",
      "pageid": 23599,
      "revision_id": 44388553,
@@ -195,7 +181,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
-   "value": "قلعه خورموج\nقلعه دختر\nعمارت شیرینه"
+   "value": "قلعه خورموج\nعمارت شیرینه"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

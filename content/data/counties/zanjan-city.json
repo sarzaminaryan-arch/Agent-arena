@@ -193,7 +193,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه خدیوی",
+     "name": "خانه خدیوی (زنجان)",
      "pageid": 2924,
      "revision_id": 44401023,
      "section": "آثار تاریخی",
@@ -207,7 +207,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای سنگی",
+     "name": "کاروانسرای سنگی (زنجان)",
      "pageid": 2924,
      "revision_id": 44401023,
      "section": "آثار تاریخی",
@@ -308,7 +308,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "بازار زنجان\nمسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی\nکاروانسرای سنگی\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین\nپل آبکار"
+   "value": "بازار زنجان\nمسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی (زنجان)\nکاروانسرای سنگی (زنجان)\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین\nپل آبکار"
   },
   "population": {
    "fetched": "2026-10-02",

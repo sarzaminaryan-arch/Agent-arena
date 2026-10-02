@@ -124,30 +124,6 @@
     "dalahu"
    ]
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار کاوات",
-     "pageid": 2284,
-     "revision_id": 44321973,
-     "section": "اماکن دیدنی و تاریخی / غار کاوات",
-     "source_title": "جوانرود",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF",
-     "target_pageid": 32490,
-     "target_revision_id": 40492462,
-     "target_title": "غار کاوات",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%A9%D8%A7%D9%88%D8%A7%D8%AA"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF",
-   "value": "غار کاوات"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

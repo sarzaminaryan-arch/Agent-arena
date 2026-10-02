@@ -513,7 +513,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "نارین قلعه",
+    "name": "نارین قلعه (میبد)",
     "pageid": 90584,
     "revision_id": 44409216,
     "section": "اماکن دیدنی",
@@ -1059,7 +1059,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "آرامگاه چهل دختران",
+    "name": "آرامگاه چهل دختران (تفت)",
     "pageid": 52294,
     "revision_id": 44469408,
     "section": "آثار تاریخی شهرستان تفت",
@@ -1225,7 +1225,7 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%AF%D8%A7%D8%B1%DB%8C%D8%B2"
    },
    {
-    "field": "poi_heritage",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "باغ ایرانی",
     "pageid": 19384,
@@ -1241,7 +1241,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بقعه شاه خلیل ثانی",
+    "name": "بقعه شاه خلیل ثانی (موزه مردم‌شناسی تفت)",
     "pageid": 19384,
     "revision_id": 44607447,
     "section": "بناهای تاریخی / مجموعه تاریخی شاه ولی",
@@ -1265,20 +1265,6 @@
     "target_revision_id": 43818767,
     "target_title": "آب‌انبار بازار امام",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D9%85%D8%A7%D9%85"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام",
-    "pageid": 19384,
-    "revision_id": 44607447,
-    "section": "بناهای تاریخی / حمام های قدیمی",
-    "source_title": "تفت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%AA",
-    "target_pageid": 22606,
-    "target_revision_id": 44432887,
-    "target_title": "حمام",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -1463,7 +1449,7 @@
     "reason": "target page missing"
    },
    {
-    "name": "بازار شاه‌ولی",
+    "name": "بازار شاه‌ولی (امام)",
     "reason": "target page missing"
    },
    {
@@ -1472,6 +1458,10 @@
    },
    {
     "name": "آب‌انبار شاه ولی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "بازار شاه ولی",
     "reason": "target page missing"
    },
    {
@@ -1815,20 +1805,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ خان",
-    "pageid": 19818,
-    "revision_id": 44613507,
-    "section": "گردشگری / بناها و مکان های تاریخی / دیگر آثار تاریخی<ref>در این فهرست از آثاری نام برده شده است که، قابل بازدید توسط گردشگران است.</ref><ref>اداره میراث فرهنگی یزد، یزد پردیس کویر (راهنمای گردشگری استان یزد)، تهران: یزدا، ۱۳۸۹</ref>",
-    "source_title": "یزد",
-    "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-    "target_pageid": 6508935,
-    "target_revision_id": 39949500,
-    "target_title": "باغ خان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%AE%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "آتشکده یزد",
     "pageid": 19818,
     "revision_id": 44613507,
@@ -1853,20 +1829,6 @@
     "target_revision_id": 44076666,
     "target_title": "برج و باروهای یزد",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D9%88_%D8%A8%D8%A7%D8%B1%D9%88%D9%87%D8%A7%DB%8C_%DB%8C%D8%B2%D8%AF"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه سید رکن‌الدین",
-    "pageid": 19818,
-    "revision_id": 44613507,
-    "section": "گردشگری / بناها و مکان های تاریخی / دیگر آثار تاریخی<ref>در این فهرست از آثاری نام برده شده است که، قابل بازدید توسط گردشگران است.</ref><ref>اداره میراث فرهنگی یزد، یزد پردیس کویر (راهنمای گردشگری استان یزد)، تهران: یزدا، ۱۳۸۹</ref>",
-    "source_title": "یزد",
-    "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-    "target_pageid": 656315,
-    "target_revision_id": 43929535,
-    "target_title": "آرامگاه سید رکن‌الدین",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B3%DB%8C%D8%AF_%D8%B1%DA%A9%D9%86%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1899,7 +1861,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه مرتاضیون",
+    "name": "خانه مرتاضیون (دکتر مرتاض)",
     "pageid": 19818,
     "revision_id": 44613507,
     "section": "گردشگری / بناها و مکان های تاریخی / دیگر آثار تاریخی<ref>در این فهرست از آثاری نام برده شده است که، قابل بازدید توسط گردشگران است.</ref><ref>اداره میراث فرهنگی یزد، یزد پردیس کویر (راهنمای گردشگری استان یزد)، تهران: یزدا، ۱۳۸۹</ref>",
@@ -1921,8 +1883,16 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "باغ خان",
+    "reason": "disambiguation page"
+   },
+   {
     "name": "آرامگاه دوازده‌امام",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "آرامگاه سید رکن‌الدین",
+    "reason": "lead locates target in another county"
    }
   ],
   "sources": [

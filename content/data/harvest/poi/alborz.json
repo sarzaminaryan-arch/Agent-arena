@@ -95,7 +95,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای شاه‌عباسی",
+    "name": "کاروانسرای شاه‌عباسی (کرج)",
     "pageid": 2444,
     "revision_id": 44458279,
     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
@@ -137,7 +137,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده طاهر",
+    "name": "امامزاده طاهر (کرج)",
     "pageid": 2444,
     "revision_id": 44458279,
     "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
@@ -632,9 +632,9 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D9%82%D9%84%D8%B9%D9%87_%D8%AF%DB%8C%D9%88"
    },
    {
-    "field": "poi_heritage",
+    "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "تپه قلعه قلدوش",
+    "name": "تپه قلعه قلدوش (قله دوش)",
     "pageid": 179087,
     "revision_id": 44205406,
     "section": "آثار ملی و دیدنی ها / تپه ها",
@@ -872,7 +872,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه نوده",
+    "name": "قلعه نوده (قلعه کیان خاتون)",
     "pageid": 179087,
     "revision_id": 44205406,
     "section": "آثار ملی و دیدنی ها / قلعه ها",
@@ -900,7 +900,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده یوسف",
+    "name": "امامزاده یوسف (طالقان)",
     "pageid": 179087,
     "revision_id": 44205406,
     "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",

@@ -143,7 +143,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "گورستان و آرامگاه پیرلر",
+     "name": "گورستان و آرامگاه پیرلر (پیر حیران)",
      "pageid": 13338,
      "revision_id": 44323893,
      "section": "گردشگری",
@@ -188,14 +188,14 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
-   "value": "سردر و محراب مسجد محراب آذرشهر\nگورستان و آرامگاه پیرلر\nحمام چهار سوق\nحمام ستوباد"
+   "value": "سردر و محراب مسجد محراب آذرشهر\nگورستان و آرامگاه پیرلر (پیر حیران)\nحمام چهار سوق\nحمام ستوباد"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "هفت‌چشمه",
+     "name": "هفت‌چشمه (آذرشهر)",
      "pageid": 13338,
      "revision_id": 44323893,
      "section": "گردشگری",
@@ -212,7 +212,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
-   "value": "هفت‌چشمه"
+   "value": "هفت‌چشمه (آذرشهر)"
   },
   "population": {
    "fetched": "2026-10-02",

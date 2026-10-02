@@ -200,20 +200,6 @@
      "target_revision_id": 44365656,
      "target_title": "دریاچه نمک",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%86%D9%85%DA%A9"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دشت کویر",
-     "pageid": 52936,
-     "revision_id": 44555270,
-     "section": "جاذبه های طبیعی",
-     "source_title": "آران و بیدگل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-     "target_pageid": 43243,
-     "target_revision_id": 44451480,
-     "target_title": "دشت کویر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B4%D8%AA_%DA%A9%D9%88%DB%8C%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -221,7 +207,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-   "value": "کویر مرنجاب\nدریاچه نمک\nدشت کویر"
+   "value": "کویر مرنجاب\nدریاچه نمک"
   },
   "population": {
    "fetched": "2026-10-02",

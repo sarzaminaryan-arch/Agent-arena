@@ -16,34 +16,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%A8%D8%A7%D8%BA%D8%B1%D8%A7%D9%86"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه شاه",
-    "pageid": 24744,
-    "revision_id": 42267120,
-    "section": "طبیعت و آب و هوا",
-    "source_title": "شهرستان بیرجند",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-    "target_pageid": 3714832,
-    "target_revision_id": 44599479,
-    "target_title": "کوه شاه",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B4%D8%A7%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کویر",
-    "pageid": 24744,
-    "revision_id": 42267120,
-    "section": "طبیعت و آب و هوا",
-    "source_title": "شهرستان بیرجند",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-    "target_pageid": 6580,
-    "target_revision_id": 44486505,
-    "target_title": "کویر",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "باغ اکبریه",
@@ -58,7 +30,7 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%A7%DA%A9%D8%A8%D8%B1%DB%8C%D9%87"
    },
    {
-    "field": "poi_heritage",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "باغ ایرانی",
     "pageid": 24745,
@@ -190,6 +162,10 @@
   "province": "south-khorasan",
   "rejected_candidates": [
    {
+    "name": "کوه شاه",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "رشته کوه مؤمن آباد",
     "reason": "target page missing"
    }
@@ -232,7 +208,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه دختر",
+    "name": "قلعه دختر (بشرویه)",
     "pageid": 286314,
     "revision_id": 44260359,
     "section": "گردشگری",
@@ -344,7 +320,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام فاضلخان",
+    "name": "حمام فاضلخان (۱)",
     "pageid": 21607,
     "revision_id": 43772802,
     "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
@@ -354,6 +330,20 @@
     "target_revision_id": 44150606,
     "target_title": "حمام فاضلخان (۱)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%81%D8%A7%D8%B6%D9%84%D8%AE%D8%A7%D9%86_%28%DB%B1%29"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام فاضلخان (۲)",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_pageid": 668921,
+    "target_revision_id": 44150607,
+    "target_title": "حمام فاضلخان (۲)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%81%D8%A7%D8%B6%D9%84%D8%AE%D8%A7%D9%86_%28%DB%B2%29"
    },
    {
     "field": "poi_heritage",
@@ -637,7 +627,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "آب‌انبار قلعه",
+    "name": "آب‌انبار قلعه (فردوس)",
     "pageid": 43796,
     "revision_id": 44261026,
     "section": "جاذبه های گردشگری",
@@ -903,20 +893,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "حمام سردشت",
-    "pageid": 43796,
-    "revision_id": 44261026,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان فردوس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
-    "target_pageid": 795612,
-    "target_revision_id": 17183850,
-    "target_title": "حمام سردشت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B3%D8%B1%D8%AF%D8%B4%D8%AA"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "خانه افراشته",
     "pageid": 43796,
     "revision_id": 44261026,
@@ -1001,7 +977,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "خانه صدرالسادات",
+    "name": "خانه صدرالسادات (۱)",
     "pageid": 43796,
     "revision_id": 44261026,
     "section": "جاذبه های گردشگری",
@@ -1011,6 +987,20 @@
     "target_revision_id": 44155533,
     "target_title": "خانه صدرالسادات (۱)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B5%D8%AF%D8%B1%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA_%28%DB%B1%29"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه صدرالسادات (۲)",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_pageid": 666875,
+    "target_revision_id": 44155534,
+    "target_title": "خانه صدرالسادات (۲)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B5%D8%AF%D8%B1%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA_%28%DB%B2%29"
    },
    {
     "field": "poi_heritage",
@@ -1267,7 +1257,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه دختر",
+    "name": "قلعه دختر (فردوس)",
     "pageid": 43796,
     "revision_id": 44261026,
     "section": "جاذبه های گردشگری",
@@ -1340,6 +1330,10 @@
   "fetched": "2026-10-02",
   "province": "south-khorasan",
   "rejected_candidates": [
+   {
+    "name": "حمام سردشت",
+    "reason": "disambiguation page"
+   },
    {
     "name": "خانه بدیعی",
     "reason": "explicitly different county"
@@ -1807,7 +1801,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "خانه علوی",
+    "name": "خانه علوی (بیرجند)",
     "pageid": 1258867,
     "revision_id": 43717940,
     "section": "آثار تاریخی",
@@ -2344,21 +2338,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده علی",
-    "pageid": 142033,
-    "revision_id": 44596070,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان طبس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
-    "target_pageid": 1666291,
-    "target_revision_id": 14391733,
-    "target_title": "امامزاده علی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B9%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "باغ گلشن",
+    "name": "باغ گلشن (طبس)",
     "pageid": 142033,
     "revision_id": 44596070,
     "section": "جاذبه های گردشگری",
@@ -2382,34 +2362,6 @@
     "target_revision_id": 40556403,
     "target_title": "سد وزنی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%88%D8%B2%D9%86%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه دختر",
-    "pageid": 142033,
-    "revision_id": 44596070,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان طبس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
-    "target_pageid": 261117,
-    "target_revision_id": 42791497,
-    "target_title": "قلعه دختر",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه حسن‌آباد شجاع",
-    "pageid": 142033,
-    "revision_id": 44596070,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان طبس",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
-    "target_pageid": 6525456,
-    "target_revision_id": 40213197,
-    "target_title": "قلعه حسن‌آباد شجاع",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AD%D8%B3%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D8%B4%D8%AC%D8%A7%D8%B9"
    },
    {
     "field": "poi_heritage",
@@ -2460,6 +2412,10 @@
   "province": "south-khorasan",
   "rejected_candidates": [
    {
+    "name": "امامزاده علی",
+    "reason": "disambiguation page"
+   },
+   {
     "name": "امام زاده حسین",
     "reason": "generic or untyped target"
    },
@@ -2500,8 +2456,16 @@
     "reason": "target page missing"
    },
    {
+    "name": "قلعه دختر",
+    "reason": "disambiguation page"
+   },
+   {
     "name": "قلعه کلشانه",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "قلعه حسن‌آباد شجاع",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "قلعه پیستان",

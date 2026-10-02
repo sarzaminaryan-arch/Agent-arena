@@ -158,6 +158,20 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
+     "name": "تپه قلعه قلدوش (قله دوش)",
+     "pageid": 179087,
+     "revision_id": 44205406,
+     "section": "آثار ملی و دیدنی ها / تپه ها",
+     "source_title": "شهرستان طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_pageid": 662688,
+     "target_revision_id": 44120577,
+     "target_title": "تپه قلعه قلدوش (قله دوش)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D9%82%D9%84%D8%B9%D9%87_%D9%82%D9%84%D8%AF%D9%88%D8%B4_%28%D9%82%D9%84%D9%87_%D8%AF%D9%88%D8%B4%29"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
      "name": "غار پنجعلی",
      "pageid": 179087,
      "revision_id": 44205406,
@@ -231,7 +245,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-   "value": "تپه دره میر آش\nغار پنجعلی\nغار وی یا\nغار زالن گاه\nغار بادامستان\nسد طالقان"
+   "value": "تپه دره میر آش\nتپه قلعه قلدوش (قله دوش)\nغار پنجعلی\nغار وی یا\nغار زالن گاه\nغار بادامستان\nسد طالقان"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

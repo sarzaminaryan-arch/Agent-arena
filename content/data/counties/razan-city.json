@@ -140,6 +140,30 @@
     "khodabandeh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج (سازه)",
+     "pageid": 92200,
+     "revision_id": 44263418,
+     "section": "گردشگری",
+     "source_title": "رزن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86",
+     "target_pageid": 219104,
+     "target_revision_id": 44483479,
+     "target_title": "برج (سازه)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%28%D8%B3%D8%A7%D8%B2%D9%87%29"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86",
+   "value": "برج (سازه)"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

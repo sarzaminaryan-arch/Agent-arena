@@ -139,30 +139,6 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D9%85",
    "value": "عمارت و باغ تاریخی چوکام"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تالاب انزلی",
-     "pageid": 51253,
-     "revision_id": 42049791,
-     "section": "جغرافیا و طبیعت خمام",
-     "source_title": "خمام",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D9%85",
-     "target_pageid": 1137864,
-     "target_revision_id": 44164029,
-     "target_title": "تالاب انزلی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A7%D9%86%D8%B2%D9%84%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D9%85",
-   "value": "تالاب انزلی"
-  },
   "rural_districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",

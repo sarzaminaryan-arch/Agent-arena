@@ -116,7 +116,6 @@
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "rasht - جنوب\nbandar-e-anzali - غرب\nastaneh-ye-ashrafiyeh - جنوب‌شرق",
   "sa_cty_poi_heritage": "عمارت و باغ تاریخی چوکام",
-  "sa_cty_poi_nature": "تالاب انزلی",
   "sa_cty_rural_districts": 2,
   "sa_cty_villages": 45,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.41667,49.68333"
@@ -136,8 +135,8 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "astaneh-ye-ashrafiyeh - شمال‌غرب\nlangarud - جنوب‌شرق",
-  "sa_cty_poi_heritage": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nحمام گلشن\nمسجد اکبریه\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان\nمسجد جامع لاهیجان",
-  "sa_cty_poi_recreation": "تله‌کابین لاهیجان\nتله‌کابین",
+  "sa_cty_poi_heritage": "مسجد چهار پادشاهان\nآرامگاه زاهد گیلانی\nمسجد اکبریه\nبقعه میرشمس‌الدین لاهیجانی\nآرامگاه امیر شهید\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان\nمسجد جامع لاهیجان",
+  "sa_cty_poi_recreation": "تله‌کابین لاهیجان",
   "sa_cty_population": 167544,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.23333,50.03333"
@@ -237,7 +236,7 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "siahkal - شمال‌شرق\nshaft - شمال‌غرب\nqazvin-city - جنوب‌شرق\nkharadere - جنوب‌غرب",
-  "sa_cty_poi_nature": "رودخانه\nسد سفیدرود\nسد تاریک\nغار دربند رشی",
+  "sa_cty_poi_nature": "رودخانه (رودبار)\nسد سفیدرود\nسد تاریک\nغار دربند رشی",
   "sa_cty_population": 94720,
   "sa_cty_rural_districts": 12,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.81667,49.58333"

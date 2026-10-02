@@ -152,20 +152,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سنگ‌نگاره",
-     "pageid": 16085,
-     "revision_id": 44504233,
-     "section": "آثار تاریخی گلپایگان",
-     "source_title": "گلپایگان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_pageid": 1728420,
-     "target_revision_id": 41248595,
-     "target_title": "سنگ‌نگاره",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "مسجد جامع گلپایگان",
      "pageid": 16085,
      "revision_id": 44504233,
@@ -239,7 +225,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-   "value": "سنگ‌نگاره\nمسجد جامع گلپایگان\nبازار چهارسوق\nمناره گلپایگان\nارگ گوگد\nامامزاده هفده تن"
+   "value": "مسجد جامع گلپایگان\nبازار چهارسوق\nمناره گلپایگان\nارگ گوگد\nامامزاده هفده تن"
   },
   "population": {
    "fetched": "2026-10-02",

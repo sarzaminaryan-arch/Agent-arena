@@ -51,6 +51,20 @@
     "target_revision_id": 41043401,
     "target_title": "سد خلیفه‌لوی زنجان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AE%D9%84%DB%8C%D9%81%D9%87%E2%80%8C%D9%84%D9%88%DB%8C_%D8%B2%D9%86%D8%AC%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "الوند (خرمدره)",
+    "pageid": 16883,
+    "revision_id": 44498738,
+    "section": "گردشگری",
+    "source_title": "خرمدره",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87",
+    "target_pageid": 1605242,
+    "target_revision_id": 41791032,
+    "target_title": "الوند (خرمدره)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%86%D8%AF_%28%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87%29"
    }
   ],
   "center_confirmed": true,
@@ -198,7 +212,7 @@
   "province": "zanjan",
   "rejected_candidates": [
    {
-    "name": "قلعه سانسیز",
+    "name": "قلعه سانسیز (گور قلعه)",
     "reason": "explicitly different county"
    }
   ],
@@ -267,7 +281,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه خدیوی",
+    "name": "خانه خدیوی (زنجان)",
     "pageid": 2924,
     "revision_id": 44401023,
     "section": "آثار تاریخی",
@@ -281,7 +295,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای سنگی",
+    "name": "کاروانسرای سنگی (زنجان)",
     "pageid": 2924,
     "revision_id": 44401023,
     "section": "آثار تاریخی",

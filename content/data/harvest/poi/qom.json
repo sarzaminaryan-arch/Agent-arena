@@ -278,34 +278,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "غار کهک",
-    "pageid": 123392,
-    "revision_id": 44314915,
-    "section": "مکان های دیدنی",
-    "source_title": "شهرستان قم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
-    "target_pageid": 6957064,
-    "target_revision_id": 43873883,
-    "target_title": "غار کهک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%A9%D9%87%DA%A9"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تنگه قاهان",
-    "pageid": 123392,
-    "revision_id": 44314915,
-    "section": "مکان های دیدنی",
-    "source_title": "شهرستان قم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
-    "target_pageid": 4314355,
-    "target_revision_id": 43873865,
-    "target_title": "تنگه قاهان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DA%AF%D9%87_%D9%82%D8%A7%D9%87%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "منطقه حفاظت‌شده پلنگ‌دره",
     "pageid": 123392,
     "revision_id": 44314915,
@@ -320,7 +292,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان ولایت",
+    "name": "بوستان ولایت (تهران)",
     "pageid": 7906,
     "revision_id": 44466546,
     "section": "امکانات شهری / پارک ها و فضای سبز",
@@ -334,7 +306,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان علوی",
+    "name": "بوستان علوی (قم)",
     "pageid": 7906,
     "revision_id": 44466546,
     "section": "امکانات شهری / پارک ها و فضای سبز",
@@ -358,20 +330,6 @@
     "target_revision_id": 44262695,
     "target_title": "بوستان کتاب",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%AA%D8%A7%D8%A8"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مناره",
-    "pageid": 7906,
-    "revision_id": 44466546,
-    "section": "گردشگری / حرم فاطمه معصومه",
-    "source_title": "قم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
-    "target_pageid": 66143,
-    "target_revision_id": 43761930,
-    "target_title": "مناره",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%B1%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -412,8 +370,16 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "غار کهک",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "مجموعه معادن چاله غار وشنوه",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "تنگه قاهان",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "بوستان امام علی",
@@ -505,11 +471,7 @@
    },
    {
     "name": "بوستان اندیشه",
-    "reason": "explicitly different county"
-   },
-   {
-    "name": "بقعه",
-    "reason": "generic or untyped target"
+    "reason": "explicitly different province"
    },
    {
     "name": "باغ پنبه",

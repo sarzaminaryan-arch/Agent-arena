@@ -13,6 +13,10 @@
    {
     "name": "کوه قلعه قاضی",
     "reason": "target page missing"
+   },
+   {
+    "name": "پاطاق (سرپل ذهاب)",
+    "reason": "lead locates target in another county"
    }
   ],
   "sources": [
@@ -152,27 +156,17 @@
   ]
  },
  "javanrud": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار کاوات",
-    "pageid": 2284,
-    "revision_id": 44321973,
-    "section": "اماکن دیدنی و تاریخی / غار کاوات",
-    "source_title": "جوانرود",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF",
-    "target_pageid": 32490,
-    "target_revision_id": 40492462,
-    "target_title": "غار کاوات",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%A9%D8%A7%D9%88%D8%A7%D8%AA"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "جوانرود",
   "fetched": "2026-10-02",
   "province": "kermanshah",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "غار کاوات",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF",
    "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF"
@@ -266,20 +260,6 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک کوهستان",
-    "pageid": 7878,
-    "revision_id": 44458955,
-    "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
-    "source_title": "کرمانشاه",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_pageid": 5612189,
-    "target_revision_id": 31805851,
-    "target_title": "پارک کوهستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%DA%A9%D9%88%D9%87%D8%B3%D8%AA%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بوستان شاهد",
     "pageid": 7878,
     "revision_id": 44458955,
@@ -294,7 +274,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک شیرین",
+    "name": "پارک شیرین (کرمانشاه)",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
@@ -308,7 +288,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان لاله",
+    "name": "بوستان لاله (کرمانشاه)",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
@@ -392,7 +372,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد شاهزاده",
+    "name": "مسجد شاهزاده (کرمانشاه)",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
@@ -437,6 +417,10 @@
   "fetched": "2026-10-02",
   "province": "kermanshah",
   "rejected_candidates": [
+   {
+    "name": "پارک کوهستان",
+    "reason": "disambiguation page"
+   },
    {
     "name": "کوه بیستون",
     "reason": "generic or untyped target"
@@ -494,20 +478,6 @@
     "target_revision_id": 43170953,
     "target_title": "کوه شاهو",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B4%D8%A7%D9%87%D9%88"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "غار قوری‌قلعه",
-    "pageid": 18273,
-    "revision_id": 43695743,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "شهرستان پاوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_pageid": 179512,
-    "target_revision_id": 44453484,
-    "target_title": "غار قوری‌قلعه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%82%D9%88%D8%B1%DB%8C%E2%80%8C%D9%82%D9%84%D8%B9%D9%87"
    }
   ],
   "center_confirmed": true,
@@ -515,6 +485,10 @@
   "fetched": "2026-10-02",
   "province": "kermanshah",
   "rejected_candidates": [
+   {
+    "name": "غار قوری‌قلعه",
+    "reason": "lead locates target in another county"
+   },
    {
     "name": "آرامگاه سید عبیدالله",
     "reason": "target page missing"

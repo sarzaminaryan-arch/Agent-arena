@@ -127,7 +127,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما هلال",
+    "name": "سینما هلال (اهواز)",
     "pageid": 13904,
     "revision_id": 44408088,
     "section": "اماکن تفریحی / سینما",
@@ -141,7 +141,7 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما قدس",
+    "name": "سینما قدس (اهواز)",
     "pageid": 13904,
     "revision_id": 44408088,
     "section": "اماکن تفریحی / سینما",
@@ -151,20 +151,6 @@
     "target_revision_id": 35330239,
     "target_title": "سینما قدس (اهواز)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%82%D8%AF%D8%B3_%28%D8%A7%D9%87%D9%88%D8%A7%D8%B2%29"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سینما",
-    "pageid": 13904,
-    "revision_id": 44408088,
-    "section": "اماکن تفریحی / فرهنگسراها",
-    "source_title": "اهواز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-    "target_pageid": 54221,
-    "target_revision_id": 43284874,
-    "target_title": "سینما",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7"
    },
    {
     "field": "poi_nature",
@@ -273,7 +259,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه رزه",
+    "name": "قلعه رزه (بنا)",
     "pageid": 6487,
     "revision_id": 44399141,
     "section": "گردشگری",
@@ -325,6 +311,20 @@
     "target_revision_id": 40136952,
     "target_title": "امامزاده بابالنگ",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A8%D8%A7%D8%A8%D8%A7%D9%84%D9%86%DA%AF"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه‌رزه",
+    "pageid": 6487,
+    "revision_id": 44399141,
+    "section": "گردشگری / [[قلعه رزه (بنا)|قلعه رزه]] (قلعه رزمان یا رزمانان)",
+    "source_title": "اندیمشک",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+    "target_pageid": 1560311,
+    "target_revision_id": 40180336,
+    "target_title": "قلعه‌رزه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%B1%D8%B2%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -389,6 +389,10 @@
    {
     "name": "رباط باغ‌ملک",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "پوتو (باغ‌ملک)",
+    "reason": "generic or untyped target"
    }
   ],
   "sources": [
@@ -416,8 +420,16 @@
   "province": "khuzestan",
   "rejected_candidates": [
    {
+    "name": "مارون (رودخانه)",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "قلعه مدرسه",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "مارون (رودخانه)",
+    "reason": "lead locates target in another county"
    }
   ],
   "sources": [
@@ -468,34 +480,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AF%D8%B2"
    },
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه دز اندیمشک",
-    "pageid": 132847,
-    "revision_id": 44459622,
-    "section": "اقلیم شناسی / جاذبه های طبیعی",
-    "source_title": "شهرستان دزفول",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-    "target_pageid": 2084975,
-    "target_revision_id": 44375072,
-    "target_title": "دریاچه دز اندیمشک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%AF%D8%B2_%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "پارک ملی دز",
-    "pageid": 132847,
-    "revision_id": 44459622,
-    "section": "اقلیم شناسی / جاذبه های طبیعی",
-    "source_title": "شهرستان دزفول",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-    "target_pageid": 2084837,
-    "target_revision_id": 44413017,
-    "target_title": "پارک ملی دز",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%AF%D8%B2"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پل قدیم دزفول",
@@ -526,7 +510,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار کهنه",
+    "name": "بازار کهنه (دزفول)",
     "pageid": 5619,
     "revision_id": 44393795,
     "section": "گردشگری / جاذبه های تاریخی",
@@ -618,8 +602,16 @@
     "reason": "generic or untyped target"
    },
    {
-    "name": "تفریحگاه ساحلی دز",
+    "name": "تفریحگاه ساحلی دز (علی کله)",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "دریاچه دز اندیمشک",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "پارک ملی دز",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "پارک‌های ملی ایران",
@@ -630,8 +622,16 @@
     "reason": "generic or untyped target"
    },
    {
-    "name": "تفریحگاه ساحلی دز",
+    "name": "دریاچه دز اندیمشک",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "تفریحگاه ساحلی دز (علی کله)",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "پارک ملی دز",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "پارک‌های ملی ایران",
@@ -674,20 +674,6 @@
     "target_revision_id": 40619938,
     "target_title": "کوه منگشت",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%85%D9%86%DA%AF%D8%B4%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه قارون",
-    "pageid": 172278,
-    "revision_id": 44340289,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان دزپارت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B2%D9%BE%D8%A7%D8%B1%D8%AA",
-    "target_pageid": 4907916,
-    "target_revision_id": 38361229,
-    "target_title": "کوه قارون",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%82%D8%A7%D8%B1%D9%88%D9%86"
    },
    {
     "field": "poi_nature",
@@ -736,7 +722,12 @@
   "county": "دزپارت",
   "fetched": "2026-10-02",
   "province": "khuzestan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "کوه قارون",
+    "reason": "lead locates target in another county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B2%D9%BE%D8%A7%D8%B1%D8%AA",
    "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B2"
@@ -751,6 +742,10 @@
   "rejected_candidates": [
    {
     "name": "کوه طبل خانه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "دخمه‌ها (خرفخانه‌ها)",
     "reason": "target page missing"
    }
   ],
@@ -805,7 +800,7 @@
   "province": "khuzestan",
   "rejected_candidates": [
    {
-    "name": "رودخانه زهره",
+    "name": "رودخانه زهره (هندیجان)",
     "reason": "generic or untyped target"
    }
   ],
@@ -873,20 +868,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد کارون ۳",
-    "pageid": 18806,
-    "revision_id": 44418096,
-    "section": "گردشگری جهانگردی",
-    "source_title": "ایذه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-    "target_pageid": 21390,
-    "target_revision_id": 44135735,
-    "target_title": "سد کارون ۳",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D8%A7%D8%B1%D9%88%D9%86_%DB%B3"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "کوه منگشت",
     "pageid": 18806,
     "revision_id": 44418096,
@@ -904,6 +885,10 @@
   "fetched": "2026-10-02",
   "province": "khuzestan",
   "rejected_candidates": [
+   {
+    "name": "سد کارون ۳",
+    "reason": "lead locates target in another county"
+   },
    {
     "name": "حاشیه سد کارون ۳",
     "reason": "target page missing"
@@ -1035,20 +1020,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد شهید عباسپور",
-    "pageid": 10154,
-    "revision_id": 44407273,
-    "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
-    "source_title": "مسجدسلیمان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
-    "target_pageid": 116167,
-    "target_revision_id": 44219786,
-    "target_title": "سد شهید عباسپور",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B4%D9%87%DB%8C%D8%AF_%D8%B9%D8%A8%D8%A7%D8%B3%D9%BE%D9%88%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "چشمه آب گرم گلگیر",
     "pageid": 10154,
     "revision_id": 44407273,
@@ -1063,7 +1034,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای ارامنه",
+    "name": "کلیسای ارامنه (مسجدسلیمان)",
     "pageid": 10154,
     "revision_id": 44407273,
     "section": "گردشگری / سایر اماکن تفریحی و گردشگری",
@@ -1095,12 +1066,28 @@
   "province": "khuzestan",
   "rejected_candidates": [
    {
-    "name": "سقاخانه حضرت ابوالفضل",
+    "name": "قدمگاه امام رضا(مسجدسلیمان)",
+    "reason": "target page missing"
+   },
+   {
+    "name": "سقاخانه حضرت ابوالفضل (مسجدسلیمان)",
+    "reason": "target page missing"
+   },
+   {
+    "name": "بی‌بی‌یان (مسجدسلیمان)",
     "reason": "target page missing"
    },
    {
     "name": "جزیره کوشک",
     "reason": "target page missing"
+   },
+   {
+    "name": "سد شهید عباسپور",
+    "reason": "lead locates target in another county"
+   },
+   {
+    "name": "سد شهید عباسپور",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "کلیسای ارمنی‌ها نمره چهل",
@@ -1151,7 +1138,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه یزدگرد",
+    "name": "قلعه یزدگرد (رامهرمز)",
     "pageid": 26891,
     "revision_id": 44445595,
     "section": "جاذبه های گردشگری",
@@ -1189,20 +1176,6 @@
     "target_revision_id": 44432719,
     "target_title": "چشمه‌های قیر ماماتین",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%82%DB%8C%D8%B1_%D9%85%D8%A7%D9%85%D8%A7%D8%AA%DB%8C%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "منطقه حفاظت‌شده",
-    "pageid": 26891,
-    "revision_id": 44445595,
-    "section": "جاذبه های گردشگری / حیات وحش و زیستگاها",
-    "source_title": "رامهرمز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-    "target_pageid": 457177,
-    "target_revision_id": 41813235,
-    "target_title": "منطقه حفاظت‌شده",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87"
    }
   ],
   "center_confirmed": true,
@@ -1228,7 +1201,7 @@
    },
    {
     "name": "موزه ایران باستان",
-    "reason": "explicitly different county"
+    "reason": "explicitly different province"
    }
   ],
   "sources": [
@@ -1503,7 +1476,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ خان",
+    "name": "باغ خان (شوشتر)",
     "pageid": 5620,
     "revision_id": 44441828,
     "section": "جاذبه های گردشگری / مکانهای دیدنی شوشتر",
@@ -1517,7 +1490,7 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه زر",
+    "name": "کوه زر (شوشتر)",
     "pageid": 5620,
     "revision_id": 44441828,
     "section": "جاذبه های گردشگری / مکانهای دیدنی شوشتر",

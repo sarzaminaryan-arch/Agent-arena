@@ -161,7 +161,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ولایت",
+     "name": "بوستان ولایت (تهران)",
      "pageid": 7906,
      "revision_id": 44466546,
      "section": "امکانات شهری / پارک ها و فضای سبز",
@@ -175,7 +175,7 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان علوی",
+     "name": "بوستان علوی (قم)",
      "pageid": 7906,
      "revision_id": 44466546,
      "section": "امکانات شهری / پارک ها و فضای سبز",
@@ -206,7 +206,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
-   "value": "بوستان ولایت\nبوستان علوی\nبوستان کتاب"
+   "value": "بوستان ولایت (تهران)\nبوستان علوی (قم)\nبوستان کتاب"
   },
   "population": {
    "fetched": "2026-10-02",

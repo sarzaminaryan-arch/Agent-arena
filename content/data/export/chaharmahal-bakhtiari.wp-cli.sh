@@ -101,7 +101,7 @@ ID=$(wp post list --post_type=city --name=shahrekord --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "دامداری عشایری، کشاورزی، صنایع دستی و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "اردیبهشت تا شهریور برای طبیعت‌گردی؛ دی تا اسفند برای زمستان‌گردی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "saman - شمال‌شرق\nfarsan - غرب\nfarrokhshahr - جنوب‌شرق\nben - شمال‌غرب\nkiar - جنوب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "تپه سراب\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت\nغار جهان‌بین"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "تپه سراب (گنبدک)\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت (جهان‌بین)\nغار جهان‌بین"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "شهرکیان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه چالشتر\nقلعه سورک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.31667"

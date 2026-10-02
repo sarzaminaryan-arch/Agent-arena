@@ -146,7 +146,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل باقرآباد",
+     "name": "پل باقرآباد (تهران)",
      "pageid": 88763,
      "revision_id": 43487215,
      "section": "گردشگری و جاذبه ها",
@@ -163,7 +163,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B1%DA%86%DA%A9",
-   "value": "پل باقرآباد"
+   "value": "پل باقرآباد (تهران)"
   },
   "population": {
    "fetched": "2026-10-02",

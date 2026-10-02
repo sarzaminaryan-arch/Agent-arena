@@ -204,6 +204,30 @@
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
    "value": "کاروانسرای قصر بهرام\nحرم‌سرا\nقلعه استاناوند ناروهه\nآب‌انبار بزرگ گرمسار"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بنکوه (گرمسار)",
+     "pageid": 11471,
+     "revision_id": 44497842,
+     "section": "جاذبه های گردشگری",
+     "source_title": "گرمسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+     "target_pageid": 1607686,
+     "target_revision_id": 40140949,
+     "target_title": "بنکوه (گرمسار)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%DA%A9%D9%88%D9%87_%28%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1%29"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+   "value": "بنکوه (گرمسار)"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

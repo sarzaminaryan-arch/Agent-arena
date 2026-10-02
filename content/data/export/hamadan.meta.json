@@ -94,9 +94,9 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "famenin-city - شمال‌شرق\nkomijan - جنوب‌شرق\nbahar-city - غرب\ntuyserkan-city - جنوب‌غرب\nmalayer-city - جنوب",
-  "sa_cty_poi_heritage": "هگمتانه\nگورستان پارتی همدان\nآرامگاه خضر\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان\nموزه هگمتانه",
+  "sa_cty_poi_heritage": "هگمتانه\nگورستان پارتی همدان\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر (همدان)\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان\nموزه هگمتانه\nموزه بوعلی‌سینا",
   "sa_cty_poi_nature": "دره مرادبیگ\nدره عباس‌آباد\nآبشار گنج‌نامه\nدره امامزاده کوه\nسد اکباتان",
-  "sa_cty_poi_recreation": "بوستان تپه حاج عنایت\nبوستان شیرسنگی\nبوستان مردم\nبوستان باباطاهر\nتله‌کابین گنج‌نامه\nتله‌کابین",
+  "sa_cty_poi_recreation": "بوستان تپه حاج عنایت\nبوستان شیرسنگی\nبوستان مردم\nبوستان باباطاهر\nتله‌کابین گنج‌نامه",
   "sa_cty_population": 676105,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.93333,48.93333"
  },
@@ -134,7 +134,7 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "khondab - شرق\ntuyserkan-city - شمال‌غرب\nborujerd - جنوب\nnahavand-city - غرب\nshazand - جنوب‌شرق\nhamadan-city - شمال",
-  "sa_cty_poi_heritage": "برج ایفل\nتخت جمشید\nبرج آزادی",
+  "sa_cty_poi_heritage": "برج ایفل\nبرج آزادی",
   "sa_cty_poi_nature": "شبه‌جزیره اسکاندیناوی\nکوه گرمه",
   "sa_cty_population": 288685,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,48.83333"
@@ -174,6 +174,7 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "dargazin - شرق\navaj - شمال‌شرق\nkabudarahang-city - غرب\nkhodabandeh - شمال‌غرب",
+  "sa_cty_poi_heritage": "برج (سازه)",
   "sa_cty_population": 107587,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.41667,49.0"

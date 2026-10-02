@@ -153,20 +153,6 @@
      "target_revision_id": 44217988,
      "target_title": "حسینیه سنگ‌آوی",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86%DB%8C%D9%87_%D8%B3%D9%86%DA%AF%E2%80%8C%D8%A2%D9%88%DB%8C"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مناره",
-     "pageid": 6055,
-     "revision_id": 44495703,
-     "section": "تاریخ / آثار تاریخی / حسینیهٔ اعظم",
-     "source_title": "گراش",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
-     "target_pageid": 66143,
-     "target_revision_id": 43761930,
-     "target_title": "مناره",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%B1%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -174,7 +160,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
-   "value": "قلعه گراش\nحسینیه سنگ‌آوی\nمناره"
+   "value": "قلعه گراش\nحسینیه سنگ‌آوی"
   },
   "poi_nature": {
    "fetched": "2026-10-02",

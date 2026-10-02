@@ -167,20 +167,6 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آرامگاه خضر",
-     "pageid": 2926,
-     "revision_id": 44594221,
-     "section": "جاذبه های گردشگری / آثار تاریخی",
-     "source_title": "همدان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_pageid": 3933851,
-     "target_revision_id": 24726485,
-     "target_title": "آرامگاه خضر",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D8%B6%D8%B1"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "آرامگاه استر و مردخای",
      "pageid": 2926,
      "revision_id": 44594221,
@@ -251,7 +237,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آرامگاه باباطاهر",
+     "name": "آرامگاه باباطاهر (همدان)",
      "pageid": 2926,
      "revision_id": 44594221,
      "section": "جاذبه های گردشگری / آثار تاریخی",
@@ -303,6 +289,20 @@
      "target_revision_id": 43929415,
      "target_title": "موزه هگمتانه",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%87%DA%AF%D9%85%D8%AA%D8%A7%D9%86%D9%87"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه بوعلی‌سینا",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / موزه ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_pageid": 844235,
+     "target_revision_id": 38681627,
+     "target_title": "موزه بوعلی‌سینا",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%A8%D9%88%D8%B9%D9%84%DB%8C%E2%80%8C%D8%B3%DB%8C%D9%86%D8%A7"
     }
    ],
    "fetched": "2026-10-02",
@@ -310,7 +310,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-   "value": "هگمتانه\nگورستان پارتی همدان\nآرامگاه خضر\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان\nموزه هگمتانه"
+   "value": "هگمتانه\nگورستان پارتی همدان\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر (همدان)\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان\nموزه هگمتانه\nموزه بوعلی‌سینا"
   },
   "poi_nature": {
    "entries": [
@@ -463,20 +463,6 @@
      "target_revision_id": 44016176,
      "target_title": "تله‌کابین گنج‌نامه",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86_%DA%AF%D9%86%D8%AC%E2%80%8C%D9%86%D8%A7%D9%85%D9%87"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تله‌کابین",
-     "pageid": 2926,
-     "revision_id": 44594221,
-     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / نگرانی از اثرات زیست محیطی تله کابین گنجنامه",
-     "source_title": "همدان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_pageid": 18187,
-     "target_revision_id": 42324267,
-     "target_title": "تله‌کابین",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -484,7 +470,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-   "value": "بوستان تپه حاج عنایت\nبوستان شیرسنگی\nبوستان مردم\nبوستان باباطاهر\nتله‌کابین گنج‌نامه\nتله‌کابین"
+   "value": "بوستان تپه حاج عنایت\nبوستان شیرسنگی\nبوستان مردم\nبوستان باباطاهر\nتله‌کابین گنج‌نامه"
   },
   "population": {
    "fetched": "2026-10-02",

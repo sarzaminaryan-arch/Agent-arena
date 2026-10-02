@@ -55,7 +55,6 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "baft - شرق\nbardsir - شمال\nsirjan - شمال‌غرب\nhajiabad - جنوب‌غرب",
-  "sa_cty_poi_nature": "پارک ملی خبر و پناهگاه حیات وحش روچون",
   "sa_cty_population": 38510,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.1,56.3728"
@@ -248,8 +247,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "ravar - شمال‌غرب\nnarmashir - جنوب‌شرق\nbam - جنوب\nbardsir - غرب\nrabor - جنوب‌غرب",
-  "sa_cty_poi_heritage": "قلعه دختر\nقلعه اردشیر\nخودمختارگرایی\nآتشکده\nحمام\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل\nحمام وکیل\nکاروانسرای وکیل\nآرامگاه خواجه اتابک",
-  "sa_cty_poi_nature": "غارتگران",
+  "sa_cty_poi_heritage": "قلعه اردشیر\nخودمختارگرایی\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل (کرمان)\nحمام وکیل (کرمان)\nکاروانسرای وکیل (کرمان)\nآرامگاه خواجه اتابک\nخانه امینیان\nخانه غفاری\nخانه پرداختی",
   "sa_cty_population": 738724,
   "sa_cty_rural_districts": 16,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.33333,58.0"
@@ -350,7 +348,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "baft - غرب\njiroft - جنوب‌شرق\nbardsir - شمال‌غرب\nkerman - شمال‌شرق",
-  "sa_cty_poi_heritage": "امامزاده سیدمرتضی",
+  "sa_cty_poi_heritage": "امامزاده سیدمرتضی (رابر)",
   "sa_cty_poi_nature": "چشمه عروس",
   "sa_cty_population": 35362,
   "sa_cty_rural_districts": 4,
@@ -372,8 +370,8 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "zarand - شمال‌شرق\nanar - شمال‌غرب\nbardsir - جنوب‌شرق\nshahr-e-babak - غرب\nsirjan - جنوب",
-  "sa_cty_poi_heritage": "خانه حاج‌آقاعلی\nخانه باقری\nعمارت کلاه‌فرنگی رفسنجان",
-  "sa_cty_poi_nature": "منطقه شکارممنوع كوه نودرهنگ\nمس سرچشمه",
+  "sa_cty_poi_heritage": "خانه حاج‌آقاعلی\nخانه باقری (رفسنجان)\nعمارت کلاه‌فرنگی رفسنجان",
+  "sa_cty_poi_nature": "مس سرچشمه",
   "sa_cty_population": 311214,
   "sa_cty_rural_districts": 14,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.53333,55.95"

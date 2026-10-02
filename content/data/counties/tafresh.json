@@ -178,7 +178,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده احمد",
+     "name": "امامزاده احمد (تفرش)",
      "pageid": 3761,
      "revision_id": 44596164,
      "section": "گردشگری",
@@ -248,7 +248,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آرامگاه امامزاده قاسم",
+     "name": "آرامگاه امامزاده قاسم (شاهوارق)",
      "pageid": 3761,
      "revision_id": 44596164,
      "section": "گردشگری",
@@ -307,7 +307,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-   "value": "سنگ‌نگاره‌های یازیلی چای\nقلعه توس\nقلعه سلطان محمود\nامامزاده احمد\nمسجد جامع شش‌ناو\nآرامگاه امامزاده مهدی\nبقعه شاهزاده محمد\nکاروانسرای خانک\nآرامگاه امامزاده قاسم\nآب‌انبار بلور\nخانه میرفخرایی\nخانه عباسقلی خان میرپنج"
+   "value": "سنگ‌نگاره‌های یازیلی چای\nقلعه توس\nقلعه سلطان محمود\nامامزاده احمد (تفرش)\nمسجد جامع شش‌ناو\nآرامگاه امامزاده مهدی\nبقعه شاهزاده محمد\nکاروانسرای خانک\nآرامگاه امامزاده قاسم (شاهوارق)\nآب‌انبار بلور\nخانه میرفخرایی\nخانه عباسقلی خان میرپنج"
   },
   "poi_nature": {
    "entries": [

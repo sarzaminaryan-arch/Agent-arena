@@ -208,7 +208,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد امام حسین",
+     "name": "مسجد امام حسین (سرخه)",
      "pageid": 59178,
      "revision_id": 43115825,
      "section": "مکان های تاریخی",
@@ -222,7 +222,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده عبدالله",
+     "name": "امامزاده عبدالله (سرخه)",
      "pageid": 59178,
      "revision_id": 43115825,
      "section": "جاذبه های طبیعی",
@@ -239,7 +239,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-   "value": "مسجد چهل‌ستون سمنان\nآب‌انبار سرخه\nآرامگاه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین\nامامزاده عبدالله"
+   "value": "مسجد چهل‌ستون سمنان\nآب‌انبار سرخه\nآرامگاه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین (سرخه)\nامامزاده عبدالله (سرخه)"
   },
   "population": {
    "fetched": "2026-10-02",

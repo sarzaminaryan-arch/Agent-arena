@@ -28,30 +28,19 @@
   ]
  },
  "arzuiyeh": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک ملی خبر و پناهگاه حیات وحش روچون",
-    "pageid": 93585,
-    "revision_id": 44610923,
-    "section": "گردشگری طبیعی و تاریخی",
-    "source_title": "ارزوئیه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B2%D9%88%D8%A6%DB%8C%D9%87",
-    "target_pageid": 883082,
-    "target_revision_id": 44412991,
-    "target_title": "پارک ملی خبر و پناهگاه حیات وحش روچون",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%AE%D8%A8%D8%B1_%D9%88_%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D8%B1%D9%88%DA%86%D9%88%D9%86"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "ارزوئیه",
   "fetched": "2026-10-02",
   "province": "kerman",
   "rejected_candidates": [
    {
-    "name": "امامزاده سلطان پیرغیب",
+    "name": "امامزاده سلطان پیرغیب (سیرجان)",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "پارک ملی خبر و پناهگاه حیات وحش روچون",
+    "reason": "lead locates target in another county"
    },
    {
     "name": "رشته کوه زنجیرآویز",
@@ -65,20 +54,6 @@
  },
  "baft": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه شاه",
-    "pageid": 15351,
-    "revision_id": 44260298,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان بافت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_pageid": 3714832,
-    "target_revision_id": 44599479,
-    "target_title": "کوه شاه",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B4%D8%A7%D9%87"
-   },
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
@@ -166,20 +141,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "پارک ملی",
-    "pageid": 15351,
-    "revision_id": 44260298,
-    "section": "جاذبه های گردشگری / [[پارک ملی خبر]]",
-    "source_title": "شهرستان بافت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%81%D8%AA",
-    "target_pageid": 180993,
-    "target_revision_id": 42877773,
-    "target_title": "پارک ملی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "غار طرنگ",
     "pageid": 15351,
     "revision_id": 44260298,
@@ -197,6 +158,10 @@
   "fetched": "2026-10-02",
   "province": "kerman",
   "rejected_candidates": [
+   {
+    "name": "کوه شاه",
+    "reason": "lead locates target in another county"
+   },
    {
     "name": "منطقه حفاظت شده انجرک",
     "reason": "generic or untyped target"
@@ -277,7 +242,7 @@
   "province": "kerman",
   "rejected_candidates": [
    {
-    "name": "امامزاده عبدالله",
+    "name": "امامزاده عبدالله (ری)",
     "reason": "explicitly different county"
    }
   ],
@@ -377,20 +342,6 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه دختر",
-    "pageid": 115389,
-    "revision_id": 44458927,
-    "section": "تاریخ / قدمت بناهای تاریخی",
-    "source_title": "کرمان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-    "target_pageid": 138052,
-    "target_revision_id": 43584844,
-    "target_title": "قلعه دختر (کرمان)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "قلعه اردشیر",
     "pageid": 115389,
     "revision_id": 44458927,
@@ -415,48 +366,6 @@
     "target_revision_id": 43851828,
     "target_title": "خودمختارگرایی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%AF%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غارتگران",
-    "pageid": 115389,
-    "revision_id": 44458927,
-    "section": "تاریخ / قدمت بناهای تاریخی",
-    "source_title": "کرمان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-    "target_pageid": 3960774,
-    "target_revision_id": 19583226,
-    "target_title": "غارتگران (ابهام‌زدایی)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1%D8%AA%DA%AF%D8%B1%D8%A7%D9%86_%28%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آتشکده",
-    "pageid": 115389,
-    "revision_id": 44458927,
-    "section": "تاریخ / قدمت بناهای تاریخی",
-    "source_title": "کرمان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-    "target_pageid": 13362,
-    "target_revision_id": 43859624,
-    "target_title": "آتشکده",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام",
-    "pageid": 115389,
-    "revision_id": 44458927,
-    "section": "جاذبه های گردشگری / جاذبه های تاریخی",
-    "source_title": "کرمان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-    "target_pageid": 22606,
-    "target_revision_id": 44432887,
-    "target_title": "حمام",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -503,7 +412,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار وکیل",
+    "name": "بازار وکیل (کرمان)",
     "pageid": 115389,
     "revision_id": 44458927,
     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
@@ -517,7 +426,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام وکیل",
+    "name": "حمام وکیل (کرمان)",
     "pageid": 115389,
     "revision_id": 44458927,
     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
@@ -531,7 +440,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای وکیل",
+    "name": "کاروانسرای وکیل (کرمان)",
     "pageid": 115389,
     "revision_id": 44458927,
     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
@@ -629,7 +538,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه صنعتی",
+    "name": "موزه صنعتی (کرمان)",
     "pageid": 115389,
     "revision_id": 44458927,
     "section": "جاذبه های گردشگری / موزه ها",
@@ -675,12 +584,20 @@
   "province": "kerman",
   "rejected_candidates": [
    {
+    "name": "قلعه دختر (کرمان)",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "نقش رستم",
-    "reason": "explicitly different county"
+    "reason": "explicitly different province"
    },
    {
     "name": "از قلعه دختر تا دقیانوس",
     "reason": "target page missing"
+   },
+   {
+    "name": "غارتگران (ابهام‌زدایی)",
+    "reason": "disambiguation page"
    },
    {
     "name": "مسجد جامع کرمان",
@@ -688,14 +605,14 @@
    },
    {
     "name": "میدان ارگ",
-    "reason": "explicitly different county"
+    "reason": "explicitly different province"
    },
    {
     "name": "مقبره مشتاقیه",
     "reason": "generic or untyped target"
    },
    {
-    "name": "باغ نظر",
+    "name": "باغ نظر (کرمان)",
     "reason": "target page missing"
    },
    {
@@ -824,7 +741,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "امامزاده سیدمرتضی",
+    "name": "امامزاده سیدمرتضی (رابر)",
     "pageid": 357825,
     "revision_id": 44378997,
     "section": "اماکن سیاحتی و زیارتی",
@@ -863,20 +780,6 @@
  "rafsanjan": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "منطقه شکارممنوع كوه نودرهنگ",
-    "pageid": 6477,
-    "revision_id": 43956883,
-    "section": "طبیعت رفسنجان",
-    "source_title": "رفسنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-    "target_pageid": 943923,
-    "target_revision_id": 41918389,
-    "target_title": "منطقه شکارممنوع كوه نودرهنگ",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%B4%DA%A9%D8%A7%D8%B1%D9%85%D9%85%D9%86%D9%88%D8%B9_%D9%83%D9%88%D9%87_%D9%86%D9%88%D8%AF%D8%B1%D9%87%D9%86%DA%AF"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "خانه حاج‌آقاعلی",
@@ -893,7 +796,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه باقری",
+    "name": "خانه باقری (رفسنجان)",
     "pageid": 6477,
     "revision_id": 43956883,
     "section": "گردشگری / جاذبه های تاریخی",
@@ -939,11 +842,15 @@
   "province": "kerman",
   "rejected_candidates": [
    {
+    "name": "منطقه شکارممنوع كوه نودرهنگ",
+    "reason": "lead locates target in another county"
+   },
+   {
     "name": "بازار و آب انبار حاج‌آقاعلی",
     "reason": "target page missing"
    },
    {
-    "name": "سرچشمه",
+    "name": "سرچشمه (جیرفت)",
     "reason": "explicitly different county"
    },
    {
@@ -1219,7 +1126,7 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "پاقلعه",
+    "name": "پاقلعه (شهربابک)",
     "pageid": 140204,
     "revision_id": 44298258,
     "section": "آثار تاریخی و گردشگری",

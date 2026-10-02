@@ -131,7 +131,7 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه رزه",
+     "name": "قلعه رزه (بنا)",
      "pageid": 6487,
      "revision_id": 44399141,
      "section": "گردشگری",
@@ -159,6 +159,20 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه‌رزه",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / [[قلعه رزه (بنا)|قلعه رزه]] (قلعه رزمان یا رزمانان)",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_pageid": 1560311,
+     "target_revision_id": 40180336,
+     "target_title": "قلعه‌رزه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%B1%D8%B2%D9%87"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "پل بالارود",
      "pageid": 6487,
      "revision_id": 44399141,
@@ -176,7 +190,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-   "value": "قلعه رزه\nامامزاده بابالنگ\nپل بالارود"
+   "value": "قلعه رزه (بنا)\nامامزاده بابالنگ\nقلعه‌رزه\nپل بالارود"
   },
   "poi_nature": {
    "entries": [

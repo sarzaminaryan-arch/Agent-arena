@@ -156,20 +156,6 @@
      "target_revision_id": 38957614,
      "target_title": "رودخانه حصار",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%B5%D8%A7%D8%B1"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رشته‌کوه کوهسرخ",
-     "pageid": 26651,
-     "revision_id": 44305757,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / روستاها",
-     "source_title": "تربت حیدریه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-     "target_pageid": 6346295,
-     "target_revision_id": 44191132,
-     "target_title": "رشته‌کوه کوهسرخ",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE"
     }
    ],
    "fetched": "2026-10-02",
@@ -177,7 +163,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-   "value": "رودخانه حصار\nرشته‌کوه کوهسرخ"
+   "value": "رودخانه حصار"
   },
   "population": {
    "fetched": "2026-10-02",
