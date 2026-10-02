@@ -694,19 +694,24 @@ function sa_county_coverage() {
 }
 
 /**
- * Admin menu entry under the city CPT.
+ * Admin menu entry.
+ *
+ * All entity CPTs are registered with show_in_menu => 'sarzaminaryan'
+ * (see inc/post-types.php), so `edit.php?post_type=city` is NOT a real menu
+ * slug and a submenu hung on it is never displayed. The coverage screen lives
+ * next to «سلامت محتوا» under the «سرزمین آریان» top-level menu instead.
  */
 function sa_county_admin_menu() {
 	add_submenu_page(
-		'edit.php?post_type=city',
+		'sarzaminaryan',
 		'پوشش ۴۸۳ شهرستان',
-		'پوشش ۴۸۳ شهرستان',
+		'— پوشش ۴۸۳ شهرستان',
 		'edit_posts',
 		'sa-county-coverage',
 		'sa_county_coverage_screen'
 	);
 }
-add_action( 'admin_menu', 'sa_county_admin_menu' );
+add_action( 'admin_menu', 'sa_county_admin_menu', 20 );
 
 /**
  * Create missing county drafts for one province (skeleton posts with the right slug + province term).
