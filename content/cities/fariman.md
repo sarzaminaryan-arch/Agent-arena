@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان فریمان
 overlay_text_en: Fariman County
 alt: تصویرسازی گرافیکی از شهرستان فریمان در استان خراسان رضوی
 caption: نمادهای شهرستان فریمان در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/fariman.webp
 symbols_used: [فریمان، فریمان، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

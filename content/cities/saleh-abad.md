@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان صالح‌آباد
 overlay_text_en: Salehabad County
 alt: تصویرسازی گرافیکی از شهرستان صالح‌آباد در استان خراسان رضوی
 caption: نمادهای شهرستان صالح‌آباد در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/saleh-abad.webp
 symbols_used: [صالح‌آباد، صالح‌آباد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

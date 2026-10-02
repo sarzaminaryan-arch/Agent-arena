@@ -187,7 +187,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "davarzan",
@@ -203,7 +203,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "dargaz",
@@ -219,7 +219,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "roshtkhar",
@@ -235,7 +235,7 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "zaveh",
@@ -251,7 +251,7 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "sarakhs",
@@ -267,7 +267,7 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "sheshtamad",
@@ -283,7 +283,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "saleh-abad",
@@ -299,7 +299,7 @@
     "url_needed": 0,
     "coming_soon": 7
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "fariman",
@@ -315,7 +315,7 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "firuzeh",
@@ -331,7 +331,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "mahvelat",

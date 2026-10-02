@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان داورزن
 overlay_text_en: Davarzan County
 alt: تصویرسازی گرافیکی از شهرستان داورزن در استان خراسان رضوی
 caption: نمادهای شهرستان داورزن در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/davarzan.webp
 symbols_used: [داورزن، داورزن، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

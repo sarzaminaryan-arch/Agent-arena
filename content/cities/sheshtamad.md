@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان ششتمد
 overlay_text_en: Sheshtamad County
 alt: تصویرسازی گرافیکی از شهرستان ششتمد در استان خراسان رضوی
 caption: نمادهای شهرستان ششتمد در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/sheshtamad.webp
 symbols_used: [ششتمد، ششتمد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

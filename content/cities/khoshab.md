@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان خوشاب
 overlay_text_en: Khoshab County
 alt: تصویرسازی گرافیکی از شهرستان خوشاب در استان خراسان رضوی
 caption: نمادهای شهرستان خوشاب در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/khoshab.webp
 symbols_used: [خوشاب، سلطان‌آباد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

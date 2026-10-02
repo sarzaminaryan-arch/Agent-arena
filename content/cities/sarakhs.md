@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان سرخس
 overlay_text_en: Sarakhs County
 alt: تصویرسازی گرافیکی از شهرستان سرخس در استان خراسان رضوی
 caption: نمادهای شهرستان سرخس در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/sarakhs.webp
 symbols_used: [سرخس، سرخس، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

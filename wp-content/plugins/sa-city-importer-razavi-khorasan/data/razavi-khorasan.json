@@ -1135,7 +1135,7 @@
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/khoshab.md",
-   "source_sha1": "8bc679627084c8ec70921b58b1a1b6cb77dfc744",
+   "source_sha1": "3637c53da217be2d2073ccfd241fe542a8439b87",
    "slug": "khoshab",
    "status": "article",
    "title": "شهرستان خوشاب",
@@ -1232,13 +1232,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/khoshab.webp",
+    "source": "assets/featured/counties/razavi-khorasan/khoshab.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان خوشاب در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان خوشاب در یک نگاه.",
+    "title": "شهرستان خوشاب — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان خوشاب در استان خراسان رضوی",
+    "sha1": "fcda7168125c9962599fbc700086f54744938d0f"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/davarzan.md",
-   "source_sha1": "d6a16a0989de68e8762ef3152d444ad1ece2df32",
+   "source_sha1": "7e3b91b8bd8f8a5f6ec89a1afa6d2ba524ca9603",
    "slug": "davarzan",
    "status": "article",
    "title": "شهرستان داورزن",
@@ -1335,13 +1344,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/davarzan.webp",
+    "source": "assets/featured/counties/razavi-khorasan/davarzan.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان داورزن در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان داورزن در یک نگاه.",
+    "title": "شهرستان داورزن — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان داورزن در استان خراسان رضوی",
+    "sha1": "007a35fbf76142629e8f71c58d47a21092ea9ac3"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/dargaz.md",
-   "source_sha1": "a8e4148cd33a35eaf1fbad251814e21dc479cb63",
+   "source_sha1": "bf6f7bf80c7504b59a1b86570a61f6a491e7bdab",
    "slug": "dargaz",
    "status": "article",
    "title": "شهرستان درگز",
@@ -1438,13 +1456,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/dargaz.webp",
+    "source": "assets/featured/counties/razavi-khorasan/dargaz.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان درگز در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان درگز در یک نگاه.",
+    "title": "شهرستان درگز — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان درگز در استان خراسان رضوی",
+    "sha1": "99855cfbc9ceaa9b2b158c1383c8a2ef66fbe16b"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/roshtkhar.md",
-   "source_sha1": "94a1e5700dccbc5169a6fc09d33907493604f961",
+   "source_sha1": "df95dee385e79484c2d25892d6e2121238a71074",
    "slug": "roshtkhar",
    "status": "article",
    "title": "شهرستان رشتخوار",
@@ -1541,13 +1568,22 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/roshtkhar.webp",
+    "source": "assets/featured/counties/razavi-khorasan/roshtkhar.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان رشتخوار در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان رشتخوار در یک نگاه.",
+    "title": "شهرستان رشتخوار — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان رشتخوار در استان خراسان رضوی",
+    "sha1": "098dcdad8660ee1022d844bc6181946d0231b8c5"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/zaveh.md",
-   "source_sha1": "ff42e9bc522fa9e76e41f2f0b516d5b248ddb0ca",
+   "source_sha1": "8fd20d869e3c6293108461c43d6d6cf93c1d05e7",
    "slug": "zaveh",
    "status": "article",
    "title": "شهرستان زاوه",
@@ -1644,13 +1680,22 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/zaveh.webp",
+    "source": "assets/featured/counties/razavi-khorasan/zaveh.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان زاوه در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان زاوه در یک نگاه.",
+    "title": "شهرستان زاوه — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان زاوه در استان خراسان رضوی",
+    "sha1": "249e5765c3ccecc3eac774a4b54ad37b61b2c82e"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/sarakhs.md",
-   "source_sha1": "6c71554ffc69eafb22738b4ebcf4b86c55bd584a",
+   "source_sha1": "0329b5076d153224af09e98b77e4d75e2e9ebfc3",
    "slug": "sarakhs",
    "status": "article",
    "title": "شهرستان سرخس",
@@ -1747,13 +1792,22 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/sarakhs.webp",
+    "source": "assets/featured/counties/razavi-khorasan/sarakhs.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان سرخس در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان سرخس در یک نگاه.",
+    "title": "شهرستان سرخس — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان سرخس در استان خراسان رضوی",
+    "sha1": "9331c9736ee825ca85beb603f675629ec00397a6"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/sheshtamad.md",
-   "source_sha1": "1ae22fd2db0cce532a6ab5e5b094c60261748f05",
+   "source_sha1": "ca74609e2db3a61ce437f3deb72a7ea37a7006f0",
    "slug": "sheshtamad",
    "status": "article",
    "title": "شهرستان ششتمد",
@@ -1850,13 +1904,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/sheshtamad.webp",
+    "source": "assets/featured/counties/razavi-khorasan/sheshtamad.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان ششتمد در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان ششتمد در یک نگاه.",
+    "title": "شهرستان ششتمد — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان ششتمد در استان خراسان رضوی",
+    "sha1": "a92642817dffc2f2135a692e986eadc7f32d8398"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/saleh-abad.md",
-   "source_sha1": "3f91f540b3b8f9528c1cefce4f5d3a0bd0eee830",
+   "source_sha1": "9d051829477618c03ebbd96e879d4d58af871c8c",
    "slug": "saleh-abad",
    "status": "article",
    "title": "شهرستان صالح‌آباد",
@@ -1953,13 +2016,22 @@
     "url_needed": 0,
     "coming_soon": 7
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/saleh-abad.webp",
+    "source": "assets/featured/counties/razavi-khorasan/saleh-abad.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان صالح‌آباد در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان صالح‌آباد در یک نگاه.",
+    "title": "شهرستان صالح‌آباد — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان صالح‌آباد در استان خراسان رضوی",
+    "sha1": "4f9fc4ebf29b66def89844599ca3fed562d20ac3"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/fariman.md",
-   "source_sha1": "8dfdcccaa9aa54cf5aae4dae4726a6ab7e2a4c5a",
+   "source_sha1": "d897349438b26107289fddb8fcbc3eac97a84a4e",
    "slug": "fariman",
    "status": "article",
    "title": "شهرستان فریمان",
@@ -2056,13 +2128,22 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/fariman.webp",
+    "source": "assets/featured/counties/razavi-khorasan/fariman.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان فریمان در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان فریمان در یک نگاه.",
+    "title": "شهرستان فریمان — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان فریمان در استان خراسان رضوی",
+    "sha1": "312e5afdb95c2f70399c1f6f544484fccda711de"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/firuzeh.md",
-   "source_sha1": "d014ab570499101058c3137b873b74f9040e6c43",
+   "source_sha1": "241483e15f1e6d4361e1fbe4234fc22c23000692",
    "slug": "firuzeh",
    "status": "article",
    "title": "شهرستان فیروزه",
@@ -2159,7 +2240,16 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/firuzeh.webp",
+    "source": "assets/featured/counties/razavi-khorasan/firuzeh.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان فیروزه در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان فیروزه در یک نگاه.",
+    "title": "شهرستان فیروزه — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان فیروزه در استان خراسان رضوی",
+    "sha1": "080ff0ef002746b219e5ca5fbbbcf89124b7ab11"
+   }
   },
   {
    "package_format": "1.0",

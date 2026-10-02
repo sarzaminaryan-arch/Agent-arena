@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان فیروزه
 overlay_text_en: Firuza County
 alt: تصویرسازی گرافیکی از شهرستان فیروزه در استان خراسان رضوی
 caption: نمادهای شهرستان فیروزه در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/firuzeh.webp
 symbols_used: [فیروزه، فیروزه، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

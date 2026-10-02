@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان رشتخوار
 overlay_text_en: Roshtkhar County
 alt: تصویرسازی گرافیکی از شهرستان رشتخوار در استان خراسان رضوی
 caption: نمادهای شهرستان رشتخوار در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/roshtkhar.webp
 symbols_used: [رشتخوار، رشتخوار، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

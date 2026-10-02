@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان زاوه
 overlay_text_en: Zaveh County
 alt: تصویرسازی گرافیکی از شهرستان زاوه در استان خراسان رضوی
 caption: نمادهای شهرستان زاوه در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/zaveh.webp
 symbols_used: [زاوه، دولت‌آباد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

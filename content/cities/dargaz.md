@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان درگز
 overlay_text_en: Dargaz County
 alt: تصویرسازی گرافیکی از شهرستان درگز در استان خراسان رضوی
 caption: نمادهای شهرستان درگز در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/dargaz.webp
 symbols_used: [درگز، درگز، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===
