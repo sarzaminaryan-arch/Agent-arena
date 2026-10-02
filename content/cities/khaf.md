@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان خواف
 overlay_text_en: Khaf County
 alt: تصویرسازی گرافیکی از شهرستان خواف در استان خراسان رضوی
 caption: نمادهای شهرستان خواف در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/khaf.webp
 symbols_used: [خواف، خواف، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

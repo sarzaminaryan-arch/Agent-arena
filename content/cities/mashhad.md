@@ -36,6 +36,7 @@ overlay_text_fa: شهرستان مشهد
 overlay_text_en: Mashhad County
 alt: تصویرسازی گرافیکی از شهرستان مشهد در استان خراسان رضوی
 caption: نمادهای شهرستان مشهد در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/mashhad.webp
 symbols_used: [مشهد، مشهد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

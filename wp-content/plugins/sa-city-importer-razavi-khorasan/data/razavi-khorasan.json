@@ -15,7 +15,7 @@
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/mashhad.md",
-   "source_sha1": "e9f3137feda6a9ab7d72db4f432d25eaafdefb6d",
+   "source_sha1": "0fdd5efa25c13db6f4a9466f463c8509769f268a",
    "slug": "mashhad",
    "status": "article",
    "title": "شهرستان مشهد",
@@ -112,13 +112,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/mashhad.webp",
+    "source": "assets/featured/counties/razavi-khorasan/mashhad.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان مشهد در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان مشهد در یک نگاه.",
+    "title": "شهرستان مشهد — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان مشهد در استان خراسان رضوی",
+    "sha1": "d50ee7d85059e85bd0b093402e5d2f4d72b04a53"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/neyshabur.md",
-   "source_sha1": "446b23e645698f7cb4cde9422a9e14eb7ac8c0e3",
+   "source_sha1": "9a9a2cf701ea9366e68a5c8bffe7db58f8f3b10e",
    "slug": "neyshabur",
    "status": "article",
    "title": "شهرستان نیشابور",
@@ -215,13 +224,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/neyshabur.webp",
+    "source": "assets/featured/counties/razavi-khorasan/neyshabur.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان نیشابور در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان نیشابور در یک نگاه.",
+    "title": "شهرستان نیشابور — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان نیشابور در استان خراسان رضوی",
+    "sha1": "27a3c7430f3088b847d5c94bbb478511c5dd067a"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/sabzevar.md",
-   "source_sha1": "48ad20cebc5d655aab8fdac7a72eafec4a9ea603",
+   "source_sha1": "cb63d9515863917da1d7bb6c508019700939db3b",
    "slug": "sabzevar",
    "status": "article",
    "title": "شهرستان سبزوار",
@@ -318,13 +336,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/sabzevar.webp",
+    "source": "assets/featured/counties/razavi-khorasan/sabzevar.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان سبزوار در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان سبزوار در یک نگاه.",
+    "title": "شهرستان سبزوار — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان سبزوار در استان خراسان رضوی",
+    "sha1": "730ec940de1d1077cee67ec88621855f6a25b68a"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/quchan.md",
-   "source_sha1": "daab31fcba80ce8c7f212b3695522a08a342053c",
+   "source_sha1": "166896c81f301504b45131c43263167538040b26",
    "slug": "quchan",
    "status": "article",
    "title": "شهرستان قوچان",
@@ -421,13 +448,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/quchan.webp",
+    "source": "assets/featured/counties/razavi-khorasan/quchan.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان قوچان در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان قوچان در یک نگاه.",
+    "title": "شهرستان قوچان — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان قوچان در استان خراسان رضوی",
+    "sha1": "6b721461f21405e953bea39735624b4fee096f8c"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/kashmar.md",
-   "source_sha1": "690a0fcc2569a57802535b0a99566c64e8ef0db2",
+   "source_sha1": "cb5fdc45887e46f3f8d29c6229e933268340dec4",
    "slug": "kashmar",
    "status": "article",
    "title": "شهرستان کاشمر",
@@ -524,13 +560,22 @@
     "url_needed": 0,
     "coming_soon": 9
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/kashmar.webp",
+    "source": "assets/featured/counties/razavi-khorasan/kashmar.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان کاشمر در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان کاشمر در یک نگاه.",
+    "title": "شهرستان کاشمر — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان کاشمر در استان خراسان رضوی",
+    "sha1": "3867679b8c665129b3ae2962e3a2a9a015dad4ac"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/gonabad.md",
-   "source_sha1": "92e1e28a97980057779c2241c3ddf55d75a32363",
+   "source_sha1": "ebb83f6b81354f69ec80a0bc108186c28f7e3e46",
    "slug": "gonabad",
    "status": "article",
    "title": "شهرستان گناباد",
@@ -627,13 +672,22 @@
     "url_needed": 0,
     "coming_soon": 9
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/gonabad.webp",
+    "source": "assets/featured/counties/razavi-khorasan/gonabad.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان گناباد در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان گناباد در یک نگاه.",
+    "title": "شهرستان گناباد — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان گناباد در استان خراسان رضوی",
+    "sha1": "f2782533c3e5f8e0295b1f5fcbf66848cacf31f2"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/joghatai.md",
-   "source_sha1": "8bd11b97947ee72c827e8de82fab98c64acb9ecb",
+   "source_sha1": "e4a820c3e6164a56772c5825ada75518e46abd3c",
    "slug": "joghatai",
    "status": "article",
    "title": "شهرستان جغتای",
@@ -730,13 +784,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/joghatai.webp",
+    "source": "assets/featured/counties/razavi-khorasan/joghatai.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان جغتای در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان جغتای در یک نگاه.",
+    "title": "شهرستان جغتای — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان جغتای در استان خراسان رضوی",
+    "sha1": "54671462c4e72a27a75c6371777feada62b35b35"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/jovein.md",
-   "source_sha1": "d772f33b5fe7b4b628d14136ca98a70f26fde601",
+   "source_sha1": "57ba2b0589a555d21625b6421cef067e16ff1c6e",
    "slug": "jovein",
    "status": "article",
    "title": "شهرستان جوین",
@@ -833,13 +896,22 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/jovein.webp",
+    "source": "assets/featured/counties/razavi-khorasan/jovein.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان جوین در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان جوین در یک نگاه.",
+    "title": "شهرستان جوین — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان جوین در استان خراسان رضوی",
+    "sha1": "4947e7bf2991fd06c318bc49294fabc610676591"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/khalilabad.md",
-   "source_sha1": "85dad13dd89308dce8565fa58046768e861e3117",
+   "source_sha1": "33a4760f450fc281aad9ff8afaabb8b592cf90bd",
    "slug": "khalilabad",
    "status": "article",
    "title": "شهرستان خلیل‌آباد",
@@ -936,13 +1008,22 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/khalilabad.webp",
+    "source": "assets/featured/counties/razavi-khorasan/khalilabad.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان خلیل‌آباد در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان خلیل‌آباد در یک نگاه.",
+    "title": "شهرستان خلیل‌آباد — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان خلیل‌آباد در استان خراسان رضوی",
+    "sha1": "792247569f131691b58a67e2ac71e6f1409874c8"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/khaf.md",
-   "source_sha1": "41c094d32d347671daca1cd2a793cbe96b8db95b",
+   "source_sha1": "f4008080ad88d8244779ab2273a1f1dcd118f91d",
    "slug": "khaf",
    "status": "article",
    "title": "شهرستان خواف",
@@ -1039,7 +1120,16 @@
     "url_needed": 0,
     "coming_soon": 7
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/khaf.webp",
+    "source": "assets/featured/counties/razavi-khorasan/khaf.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان خواف در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان خواف در یک نگاه.",
+    "title": "شهرستان خواف — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان خواف در استان خراسان رضوی",
+    "sha1": "15ccd13bb8da34543c060901177a833ed10b28f1"
+   }
   },
   {
    "package_format": "1.0",

@@ -36,6 +36,7 @@ overlay_text_fa: شهرستان قوچان
 overlay_text_en: Quchan County
 alt: تصویرسازی گرافیکی از شهرستان قوچان در استان خراسان رضوی
 caption: نمادهای شهرستان قوچان در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/quchan.webp
 symbols_used: [قوچان، قوچان، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

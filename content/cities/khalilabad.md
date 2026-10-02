@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان خلیل‌آباد
 overlay_text_en: Khalilabad County
 alt: تصویرسازی گرافیکی از شهرستان خلیل‌آباد در استان خراسان رضوی
 caption: نمادهای شهرستان خلیل‌آباد در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/khalilabad.webp
 symbols_used: [خلیل‌آباد، خلیل‌آباد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

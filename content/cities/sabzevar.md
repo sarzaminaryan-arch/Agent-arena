@@ -36,6 +36,7 @@ overlay_text_fa: شهرستان سبزوار
 overlay_text_en: Sabzevar County
 alt: تصویرسازی گرافیکی از شهرستان سبزوار در استان خراسان رضوی
 caption: نمادهای شهرستان سبزوار در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/sabzevar.webp
 symbols_used: [سبزوار، سبزوار، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

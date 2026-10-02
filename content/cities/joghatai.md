@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان جغتای
 overlay_text_en: Jowqatai County
 alt: تصویرسازی گرافیکی از شهرستان جغتای در استان خراسان رضوی
 caption: نمادهای شهرستان جغتای در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/joghatai.webp
 symbols_used: [جغتای، جغتای، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

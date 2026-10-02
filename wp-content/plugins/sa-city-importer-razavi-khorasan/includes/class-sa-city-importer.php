@@ -298,6 +298,7 @@ if ( ! class_exists( 'SA_City_Province_Importer' ) ) :
 			// Taxonomies + relation to the province hub post.
 			$this->assign_terms( $post_id, $pkg, $batch );
 			$this->link_province( $post_id, $pkg, $batch );
+			$this->import_featured_image( $post_id, $pkg, $batch );
 
 			// Import bookkeeping.
 			update_post_meta( $post_id, '_sa_import_slug', $slug );
@@ -387,6 +388,63 @@ if ( ! class_exists( 'SA_City_Province_Importer' ) ) :
 					update_post_meta( $post_id, $key, wp_slash( $value ) );
 				}
 			}
+		}
+
+		/**
+		 * Sideload the packaged featured image and set its alt text.
+		 *
+		 * The package stores a relative path such as assets/counties/foo.webp;
+		 * the plugin ZIP keeps that path beside data/ so imports do not need
+		 * a public URL or a second network request.
+		 *
+		 * @param int   $post_id Post.
+		 * @param array $pkg     Package.
+		 * @param array $batch   Batch.
+		 */
+		private function import_featured_image( $post_id, $pkg, $batch ) {
+			$image = isset( $pkg['image'] ) && is_array( $pkg['image'] ) ? $pkg['image'] : array();
+			if ( empty( $image['file'] ) ) {
+				return;
+			}
+			$relative = ltrim( (string) $image['file'], '/\\' );
+			$path     = trailingslashit( dirname( untrailingslashit( $batch['dir'] ) ) ) . $relative;
+			if ( ! file_exists( $path ) ) {
+				return;
+			}
+			$sha1 = isset( $image['sha1'] ) ? (string) $image['sha1'] : sha1_file( $path );
+			if ( $sha1 && $sha1 === (string) get_post_meta( $post_id, '_sa_import_image_sha1', true ) && get_post_thumbnail_id( $post_id ) ) {
+				return;
+			}
+
+			require_once ABSPATH . 'wp-admin/includes/file.php';
+			require_once ABSPATH . 'wp-admin/includes/media.php';
+			require_once ABSPATH . 'wp-admin/includes/image.php';
+			$tmp = wp_tempnam( basename( $path ) );
+			if ( ! $tmp || ! copy( $path, $tmp ) ) {
+				if ( $tmp ) {
+					@unlink( $tmp ); // phpcs:ignore WordPress.PHP.NoSilencedErrors.Discouraged
+				}
+				return;
+			}
+			$file_array = array(
+				'name'     => sanitize_file_name( basename( $path ) ),
+				'tmp_name' => $tmp,
+			);
+			$attachment_id = media_handle_sideload( $file_array, $post_id, (string) $pkg['title'] );
+			if ( is_wp_error( $attachment_id ) ) {
+				@unlink( $tmp ); // phpcs:ignore WordPress.PHP.NoSilencedErrors.Discouraged
+				return;
+			}
+			$alt = isset( $image['alt'] ) ? sanitize_text_field( $image['alt'] ) : (string) $pkg['title'];
+			if ( $alt ) {
+				update_post_meta( $attachment_id, '_wp_attachment_image_alt', wp_slash( $alt ) );
+			}
+			if ( ! empty( $image['caption'] ) ) {
+				wp_update_post( array( 'ID' => $attachment_id, 'post_excerpt' => sanitize_textarea_field( $image['caption'] ) ) );
+			}
+			set_post_thumbnail( $post_id, $attachment_id );
+			update_post_meta( $post_id, '_sa_import_image_sha1', $sha1 );
+			update_post_meta( $post_id, '_sa_import_image_id', (int) $attachment_id );
 		}
 
 		/**

@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان جوین
 overlay_text_en: Joveyn County
 alt: تصویرسازی گرافیکی از شهرستان جوین در استان خراسان رضوی
 caption: نمادهای شهرستان جوین در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/jovein.webp
 symbols_used: [جوین، نقاب، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

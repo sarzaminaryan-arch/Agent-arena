@@ -27,7 +27,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "neyshabur",
@@ -43,7 +43,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "sabzevar",
@@ -59,7 +59,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "quchan",
@@ -75,7 +75,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "kashmar",
@@ -91,7 +91,7 @@
     "url_needed": 0,
     "coming_soon": 9
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "gonabad",
@@ -107,7 +107,7 @@
     "url_needed": 0,
     "coming_soon": 9
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "joghatai",
@@ -123,7 +123,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "jovein",
@@ -139,7 +139,7 @@
     "url_needed": 0,
     "coming_soon": 10
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "khalilabad",
@@ -155,7 +155,7 @@
     "url_needed": 0,
     "coming_soon": 8
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "khaf",
@@ -171,7 +171,7 @@
     "url_needed": 0,
     "coming_soon": 7
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "khoshab",

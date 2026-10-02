@@ -36,6 +36,7 @@ overlay_text_fa: شهرستان کاشمر
 overlay_text_en: Kashmar County
 alt: تصویرسازی گرافیکی از شهرستان کاشمر در استان خراسان رضوی
 caption: نمادهای شهرستان کاشمر در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/kashmar.webp
 symbols_used: [کاشمر، کاشمر، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

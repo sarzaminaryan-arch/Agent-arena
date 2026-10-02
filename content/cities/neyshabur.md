@@ -36,6 +36,7 @@ overlay_text_fa: شهرستان نیشابور
 overlay_text_en: Neyshabur County
 alt: تصویرسازی گرافیکی از شهرستان نیشابور در استان خراسان رضوی
 caption: نمادهای شهرستان نیشابور در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/neyshabur.webp
 symbols_used: [نیشابور، نیشابور، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان گناباد
 overlay_text_en: Gonabad County
 alt: تصویرسازی گرافیکی از شهرستان گناباد در استان خراسان رضوی
 caption: نمادهای شهرستان گناباد در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/gonabad.webp
 symbols_used: [گناباد، گناباد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===
