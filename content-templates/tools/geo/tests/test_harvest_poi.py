@@ -106,6 +106,44 @@ class ExtractionTests(unittest.TestCase):
         self.assertIn('جاذبه', item['section'])
 
 
+class TargetValidationTests(unittest.TestCase):
+    def candidate(self, title):
+        return {'name': title, 'target_title': title, 'field': 'poi_heritage',
+                'section': 'جاذبه‌ها', 'source_url': poi.page_url('شهرستان نمونه')}
+
+    def test_generic_political_region_is_not_nature(self):
+        self.assertIsNone(poi.classify('کشورهای عربی خلیج فارس', 'جاذبه‌ها'))
+
+    def test_cinema_name_is_not_a_coast(self):
+        self.assertEqual(poi.classify('سینما ساحل اهواز', 'جاذبه‌ها'), 'poi_recreation')
+
+    def test_generic_building_types_are_not_named_landmarks(self):
+        for title in ('بازار', 'کاروانسرا', 'امام زاده', 'پارک جنگلی', 'دریاچه سد'):
+            self.assertIsNone(poi.classify(title, 'جاذبه‌ها'))
+
+    def test_redirect_aliases_are_deduplicated_by_page_id(self):
+        entries = [self.candidate('مسجد قدیم'), self.candidate('مسجد نام تازه')]
+        target = page('یک مسجد', 'مسجد نام تازه')
+        accepted, rejected = poi.validate_targets(entries,
+            {'مسجد قدیم': target, 'مسجد نام تازه': target}, 'نمونه')
+        self.assertEqual(len(accepted), 1)
+        self.assertEqual(accepted[0]['name'], 'مسجد نام تازه')
+        self.assertEqual(accepted[0]['target_revision_id'], 456)
+        self.assertEqual(rejected, [])
+
+    def test_missing_target_is_not_exported(self):
+        accepted, rejected = poi.validate_targets([self.candidate('قلعه ناموجود')], {}, 'نمونه')
+        self.assertEqual(accepted, [])
+        self.assertEqual(rejected[0]['reason'], 'target page missing')
+
+    def test_target_in_explicitly_other_county_is_not_exported(self):
+        target = page('{{جعبه اطلاعات مکان\n| شهرستان = دیگر\n}}', 'قلعه نمونه')
+        accepted, rejected = poi.validate_targets([self.candidate('قلعه نمونه')],
+                                                  {'قلعه نمونه': target}, 'نمونه')
+        self.assertEqual(accepted, [])
+        self.assertEqual(rejected[0]['reason'], 'explicitly different county')
+
+
 class LocalityTests(unittest.TestCase):
     def test_explicit_county_match_and_persian_characters(self):
         p = page('{{جعبه اطلاعات شهر\n| شهرستان = [[شهرستان سی‌سخت|سی‌سخت]]\n}}')
@@ -145,6 +183,21 @@ class PreservationTests(unittest.TestCase):
         self.assertEqual(doc['fields']['poi_nature']['status'], 'draft')
         self.assertEqual(doc['fields']['poi_nature']['entries'][0]['revision_id'], 456)
 
+    def test_refresh_only_corrects_own_unverified_drafts(self):
+        old = {'status': 'draft', 'source': 'wikipedia-poi', 'value': 'نام نامناسب'}
+        doc = {'fields': {'poi_nature': old, 'poi_heritage': {
+            'status': 'auto', 'source': 'derived', 'value': 'قلعه قبلی'}}}
+        poi.fill_empty_fields(doc, [], '2026-10-02', refresh_drafts=True)
+        self.assertNotIn('poi_nature', doc['fields'])
+        self.assertEqual(doc['fields']['poi_heritage']['value'], 'قلعه قبلی')
+
+    def test_refresh_never_overwrites_manual_or_verified_own_draft(self):
+        for status in ('manual', 'verified'):
+            old = {'status': status, 'source': 'wikipedia-poi', 'value': 'نام تأییدشده'}
+            doc = {'fields': {'poi_nature': copy.deepcopy(old)}}
+            poi.fill_empty_fields(doc, [], '2026-10-02', refresh_drafts=True)
+            self.assertEqual(doc['fields']['poi_nature'], old)
+
     def test_repeat_is_idempotent(self):
         doc = {'fields': {}}
         poi.fill_empty_fields(doc, self.candidates(), '2026-10-02')
@@ -183,7 +236,8 @@ class PreservationTests(unittest.TestCase):
                  mock.patch.object(poi.registry, 'HARVEST_DIR', str(pathlib.Path(root, 'harvest'))), \
                  mock.patch.object(poi.registry, 'ROOT', root), \
                  mock.patch.object(poi, 'fetch_pages', side_effect=[
-                     {'شهرستان نمونه': page('== جاذبه‌ها ==\n[[غار نمونه]]')}, {}]):
+                     {'شهرستان نمونه': page('== جاذبه‌ها ==\n[[غار نمونه]]')}, {},
+                     {'غار نمونه': page('غاری در شهرستان نمونه', 'غار نمونه')}]):
                 result = poi.harvest(rows, sleep=0)
             self.assertIn('sample', result)
             updated = json.loads(f.read_text(encoding='utf-8'))

@@ -103,7 +103,7 @@ jobs:
 
       - name: Harvest sourced attraction lists (pass 4)
         if: steps.scope.outputs.sources == 'poi'
-        run: python3 content-templates/tools/geo/harvest_poi.py ${{ steps.scope.outputs.flag }} --sleep 1
+        run: python3 content-templates/tools/geo/harvest_poi.py ${{ steps.scope.outputs.flag }} --sleep 1 --refresh-drafts
 
       # An ERROR stops export and publication; WARNs remain visible for editorial review.
       - name: Validate

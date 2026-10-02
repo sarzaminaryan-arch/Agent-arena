@@ -36,10 +36,10 @@ CONTEXT = ('جاذبه', 'گردشگر', 'دیدنی', 'طبیعت', 'آثار �
            'نقاط بکر', 'روستاهای گردشگری', 'زیارت', 'بوستان', 'پارکها', 'پارک ها')
 NATURE = ('آبشار', 'غار', 'تنگه', 'دریاچه', 'تالاب', 'جنگل', 'کوه ', 'قله',
           'چشمه', 'رودخانه', 'دره', 'کویر', 'بیابان', 'آبگرم', 'آب گرم',
-          'گنبد نمکی', 'سراب', 'مرداب', 'خلیج', 'جزیره', 'ساحل', 'پارک ملی',
+          'گنبد نمکی', 'سراب', 'مرداب', 'خلیج', 'جزیره', 'ساحل', 'سد ', 'پارک ملی',
           'منطقه حفاظت', 'پناهگاه حیات وحش')
 RECREATION = ('پارک', 'بوستان', 'تله کابین', 'پیست', 'شهربازی', 'مجموعه تفریحی',
-              'مرکز خرید', 'باغ وحش', 'پارک آبی')
+              'مرکز خرید', 'باغ وحش', 'پارک آبی', 'سینما', 'مجتمع تفریحی')
 HERITAGE = ('مسجد', 'امامزاده', 'امام زاده', 'قلعه', 'ارگ', 'کاروانسرا', 'حمام',
             'بازار', 'تیمچه', 'خانه ', 'عمارت', 'کاخ', 'برج ', 'مناره', 'مقبره',
             'آرامگاه', 'آتشکده', 'پل ', 'محوطه', 'کلیسا', 'بقعه', 'حرم', 'موزه',
@@ -47,7 +47,10 @@ HERITAGE = ('مسجد', 'امامزاده', 'امام زاده', 'قلعه', 'ا
             'تخت جمشید', 'تخت سلیمان', 'طاق بستان', 'نقش رستم', 'هگمتانه', 'چغازنبیل')
 GENERIC = {'ایران', 'گردشگری', 'طبیعت', 'مسجد', 'موزه', 'پارک', 'روستا', 'کوه',
            'آبشار', 'غار', 'جنگل', 'دریاچه', 'شهر', 'شهرستان', 'استان',
-           'تاریخ', 'آثار تاریخی', 'جاذبه های گردشگری', 'تفریح', 'زیارت'}
+           'تاریخ', 'آثار تاریخی', 'جاذبه های گردشگری', 'تفریح', 'زیارت',
+           'بازار', 'کاروانسرا', 'امامزاده', 'امام زاده', 'آرامگاه', 'قلعه',
+           'پارک جنگلی', 'دریاچه سد', 'آب انبار', 'پل', 'قنات', 'ساحل', 'جزیره',
+           'تالاب', 'حسینیه', 'خانه تاریخی', 'باغ', 'بوستان', 'پیست اسکی'}
 
 
 def normal(text):
@@ -132,12 +135,19 @@ def tourism_sections(wt):
 
 def classify(name, section):
     name, section = normal(name), normal(section)
+    if (name in GENERIC or name.startswith(('کشور', 'فهرست', 'تاریخ ', 'انواع ', 'معماری ',
+                                            'شهرستان ', 'استان ', 'فرهنگ ', 'رده:'))):
+        return None
     if any(k in section for k in ('نقاط بکر', 'روستاهای گردشگری', 'روستاهای دیدنی')):
         return 'poi_offbeat'
-    if any(k in name for k in NATURE):
+    # The venue type takes precedence over a word in its proper name: a cinema
+    # named "Sahel" is not a coast. National/protected parks are natural sites.
+    if any(k in name for k in ('پارک ملی', 'منطقه حفاظت', 'پناهگاه حیات وحش')):
         return 'poi_nature'
     if any(k in name for k in RECREATION):
         return 'poi_recreation'
+    if any(k in name for k in NATURE):
+        return 'poi_nature'
     if any(k in name for k in HERITAGE):
         return 'poi_heritage'
     # Historical paragraphs also link to people, dynasties and countries.
@@ -211,12 +221,47 @@ def city_belongs_to_county(page, county_name):
     return bool(re.search(re.escape(needle) + r'(?=[ ،.؛]|$)', plain))
 
 
-def fill_empty_fields(doc, candidates, fetched):
-    """Only four POI fields may change; an existing value of any origin is preserved."""
+def validate_targets(candidates, pages, county_name):
+    """Require an existing target article, deduplicate redirects, reject wrong counties."""
+    accepted, rejected, seen = [], [], set()
+    for original in candidates:
+        target = pages.get(original['target_title'])
+        if not target:
+            rejected.append({'name': original['name'], 'reason': 'target page missing'})
+            continue
+        name = re.sub(r'\s*\([^)]*\)\s*$', '', target['title']).strip()
+        field = classify(name, original['section'])
+        if not field:
+            rejected.append({'name': original['name'], 'reason': 'generic or untyped target'})
+            continue
+        lead = target['text'].split('\n==', 1)[0][:12000]
+        wrong_county = False
+        for key, value in infobox_fields(lead).items():
+            if normal(key) in ('شهرستان', 'نام شهرستان', 'county'):
+                wrong_county = registry.normalize_fa(strip_markup(value)) != registry.normalize_fa(county_name)
+                break
+        if wrong_county:
+            rejected.append({'name': name, 'reason': 'explicitly different county'})
+            continue
+        identity = (field, target['pageid'])
+        if identity in seen:
+            continue
+        seen.add(identity)
+        entry = dict(original)
+        entry.update({'name': name, 'field': field, 'target_title': target['title'],
+                      'target_url': target['url'], 'target_pageid': target['pageid'],
+                      'target_revision_id': target['revid']})
+        accepted.append(entry)
+    return accepted, rejected
+
+
+def fill_empty_fields(doc, candidates, fetched, refresh_drafts=False):
+    """Only POI fields change. Refresh may replace this pass's own unverified drafts."""
     written = {}
     for field in FIELDS:
         old = doc.get('fields', {}).get(field) or {}
-        if old.get('status') in PROTECTED or old.get('value') not in (None, '', []):
+        own_draft = refresh_drafts and old.get('source') == 'wikipedia-poi' and old.get('status') == 'draft'
+        if old.get('status') in PROTECTED or (old.get('value') not in (None, '', []) and not own_draft):
             continue
         entries, seen = [], set()
         for entry in candidates:
@@ -226,6 +271,9 @@ def fill_empty_fields(doc, candidates, fetched):
                 entries.append(entry)
         entries = entries[:12]
         if not entries:
+            if own_draft:
+                del doc['fields'][field]
+                written[field] = 0
             continue
         doc.setdefault('fields', {})[field] = {
             'value': '\n'.join(e['name'] for e in entries), 'source': 'wikipedia-poi',
@@ -252,13 +300,19 @@ def write_json(path, data):
     os.replace(temp, path)
 
 
-def harvest(rows, sleep=1.0):
+def harvest(rows, sleep=1.0, refresh_drafts=False):
     today = datetime.date.today().isoformat()
     docs = {}
     for row in rows:
         with open(os.path.join(registry.FACTS_DIR, row['slug'] + '.json'), encoding='utf-8') as fh:
             docs[row['slug']] = json.load(fh)
     before = field_counts(docs)
+    summary_path = os.path.join(registry.ROOT, 'content', 'data', 'COUNTY-POI-PASS4.json')
+    if os.path.isfile(summary_path):
+        with open(summary_path, encoding='utf-8') as fh:
+            summary = json.load(fh)
+        if summary.get('scope') == sorted(r['slug'] for r in rows):
+            before = summary['baseline_coverage']
     county_titles = {r['slug']: 'شهرستان ' + r['name'] for r in rows}
     county_pages = fetch_pages(list(county_titles.values()), sleep)
     if not county_pages:
@@ -289,7 +343,14 @@ def harvest(rows, sleep=1.0):
         raw[slug] = {'county': row['name'], 'province': row['province'], 'sources': sources,
                      'fetched': today, 'candidates': candidates,
                      'center_confirmed': bool(city and slug not in rejected_centers)}
-        added = fill_empty_fields(docs[slug], candidates, today)
+    target_titles = [e['target_title'] for record in raw.values() for e in record['candidates']]
+    target_pages = fetch_pages(target_titles, sleep)
+    for row in rows:
+        slug = row['slug']
+        accepted, rejected = validate_targets(raw[slug]['candidates'], target_pages, row['name'])
+        raw[slug]['candidates'] = accepted
+        raw[slug]['rejected_candidates'] = rejected
+        added = fill_empty_fields(docs[slug], accepted, today, refresh_drafts=refresh_drafts)
         if added:
             changes[slug] = added
     for slug in changes:
@@ -299,12 +360,21 @@ def harvest(rows, sleep=1.0):
         write_json(os.path.join(registry.HARVEST_DIR, 'poi', province + '.json'),
                    {r['slug']: raw[r['slug']] for r in rows if r['province'] == province})
     after = field_counts(docs)
+    own_fields = {slug: [k for k, v in doc.get('fields', {}).items()
+                        if k in FIELDS and v.get('source') == 'wikipedia-poi' and
+                        v.get('status') == 'draft' and v.get('value')] for slug, doc in docs.items()}
+    completed = {slug for slug, fields in own_fields.items() if fields}
+    write_json(summary_path, {'scope': sorted(r['slug'] for r in rows),
+                             'baseline_coverage': before, 'after': after, 'fetched': today,
+                             'changed_counties': len(completed),
+                             'rejected_targets': sum(len(r['rejected_candidates']) for r in raw.values())})
     report = ['# مرحلهٔ چهارم — تکمیل فهرست جاذبه‌های شهرستان‌ها', '',
               'تاریخ برداشت: `%s` · شهرستان‌های بررسی‌شده: %d · پرونده‌های تکمیل‌شده: %d' %
-              (today, len(rows), len(changes)),
+              (today, len(rows), len(completed)),
               'مقالهٔ شهرستان دریافت‌شده: %d · مقالهٔ مرکز دریافت‌شده: %d.' %
-              (len(county_pages), len(city_pages)), '',
-              'فقط خانه‌های خالی جاذبه پر شدند. آمار، فهرست‌های قبلی و داده‌های دستی تغییر نکردند.',
+              (len(county_pages), len(city_pages)),
+              'صفحهٔ مقصد جاذبهٔ دریافت‌شده: %d؛ نام‌های عمومی/ناموجود/خارج از شهرستان کنار گذاشته شدند و ریدایرکت‌های تکراری ادغام شدند.' % len(target_pages), '',
+              'فقط خانه‌های خالی جاذبهٔ مرحلهٔ قبلی پر شدند؛ بازبینی این بسته فقط پیش‌نویس‌های تولیدشدهٔ خودش را تصحیح کرد. آمار، فهرست‌های قبلی و داده‌های دستی تغییر نکردند.',
               'این فهرست‌ها پیش‌نویس منبع‌دارند؛ صحت نهاییِ موقعیت، دسته‌بندی، فاصله و توضیح نیاز به بازبینی دارد.', '',
               '| بخش | قبل | بعد | خانهٔ تازه |', '|---|---:|---:|---:|']
     labels = {'poi_nature': 'طبیعت', 'poi_offbeat': 'نقاط بکر',
@@ -318,17 +388,17 @@ def harvest(rows, sleep=1.0):
     for province in provinces:
         members = [r['slug'] for r in rows if r['province'] == province]
         report.append('| `%s` | %d | %d | %d |' %
-                      (province, len(members), sum(s in changes for s in members),
-                       sum(len(changes.get(s, {})) for s in members)))
+                      (province, len(members), sum(s in completed for s in members),
+                       sum(len(own_fields.get(s, [])) for s in members)))
     report += ['', '## منبع و بازبینی', '',
-               '- نام صفحه، URL، شناسهٔ صفحه، شناسهٔ نسخه و سرتیتر هر نام تازه در `fields.poi_*.entries` ثبت شده است.',
+               '- نام صفحه، URL، شناسهٔ صفحه/نسخهٔ منبع و مقصد و سرتیتر هر نام تازه در `fields.poi_*.entries` ثبت شده است.',
                '- همهٔ نامزدهای استخراج‌شده در `content/data/harvest/poi/<province>.json` قابل بررسی‌اند.',
                '- لینک عمومی یا دسته‌بندی‌نشده «نقطهٔ بکر» فرض نشده است؛ آمار شهر نیز آمار شهرستان فرض نشده است.',
                '- ورود به وردپرس: نسخهٔ ۲.۸.۹ ← انتخاب استان ← پیش‌نمایش ← دریافت و اعمال، بدون بازنویسی خانه‌های پرشده.', '']
     report_path = os.path.join(registry.ROOT, 'content', 'data', 'COUNTY-POI-PASS4.md')
     with open(report_path, 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(report))
-    print(json.dumps({'checked': len(rows), 'changed_counties': len(changes),
+    print(json.dumps({'checked': len(rows), 'changed_counties': len(completed),
                       'before': before, 'after': after, 'unconfirmed_centers': len(rejected_centers)},
                      ensure_ascii=False), flush=True)
     return changes
@@ -340,9 +410,11 @@ def main():
     scope.add_argument('--province', choices=sorted(registry.by_province()))
     scope.add_argument('--all', action='store_true')
     parser.add_argument('--sleep', type=float, default=1.0)
+    parser.add_argument('--refresh-drafts', action='store_true',
+                        help='بازبینی فقط پیش‌نویس‌های تولیدشدهٔ همین مرحله؛ دستی/verified محفوظ است')
     args = parser.parse_args()
     rows = registry.counties() if args.all else registry.by_province(args.province)[args.province]
-    harvest(rows, args.sleep)
+    harvest(rows, args.sleep, refresh_drafts=args.refresh_drafts)
 
 
 if __name__ == '__main__':
