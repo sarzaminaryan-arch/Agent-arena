@@ -113,6 +113,81 @@ def poi_candidates(wt):
     return out[:25]
 
 
+WORD_NUM = {'یک': 1, 'دو': 2, 'سه': 3, 'چهار': 4, 'پنج': 5, 'شش': 6, 'شیش': 6,
+            'هفت': 7, 'هشت': 8, 'نه': 9, 'ده': 10, 'یازده': 11, 'دوازده': 12,
+            'سیزده': 13, 'چهارده': 14, 'پانزده': 15, 'شانزده': 16, 'هفده': 17,
+            'هجده': 18, 'نوزده': 19, 'بیست': 20}
+
+
+def strip_markup(text):
+    """ویکی‌متن → متن خوانا (قالب‌ها، ارجاع‌ها، پیوندها و تأکیدها حذف می‌شوند)."""
+    text = re.sub(r'<ref[^>]*>.*?</ref>|<ref[^>]*/>', ' ', text, flags=re.S)
+    for _ in range(3):
+        text = re.sub(r'\{\{[^{}]*\}\}', ' ', text)
+    text = re.sub(r'<[^>]+>', ' ', text)
+    text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]|]*)\]\]", r'\1', text)
+    text = text.replace("\u0027\u0027\u0027", '').replace("\u0027\u0027", '')
+    return re.sub(r'[ \t]+', ' ', text)
+
+
+def count_in_prose(wt, unit):
+    """«از سه بخش … تشکیل شده» یا «۴ دهستان» → بزرگ‌ترین عدد معقول کنار آن واحد."""
+    text = strip_markup(wt)
+    pat = r'([\d۰-۹]{1,4}|' + '|'.join(WORD_NUM) + r')\s*' + unit
+    best = None
+    for m in re.finditer(pat, text):
+        raw = m.group(1)
+        if raw in WORD_NUM:
+            n = WORD_NUM[raw]
+        else:
+            try:
+                n = int(raw.translate(FA_DIGITS))
+            except ValueError:
+                continue
+        if best is None or n > best:
+            best = n
+    return best
+
+
+def section_text(wt, *heads):
+    """متن نخستین بخشی که سرتیترش یکی از heads را دارد."""
+    for m in re.finditer(r'^==+\s*([^=\n]+?)\s*==+\s*$', wt, re.M):
+        head = m.group(1)
+        if not any(h in head for h in heads):
+            continue
+        body = wt[m.end():]
+        body = re.split(r'^==', body, maxsplit=1, flags=re.M)[0]
+        return strip_markup(body).strip()
+    return ''
+
+
+def climate_text(wt, infobox_value=None):
+    """یکی دو جملهٔ نخست بخش «آب و هوا»، وگرنه پارامتر جعبهٔ اطلاعات."""
+    body = section_text(wt, 'آب و هوا', 'آب‌وهوا', 'اقلیم')
+    if body:
+        body = re.sub(r'\s+', ' ', body)
+        parts = re.split(r'(?<=[.؛])\s', body)
+        out = ' '.join(parts[:2]).strip()
+        if 25 <= len(out) <= 400:
+            return out
+    if infobox_value:
+        clean = strip_markup(str(infobox_value)).strip()
+        if 2 <= len(clean) <= 200:
+            return clean
+    return None
+
+
+def area_in_prose(wt):
+    m = re.search(r'مساحت[^.\n]{0,40}?([\d۰-۹][\d۰-۹,٬]*(?:[.٫][\d۰-۹]+)?)\s*کیلومتر\s*مربع', strip_markup(wt))
+    if not m:
+        return None
+    raw = m.group(1).translate(FA_DIGITS).replace(',', '').replace('٫', '.')
+    try:
+        return float(raw)
+    except ValueError:
+        return None
+
+
 def harvest(province, sleep=1.0):
     rows, today = {}, date.today().isoformat()
     targets = registry.by_province(province)[province]
@@ -129,17 +204,20 @@ def harvest(province, sleep=1.0):
             if not wt:
                 continue
             fields = infobox_fields(wt)
+            divisions = section_text(wt, 'تقسیمات') or wt
             rows[c['slug']] = {
                 'slug': c['slug'],
-                'districts': count_items(pick(fields, 'بخش')),
-                'rural_districts': count_items(pick(fields, 'دهستان')),
-                'cities': count_items(pick(fields, 'شهرها', 'تعداد شهر')),
-                'villages': count_items(pick(fields, 'روستا', 'آبادی')),
+                'districts': count_items(pick(fields, 'بخش')) or count_in_prose(divisions, 'بخش(?!ی|داری)'),
+                'rural_districts': count_items(pick(fields, 'دهستان')) or count_in_prose(divisions, 'دهستان'),
+                'cities': count_items(pick(fields, 'شهرها', 'تعداد شهر')) or count_in_prose(divisions, 'شهر(?!ستان)'),
+                'villages': (count_items(pick(fields, 'روستا', 'آبادی'))
+                             or count_in_prose(wt, 'آبادی دارای سکنه')
+                             or count_in_prose(divisions, 'روستا(?!ی)')),
                 'population': int(num(pick(fields, 'جمعیت')) or 0) or None,
                 'census_year': (lambda y: int(y) if y and 1300 < y < 1450 else None)(num(pick(fields, 'سال سرشماری', 'تاریخ سرشماری'))),
-                'area': num(pick(fields, 'مساحت')),
+                'area': num(pick(fields, 'مساحت')) or area_in_prose(wt),
                 'elevation': num(pick(fields, 'ارتفاع')),
-                'climate': pick(fields, 'آب و هوا', 'اقلیم'),
+                'climate': climate_text(wt, pick(fields, 'آب و هوا', 'اقلیم')),
                 'poi_candidates': poi_candidates(wt),
                 '_source': 'https://fa.wikipedia.org/wiki/' + urllib.parse.quote(title.replace(' ', '_')),
                 '_fetched': today,

@@ -83,6 +83,9 @@ jobs:
       - name: Merge into fact files
         run: python3 content-templates/tools/geo/merge_facts.py ${{ steps.scope.outputs.flag }}
 
+      - name: Derive calculated fields
+        run: python3 content-templates/tools/geo/enrich_facts.py
+
       - name: Validate
         continue-on-error: true
         run: python3 content-templates/tools/geo/validate_facts.py

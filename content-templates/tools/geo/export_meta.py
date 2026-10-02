@@ -48,6 +48,7 @@ META_MAP = {
     'lon': 'sa_city_longitude',
     'elevation': 'sa_city_elevation',
     'google_map_url': 'sa_google_map_url',
+    'city_population': 'sa_city_population',
 }
 FA = '۰۱۲۳۴۵۶۷۸۹'
 

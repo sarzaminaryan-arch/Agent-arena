@@ -38,10 +38,12 @@ ENDPOINT = 'https://query.wikidata.org/sparql'
 UA = 'sarzaminaryan-geo-harvester/1.0 (https://sarzaminaryan.ir; Mail@sarzaminaryan.ir)'
 
 QUERY = """
-SELECT ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev
+SELECT ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev ?cpop ?celev
        (GROUP_CONCAT(DISTINCT ?nbLabel; separator="|") AS ?neighbors) WHERE {
   ?county wdt:P31 wd:Q137535 .
-  OPTIONAL { ?county wdt:P36 ?center. }
+  OPTIONAL { ?county wdt:P36 ?center.
+             OPTIONAL { ?center wdt:P1082 ?cpop. }
+             OPTIONAL { ?center wdt:P2044 ?celev. } }
   OPTIONAL { ?county p:P1082 ?popSt. ?popSt ps:P1082 ?pop. OPTIONAL { ?popSt pq:P585 ?popDate. } }
   OPTIONAL { ?county wdt:P2046 ?area. }
   OPTIONAL { ?county wdt:P625 ?coord. }
@@ -49,7 +51,7 @@ SELECT ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev
   OPTIONAL { ?county wdt:P47 ?nb. ?nb rdfs:label ?nbLabel. FILTER(LANG(?nbLabel)="fa") }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "fa,en". }
 }
-GROUP BY ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev
+GROUP BY ?county ?countyLabel ?centerLabel ?pop ?popDate ?area ?coord ?elev ?cpop ?celev
 """
 
 
@@ -94,7 +96,9 @@ def harvest_all():
             'population': int(float(b['pop']['value'])) if 'pop' in b else None,
             'census_year': (b.get('popDate', {}).get('value') or '')[:4] or None,
             'area': float(b['area']['value']) if 'area' in b else None,
-            'elevation': int(float(b['elev']['value'])) if 'elev' in b else None,
+            'elevation': int(float(b['elev']['value'])) if 'elev' in b else (
+                int(float(b['celev']['value'])) if 'celev' in b else None),
+            'city_population': int(float(b['cpop']['value'])) if 'cpop' in b else None,
             'lat': lat, 'lon': lon,
             'neighbors': sorted(set(nb_slugs)),
             '_source': 'https://www.wikidata.org/wiki/' + b['county']['value'].rsplit('/', 1)[-1],

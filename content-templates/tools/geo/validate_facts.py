@@ -36,6 +36,7 @@ RANGES = {
     'cities': (1, 30, 'WARN'),
     'villages': (1, 3000, 'WARN'),
     'distance_center': (0, 1200, 'WARN'),
+    'city_population': (200, 10000000, 'WARN'),
 }
 CENSUS_YEARS = {1385, 1390, 1395, 1400, 2006, 2011, 2016, 2021}
 
