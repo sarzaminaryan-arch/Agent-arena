@@ -2255,7 +2255,7 @@
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/mahvelat.md",
-   "source_sha1": "d72e5580eb4c841f0fe5e77d7e4d540142e1e9d2",
+   "source_sha1": "46c90a5b1dc6bc781e13ddb97ac07b4e90edfb0a",
    "slug": "mahvelat",
    "status": "article",
    "title": "شهرستان مه‌ولات",
@@ -2352,13 +2352,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/mahvelat.webp",
+    "source": "assets/featured/counties/razavi-khorasan/mahvelat.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان مه‌ولات در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان مه‌ولات در یک نگاه.",
+    "title": "شهرستان مه‌ولات — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان مه‌ولات در استان خراسان رضوی",
+    "sha1": "366502aa1922569aebd7580eefed86e49be95e89"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/mian-jolgeh.md",
-   "source_sha1": "70fe7fa77742da025ec1c8117d449de4f31a978e",
+   "source_sha1": "2433aff206aa8abbf58cd6273b08083490e14442",
    "slug": "mian-jolgeh",
    "status": "article",
    "title": "شهرستان میان‌جلگه",
@@ -2455,13 +2464,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/mian-jolgeh.webp",
+    "source": "assets/featured/counties/razavi-khorasan/mian-jolgeh.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان میان‌جلگه در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان میان‌جلگه در یک نگاه.",
+    "title": "شهرستان میان‌جلگه — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان میان‌جلگه در استان خراسان رضوی",
+    "sha1": "521b89cf0a66eeee1c19640c404b655d1fad7f82"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/chenaran.md",
-   "source_sha1": "0607c9776fb7d7224960ea73566c674cec76fda0",
+   "source_sha1": "47aacb77b9ff4a3209ce35a51620da76fc18b09c",
    "slug": "chenaran",
    "status": "article",
    "title": "شهرستان چناران",
@@ -2558,13 +2576,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/chenaran.webp",
+    "source": "assets/featured/counties/razavi-khorasan/chenaran.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان چناران در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان چناران در یک نگاه.",
+    "title": "شهرستان چناران — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان چناران در استان خراسان رضوی",
+    "sha1": "f2733fe07d2cddeebe556ca7c8907b2c1fba8bcb"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/kalat.md",
-   "source_sha1": "2d80fec1f260fd4706d85d9403b690f977dc4f4a",
+   "source_sha1": "803b472c7a35fb2bc9d0fb59c4875502d26bd234",
    "slug": "kalat",
    "status": "article",
    "title": "شهرستان کلات",
@@ -2661,13 +2688,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/kalat.webp",
+    "source": "assets/featured/counties/razavi-khorasan/kalat.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان کلات در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان کلات در یک نگاه.",
+    "title": "شهرستان کلات — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان کلات در استان خراسان رضوی",
+    "sha1": "7df3b44899a38fd2ffb8cd903e2c070ebd6cb136"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/kuhsorkh.md",
-   "source_sha1": "25bdf84c6c78f10cedfd68c2a67d14944fd57a06",
+   "source_sha1": "45d9103cf9ea5b6a73168d4ca7f01f3c04e65123",
    "slug": "kuhsorkh",
    "status": "article",
    "title": "شهرستان کوهسرخ",
@@ -2764,13 +2800,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/kuhsorkh.webp",
+    "source": "assets/featured/counties/razavi-khorasan/kuhsorkh.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان کوهسرخ در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان کوهسرخ در یک نگاه.",
+    "title": "شهرستان کوهسرخ — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان کوهسرخ در استان خراسان رضوی",
+    "sha1": "480e4ca80e765f64fbb308902e0a3b6b6621b38b"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/golbahar.md",
-   "source_sha1": "f839eef78ea9b56fef6fddc57a83634ae7ccc72a",
+   "source_sha1": "150a6b6b47ef4267933ece524031b42f9af52461",
    "slug": "golbahar",
    "status": "article",
    "title": "شهرستان گلبهار",
@@ -2867,13 +2912,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/golbahar.webp",
+    "source": "assets/featured/counties/razavi-khorasan/golbahar.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان گلبهار در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان گلبهار در یک نگاه.",
+    "title": "شهرستان گلبهار — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان گلبهار در استان خراسان رضوی",
+    "sha1": "0c848a32607cea93908af5bed320f68c5c866e2f"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/binalud.md",
-   "source_sha1": "910e35a86f1ad29f67c8db5951acc20794b7edfa",
+   "source_sha1": "e3b5afa056f0068075abc9b57dce3635429d9504",
    "slug": "binalud",
    "status": "article",
    "title": "شهرستان بینالود",
@@ -2970,13 +3024,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/binalud.webp",
+    "source": "assets/featured/counties/razavi-khorasan/binalud.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان بینالود در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان بینالود در یک نگاه.",
+    "title": "شهرستان بینالود — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان بینالود در استان خراسان رضوی",
+    "sha1": "0b5120042aab9dbb3e631bc6158904db2e73286e"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-02",
    "source_file": "content/cities/zebarkhan.md",
-   "source_sha1": "34c3816cfc215d53b417b9912afd50bc33317557",
+   "source_sha1": "73f16560f3843a7b7b43e256dc7b13e9f12e95d7",
    "slug": "zebarkhan",
    "status": "article",
    "title": "شهرستان زبرخان",
@@ -3073,7 +3136,16 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/zebarkhan.webp",
+    "source": "assets/featured/counties/razavi-khorasan/zebarkhan.webp",
+    "mime": "image/webp",
+    "alt": "تصویرسازی گرافیکی از شهرستان زبرخان در استان خراسان رضوی",
+    "caption": "نمادهای شهرستان زبرخان در یک نگاه.",
+    "title": "شهرستان زبرخان — سرزمین آریان",
+    "description": "تصویرسازی گرافیکی از شهرستان زبرخان در استان خراسان رضوی",
+    "sha1": "cad6f678577399c809a39f90ba29d7a1780fa675"
+   }
   }
  ]
 }

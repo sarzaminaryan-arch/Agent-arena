@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان بینالود
 overlay_text_en: Binalud County
 alt: تصویرسازی گرافیکی از شهرستان بینالود در استان خراسان رضوی
 caption: نمادهای شهرستان بینالود در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/binalud.webp
 symbols_used: [رشته‌کوه بینالود و ارتفاعات خراسان رضوی، طرقبه و شاندیز و چشم‌اندازهای ییلاقی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

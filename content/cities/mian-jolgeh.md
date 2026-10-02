@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان میان‌جلگه
 overlay_text_en: Mian Jolgeh County
 alt: تصویرسازی گرافیکی از شهرستان میان‌جلگه در استان خراسان رضوی
 caption: نمادهای شهرستان میان‌جلگه در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/mian-jolgeh.webp
 symbols_used: [قرارگیری در جنوب نیشابور، دشت‌ها و روستاهای کشاورزی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

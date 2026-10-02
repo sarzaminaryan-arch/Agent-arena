@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان کوهسرخ
 overlay_text_en: Kuhsorkh County
 alt: تصویرسازی گرافیکی از شهرستان کوهسرخ در استان خراسان رضوی
 caption: نمادهای شهرستان کوهسرخ در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/kuhsorkh.webp
 symbols_used: [ریوش و چشم‌اندازهای کوهستانی، آب‌وهوای خنک‌تر و باغ‌های منطقه، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان زبرخان
 overlay_text_en: Zebarkhan County
 alt: تصویرسازی گرافیکی از شهرستان زبرخان در استان خراسان رضوی
 caption: نمادهای شهرستان زبرخان در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/zebarkhan.webp
 symbols_used: [قدمگاه و پیوند با مسیر زیارتی خراسان، روستاهای دامنهٔ بینالود، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

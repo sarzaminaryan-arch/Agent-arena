@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان مه‌ولات
 overlay_text_en: Mahvelat County
 alt: تصویرسازی گرافیکی از شهرستان مه‌ولات در استان خراسان رضوی
 caption: نمادهای شهرستان مه‌ولات در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/mahvelat.webp
 symbols_used: [فیض‌آباد و باغ‌های جنوب خراسان رضوی، کشت زعفران و محصولات سازگار با اقلیم، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان گلبهار
 overlay_text_en: Golbahar County
 alt: تصویرسازی گرافیکی از شهرستان گلبهار در استان خراسان رضوی
 caption: نمادهای شهرستان گلبهار در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/golbahar.webp
 symbols_used: [شهر جدید گلبهار و پیوند با مشهد، دامنه‌های بینالود و دشت‌های شمال‌غرب مشهد، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

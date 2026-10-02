@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان کلات
 overlay_text_en: Kalat County
 alt: تصویرسازی گرافیکی از شهرستان کلات در استان خراسان رضوی
 caption: نمادهای شهرستان کلات در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/kalat.webp
 symbols_used: [کاخ خورشید و میراث افشاری، دره‌ها، آبشارها و چشم‌اندازهای کوهستانی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===

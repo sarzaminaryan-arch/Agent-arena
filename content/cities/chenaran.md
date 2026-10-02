@@ -35,6 +35,7 @@ overlay_text_fa: شهرستان چناران
 overlay_text_en: Chenaran County
 alt: تصویرسازی گرافیکی از شهرستان چناران در استان خراسان رضوی
 caption: نمادهای شهرستان چناران در یک نگاه.
+image_file: assets/featured/counties/razavi-khorasan/chenaran.webp
 symbols_used: [نزدیکی به مشهد و محورهای شمال‌شرق، دامنه‌های بینالود و دره‌های طبیعی، جاذبه‌های شاخص شهرستان]
 
 === BLOCK 3: ARTICLE (Markdown) ===
