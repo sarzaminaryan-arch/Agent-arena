@@ -1,14 +1,5 @@
 {
- "conflicts": {
-  "population": {
-   "chosen": {
-    "wikipedia": 88
-   },
-   "others": {
-    "wikidata": 40078
-   }
-  }
- },
+ "conflicts": {},
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -22,7 +13,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2725545",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +45,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87",
-   "value": 88
+   "url": "https://www.wikidata.org/wiki/Q2725545",
+   "value": 40078
   }
  },
  "name": "گلوگاه",

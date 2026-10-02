@@ -2,13 +2,12 @@
  "angut": {
   "sa_cty_area": 1048,
   "sa_cty_center": "انگوت",
-  "sa_cty_districts": 2,
-  "sa_cty_population": 20428
+  "sa_cty_districts": 2
  },
  "ardabil-city": {
   "sa_city_latitude": 38.25,
   "sa_city_longitude": 48.3,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اردبیل",
   "sa_cty_cities": 7,
   "sa_cty_districts": 3,
@@ -19,41 +18,40 @@
   "sa_city_latitude": 39.38333,
   "sa_city_longitude": 47.6,
   "sa_cty_area": 592,
-  "sa_cty_districts": 2,
-  "sa_cty_population": 32506
+  "sa_cty_districts": 2
  },
  "bileh-savar": {
   "sa_city_latitude": 39.36667,
   "sa_city_longitude": 47.96667,
   "sa_cty_area": 1742,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بیلهسوار",
-  "sa_cty_population": 51307
+  "sa_cty_population": 51404
  },
  "germi": {
   "sa_city_latitude": 39,
   "sa_city_longitude": 47.95,
   "sa_cty_area": 2793,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گرمی",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 76473
+  "sa_cty_population": 76901
  },
  "givi": {
   "sa_city_latitude": 37.72142,
   "sa_city_longitude": 48.26985,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گیوی",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 26
+  "sa_cty_population": 22127
  },
  "khalkhal": {
   "sa_city_elevation": 1843,
   "sa_city_latitude": 37.61667,
   "sa_city_longitude": 48.53333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خلخال",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
@@ -63,25 +61,25 @@
   "sa_city_latitude": 38.43333,
   "sa_city_longitude": 47.75,
   "sa_cty_area": 3500,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مشگینشهر",
   "sa_cty_cities": 6,
   "sa_cty_districts": 5,
-  "sa_cty_population": 181156
+  "sa_cty_population": 149941
  },
  "namin": {
   "sa_city_latitude": 38.38333,
   "sa_city_longitude": 48.51667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نمین",
   "sa_cty_cities": 6,
   "sa_cty_districts": 3,
-  "sa_cty_population": 66782
+  "sa_cty_population": 60659
  },
  "nir": {
   "sa_city_latitude": 38,
   "sa_city_longitude": 48.08333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نیر",
   "sa_cty_districts": 2,
   "sa_cty_population": 20864
@@ -90,18 +88,18 @@
   "sa_city_latitude": 39.58333,
   "sa_city_longitude": 47.91667,
   "sa_cty_area": 814,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "پارسآباد",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
-  "sa_cty_population": 145192
+  "sa_cty_population": 177601
  },
  "sarein": {
   "sa_city_latitude": 38.15013,
   "sa_city_longitude": 48.07396,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سرعین",
   "sa_cty_districts": 2,
-  "sa_cty_population": 20000
+  "sa_cty_population": 18200
  }
 }

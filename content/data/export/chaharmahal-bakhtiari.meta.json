@@ -3,17 +3,17 @@
   "sa_city_elevation": 1800,
   "sa_city_latitude": 31.95,
   "sa_city_longitude": 50.41667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اردل",
   "sa_cty_districts": 2,
-  "sa_cty_population": 68714
+  "sa_cty_population": 48880
  },
  "ben": {
   "sa_city_elevation": 3105,
   "sa_city_latitude": 32.55,
   "sa_city_longitude": 50.65,
   "sa_cty_area": 823,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
   "sa_cty_population": 28326
@@ -22,24 +22,24 @@
   "sa_city_latitude": 31.9,
   "sa_city_longitude": 51.2,
   "sa_cty_area": 2257,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بروجن",
   "sa_cty_districts": 3,
-  "sa_cty_population": 118381
+  "sa_cty_population": 122483
  },
  "falard": {
   "sa_city_latitude": 31.3,
   "sa_city_longitude": 51.2,
   "sa_cty_area": 579,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_districts": 2,
-  "sa_cty_population": 57
+  "sa_cty_population": 33023
  },
  "farrokhshahr": {
   "sa_city_latitude": 32.18667,
   "sa_city_longitude": 51.05556,
   "sa_cty_area": 583,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_districts": 2,
   "sa_cty_population": 37068
  },
@@ -47,7 +47,7 @@
   "sa_city_elevation": 38,
   "sa_city_latitude": 32.25,
   "sa_city_longitude": 50.56667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فارسان",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
@@ -58,15 +58,15 @@
   "sa_city_latitude": 31.51667,
   "sa_city_longitude": 51.1,
   "sa_cty_area": 936,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_cities": 2,
-  "sa_cty_population": 53728
+  "sa_cty_population": 36360
  },
  "kiar": {
   "sa_city_latitude": 32.04614,
   "sa_city_longitude": 50.81684,
   "sa_cty_area": 1408,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شلمزار",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
@@ -77,7 +77,7 @@
   "sa_city_latitude": 32.41667,
   "sa_city_longitude": 50,
   "sa_cty_area": 3712,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "چلگرد",
   "sa_cty_districts": 2,
   "sa_cty_population": 41535
@@ -86,7 +86,7 @@
   "sa_city_latitude": 31.43333,
   "sa_city_longitude": 50.83333,
   "sa_cty_area": 1828,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "لردگان",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
@@ -96,7 +96,7 @@
   "sa_city_latitude": 32.4498,
   "sa_city_longitude": 50.91379,
   "sa_cty_area": 479,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_districts": 2,
   "sa_cty_population": 34616
  },
@@ -104,9 +104,9 @@
   "sa_city_latitude": 32.31667,
   "sa_city_longitude": 50.8,
   "sa_cty_area": 2006,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شهرکرد",
   "sa_cty_districts": 2,
-  "sa_cty_population": 2789
+  "sa_cty_population": 315980
  }
 }

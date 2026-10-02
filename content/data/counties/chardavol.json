@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 42105
+    "wikidata": 57381
    },
    "others": {
-    "wikidata": 57381
+    "wikipedia": 42105
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291855",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +61,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%B1%D8%AF%D8%A7%D9%88%D9%84",
-   "value": 42105
+   "url": "https://www.wikidata.org/wiki/Q1291855",
+   "value": 57381
   }
  },
  "name": "چرداول",

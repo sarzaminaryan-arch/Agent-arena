@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 67000
+    "wikidata": 71270
    },
    "others": {
-    "wikidata": 71270
+    "wikipedia": 67000
    }
   }
  },
@@ -15,7 +15,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286411",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -40,10 +40,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
-   "value": 67000
+   "url": "https://www.wikidata.org/wiki/Q1286411",
+   "value": 71270
   }
  },
  "name": "کردکوی",

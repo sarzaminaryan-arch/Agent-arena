@@ -13,7 +13,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q5691804",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -21,13 +21,6 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q5691804",
    "value": "توحید"
-  },
-  "cities": {
-   "fetched": "2026-10-02",
-   "source": "wikipedia",
-   "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86",
-   "value": 1398
   },
   "districts": {
    "fetched": "2026-10-02",
@@ -52,9 +45,9 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86",
+   "url": "https://www.wikidata.org/wiki/Q5691804",
    "value": 15276
   }
  },

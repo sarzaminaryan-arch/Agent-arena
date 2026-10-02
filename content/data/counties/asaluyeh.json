@@ -1,14 +1,5 @@
 {
- "conflicts": {
-  "population": {
-   "chosen": {
-    "wikipedia": 106
-   },
-   "others": {
-    "wikidata": 73958
-   }
-  }
- },
+ "conflicts": {},
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -22,7 +13,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2902500",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +52,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
-   "value": 106
+   "url": "https://www.wikidata.org/wiki/Q2902500",
+   "value": 73958
   }
  },
  "name": "عسلویه",

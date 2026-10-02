@@ -3,14 +3,14 @@
   "sa_city_latitude": 34.7725,
   "sa_city_longitude": 50.55889,
   "sa_cty_area": 1105,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "جعفریه",
   "sa_cty_population": 21963
  },
  "kahak": {
   "sa_city_latitude": 34.39444,
   "sa_city_longitude": 50.90417,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کهک",
   "sa_cty_population": 20588
  },
@@ -18,7 +18,7 @@
   "sa_city_elevation": 25,
   "sa_city_latitude": 34.73333,
   "sa_city_longitude": 51.05,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "قم",
   "sa_cty_cities": 4,
   "sa_cty_population": 1292283

@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 44000
+    "wikidata": 40155
    },
    "others": {
-    "wikidata": 40155
+    "wikipedia": 44000
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q6407760",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +61,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
-   "value": 44000
+   "url": "https://www.wikidata.org/wiki/Q6407760",
+   "value": 40155
   }
  },
  "name": "زیرکوه",

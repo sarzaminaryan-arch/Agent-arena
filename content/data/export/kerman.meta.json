@@ -3,7 +3,7 @@
   "sa_city_latitude": 30.85,
   "sa_city_longitude": 55.35,
   "sa_cty_area": 2140,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "انار",
   "sa_cty_population": 36897
  },
@@ -12,7 +12,7 @@
   "sa_city_latitude": 28.4,
   "sa_city_longitude": 57.98333,
   "sa_cty_area": 3409,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "عنبرآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -23,7 +23,7 @@
   "sa_city_latitude": 29.1,
   "sa_city_longitude": 56.3728,
   "sa_cty_area": 4980,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ارزوئیه",
   "sa_cty_districts": 2,
   "sa_cty_population": 38510
@@ -33,14 +33,14 @@
   "sa_city_latitude": 29.1,
   "sa_city_longitude": 56.51667,
   "sa_cty_area": 6465,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بافت",
   "sa_cty_population": 84103
  },
  "bam": {
   "sa_city_latitude": 29.06667,
   "sa_city_longitude": 58.23333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بم",
   "sa_cty_population": 228241
  },
@@ -49,7 +49,7 @@
   "sa_city_latitude": 29.83333,
   "sa_city_longitude": 56.58333,
   "sa_cty_area": 6139,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بردسیر",
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
@@ -60,31 +60,30 @@
   "sa_city_latitude": 29.13333,
   "sa_city_longitude": 59.21667,
   "sa_cty_area": 4550,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فهرج",
   "sa_cty_districts": 2,
-  "sa_cty_population": 66791
+  "sa_cty_population": 67096
  },
  "faryab": {
   "sa_city_elevation": 600,
   "sa_city_latitude": 28.2,
   "sa_city_longitude": 57.21667,
   "sa_cty_area": 2427,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فاریاب",
   "sa_cty_districts": 2,
   "sa_cty_population": 34000
  },
  "gonbaki": {
   "sa_cty_area": 2292,
-  "sa_cty_districts": 2,
-  "sa_cty_population": 26227
+  "sa_cty_districts": 2
  },
  "jazmourian": {
   "sa_city_latitude": 27.95,
   "sa_city_longitude": 58.56667,
   "sa_cty_area": 5040,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "زهکلوت",
   "sa_cty_cities": 2,
   "sa_cty_population": 43867
@@ -93,7 +92,7 @@
   "sa_city_latitude": 28.83333,
   "sa_city_longitude": 57.58333,
   "sa_cty_area": 9654,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "جیرفت",
   "sa_cty_cities": 3,
   "sa_cty_districts": 4,
@@ -104,7 +103,7 @@
   "sa_city_latitude": 27.95,
   "sa_city_longitude": 57.7,
   "sa_cty_area": 2109,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کهنوج",
   "sa_cty_population": 95848
  },
@@ -113,7 +112,7 @@
   "sa_city_latitude": 30.33333,
   "sa_city_longitude": 58,
   "sa_cty_area": 41581,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کرمان",
   "sa_cty_cities": 11,
   "sa_cty_districts": 5,
@@ -123,7 +122,7 @@
   "sa_city_latitude": 31.33639,
   "sa_city_longitude": 56.27278,
   "sa_cty_area": 2236,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کوهبنان",
   "sa_cty_districts": 2,
   "sa_cty_population": 21205,
@@ -134,36 +133,36 @@
   "sa_city_latitude": 27.53333,
   "sa_city_longitude": 57.5,
   "sa_cty_area": 3422,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "منوجان",
   "sa_cty_districts": 2,
-  "sa_cty_population": 64971
+  "sa_cty_population": 65705
  },
  "narmashir": {
   "sa_city_latitude": 29.26667,
   "sa_city_longitude": 58.73333,
   "sa_cty_area": 671,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نرماشیر",
   "sa_cty_districts": 2,
-  "sa_cty_population": 53983
+  "sa_cty_population": 54228
  },
  "qaleh-ganj": {
   "sa_city_latitude": 27.52417,
   "sa_city_longitude": 57.87833,
   "sa_cty_area": 10190,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "قلعهگنج",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
-  "sa_cty_population": 77249
+  "sa_cty_population": 76495
  },
  "rabor": {
   "sa_city_elevation": 2343,
   "sa_city_latitude": 29.25,
   "sa_city_longitude": 56.98333,
   "sa_cty_area": 1854,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رابر",
   "sa_cty_districts": 2,
   "sa_cty_population": 35362
@@ -173,17 +172,17 @@
   "sa_city_latitude": 30.53333,
   "sa_city_longitude": 55.95,
   "sa_cty_area": 7678,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رفسنجان",
   "sa_cty_districts": 4,
-  "sa_cty_population": 402300
+  "sa_cty_population": 311214
  },
  "ravar": {
   "sa_city_elevation": 1181,
   "sa_city_latitude": 31.3,
   "sa_city_longitude": 57.15,
   "sa_cty_area": 11535,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "راور",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -193,26 +192,26 @@
   "sa_city_latitude": 28.66889,
   "sa_city_longitude": 59.07333,
   "sa_cty_area": 5641,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "محمدآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 62487,
+  "sa_cty_population": 88410,
   "sa_cty_rural_districts": 9
  },
  "rudbar-e-jonub": {
   "sa_city_latitude": 27.57511,
   "sa_city_longitude": 58.93533,
   "sa_cty_area": 1816,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رودبار",
-  "sa_cty_population": 62125
+  "sa_cty_population": 105992
  },
  "shahr-e-babak": {
   "sa_city_latitude": 30.25,
   "sa_city_longitude": 54.91667,
   "sa_cty_area": 14096,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شهربابک",
   "sa_cty_districts": 2,
   "sa_cty_population": 103975
@@ -220,7 +219,7 @@
  "sirjan": {
   "sa_city_latitude": 29.5,
   "sa_city_longitude": 55.5,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سیرجان",
   "sa_cty_cities": 6,
   "sa_cty_districts": 5,
@@ -231,7 +230,7 @@
   "sa_city_latitude": 30.85,
   "sa_city_longitude": 56.41667,
   "sa_cty_area": 5477,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "زرند",
   "sa_cty_cities": 5,
   "sa_cty_districts": 2,

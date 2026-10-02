@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 1395
+    "wikidata": 89162
    },
    "others": {
-    "wikidata": 89162
+    "wikipedia": 1395
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282103",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -47,10 +47,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1",
-   "value": 1395
+   "url": "https://www.wikidata.org/wiki/Q1282103",
+   "value": 89162
   }
  },
  "name": "بیجار",

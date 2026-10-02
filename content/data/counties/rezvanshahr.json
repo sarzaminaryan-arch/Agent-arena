@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 106909
+    "wikidata": 69865
    },
    "others": {
-    "wikidata": 69865
+    "wikipedia": 106909
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286355",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +61,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D8%B4%D9%87%D8%B1",
-   "value": 106909
+   "url": "https://www.wikidata.org/wiki/Q1286355",
+   "value": 69865
   }
  },
  "name": "رضوانشهر",

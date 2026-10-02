@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 142990
+    "wikidata": 138913
    },
    "others": {
-    "wikidata": 138913
+    "wikipedia": 142990
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282260",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B4%D9%87%D8%B1",
-   "value": 142990
+   "url": "https://www.wikidata.org/wiki/Q1282260",
+   "value": 138913
   }
  },
  "name": "نوشهر",

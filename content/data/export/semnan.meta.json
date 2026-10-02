@@ -2,7 +2,7 @@
  "aradan": {
   "sa_city_latitude": 35.15,
   "sa_city_longitude": 52.51667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آرادان",
   "sa_cty_districts": 2,
   "sa_cty_population": 13884
@@ -10,7 +10,7 @@
  "damghan": {
   "sa_city_latitude": 35.5,
   "sa_city_longitude": 54.33333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "دامغان",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
@@ -19,7 +19,7 @@
  "garmsar": {
   "sa_city_latitude": 35,
   "sa_city_longitude": 52.33333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گرمسار",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -28,7 +28,7 @@
  "mehdishahr": {
   "sa_city_latitude": 35.7,
   "sa_city_longitude": 53.35,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مهدیشهر",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
@@ -37,7 +37,7 @@
  "meyami": {
   "sa_city_latitude": 36.63333,
   "sa_city_longitude": 56,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "میامی",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -48,7 +48,7 @@
   "sa_city_latitude": 34.98333,
   "sa_city_longitude": 53.81667,
   "sa_cty_area": 22119,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سمنان",
   "sa_cty_population": 196521
  },
@@ -56,7 +56,7 @@
   "sa_city_latitude": 35.5,
   "sa_city_longitude": 55.5,
   "sa_cty_area": 43405,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شاهرود",
   "sa_cty_districts": 2,
   "sa_cty_population": 218628
@@ -66,7 +66,7 @@
   "sa_city_latitude": 35.45,
   "sa_city_longitude": 53.2167,
   "sa_cty_area": 9222,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سرخه",
   "sa_cty_cities": 2,
   "sa_cty_population": 15523

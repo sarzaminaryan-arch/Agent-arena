@@ -35,16 +35,12 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q110196744",
    "value": 49.68333
-  },
-  "population": {
-   "fetched": "2026-10-02",
-   "source": "wikipedia",
-   "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%85%D8%A7%D9%85",
-   "value": 54860
   }
  },
  "name": "خمام",
+ "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
+ ],
  "province": "gilan",
  "slug": "khomam"
 }

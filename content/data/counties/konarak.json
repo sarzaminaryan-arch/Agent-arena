@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 77818
+    "wikidata": 98212
    },
    "others": {
-    "wikidata": 98212
+    "wikipedia": 77818
    }
   }
  },
@@ -15,7 +15,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2643224",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -47,10 +47,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%D8%A7%D8%B1%DA%A9",
-   "value": 77818
+   "url": "https://www.wikidata.org/wiki/Q2643224",
+   "value": 98212
   }
  },
  "name": "کنارک",

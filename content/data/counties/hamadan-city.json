@@ -1,21 +1,12 @@
 {
- "conflicts": {
-  "population": {
-   "chosen": {
-    "wikipedia": 1
-   },
-   "others": {
-    "wikidata": 676105
-   }
-  }
- },
+ "conflicts": {},
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279518",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +52,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-   "value": 1
+   "url": "https://www.wikidata.org/wiki/Q1279518",
+   "value": 676105
   }
  },
  "name": "همدان",

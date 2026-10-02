@@ -3,17 +3,17 @@
   "sa_city_latitude": 34.51627,
   "sa_city_longitude": 58.18332,
   "sa_cty_area": 5476,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بجستان",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 30664
+  "sa_cty_population": 31207
  },
  "bakharz": {
   "sa_city_latitude": 35.005,
   "sa_city_longitude": 60.33361,
   "sa_cty_area": 1889,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "باخرز",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -22,8 +22,7 @@
  "bardaskan": {
   "sa_cty_area": 7126,
   "sa_cty_cities": 3,
-  "sa_cty_districts": 3,
-  "sa_cty_population": 75631
+  "sa_cty_districts": 3
  },
  "binalud": {
   "sa_city_elevation": 32,
@@ -36,26 +35,26 @@
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 59.15,
   "sa_cty_area": 2073,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "چناران",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
-  "sa_cty_population": 88692
+  "sa_cty_population": 155013
  },
  "dargaz": {
   "sa_city_latitude": 37.33333,
   "sa_city_longitude": 59.08333,
   "sa_cty_area": 3777,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "درگز",
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
-  "sa_cty_population": 74326
+  "sa_cty_population": 72355
  },
  "davarzan": {
   "sa_city_latitude": 36.31667,
   "sa_city_longitude": 57.08333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "داورزن",
   "sa_cty_cities": 2,
   "sa_cty_districts": 1,
@@ -65,22 +64,22 @@
   "sa_city_latitude": 35.7,
   "sa_city_longitude": 59.83333,
   "sa_cty_area": 3356,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فریمان",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
-  "sa_cty_population": 99
+  "sa_cty_population": 99001
  },
  "firuzeh": {
   "sa_city_elevation": 1200,
   "sa_city_latitude": 36.28583,
   "sa_city_longitude": 58.58611,
   "sa_cty_area": 1600,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فیروزه",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 42739
+  "sa_cty_population": 37539
  },
  "golbahar": {
   "sa_city_latitude": 36.49722,
@@ -88,46 +87,45 @@
   "sa_cty_area": 1007,
   "sa_cty_center": "گلبهار",
   "sa_cty_cities": 2,
-  "sa_cty_districts": 2,
-  "sa_cty_population": 100300
+  "sa_cty_districts": 2
  },
  "gonabad": {
   "sa_city_elevation": 1105,
   "sa_city_latitude": 34.41667,
   "sa_city_longitude": 58.66667,
   "sa_cty_area": 5789,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گناباد",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
-  "sa_cty_population": 110000,
+  "sa_cty_population": 88753,
   "sa_cty_rural_districts": 4
  },
  "joghatai": {
   "sa_city_latitude": 36.63566,
   "sa_city_longitude": 57.07351,
   "sa_cty_area": 1716,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "جغتای",
   "sa_cty_districts": 2,
-  "sa_cty_population": 54250,
+  "sa_cty_population": 49175,
   "sa_cty_rural_districts": 4
  },
  "jovein": {
   "sa_city_latitude": 36.70523,
   "sa_city_longitude": 57.41732,
   "sa_cty_area": 1653,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نقاب",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 56145
+  "sa_cty_population": 54488
  },
  "kalat": {
   "sa_city_latitude": 36.9,
   "sa_city_longitude": 59.9,
   "sa_cty_area": 3503,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کلات",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
@@ -138,7 +136,7 @@
   "sa_city_latitude": 35.23833,
   "sa_city_longitude": 58.46556,
   "sa_cty_area": 1151,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کاشمر",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -148,16 +146,16 @@
   "sa_city_latitude": 34.5,
   "sa_city_longitude": 60,
   "sa_cty_area": 9827,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خواف",
   "sa_cty_cities": 5,
   "sa_cty_districts": 4,
-  "sa_cty_population": 159141
+  "sa_cty_population": 138972
  },
  "khalilabad": {
   "sa_city_latitude": 35.16667,
   "sa_city_longitude": 58.21667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خلیلآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -167,7 +165,7 @@
   "sa_city_latitude": 36.43333,
   "sa_city_longitude": 58.06667,
   "sa_cty_area": 1869,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سلطانآباد",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
@@ -178,16 +176,15 @@
   "sa_city_latitude": 35.46667,
   "sa_city_longitude": 58.45,
   "sa_cty_area": 2198,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ریوش",
-  "sa_cty_cities": 1398,
   "sa_cty_population": 25014
  },
  "mahvelat": {
   "sa_city_latitude": 35.01814,
   "sa_city_longitude": 58.78916,
   "sa_cty_area": 3317,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فیضآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -197,34 +194,31 @@
  "mashhad": {
   "sa_cty_area": 9169,
   "sa_cty_cities": 4,
-  "sa_cty_districts": 3,
-  "sa_cty_population": 4000000
+  "sa_cty_districts": 3
  },
  "mian-jolgeh": {
   "sa_city_elevation": 15,
   "sa_city_latitude": 35.88333,
   "sa_city_longitude": 58.65,
   "sa_cty_area": 2911,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "عشقآباد",
   "sa_cty_cities": 2,
   "sa_cty_population": 39288
  },
  "neyshabur": {
-  "sa_cty_districts": 2,
-  "sa_cty_population": 450780
+  "sa_cty_districts": 2
  },
  "quchan": {
   "sa_cty_cities": 4,
-  "sa_cty_districts": 4,
-  "sa_cty_population": 175000
+  "sa_cty_districts": 4
  },
  "roshtkhar": {
   "sa_city_elevation": 1150,
   "sa_city_latitude": 34.91667,
   "sa_city_longitude": 59.36667,
   "sa_cty_area": 3598,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رشتخوار",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -233,15 +227,14 @@
  },
  "sabzevar": {
   "sa_cty_area": 7217,
-  "sa_cty_districts": 2,
-  "sa_cty_population": 306310
+  "sa_cty_districts": 2
  },
  "saleh-abad": {
   "sa_city_elevation": 3,
   "sa_city_latitude": 35.68806,
   "sa_city_longitude": 61.09556,
   "sa_cty_area": 3183,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "صالحآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -251,17 +244,17 @@
   "sa_city_latitude": 36.3,
   "sa_city_longitude": 60.81667,
   "sa_cty_area": 5397,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سرخس",
   "sa_cty_cities": 2,
   "sa_cty_districts": 1,
-  "sa_cty_population": 110028
+  "sa_cty_population": 97519
  },
  "sheshtamad": {
   "sa_city_latitude": 35.81667,
   "sa_city_longitude": 57.93333,
   "sa_cty_area": 2937,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ششتمد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -272,11 +265,11 @@
   "sa_city_latitude": 34.8,
   "sa_city_longitude": 60.66667,
   "sa_cty_area": 2929,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تایباد",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
-  "sa_cty_population": 145992,
+  "sa_cty_population": 117564,
   "sa_cty_rural_districts": 5
  },
  "torbat-heydarieh": {
@@ -284,7 +277,7 @@
   "sa_city_latitude": 35.4,
   "sa_city_longitude": 59.31667,
   "sa_cty_area": 3681,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تربت حیدریه",
   "sa_cty_cities": 5,
   "sa_cty_districts": 4,
@@ -295,7 +288,6 @@
   "sa_cty_area": 4967,
   "sa_cty_cities": 5,
   "sa_cty_districts": 4,
-  "sa_cty_population": 267671,
   "sa_cty_rural_districts": 5
  },
  "zaveh": {
@@ -303,18 +295,17 @@
   "sa_city_latitude": 35.2825,
   "sa_city_longitude": 59.5215,
   "sa_cty_area": 2575,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "دولتآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 67,
+  "sa_cty_population": 67695,
   "sa_cty_rural_districts": 4
  },
  "zebarkhan": {
   "sa_city_elevation": 1250,
   "sa_cty_area": 1102,
   "sa_cty_cities": 3,
-  "sa_cty_districts": 2,
-  "sa_cty_population": 56635
+  "sa_cty_districts": 2
  }
 }

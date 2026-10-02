@@ -42,16 +42,12 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q101436221",
    "value": 59.19444
-  },
-  "population": {
-   "fetched": "2026-10-02",
-   "source": "wikipedia",
-   "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%84%D8%A8%D9%87%D8%A7%D8%B1",
-   "value": 100300
   }
  },
  "name": "گلبهار",
+ "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
+ ],
  "province": "razavi-khorasan",
  "slug": "golbahar"
 }

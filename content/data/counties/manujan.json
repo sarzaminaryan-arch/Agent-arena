@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 64971
+    "wikidata": 65705
    },
    "others": {
-    "wikidata": 65705
+    "wikipedia": 64971
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286524",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +61,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%86%D9%88%D8%AC%D8%A7%D9%86",
-   "value": 64971
+   "url": "https://www.wikidata.org/wiki/Q1286524",
+   "value": 65705
   }
  },
  "name": "منوجان",

@@ -10,10 +10,10 @@
   },
   "population": {
    "chosen": {
-    "wikipedia": 319199
+    "wikidata": 309199
    },
    "others": {
-    "wikidata": 309199
+    "wikipedia": 319199
    }
   }
  },
@@ -30,7 +30,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q638092",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -62,10 +62,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
-   "value": 319199
+   "url": "https://www.wikidata.org/wiki/Q638092",
+   "value": 309199
   }
  },
  "name": "قائم‌شهر",

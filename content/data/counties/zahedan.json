@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 770800
+    "wikidata": 672589
    },
    "others": {
-    "wikidata": 672589
+    "wikipedia": 770800
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278993",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -68,10 +68,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
-   "value": 770800
+   "url": "https://www.wikidata.org/wiki/Q1278993",
+   "value": 672589
   }
  },
  "name": "زاهدان",

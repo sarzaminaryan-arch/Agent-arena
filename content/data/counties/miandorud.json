@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 61111
+    "wikidata": 55053
    },
    "others": {
-    "wikidata": 55053
+    "wikipedia": 61111
    }
   }
  },
@@ -15,7 +15,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q5249029",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
-   "value": 61111
+   "url": "https://www.wikidata.org/wiki/Q5249029",
+   "value": 55053
   }
  },
  "name": "میاندورود",

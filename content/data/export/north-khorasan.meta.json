@@ -3,7 +3,7 @@
   "sa_city_latitude": 36.805,
   "sa_city_longitude": 57.93611,
   "sa_cty_area": 1606,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "صفیآباد",
   "sa_cty_districts": 2,
   "sa_cty_population": 16887
@@ -11,7 +11,7 @@
  "bojnord": {
   "sa_city_latitude": 37.58333,
   "sa_city_longitude": 57.33333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بجنورد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -22,7 +22,7 @@
   "sa_city_latitude": 37,
   "sa_city_longitude": 57.55,
   "sa_cty_area": 5019,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اسفراین",
   "sa_cty_cities": 2,
   "sa_cty_population": 120513
@@ -32,7 +32,7 @@
   "sa_city_latitude": 37.22829,
   "sa_city_longitude": 58.21542,
   "sa_cty_area": 1615,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فاروج",
   "sa_cty_districts": 2,
   "sa_cty_population": 49271
@@ -42,7 +42,7 @@
   "sa_city_latitude": 36.98333,
   "sa_city_longitude": 56.28333,
   "sa_cty_area": 2407,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گرمه",
   "sa_cty_cities": 3,
   "sa_cty_population": 25475,
@@ -53,32 +53,32 @@
   "sa_city_latitude": 37,
   "sa_city_longitude": 56.5,
   "sa_cty_area": 3500,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "جاجرم",
   "sa_cty_districts": 3,
-  "sa_cty_population": 40358
+  "sa_cty_population": 36673
  },
  "maneh": {
   "sa_city_latitude": 37.88,
   "sa_city_longitude": 56.79,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "پیشقلعه",
   "sa_cty_population": 26082
  },
  "maneh-samalqan": {
   "sa_city_latitude": 37.55939,
   "sa_city_longitude": 56.9213,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آشخانه",
   "sa_cty_districts": 2,
-  "sa_cty_population": 75645,
+  "sa_cty_population": 101727,
   "sa_cty_rural_districts": 8
  },
  "raz-jargalan": {
   "sa_city_latitude": 37.56667,
   "sa_city_longitude": 57.35,
   "sa_cty_area": 2538,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "راز",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
@@ -88,7 +88,7 @@
   "sa_city_latitude": 37.53333,
   "sa_city_longitude": 57.9,
   "sa_cty_area": 3789,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شیروان",
   "sa_cty_districts": 3,
   "sa_cty_population": 146140

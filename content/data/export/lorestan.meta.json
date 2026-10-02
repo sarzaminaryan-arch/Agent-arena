@@ -4,7 +4,7 @@
   "sa_city_latitude": 33.08333,
   "sa_city_longitude": 49.48333,
   "sa_cty_area": 5300,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "الیگودرز",
   "sa_cty_cities": 3,
   "sa_cty_districts": 5,
@@ -15,27 +15,27 @@
   "sa_city_latitude": 33.46667,
   "sa_city_longitude": 49.41667,
   "sa_cty_area": 1212,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ازنا",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 71586
+  "sa_cty_population": 74936
  },
  "borujerd": {
   "sa_city_elevation": 1570,
   "sa_city_latitude": 33.83333,
   "sa_city_longitude": 48.83333,
   "sa_cty_area": 2642,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بروجرد",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
-  "sa_cty_population": 566452
+  "sa_cty_population": 326452
  },
  "chegeni": {
   "sa_city_latitude": 33.61667,
   "sa_city_longitude": 47.91667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سرابدوره",
   "sa_cty_districts": 2,
   "sa_cty_population": 41756
@@ -45,17 +45,17 @@
   "sa_city_latitude": 34.0551,
   "sa_city_longitude": 47.8698,
   "sa_cty_area": 2655,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نورآباد (دلفان)",
   "sa_cty_cities": 2,
   "sa_cty_districts": 4,
-  "sa_cty_population": 1439
+  "sa_cty_population": 143973
  },
  "dorud": {
   "sa_city_latitude": 33.5,
   "sa_city_longitude": 49.08333,
   "sa_cty_area": 1326,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "دورود",
   "sa_cty_districts": 3,
   "sa_cty_population": 174508
@@ -65,18 +65,18 @@
   "sa_city_latitude": 33.5,
   "sa_city_longitude": 48.33333,
   "sa_cty_area": 4986,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خرمآباد",
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
-  "sa_cty_population": 633297
+  "sa_cty_population": 506471
  },
  "kuhdasht": {
   "sa_city_elevation": 1195,
   "sa_city_latitude": 33.51667,
   "sa_city_longitude": 47.4,
   "sa_cty_area": 3904,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کوهدشت",
   "sa_cty_districts": 4,
   "sa_cty_population": 166658
@@ -85,7 +85,7 @@
   "sa_city_latitude": 33.35472,
   "sa_city_longitude": 47.96333,
   "sa_cty_area": 1440,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "معمولان",
   "sa_cty_districts": 2,
   "sa_cty_population": 21372
@@ -93,7 +93,7 @@
  "pol-e-dokhtar": {
   "sa_city_latitude": 33.16667,
   "sa_city_longitude": 48,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "پل دختر",
   "sa_cty_districts": 2,
   "sa_cty_population": 73744
@@ -103,17 +103,17 @@
   "sa_city_latitude": 33.3667,
   "sa_city_longitude": 47.3667,
   "sa_cty_area": 853,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "چقابل",
   "sa_cty_districts": 2,
-  "sa_cty_population": 58,
+  "sa_cty_population": 39058,
   "sa_cty_rural_districts": 4
  },
  "selseleh": {
   "sa_city_elevation": 1700,
   "sa_city_latitude": 33.83333,
   "sa_city_longitude": 48.16667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "الشتر",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,

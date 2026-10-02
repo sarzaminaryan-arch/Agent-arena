@@ -3,17 +3,17 @@
   "sa_city_latitude": 34.08333,
   "sa_city_longitude": 52,
   "sa_cty_area": 6051,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آران و بیدگل",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
-  "sa_cty_population": 146065
+  "sa_cty_population": 103517
  },
  "ardestan": {
   "sa_city_latitude": 33.45,
   "sa_city_longitude": 52.43333,
   "sa_cty_area": 11591,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اردستان",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
@@ -24,7 +24,7 @@
   "sa_city_latitude": 32.8134,
   "sa_city_longitude": 51.7361,
   "sa_cty_area": 1952,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "دولتآباد",
   "sa_cty_cities": 8,
   "sa_cty_districts": 2,
@@ -34,14 +34,14 @@
  "buin-miandasht": {
   "sa_city_latitude": 33.07361,
   "sa_city_longitude": 50.165,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بوئین و میاندشت",
   "sa_cty_population": 24163
  },
  "chadegan": {
   "sa_city_latitude": 32.76667,
   "sa_city_longitude": 50.63333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "چادگان",
   "sa_cty_districts": 2,
   "sa_cty_population": 32479
@@ -49,10 +49,10 @@
  "dehaqan": {
   "sa_city_latitude": 31.98333,
   "sa_city_longitude": 51.6,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "دهاقان",
   "sa_cty_cities": 2,
-  "sa_cty_population": 42354,
+  "sa_cty_population": 34511,
   "sa_cty_rural_districts": 2
  },
  "falavarjan": {
@@ -60,7 +60,7 @@
   "sa_city_latitude": 32.51667,
   "sa_city_longitude": 51.53333,
   "sa_cty_area": 313,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فلاورجان",
   "sa_cty_cities": 9,
   "sa_cty_districts": 2,
@@ -70,7 +70,7 @@
   "sa_city_latitude": 33.00278,
   "sa_city_longitude": 50.42222,
   "sa_cty_area": 2400,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "داران",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -79,7 +79,7 @@
  "fereydunshahr": {
   "sa_city_latitude": 32.91667,
   "sa_city_longitude": 50,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فریدونشهر",
   "sa_cty_districts": 2,
   "sa_cty_population": 35654
@@ -88,17 +88,17 @@
   "sa_city_latitude": 33.5,
   "sa_city_longitude": 50.33333,
   "sa_cty_area": 2836,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گلپایگان",
   "sa_cty_cities": 2,
-  "sa_cty_population": 47000,
+  "sa_cty_population": 90086,
   "sa_cty_rural_districts": 3
  },
  "harand": {
   "sa_city_latitude": 32.51667,
   "sa_city_longitude": 52.28333,
   "sa_cty_area": 1162,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هرند",
   "sa_cty_districts": 2,
   "sa_cty_population": 23863
@@ -107,16 +107,16 @@
   "sa_city_latitude": 32.62167,
   "sa_city_longitude": 51.75972,
   "sa_cty_area": 15689,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اصفهان",
   "sa_cty_cities": 3,
-  "sa_cty_population": 143
+  "sa_cty_population": 2243249
  },
  "jarqavieh": {
   "sa_city_latitude": 32.29333,
   "sa_city_longitude": 52.17889,
   "sa_cty_area": 8061,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نیکآباد",
   "sa_cty_cities": 2,
   "sa_cty_population": 37607
@@ -126,7 +126,7 @@
   "sa_city_latitude": 34,
   "sa_city_longitude": 51.33333,
   "sa_cty_area": 4398,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کاشان",
   "sa_cty_cities": 7,
   "sa_cty_districts": 4,
@@ -137,7 +137,7 @@
   "sa_city_latitude": 33.25,
   "sa_city_longitude": 50.33333,
   "sa_cty_area": 952,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خوانسار",
   "sa_cty_population": 33049,
   "sa_cty_rural_districts": 3
@@ -146,18 +146,16 @@
   "sa_city_latitude": 32.68333,
   "sa_city_longitude": 51.53333,
   "sa_cty_area": 138.4,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خمینیشهر",
   "sa_cty_cities": 4,
-  "sa_cty_population": 369727,
-  "sa_cty_rural_districts": 250
+  "sa_cty_population": 319727
  },
  "khur-biabanak": {
   "sa_city_elevation": 20,
   "sa_city_latitude": 33.76667,
   "sa_city_longitude": 54.88333,
-  "sa_cty_area": 12,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خور",
   "sa_cty_cities": 2,
   "sa_cty_population": 19761,
@@ -167,17 +165,16 @@
   "sa_city_latitude": 32.85,
   "sa_city_longitude": 52.4,
   "sa_cty_area": 3047,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کوهپایه",
   "sa_cty_districts": 2,
-  "sa_cty_population": 26676
+  "sa_cty_population": 23676
  },
  "lenjan": {
   "sa_city_elevation": 1700,
   "sa_city_latitude": 32.4,
   "sa_city_longitude": 51.21667,
-  "sa_cty_area": 5,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "زرینشهر",
   "sa_cty_cities": 9,
   "sa_cty_population": 262912
@@ -185,23 +182,23 @@
  "meymeh-vazvan": {
   "sa_city_latitude": 33.43111,
   "sa_city_longitude": 51.17806,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "میمه",
   "sa_cty_population": 23057
  },
  "mobarakeh": {
   "sa_city_latitude": 32.3,
   "sa_city_longitude": 51.51667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مبارکه",
   "sa_cty_cities": 7,
   "sa_cty_districts": 2,
-  "sa_cty_population": 150542
+  "sa_cty_population": 150441
  },
  "nain": {
   "sa_city_latitude": 32.85995,
   "sa_city_longitude": 53.08677,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نائین",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
@@ -212,7 +209,7 @@
   "sa_city_latitude": 32.75,
   "sa_city_longitude": 51.25,
   "sa_cty_area": 2860,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نجفآباد",
   "sa_cty_cities": 5,
   "sa_cty_districts": 2,
@@ -223,27 +220,27 @@
   "sa_city_latitude": 33.55,
   "sa_city_longitude": 51.86667,
   "sa_cty_area": 3397,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نطنز",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
-  "sa_cty_population": 44551
+  "sa_cty_population": 43977
  },
  "semirom": {
   "sa_city_elevation": 2577,
   "sa_city_latitude": 31.41667,
   "sa_city_longitude": 51.58333,
   "sa_cty_area": 5224,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سمیرم",
   "sa_cty_districts": 4,
-  "sa_cty_population": 43
+  "sa_cty_population": 74109
  },
  "shahin-shahr-meymeh": {
   "sa_city_latitude": 33.28333,
   "sa_city_longitude": 51.2,
   "sa_cty_area": 1595,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شاهینشهر",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
@@ -254,24 +251,24 @@
   "sa_city_latitude": 32,
   "sa_city_longitude": 51.86667,
   "sa_cty_area": 2820,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شهرضا",
-  "sa_cty_population": 159,
+  "sa_cty_population": 159797,
   "sa_cty_rural_districts": 4
  },
  "tiran-karvan": {
   "sa_city_latitude": 32.81667,
   "sa_city_longitude": 50.91667,
   "sa_cty_area": 1698,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تیران",
-  "sa_cty_population": 170315
+  "sa_cty_population": 71575
  },
  "varzaneh": {
   "sa_city_latitude": 32.41944,
   "sa_city_longitude": 52.61389,
   "sa_cty_area": 2300,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ورزنه",
   "sa_cty_districts": 2,
   "sa_cty_population": 27102

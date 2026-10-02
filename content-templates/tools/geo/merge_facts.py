@@ -26,8 +26,8 @@ import registry  # noqa: E402
 # ستون → ترتیب منابع (اولی برنده).
 PRIORITY = {
     'center':          ['manual', 'wikidata', 'wikipedia'],
-    'population':      ['manual', 'wikipedia', 'wikidata'],
-    'census_year':     ['manual', 'wikipedia', 'wikidata'],
+    'population':      ['manual', 'wikidata', 'wikipedia'],
+    'census_year':     ['manual', 'wikidata', 'wikipedia'],
     'area':            ['manual', 'wikidata', 'wikipedia'],
     'elevation':       ['manual', 'wikidata', 'wikipedia'],
     'lat':             ['manual', 'wikidata'],
@@ -48,6 +48,42 @@ PRIORITY = {
     'poi_heritage':    ['manual'],
 }
 LOCKED = ('verified', 'manual')  # دست‌نخوردنی
+
+# بازهٔ پذیرش هر ستون؛ مقدار بیرون از بازه اصلاً وارد پروندهٔ حقیقت نمی‌شود.
+# (ویکی‌پدیا گاهی «۱ شهر» یا شمارهٔ پانویس را به‌جای جمعیت می‌دهد.)
+SANITY = {
+    'population': (1000, 5000000),
+    'area': (20, 200000),
+    'elevation': (-40, 4000),
+    'districts': (1, 12),
+    'rural_districts': (1, 40),
+    'cities': (1, 30),
+    'villages': (1, 3000),
+    'distance_center': (0, 1200),
+}
+
+
+def plausible(field, value):
+    """آیا عدد در بازهٔ منطقی این ستون است؟"""
+    if field not in SANITY:
+        return True
+    try:
+        num = float(value)
+    except (TypeError, ValueError):
+        return False
+    lo, hi = SANITY[field]
+    return lo <= num <= hi
+
+
+def jalali_year(value):
+    """سال میلادی سرشماری → شمسی (۲۰۱۶ → ۱۳۹۵)."""
+    try:
+        year = int(float(value))
+    except (TypeError, ValueError):
+        return None
+    if year > 1600:
+        year -= 621
+    return year if 1300 < year < 1450 else None
 
 
 def load_harvest(kind, province):
@@ -97,6 +133,12 @@ def merge_province(province, dry=False):
                 val = rec.get(field)
                 if val in (None, '', [], 0):
                     continue
+                if 'census_year' == field:
+                    val = jalali_year(val)
+                    if not val:
+                        continue
+                if not plausible(field, val):
+                    continue
                 offers.append((src, val, rec.get('_source', ''), rec.get('_fetched', today)))
             if not offers:
                 continue
@@ -121,6 +163,12 @@ def merge_province(province, dry=False):
                 stats['updated'] += 1
                 touched = True
             doc['fields'][field] = new
+
+        # قانون جفتی: عدد جمعیت بدون سال سرشماری منتشر نمی‌شود، پس ذخیره هم نمی‌شود.
+        if doc['fields'].get('population') and not doc['fields'].get('census_year'):
+            doc['fields'].pop('population', None)
+            doc.setdefault('notes', []).append('جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد.')
+            touched = True
 
         if touched and not dry:
             with open(os.path.join(registry.FACTS_DIR, slug + '.json'), 'w', encoding='utf-8') as fh:

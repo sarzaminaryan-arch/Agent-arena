@@ -2,7 +2,7 @@
  "abbasabad": {
   "sa_city_latitude": 36.72778,
   "sa_city_longitude": 51.10583,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "عباسآباد",
   "sa_cty_cities": 2,
   "sa_cty_population": 52832
@@ -12,7 +12,7 @@
   "sa_city_latitude": 36.46667,
   "sa_city_longitude": 52.35,
   "sa_cty_area": 4374,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آمل",
   "sa_cty_cities": 6,
   "sa_cty_districts": 5,
@@ -23,7 +23,7 @@
   "sa_city_latitude": 36.5,
   "sa_city_longitude": 52.58333,
   "sa_cty_area": 1578.1,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بابل",
   "sa_cty_cities": 6,
   "sa_cty_districts": 6,
@@ -33,18 +33,18 @@
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 52.66667,
   "sa_cty_area": 345.7,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بابلسر",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
-  "sa_cty_population": 150223
+  "sa_cty_population": 135191
  },
  "behshahr": {
   "sa_city_elevation": 20,
   "sa_city_latitude": 36.65111,
   "sa_city_longitude": 53.58833,
   "sa_cty_area": 1416.27,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بهشهر",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
@@ -54,7 +54,7 @@
   "sa_city_latitude": 36.40056,
   "sa_city_longitude": 51.24417,
   "sa_cty_area": 1597.3,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "چالوس",
   "sa_cty_districts": 2,
   "sa_cty_population": 116542
@@ -62,36 +62,35 @@
  "freydunkenar": {
   "sa_city_latitude": 36.68564,
   "sa_city_longitude": 52.5288,
-  "sa_cty_area": 13,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فریدونکنار",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 67000
+  "sa_cty_population": 60031
  },
  "gologah": {
   "sa_city_latitude": 36.71667,
   "sa_city_longitude": 53.8,
   "sa_cty_area": 451,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گلوگاه",
   "sa_cty_districts": 2,
-  "sa_cty_population": 88
+  "sa_cty_population": 40078
  },
  "joybar": {
   "sa_city_elevation": 20,
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 52.9,
   "sa_cty_area": 285.5,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "جویبار",
   "sa_cty_districts": 3,
-  "sa_cty_population": 83988
+  "sa_cty_population": 77576
  },
  "kelardasht": {
   "sa_city_latitude": 36.41667,
   "sa_city_longitude": 51.08333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کلاردشت",
   "sa_cty_population": 23648
  },
@@ -100,45 +99,45 @@
   "sa_city_latitude": 36.61667,
   "sa_city_longitude": 52.33333,
   "sa_cty_area": 262.8,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "محمودآباد",
   "sa_cty_districts": 2,
-  "sa_cty_population": 130054,
+  "sa_cty_population": 98407,
   "sa_cty_rural_districts": 5
  },
  "miandorud": {
   "sa_city_latitude": 36.595,
   "sa_city_longitude": 53.2075,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سورک",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 61111
+  "sa_cty_population": 55053
  },
  "neka": {
   "sa_city_elevation": 49,
   "sa_city_latitude": 36.5,
   "sa_city_longitude": 53.53333,
   "sa_cty_area": 1358.8,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نکا",
   "sa_cty_districts": 2,
-  "sa_cty_population": 60991
+  "sa_cty_population": 119511
  },
  "nowshahr": {
   "sa_city_latitude": 36.43333,
   "sa_city_longitude": 51.6,
   "sa_cty_area": 1716.5,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نوشهر",
   "sa_cty_districts": 2,
-  "sa_cty_population": 142990
+  "sa_cty_population": 138913
  },
  "nur": {
   "sa_city_latitude": 36.31667,
   "sa_city_longitude": 52,
   "sa_cty_area": 2675,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نور",
   "sa_cty_population": 121531
  },
@@ -147,15 +146,15 @@
   "sa_city_latitude": 36.46667,
   "sa_city_longitude": 52.86667,
   "sa_cty_area": 458.5,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "قائمشهر",
-  "sa_cty_population": 319199
+  "sa_cty_population": 309199
  },
  "ramsar": {
   "sa_city_latitude": 36.78333,
   "sa_city_longitude": 50.53333,
   "sa_cty_area": 729.8,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رامسر",
   "sa_cty_cities": 2,
   "sa_cty_population": 74179
@@ -164,18 +163,18 @@
   "sa_city_latitude": 36.5,
   "sa_city_longitude": 53.11667,
   "sa_cty_area": 3685.3,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ساری",
   "sa_cty_cities": 6,
   "sa_cty_districts": 6,
-  "sa_cty_population": 504
+  "sa_cty_population": 504298
  },
  "savadkuh": {
   "sa_city_elevation": 1700,
   "sa_city_latitude": 36.08333,
   "sa_city_longitude": 52.91667,
   "sa_cty_area": 2078,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "پل سفید",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
@@ -183,26 +182,25 @@
   "sa_cty_rural_districts": 4
  },
  "savadkuh-shomali": {
-  "sa_cty_districts": 2,
-  "sa_cty_population": 24834
+  "sa_cty_districts": 2
  },
  "simorgh": {
   "sa_city_latitude": 36.56667,
   "sa_city_longitude": 52.8,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کیاکلا",
   "sa_cty_cities": 1,
   "sa_cty_districts": 2,
-  "sa_cty_population": 19
+  "sa_cty_population": 19376
  },
  "tonekabon": {
   "sa_city_elevation": 20,
   "sa_city_latitude": 36.63333,
   "sa_city_longitude": 50.81667,
   "sa_cty_area": 1740,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تنکابن",
   "sa_cty_cities": 3,
-  "sa_cty_population": 166
+  "sa_cty_population": 166132
  }
 }

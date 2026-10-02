@@ -3,7 +3,7 @@
   "sa_city_latitude": 31,
   "sa_city_longitude": 53.41667,
   "sa_cty_area": 5381,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ابرکوه",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -13,7 +13,7 @@
   "sa_city_latitude": 32.33333,
   "sa_city_longitude": 54,
   "sa_cty_area": 23880,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اردکان",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -23,35 +23,35 @@
   "sa_city_latitude": 32,
   "sa_city_longitude": 53.66667,
   "sa_cty_area": 1813,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اشکذر",
-  "sa_cty_population": 32556
+  "sa_cty_population": 32566
  },
  "bafq-city": {
   "sa_city_latitude": 31.86667,
   "sa_city_longitude": 55.65,
   "sa_cty_area": 8596,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بافق",
-  "sa_cty_population": 51073
+  "sa_cty_population": 50845
  },
  "behabad-city": {
   "sa_city_elevation": 1390,
   "sa_city_latitude": 31.86667,
   "sa_city_longitude": 56.01667,
   "sa_cty_area": 6646,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بهاباد",
-  "sa_cty_population": 16993
+  "sa_cty_population": 17221
  },
  "khatam-city": {
   "sa_city_latitude": 30.16667,
   "sa_city_longitude": 54.33333,
   "sa_cty_area": 3087,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هرات",
   "sa_cty_districts": 2,
-  "sa_cty_population": 7
+  "sa_cty_population": 36562
  },
  "marvast-city": {
   "sa_city_elevation": 1541,
@@ -59,14 +59,13 @@
   "sa_city_longitude": 54.2,
   "sa_cty_area": 5242,
   "sa_cty_center": "مروست",
-  "sa_cty_districts": 2,
-  "sa_cty_population": 15150
+  "sa_cty_districts": 2
  },
  "mehriz-city": {
   "sa_city_latitude": 31.26667,
   "sa_city_longitude": 54.5,
   "sa_cty_area": 6687,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مهریز",
   "sa_cty_population": 51733
  },
@@ -74,7 +73,7 @@
   "sa_city_latitude": 32.16667,
   "sa_city_longitude": 53.83333,
   "sa_cty_area": 5054,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "میبد",
   "sa_cty_districts": 2,
   "sa_cty_population": 99727
@@ -83,7 +82,7 @@
   "sa_city_latitude": 31.58333,
   "sa_city_longitude": 53.83333,
   "sa_cty_area": 5846,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تفت",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
@@ -93,17 +92,17 @@
   "sa_city_latitude": 31.88333,
   "sa_city_longitude": 54.45,
   "sa_cty_area": 1617,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "یزد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 635687
+  "sa_cty_population": 656474
  },
  "zarch-city": {
   "sa_city_latitude": 32.07611,
   "sa_city_longitude": 54.51361,
   "sa_cty_area": 905,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "زارچ",
   "sa_cty_population": 20786
  }

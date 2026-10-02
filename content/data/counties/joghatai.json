@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 54250
+    "wikidata": 49175
    },
    "others": {
-    "wikidata": 49175
+    "wikipedia": 54250
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2610787",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C",
-   "value": 54250
+   "url": "https://www.wikidata.org/wiki/Q2610787",
+   "value": 49175
   },
   "rural_districts": {
    "fetched": "2026-10-02",

@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 1773032
+    "wikidata": 1773033
    },
    "others": {
-    "wikidata": 1773033
+    "wikipedia": 1773032
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286247",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
-   "value": 1773032
+   "url": "https://www.wikidata.org/wiki/Q1286247",
+   "value": 1773033
   }
  },
  "name": "تبریز",

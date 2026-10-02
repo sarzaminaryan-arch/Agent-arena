@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 68714
+    "wikidata": 48880
    },
    "others": {
-    "wikidata": 48880
+    "wikipedia": 68714
    }
   }
  },
@@ -15,7 +15,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279017",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
-   "value": 68714
+   "url": "https://www.wikidata.org/wiki/Q1279017",
+   "value": 48880
   }
  },
  "name": "اردل",

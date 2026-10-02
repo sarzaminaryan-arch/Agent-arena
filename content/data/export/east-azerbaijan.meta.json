@@ -3,7 +3,7 @@
   "sa_city_latitude": 38.53333,
   "sa_city_longitude": 47.28333,
   "sa_cty_area": 2120,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اهر",
   "sa_cty_districts": 2,
   "sa_cty_population": 154530
@@ -12,14 +12,14 @@
   "sa_city_latitude": 37.55,
   "sa_city_longitude": 46.03333,
   "sa_cty_area": 738,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "عجبشیر",
-  "sa_cty_population": 70850
+  "sa_cty_population": 70852
  },
  "azarshahr": {
   "sa_city_latitude": 37.81667,
   "sa_city_longitude": 45.86667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آذرشهر",
   "sa_cty_cities": 3,
   "sa_cty_population": 110311
@@ -28,7 +28,7 @@
   "sa_city_latitude": 37.33333,
   "sa_city_longitude": 46.05,
   "sa_cty_area": 778,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بناب",
   "sa_cty_population": 134892
  },
@@ -36,7 +36,7 @@
   "sa_city_latitude": 37.83333,
   "sa_city_longitude": 46.83333,
   "sa_cty_area": 2795,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بستانآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -46,7 +46,7 @@
   "sa_city_latitude": 37.21667,
   "sa_city_longitude": 47.16667,
   "sa_cty_area": 3208,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "قرهآغاج",
   "sa_cty_cities": 2,
   "sa_cty_population": 31071
@@ -55,14 +55,14 @@
   "sa_city_latitude": 37.4667,
   "sa_city_longitude": 46.9168,
   "sa_cty_area": 1990,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هشترود",
   "sa_cty_population": 57199
  },
  "heris": {
   "sa_city_latitude": 38.23058,
   "sa_city_longitude": 46.84011,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هریس",
   "sa_cty_districts": 2,
   "sa_cty_population": 69093,
@@ -77,24 +77,24 @@
   "sa_city_latitude": 38.85,
   "sa_city_longitude": 45.8,
   "sa_cty_area": 1670,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "جلفا",
   "sa_cty_districts": 2,
-  "sa_cty_population": 85350
+  "sa_cty_population": 61358
  },
  "kaleybar": {
   "sa_city_latitude": 38.9,
   "sa_city_longitude": 47.05,
   "sa_cty_area": 2072,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کلیبر",
-  "sa_cty_population": 48837
+  "sa_cty_population": 46125
  },
  "khoda-afarin": {
   "sa_city_latitude": 39.13751,
   "sa_city_longitude": 46.96113,
   "sa_cty_area": 1526,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خمارلو",
   "sa_cty_districts": 2,
   "sa_cty_population": 32995
@@ -103,16 +103,16 @@
   "sa_city_latitude": 37.13333,
   "sa_city_longitude": 46.21667,
   "sa_cty_area": 33,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ملکان",
   "sa_cty_districts": 2,
-  "sa_cty_population": 85938
+  "sa_cty_population": 111319
  },
  "maragheh": {
   "sa_city_latitude": 37.38333,
   "sa_city_longitude": 46.4,
   "sa_cty_area": 2185,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مراغه",
   "sa_cty_districts": 1,
   "sa_cty_population": 262604
@@ -121,7 +121,7 @@
   "sa_city_latitude": 38.48333,
   "sa_city_longitude": 45.71667,
   "sa_cty_area": 3286,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مرند",
   "sa_cty_cities": 5,
   "sa_cty_districts": 3,
@@ -130,18 +130,17 @@
  "mianeh": {
   "sa_city_latitude": 37.41667,
   "sa_city_longitude": 47.7,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "میانه",
   "sa_cty_cities": 4,
   "sa_cty_districts": 3,
-  "sa_cty_population": 182848,
-  "sa_cty_rural_districts": 161461
+  "sa_cty_population": 182848
  },
  "osku": {
   "sa_city_latitude": 37.9,
   "sa_city_longitude": 46.11667,
   "sa_cty_area": 1763,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اسکو",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -150,16 +149,16 @@
  "sarab": {
   "sa_city_latitude": 37.93982,
   "sa_city_longitude": 47.53694,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سراب",
   "sa_cty_districts": 2,
-  "sa_cty_population": 112034
+  "sa_cty_population": 125341
  },
  "shabestar": {
   "sa_city_latitude": 38.2,
   "sa_city_longitude": 45.73333,
   "sa_cty_area": 2750,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شبستر",
   "sa_cty_population": 135421
  },
@@ -167,17 +166,16 @@
   "sa_city_latitude": 38.08333,
   "sa_city_longitude": 46.28333,
   "sa_cty_area": 1781,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تبریز",
   "sa_cty_cities": 3,
-  "sa_cty_population": 1773032
+  "sa_cty_population": 1773033
  },
  "torkamanchay": {
   "sa_city_latitude": 37.58333,
   "sa_city_longitude": 47.41667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ترکمانچای",
-  "sa_cty_cities": 1403,
   "sa_cty_districts": 2,
   "sa_cty_population": 21387
  },
@@ -185,9 +183,9 @@
   "sa_city_latitude": 38.50779,
   "sa_city_longitude": 46.64607,
   "sa_cty_area": 4570,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ورزقان",
   "sa_cty_districts": 2,
-  "sa_cty_population": 52600
+  "sa_cty_population": 52650
  }
 }

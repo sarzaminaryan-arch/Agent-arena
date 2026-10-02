@@ -35,16 +35,12 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q108601534",
    "value": 45.9
-  },
-  "population": {
-   "fetched": "2026-10-02",
-   "source": "wikipedia",
-   "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%B1%D8%AC",
-   "value": 26219
   }
  },
  "name": "چهاربرج",
+ "notes": [
+  "جمعیت ویکی‌دیتا بدون سال سرشماری بود و کنار گذاشته شد."
+ ],
  "province": "west-azerbaijan",
  "slug": "chaharborj"
 }

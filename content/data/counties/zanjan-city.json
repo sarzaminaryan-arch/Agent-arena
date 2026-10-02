@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 486495
+    "wikidata": 521302
    },
    "others": {
-    "wikidata": 521302
+    "wikipedia": 486495
    }
   }
  },
@@ -15,7 +15,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282142",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-   "value": 486495
+   "url": "https://www.wikidata.org/wiki/Q1282142",
+   "value": 521302
   }
  },
  "name": "زنجان",

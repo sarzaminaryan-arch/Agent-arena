@@ -4,8 +4,8 @@ set -euo pipefail
 # ایرانشهر
 ID=$(wp post list --post_type=city --name=iranshahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "ایرانشهر"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "193757"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "254314"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.76806"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60.03361"
@@ -13,8 +13,8 @@ ID=$(wp post list --post_type=city --name=iranshahr --field=ID | head -1)
 # بمپور
 ID=$(wp post list --post_type=city --name=bampur --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "بمپور"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "60577"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "60557"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "3483"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.18333"
@@ -24,7 +24,7 @@ ID=$(wp post list --post_type=city --name=bampur --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=taftan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "نوکآباد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "44176"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4736"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "28.54"
@@ -34,8 +34,8 @@ ID=$(wp post list --post_type=city --name=taftan --field=ID | head -1)
 # خاش
 ID=$(wp post list --post_type=city --name=khash --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "خاش"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "128408"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "173821"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "14640"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
@@ -47,7 +47,7 @@ ID=$(wp post list --post_type=city --name=khash --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=dashtiari --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "نگور"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "79911"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "5271"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "25.61667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "61.4"
@@ -57,7 +57,7 @@ ID=$(wp post list --post_type=city --name=dashtiari --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=dalgan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "گلمورتی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "67857"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "11534"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.4854"
@@ -67,15 +67,15 @@ ID=$(wp post list --post_type=city --name=dalgan --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=rask --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "راسک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "94891"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "26.23333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "61.75"
 
 # زابل
 ID=$(wp post list --post_type=city --name=zabol --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "زابل"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "166448"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "165666"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "344"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "31.03333"
@@ -85,8 +85,8 @@ ID=$(wp post list --post_type=city --name=zabol --field=ID | head -1)
 # زاهدان
 ID=$(wp post list --post_type=city --name=zahedan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "زاهدان"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "770800"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "672589"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "36581"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
@@ -97,7 +97,6 @@ ID=$(wp post list --post_type=city --name=zahedan --field=ID | head -1)
 # زرآباد
 ID=$(wp post list --post_type=city --name=zarabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "زرآباد"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "20344"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "3140"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "25.66667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "59.4"
@@ -105,8 +104,8 @@ ID=$(wp post list --post_type=city --name=zarabad --field=ID | head -1)
 # زهک
 ID=$(wp post list --post_type=city --name=zehak --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "زهک"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "74114"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "74896"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "802"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "30.8936"
@@ -115,10 +114,9 @@ ID=$(wp post list --post_type=city --name=zehak --field=ID | head -1)
 # سراوان
 ID=$(wp post list --post_type=city --name=saravan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "سراوان"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "250000"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "191661"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "54"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.32333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "62.31778"
@@ -127,8 +125,8 @@ ID=$(wp post list --post_type=city --name=saravan --field=ID | head -1)
 # سرباز
 ID=$(wp post list --post_type=city --name=sarbaz --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "سرباز"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "91274"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "186165"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "5405"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "26.73833"
@@ -138,7 +136,7 @@ ID=$(wp post list --post_type=city --name=sarbaz --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=sib-va-suran --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "سوران"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "85095"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "7157"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
@@ -148,8 +146,8 @@ ID=$(wp post list --post_type=city --name=sib-va-suran --field=ID | head -1)
 # فنوج
 ID=$(wp post list --post_type=city --name=fanuj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "فنوج"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "47827"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "49161"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4084"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "26.78333"
@@ -159,8 +157,8 @@ ID=$(wp post list --post_type=city --name=fanuj --field=ID | head -1)
 # قصرقند
 ID=$(wp post list --post_type=city --name=qasr-e-qand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "قصرقند"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "61442"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "61076"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "5395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "26.11667"
@@ -170,7 +168,6 @@ ID=$(wp post list --post_type=city --name=qasr-e-qand --field=ID | head -1)
 # لاشار
 ID=$(wp post list --post_type=city --name=lashar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "اسپکه"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "35307"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2707"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "26.73333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60.16667"
@@ -179,7 +176,7 @@ ID=$(wp post list --post_type=city --name=lashar --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=mehrestan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "مهرستان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "70579"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "6101"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.12637"
@@ -189,7 +186,7 @@ ID=$(wp post list --post_type=city --name=mehrestan --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=mirjaveh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "میرجاوه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "45357"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "6054"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_rural_districts "5"
@@ -202,7 +199,7 @@ ID=$(wp post list --post_type=city --name=mirjaveh --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=nimruz --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "ادیمی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "48471"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "9714"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "31.10333"
@@ -213,7 +210,7 @@ ID=$(wp post list --post_type=city --name=nimruz --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=nik-shahr --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "نیکشهر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "141894"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "10823"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "26.25"
@@ -224,7 +221,7 @@ ID=$(wp post list --post_type=city --name=nik-shahr --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=hamun --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "محمدآباد (سیستان و بلوچستان)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "41017"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4987"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
@@ -236,7 +233,7 @@ ID=$(wp post list --post_type=city --name=hamun --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=hirmand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "دوستمحمد(شهر)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "63979"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1012"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "31.1449"
@@ -245,8 +242,8 @@ ID=$(wp post list --post_type=city --name=hirmand --field=ID | head -1)
 # چابهار
 ID=$(wp post list --post_type=city --name=chabahar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "چابهار"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "203293"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "283204"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2475"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "25.50167"
@@ -256,8 +253,8 @@ ID=$(wp post list --post_type=city --name=chabahar --field=ID | head -1)
 # کنارک
 ID=$(wp post list --post_type=city --name=konarak --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "کنارک"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "77818"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "98212"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "25.35806"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60.39806"
@@ -266,7 +263,7 @@ ID=$(wp post list --post_type=city --name=konarak --field=ID | head -1)
 ID=$(wp post list --post_type=city --name=golshan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "جالق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "29056"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "2016"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "5300"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "27.7"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "62.46667"

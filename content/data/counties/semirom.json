@@ -1,14 +1,5 @@
 {
- "conflicts": {
-  "population": {
-   "chosen": {
-    "wikipedia": 43
-   },
-   "others": {
-    "wikidata": 74109
-   }
-  }
- },
+ "conflicts": {},
  "fields": {
   "area": {
    "fetched": "2026-10-02",
@@ -22,7 +13,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286493",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +52,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
-   "value": 43
+   "url": "https://www.wikidata.org/wiki/Q1286493",
+   "value": 74109
   }
  },
  "name": "سمیرم",

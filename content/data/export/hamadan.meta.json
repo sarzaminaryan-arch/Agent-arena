@@ -3,17 +3,17 @@
   "sa_city_latitude": 34.8,
   "sa_city_longitude": 48.15,
   "sa_cty_area": 1395,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اسدآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 107008,
+  "sa_cty_population": 100901,
   "sa_cty_rural_districts": 6
  },
  "bahar-city": {
   "sa_city_latitude": 34.98333,
   "sa_city_longitude": 48.35,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بهار",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
@@ -22,14 +22,14 @@
  "dargazin": {
   "sa_city_latitude": 35.33333,
   "sa_city_longitude": 49.25,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_population": 36999
  },
  "famenin-city": {
   "sa_city_latitude": 35.11667,
   "sa_city_longitude": 49.16667,
   "sa_cty_area": 1036,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "فامنین",
   "sa_cty_districts": 2,
   "sa_cty_population": 39359
@@ -38,16 +38,16 @@
   "sa_city_elevation": 1,
   "sa_city_latitude": 34.93333,
   "sa_city_longitude": 48.93333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "همدان",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
-  "sa_cty_population": 1
+  "sa_cty_population": 676105
  },
  "kabudarahang-city": {
   "sa_city_latitude": 35.36667,
   "sa_city_longitude": 48.36667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کبودرآهنگ",
   "sa_cty_population": 126062
  },
@@ -56,7 +56,7 @@
   "sa_city_latitude": 34.33333,
   "sa_city_longitude": 48.83333,
   "sa_cty_area": 4310,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ملایر",
   "sa_cty_cities": 7,
   "sa_cty_districts": 4,
@@ -67,29 +67,29 @@
   "sa_city_latitude": 34.23333,
   "sa_city_longitude": 48.23333,
   "sa_cty_area": 1535,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نهاوند",
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
-  "sa_cty_population": 174279
+  "sa_cty_population": 178787
  },
  "razan-city": {
   "sa_city_latitude": 35.41667,
   "sa_city_longitude": 49,
   "sa_cty_area": 1887,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رزن",
   "sa_cty_districts": 2,
-  "sa_cty_population": 70588
+  "sa_cty_population": 107587
  },
  "tuyserkan-city": {
   "sa_city_elevation": 1784,
   "sa_city_latitude": 34.56667,
   "sa_city_longitude": 48.35,
   "sa_cty_area": 1556,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تویسرکان",
   "sa_cty_districts": 2,
-  "sa_cty_population": 105738
+  "sa_cty_population": 101666
  }
 }

@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 123370
+    "wikidata": 124096
    },
    "others": {
-    "wikidata": 124096
+    "wikipedia": 123370
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278063",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +54,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86",
-   "value": 123370
+   "url": "https://www.wikidata.org/wiki/Q1278063",
+   "value": 124096
   }
  },
  "name": "گچساران",

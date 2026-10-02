@@ -2,10 +2,10 @@
  "conflicts": {
   "population": {
    "chosen": {
-    "wikipedia": 77249
+    "wikidata": 76495
    },
    "others": {
-    "wikidata": 76495
+    "wikipedia": 77249
    }
   }
  },
@@ -22,7 +22,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q498784",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -61,10 +61,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%DA%AF%D9%86%D8%AC",
-   "value": 77249
+   "url": "https://www.wikidata.org/wiki/Q498784",
+   "value": 76495
   }
  },
  "name": "قلعه‌گنج",

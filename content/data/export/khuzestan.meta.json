@@ -3,7 +3,7 @@
   "sa_city_latitude": 30.26667,
   "sa_city_longitude": 48.56667,
   "sa_cty_area": 2267,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آبادان",
   "sa_cty_population": 298090
  },
@@ -11,7 +11,7 @@
   "sa_city_latitude": 30.70056,
   "sa_city_longitude": 49.83139,
   "sa_cty_area": 1418,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "آغاجاری",
   "sa_cty_districts": 2,
   "sa_cty_population": 17654
@@ -19,7 +19,7 @@
  "ahvaz-city": {
   "sa_city_latitude": 31.3275,
   "sa_city_longitude": 48.69389,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اهواز",
   "sa_cty_population": 1302591
  },
@@ -27,7 +27,7 @@
   "sa_city_latitude": 32.20639,
   "sa_city_longitude": 49.44361,
   "sa_cty_area": 2369,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "قلعه خواجه",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
@@ -37,32 +37,32 @@
   "sa_city_elevation": 176,
   "sa_city_latitude": 32.58333,
   "sa_city_longitude": 48.33333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اندیمشک",
-  "sa_cty_population": 291412
+  "sa_cty_population": 171412
  },
  "bagh-e-malek": {
   "sa_city_elevation": 917,
   "sa_city_latitude": 31.5,
   "sa_city_longitude": 49.91667,
   "sa_cty_area": 1821,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "باغملک",
   "sa_cty_districts": 2,
-  "sa_cty_population": 83138
+  "sa_cty_population": 105384
  },
  "bavi": {
   "sa_city_latitude": 31.5,
   "sa_city_longitude": 48.95,
   "sa_cty_area": 1377,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ملاثانی",
   "sa_cty_population": 96484
  },
  "behbahan": {
   "sa_city_latitude": 30.6,
   "sa_city_longitude": 50.25,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بهبهان",
   "sa_cty_districts": 3,
   "sa_cty_population": 180593
@@ -71,7 +71,7 @@
   "sa_city_latitude": 31.7,
   "sa_city_longitude": 48.06667,
   "sa_cty_area": 1973,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سوسنگرد",
   "sa_cty_cities": 2,
   "sa_cty_population": 107989
@@ -80,7 +80,7 @@
   "sa_city_latitude": 32.56667,
   "sa_city_longitude": 48.76667,
   "sa_cty_area": 4762,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "دزفول",
   "sa_cty_cities": 12,
   "sa_cty_population": 443971
@@ -89,13 +89,12 @@
   "sa_city_latitude": 31.68333,
   "sa_city_longitude": 50.23333,
   "sa_cty_center": "دهدز",
-  "sa_cty_cities": 2,
-  "sa_cty_population": 19341
+  "sa_cty_cities": 2
  },
  "gotvand": {
   "sa_city_latitude": 32.24543,
   "sa_city_longitude": 48.81416,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "گتوند",
   "sa_cty_population": 65468
  },
@@ -103,21 +102,21 @@
   "sa_city_latitude": 31.56667,
   "sa_city_longitude": 49.4,
   "sa_cty_area": 1420,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هفتکل",
   "sa_cty_population": 22119
  },
  "hamidiyeh": {
   "sa_city_latitude": 31.5,
   "sa_city_longitude": 48.46667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "حمیدیه",
   "sa_cty_population": 53762
  },
  "hendijan": {
   "sa_city_latitude": 30.25,
   "sa_city_longitude": 49.66667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هندیجان",
   "sa_cty_population": 38762
  },
@@ -125,7 +124,7 @@
   "sa_city_latitude": 31.4623,
   "sa_city_longitude": 48.07396,
   "sa_cty_area": 2714,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "هویزه",
   "sa_cty_population": 38886
  },
@@ -133,29 +132,28 @@
   "sa_city_latitude": 31.91667,
   "sa_city_longitude": 49.98333,
   "sa_cty_area": 2504,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ایذه",
-  "sa_cty_population": 72
+  "sa_cty_population": 198871
  },
  "karkheh": {
   "sa_city_latitude": 31.9,
   "sa_city_longitude": 48.4,
   "sa_cty_area": 1498,
-  "sa_cty_center": "الوان",
-  "sa_cty_population": 69331
+  "sa_cty_center": "الوان"
  },
  "karun": {
   "sa_city_latitude": 33.75,
   "sa_city_longitude": 46.56667,
   "sa_cty_area": 1198,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "کوت عبدالله",
   "sa_cty_population": 105872
  },
  "khorramshahr": {
   "sa_city_latitude": 30.68333,
   "sa_city_longitude": 48.18333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خرمشهر",
   "sa_cty_districts": 2,
   "sa_cty_population": 170976
@@ -163,16 +161,16 @@
  "lali": {
   "sa_city_latitude": 32.43333,
   "sa_city_longitude": 49.2,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "لالی",
   "sa_cty_districts": 2,
-  "sa_cty_population": 70963
+  "sa_cty_population": 37963
  },
  "mahshahr": {
   "sa_city_latitude": 30.58333,
   "sa_city_longitude": 49,
   "sa_cty_area": 2956,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر ماهشهر",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -182,7 +180,7 @@
   "sa_city_latitude": 31.98333,
   "sa_city_longitude": 49.26667,
   "sa_cty_area": 2184,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مسجدسلیمان",
   "sa_cty_districts": 2,
   "sa_cty_population": 113419
@@ -190,7 +188,7 @@
  "omidiyeh": {
   "sa_city_latitude": 30.75,
   "sa_city_longitude": 49.7,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "امیدیه",
   "sa_cty_population": 92335
  },
@@ -198,7 +196,7 @@
   "sa_city_latitude": 31.21667,
   "sa_city_longitude": 49.65,
   "sa_cty_area": 1818,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رامهرمز",
   "sa_cty_cities": 3,
   "sa_cty_districts": 4,
@@ -208,7 +206,7 @@
   "sa_city_latitude": 30.88333,
   "sa_city_longitude": 49.4,
   "sa_cty_area": 1587,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "رامشیر",
   "sa_cty_districts": 2,
   "sa_cty_population": 54004
@@ -217,7 +215,7 @@
   "sa_city_latitude": 30.66667,
   "sa_city_longitude": 48.66667,
   "sa_cty_area": 3598,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شادگان",
   "sa_cty_districts": 4,
   "sa_cty_population": 138480
@@ -226,16 +224,16 @@
   "sa_city_latitude": 32.03333,
   "sa_city_longitude": 48.21667,
   "sa_cty_area": 2169,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شوش",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 136389
+  "sa_cty_population": 205720
  },
  "shushtar": {
   "sa_city_latitude": 32,
   "sa_city_longitude": 48.83333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شوشتر",
   "sa_cty_districts": 3,
   "sa_cty_population": 192028

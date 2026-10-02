@@ -6,7 +6,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4815557",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -14,13 +14,6 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4815557",
    "value": "ترکمانچای"
-  },
-  "cities": {
-   "fetched": "2026-10-02",
-   "source": "wikipedia",
-   "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%DA%A9%D9%85%D8%A7%D9%86%DA%86%D8%A7%DB%8C",
-   "value": 1403
   },
   "districts": {
    "fetched": "2026-10-02",
@@ -45,9 +38,9 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%DA%A9%D9%85%D8%A7%D9%86%DA%86%D8%A7%DB%8C",
+   "url": "https://www.wikidata.org/wiki/Q4815557",
    "value": 21387
   }
  },

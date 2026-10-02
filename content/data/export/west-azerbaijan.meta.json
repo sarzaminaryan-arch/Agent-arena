@@ -4,15 +4,14 @@
   "sa_city_longitude": 46.61667,
   "sa_cty_area": 932,
   "sa_cty_center": "باروق",
-  "sa_cty_cities": 2,
-  "sa_cty_population": 22385
+  "sa_cty_cities": 2
  },
  "bukan": {
   "sa_city_elevation": 1300,
   "sa_city_latitude": 36.53333,
   "sa_city_longitude": 46.16667,
   "sa_cty_area": 2541,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "بوکان",
   "sa_cty_population": 251409
  },
@@ -21,20 +20,19 @@
   "sa_city_longitude": 45.9,
   "sa_cty_area": 316,
   "sa_cty_center": "چهاربرج",
-  "sa_cty_cities": 2,
-  "sa_cty_population": 26219
+  "sa_cty_cities": 2
  },
  "chaldoran": {
   "sa_city_latitude": 39.06667,
   "sa_city_longitude": 44.33333,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سیهچشمه",
   "sa_cty_population": 45060
  },
  "chaypareh": {
   "sa_city_latitude": 38.83333,
   "sa_city_longitude": 45.16667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "قرهضیاءالدین",
   "sa_cty_population": 47292
  },
@@ -42,7 +40,7 @@
   "sa_city_latitude": 38.55,
   "sa_city_longitude": 44.95,
   "sa_cty_area": 5548,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "خوی",
   "sa_cty_cities": 5,
   "sa_cty_districts": 4,
@@ -52,7 +50,7 @@
   "sa_city_latitude": 36.76667,
   "sa_city_longitude": 45.73333,
   "sa_cty_area": 2591,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "مهاباد",
   "sa_cty_population": 236849
  },
@@ -60,7 +58,7 @@
   "sa_city_latitude": 39.41669,
   "sa_city_longitude": 44.58336,
   "sa_cty_area": 1931,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شهرستان ماکو",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -71,24 +69,24 @@
   "sa_city_latitude": 36.89999,
   "sa_city_longitude": 46.20002,
   "sa_cty_area": 845,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "میاندوآب",
   "sa_cty_districts": 3,
-  "sa_cty_population": 225345
+  "sa_cty_population": 273949
  },
  "mirabad": {
   "sa_city_latitude": 36.32028,
   "sa_city_longitude": 45.40917,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "میرآباد",
   "sa_cty_districts": 2,
-  "sa_cty_population": 22700
+  "sa_cty_population": 32259
  },
  "naqadeh": {
   "sa_city_latitude": 36.95,
   "sa_city_longitude": 45.4,
   "sa_cty_area": 1050,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "نقده",
   "sa_cty_population": 127671
  },
@@ -97,7 +95,7 @@
   "sa_city_latitude": 37.04917,
   "sa_city_longitude": 45.12278,
   "sa_cty_area": 1187,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "اشنویه",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -108,7 +106,7 @@
   "sa_city_latitude": 36.7,
   "sa_city_longitude": 45.16667,
   "sa_cty_area": 2259,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "پیرانشهر",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -117,7 +115,7 @@
  "poldasht": {
   "sa_city_latitude": 39.35,
   "sa_city_longitude": 45.06667,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "پلدشت",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -127,7 +125,7 @@
   "sa_city_latitude": 38.18333,
   "sa_city_longitude": 44.73333,
   "sa_cty_area": 2544,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سلماس",
   "sa_cty_population": 196546
  },
@@ -135,7 +133,7 @@
   "sa_city_latitude": 36.2167,
   "sa_city_longitude": 45.4832,
   "sa_cty_area": 1411,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "سردشت",
   "sa_cty_population": 118849
  },
@@ -144,7 +142,7 @@
   "sa_city_latitude": 36.73333,
   "sa_city_longitude": 46.68333,
   "sa_cty_area": 2144,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شاهیندژ",
   "sa_cty_population": 92456
  },
@@ -153,7 +151,7 @@
   "sa_city_latitude": 39.21667,
   "sa_city_longitude": 44.76667,
   "sa_cty_area": 931,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "شوط",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
@@ -164,7 +162,7 @@
   "sa_city_latitude": 36.53345,
   "sa_city_longitude": 47.16669,
   "sa_cty_area": 2187,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "تکاب",
   "sa_cty_districts": 2,
   "sa_cty_population": 80556
@@ -173,7 +171,7 @@
   "sa_city_latitude": 37.55,
   "sa_city_longitude": 45,
   "sa_cty_area": 5251,
-  "sa_cty_census_year": "2016",
+  "sa_cty_census_year": 1395,
   "sa_cty_center": "ارومیه",
   "sa_cty_cities": 6,
   "sa_cty_districts": 5,

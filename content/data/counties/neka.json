@@ -10,10 +10,10 @@
   },
   "population": {
    "chosen": {
-    "wikipedia": 60991
+    "wikidata": 119511
    },
    "others": {
-    "wikidata": 119511
+    "wikipedia": 60991
    }
   }
  },
@@ -30,7 +30,7 @@
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282190",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -69,10 +69,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DA%A9%D8%A7",
-   "value": 60991
+   "url": "https://www.wikidata.org/wiki/Q1282190",
+   "value": 119511
   }
  },
  "name": "نکا",

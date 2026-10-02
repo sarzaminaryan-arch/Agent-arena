@@ -1,21 +1,12 @@
 {
- "conflicts": {
-  "population": {
-   "chosen": {
-    "wikipedia": 19
-   },
-   "others": {
-    "wikidata": 19376
-   }
-  }
- },
+ "conflicts": {},
  "fields": {
   "census_year": {
    "fetched": "2026-10-02",
    "source": "wikidata",
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2586999",
-   "value": "2016"
+   "value": 1395
   },
   "center": {
    "fetched": "2026-10-02",
@@ -54,10 +45,10 @@
   },
   "population": {
    "fetched": "2026-10-02",
-   "source": "wikipedia",
+   "source": "wikidata",
    "status": "auto",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%DB%8C%D9%85%D8%B1%D8%BA",
-   "value": 19
+   "url": "https://www.wikidata.org/wiki/Q2586999",
+   "value": 19376
   }
  },
  "name": "سیمرغ",
