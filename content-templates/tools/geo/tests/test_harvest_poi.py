@@ -196,10 +196,14 @@ class TargetValidationTests(unittest.TestCase):
         seats={poi.registry.normalize_fa('زنجان'):{poi.registry.normalize_fa('زنجان')}}
         self.assertTrue(poi.target_location_support(target, 'زنجان', seats))
 
-    def test_target_city_in_plain_lead_is_supported(self):
-        target = page('این قلعه از آثار تاریخی شهر زنجان است.', 'قلعه نمونه')
+    def test_incidental_city_word_is_not_location_proof(self):
+        target = page('این بنا ۳۰ کیلومتری شهر زنجان است.', 'قلعه نمونه')
         seats={poi.registry.normalize_fa('زنجان'):{poi.registry.normalize_fa('زنجان')}}
-        self.assertTrue(poi.target_location_support(target, 'زنجان', seats))
+        self.assertFalse(poi.target_location_support(target, 'زنجان', seats))
+
+    def test_near_a_county_is_not_inside_that_county(self):
+        target = page('این مکان ۱۰ کیلومتری شهرستان نمونه است.', 'قلعه نمونه')
+        self.assertIsNone(poi.target_location_support(target, 'نمونه'))
 
     def test_missing_target_is_not_exported(self):
         accepted, rejected = poi.validate_targets([self.candidate('قلعه ناموجود')], {}, 'نمونه')

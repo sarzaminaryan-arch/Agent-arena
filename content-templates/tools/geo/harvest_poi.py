@@ -297,8 +297,8 @@ def target_location_support(target, county_name, seats=None):
         if key in ('شهر', 'نام شهر', 'city') and seats and wanted in seats.get(value, set()):
             return 'target city is a confirmed seat of this county'
     plain = normal(strip_markup(lead))[:4000]
-    if location_mentions(plain, 'شهرستان', (county_name,)):
-        return 'target lead names this county'
+    if location_mentions(plain, 'در شهرستان', (county_name,)):
+        return 'target lead explicitly locates it in this county'
     if seats:
         # "Near another city's road" is NOT enough. We accept an explicit "in
         # city" clause for our confirmed seat; everything else stays review-only.
@@ -306,7 +306,7 @@ def target_location_support(target, county_name, seats=None):
             if wanted not in owners:
                 continue
             spelling = r'\s*'.join(re.escape(ch) for ch in name)
-            if re.search(r'(?:در\s+(?:شهر\s+)?|شهر\s+)' + spelling + r'(?=$|[\s،.؛:])', plain):
+            if re.search(r'در\s+(?:شهر\s+)?' + spelling + r'(?=$|[\s،.؛:])', plain):
                 return 'target lead explicitly locates it in this county seat'
     return None
 
