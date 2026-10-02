@@ -3,6 +3,17 @@
 All notable changes to the data model are recorded here.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: `MAJOR.MINOR` (MAJOR = breaking change to an active entity/URL, MINOR = additive).
 
+## [محتوا و ابزار] — ۲۰۲۶-۱۰-۰۲ (بدون تغییر مدل داده — نسخه: ۱.۱)
+
+### Added (محتوا)
+- **گزارش آماری سایت** — `آمار-سایت-سرزمین-آریاییها.md`: تحلیل محتوای منتشرشدهٔ فعلی (استان‌ها و شهرستان‌های دارای مقاله)، شکاف پوشش تا هدف «هر ۳۱ استان + همهٔ شهرستان‌ها»، فهرست اولویت‌بندی تولید نوبتی و پیوند خام GitHub برای دریافت.
+- **دستهٔ اول مقالات شهرستان‌های خراسان رضوی** (DRAFT ONLY، ساختار ۹ بلوکی + قالب کامل `city-county-structure`): `content/cities/mashhad.md` (مشهد)، `content/cities/neyshabur.md` (نیشابور)، `content/cities/sabzevar.md` (سبزوار)، `content/cities/quchan.md` (قوچان)، `content/cities/kashmar.md` (کاشمر). داده‌های کلیدی هر شهرستان (جمعیت ۱۳۹۵، مساحت، تقسیمات، سال تأسیس) از ویکی‌پدیای فارسی و سرشماری مرکز آمار؛ ارجاع‌دهی بالانویسی + بلوک منابع + FACT CHECK طبق Level 7.
+
+### Notes (ابزار)
+- بدون تغییر در `schema/data-model.yaml` — نسخهٔ مدل داده همان ۱.۱ باقی می‌ماند.
+- ترتیب تولید شهرستان‌ها بر پایهٔ `wip/b02-counties.json` (دسته‌های ۵تایی)؛ دستهٔ بعدی از گناباد آغاز می‌شود.
+- پس از تکمیل همهٔ شهرستان‌های خراسان رضوی: ساخت افزونهٔ ایمپورتر وردپرس (WXR) + بستهٔ ZIP + پیوند خام.
+
 ## [1.1] — 2026-09-26
 
 ### Added
