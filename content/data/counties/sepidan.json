@@ -1,0 +1,73 @@
+{
+ "conflicts": {
+  "population": {
+   "chosen": {
+    "wikipedia": 51166
+   },
+   "others": {
+    "wikidata": 91049
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D9%86",
+   "value": 1935.0
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1020632",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1020632",
+   "value": "اردکان"
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D9%86",
+   "value": 2
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1020632",
+   "value": 30.15
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1020632",
+   "value": 52.1
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D9%86",
+   "value": 51166
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D9%86",
+   "value": 5
+  }
+ },
+ "name": "سپیدان",
+ "province": "fars",
+ "slug": "sepidan"
+}

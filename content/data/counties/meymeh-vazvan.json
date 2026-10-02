@@ -1,0 +1,43 @@
+{
+ "conflicts": {},
+ "fields": {
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q129091290",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q129091290",
+   "value": "میمه"
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q129091290",
+   "value": 33.43111
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q129091290",
+   "value": 51.17806
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q129091290",
+   "value": 23057
+  }
+ },
+ "name": "میمه و وزوان",
+ "province": "isfahan",
+ "slug": "meymeh-vazvan"
+}

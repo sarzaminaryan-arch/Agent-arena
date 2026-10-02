@@ -1,0 +1,43 @@
+{
+ "conflicts": {},
+ "fields": {
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4814645",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4814645",
+   "value": "قائمیه"
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4814645",
+   "value": 29.81667
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4814645",
+   "value": 51.7
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4814645",
+   "value": 45638
+  }
+ },
+ "name": "چنارشاهیجان",
+ "province": "fars",
+ "slug": "chenar-shahijan"
+}

@@ -1,0 +1,50 @@
+{
+ "conflicts": {},
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2413553",
+   "value": 930.3
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2413553",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2413553",
+   "value": "ملارد"
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2413553",
+   "value": 35.61
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2413553",
+   "value": 50.69667
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2413553",
+   "value": 377292
+  }
+ },
+ "name": "ملارد",
+ "province": "tehran",
+ "slug": "malard"
+}

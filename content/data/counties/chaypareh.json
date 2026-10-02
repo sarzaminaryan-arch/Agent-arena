@@ -1,0 +1,43 @@
+{
+ "conflicts": {},
+ "fields": {
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2623755",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2623755",
+   "value": "قرهضیاءالدین"
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2623755",
+   "value": 38.83333
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2623755",
+   "value": 45.16667
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q2623755",
+   "value": 47292
+  }
+ },
+ "name": "چایپاره",
+ "province": "west-azerbaijan",
+ "slug": "chaypareh"
+}

@@ -1,0 +1,149 @@
+{
+ "baharestan": {
+  "sa_city_elevation": 1047,
+  "sa_city_latitude": 35.52528,
+  "sa_city_longitude": 51.16278,
+  "sa_cty_area": 97.3,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "نسیمشهر",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 536329
+ },
+ "damavand": {
+  "sa_city_elevation": 2300,
+  "sa_city_latitude": 35.615,
+  "sa_city_longitude": 52.18333,
+  "sa_cty_area": 1932,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "دماوند",
+  "sa_cty_cities": 5,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 125480
+ },
+ "eslamshahr": {
+  "sa_city_latitude": 35.56667,
+  "sa_city_longitude": 51.23333,
+  "sa_cty_area": 193,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "اسلامشهر",
+  "sa_cty_population": 548620
+ },
+ "firuzkuh": {
+  "sa_city_latitude": 35.73333,
+  "sa_city_longitude": 52.75,
+  "sa_cty_area": 2386,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "فیروزکوه",
+  "sa_cty_population": 40000
+ },
+ "malard": {
+  "sa_city_latitude": 35.61,
+  "sa_city_longitude": 50.69667,
+  "sa_cty_area": 930.3,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ملارد",
+  "sa_cty_population": 377292
+ },
+ "pakdasht": {
+  "sa_city_elevation": 1013,
+  "sa_city_latitude": 35.46667,
+  "sa_city_longitude": 51.76667,
+  "sa_cty_area": 610,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "پاکدشت",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 4
+ },
+ "pardis": {
+  "sa_city_latitude": 35.74167,
+  "sa_city_longitude": 51.77694,
+  "sa_cty_area": 299,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "پردیس",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 3,
+  "sa_cty_population": 169060
+ },
+ "pishva": {
+  "sa_city_latitude": 35.3,
+  "sa_city_longitude": 51.73333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "پیشوا",
+  "sa_cty_population": 86601
+ },
+ "qarchak": {
+  "sa_city_elevation": 15,
+  "sa_city_latitude": 35.41667,
+  "sa_city_longitude": 51.56667,
+  "sa_cty_area": 90.2,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "قرچک",
+  "sa_cty_population": 269138
+ },
+ "qods": {
+  "sa_city_latitude": 35.71667,
+  "sa_city_longitude": 51.06667,
+  "sa_cty_area": 81.2,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "قدس",
+  "sa_cty_population": 316636,
+  "sa_cty_rural_districts": 3
+ },
+ "rey": {
+  "sa_city_latitude": 35.38333,
+  "sa_city_longitude": 51.33333,
+  "sa_cty_area": 2205.1,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شهر ری",
+  "sa_cty_cities": 10,
+  "sa_cty_population": 349700
+ },
+ "robat-karim": {
+  "sa_city_elevation": 1075,
+  "sa_city_latitude": 35.5,
+  "sa_city_longitude": 51.05,
+  "sa_cty_area": 329,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رباطکریم",
+  "sa_cty_population": 8
+ },
+ "shahriar": {
+  "sa_city_elevation": 1140,
+  "sa_city_latitude": 35.65907,
+  "sa_city_longitude": 51.05953,
+  "sa_cty_area": 335.9,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شهریار",
+  "sa_cty_cities": 6,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 744210
+ },
+ "shemiranat": {
+  "sa_city_elevation": 1600,
+  "sa_city_latitude": 35.93333,
+  "sa_city_longitude": 51.58333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شمیران",
+  "sa_cty_cities": 6,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 47279
+ },
+ "tehran-city": {
+  "sa_city_latitude": 35.68333,
+  "sa_city_longitude": 51.4,
+  "sa_cty_area": 1300.3,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "تهران",
+  "sa_cty_cities": 3,
+  "sa_cty_population": 8737510
+ },
+ "varamin": {
+  "sa_city_latitude": 35.2,
+  "sa_city_longitude": 51.7,
+  "sa_cty_area": 1541,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ورامین",
+  "sa_cty_population": 468349
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "conflicts": {
+  "population": {
+   "chosen": {
+    "wikipedia": 53728
+   },
+   "others": {
+    "wikidata": 36360
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D8%B1%D8%B2%D8%A7",
+   "value": 936.0
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4815573",
+   "value": "2016"
+  },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D8%B1%D8%B2%D8%A7",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D8%B1%D8%B2%D8%A7",
+   "value": 1880.0
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4815573",
+   "value": 31.51667
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q4815573",
+   "value": 51.1
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D8%B1%D8%B2%D8%A7",
+   "value": 53728
+  }
+ },
+ "name": "خانمیرزا",
+ "province": "chaharmahal-bakhtiari",
+ "slug": "khanmirza"
+}

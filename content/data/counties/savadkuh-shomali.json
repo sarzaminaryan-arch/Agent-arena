@@ -1,0 +1,22 @@
+{
+ "conflicts": {},
+ "fields": {
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87_%D8%B4%D9%85%D8%A7%D9%84%DB%8C",
+   "value": 2
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D8%AF%DA%A9%D9%88%D9%87_%D8%B4%D9%85%D8%A7%D9%84%DB%8C",
+   "value": 24834
+  }
+ },
+ "name": "سوادکوه شمالی",
+ "province": "mazandaran",
+ "slug": "savadkuh-shomali"
+}

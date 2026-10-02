@@ -1,0 +1,29 @@
+{
+ "conflicts": {},
+ "fields": {
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q16048620",
+   "value": "هوراند"
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q16048620",
+   "value": 38.86667
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q16048620",
+   "value": 47.36667
+  }
+ },
+ "name": "هوراند",
+ "province": "east-azerbaijan",
+ "slug": "hurand"
+}

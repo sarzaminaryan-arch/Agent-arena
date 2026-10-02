@@ -1,0 +1,111 @@
+{
+ "arak": {
+  "sa_city_latitude": 34.13333,
+  "sa_city_longitude": 49.8,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "اراک",
+  "sa_cty_districts": 3,
+  "sa_cty_population": 591737
+ },
+ "ashtian": {
+  "sa_city_latitude": 34.41667,
+  "sa_city_longitude": 50.06667,
+  "sa_cty_area": 1240,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "آشتیان",
+  "sa_cty_population": 16357
+ },
+ "delijan": {
+  "sa_city_elevation": 1530,
+  "sa_city_latitude": 34.03333,
+  "sa_city_longitude": 50.76667,
+  "sa_cty_area": 2500,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "دلیجان",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 51621
+ },
+ "farahan": {
+  "sa_city_latitude": 34.6,
+  "sa_city_longitude": 49.63333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "فرمهین",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 28994
+ },
+ "khomeyn": {
+  "sa_city_elevation": 1830,
+  "sa_city_latitude": 33.66667,
+  "sa_city_longitude": 50,
+  "sa_cty_area": 12,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "خمین",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 105017
+ },
+ "khondab": {
+  "sa_city_latitude": 34.38,
+  "sa_city_longitude": 49.18972,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "خنداب",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 54018
+ },
+ "komijan": {
+  "sa_city_latitude": 34.76667,
+  "sa_city_longitude": 49.33333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کمیجان",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 36441
+ },
+ "mahallat": {
+  "sa_city_latitude": 33.91667,
+  "sa_city_longitude": 50.41667,
+  "sa_cty_area": 37,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "محلات",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 56342
+ },
+ "saveh": {
+  "sa_city_latitude": 35.1,
+  "sa_city_longitude": 49.98333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ساوه",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 283538
+ },
+ "shazand": {
+  "sa_city_latitude": 33.9,
+  "sa_city_longitude": 49.3,
+  "sa_cty_area": 2745,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شازند",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 117571
+ },
+ "tafresh": {
+  "sa_city_latitude": 34.83333,
+  "sa_city_longitude": 49.88333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "تفرش",
+  "sa_cty_population": 24913
+ },
+ "zarandieh": {
+  "sa_city_elevation": 1256,
+  "sa_city_latitude": 35.36667,
+  "sa_city_longitude": 50.33333,
+  "sa_cty_area": 4116,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "مأمونیه",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 63907
+ }
+}

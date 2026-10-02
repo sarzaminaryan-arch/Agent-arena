@@ -1,0 +1,58 @@
+{
+ "chaharbagh": {
+  "sa_city_latitude": 35.81667,
+  "sa_city_longitude": 50.83333,
+  "sa_cty_center": "چهارباغ",
+  "sa_cty_districts": 2
+ },
+ "eshtehard": {
+  "sa_city_latitude": 35.72806,
+  "sa_city_longitude": 50.41417,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "اشتهارد",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 37876
+ },
+ "fardis": {
+  "sa_city_latitude": 35.72306,
+  "sa_city_longitude": 50.97861,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "فردیس",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 271829
+ },
+ "karaj": {
+  "sa_city_latitude": 35.83333,
+  "sa_city_longitude": 51,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کرج",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 1956267,
+  "sa_cty_rural_districts": 6
+ },
+ "nazarabad": {
+  "sa_city_latitude": 35.91667,
+  "sa_city_longitude": 50.51667,
+  "sa_cty_area": 587,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "نظرآباد",
+  "sa_cty_population": 152437
+ },
+ "savojablogh": {
+  "sa_city_latitude": 35.95,
+  "sa_city_longitude": 50.66667,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "مهستان",
+  "sa_cty_districts": 3,
+  "sa_cty_population": 259973
+ },
+ "taleghan": {
+  "sa_city_latitude": 36.20528,
+  "sa_city_longitude": 50.7761,
+  "sa_cty_area": 1200,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "طالقان",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 16815
+ }
+}

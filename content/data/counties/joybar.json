@@ -1,0 +1,81 @@
+{
+ "conflicts": {
+  "area": {
+   "chosen": {
+    "wikidata": 285.5
+   },
+   "others": {
+    "wikipedia": 290.0
+   }
+  },
+  "population": {
+   "chosen": {
+    "wikipedia": 83988
+   },
+   "others": {
+    "wikidata": 77576
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": 285.5
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": "جویبار"
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
+   "value": 3
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
+   "value": 20.0
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": 36.66667
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1283615",
+   "value": 52.9
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1",
+   "value": 83988
+  }
+ },
+ "name": "جویبار",
+ "province": "mazandaran",
+ "slug": "joybar"
+}

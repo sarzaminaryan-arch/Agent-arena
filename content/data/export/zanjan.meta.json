@@ -1,0 +1,80 @@
+{
+ "abhar": {
+  "sa_city_latitude": 36.26667,
+  "sa_city_longitude": 49.05,
+  "sa_cty_area": 3362,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ابهر",
+  "sa_cty_cities": 3,
+  "sa_cty_population": 1,
+  "sa_cty_rural_districts": 3
+ },
+ "ejrud": {
+  "sa_city_latitude": 36.33333,
+  "sa_city_longitude": 48.25,
+  "sa_cty_area": 1755,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "زرینآباد",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 36641,
+  "sa_cty_rural_districts": 4
+ },
+ "kharadere": {
+  "sa_city_elevation": 1570,
+  "sa_city_latitude": 36.28333,
+  "sa_city_longitude": 49.21667,
+  "sa_cty_area": 407,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "خرمدره",
+  "sa_cty_population": 86123
+ },
+ "khodabandeh": {
+  "sa_city_elevation": 2050,
+  "sa_city_latitude": 36,
+  "sa_city_longitude": 48.5,
+  "sa_cty_area": 5151,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "قیدار",
+  "sa_cty_cities": 5,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 164493
+ },
+ "mahneshan": {
+  "sa_city_latitude": 36.66667,
+  "sa_city_longitude": 47.5,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ماهنشان",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 40312
+ },
+ "soltaniyeh": {
+  "sa_city_latitude": 36.25,
+  "sa_city_longitude": 48.5,
+  "sa_cty_area": 1358.8,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سلطانیه",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 29480,
+  "sa_cty_rural_districts": 2
+ },
+ "tarom": {
+  "sa_city_elevation": 400,
+  "sa_city_latitude": 36.95,
+  "sa_city_longitude": 48.9,
+  "sa_cty_area": 2235,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "آببر",
+  "sa_cty_districts": 3,
+  "sa_cty_population": 46641
+ },
+ "zanjan-city": {
+  "sa_city_latitude": 36.58333,
+  "sa_city_longitude": 48.25,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "زنجان",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 3,
+  "sa_cty_population": 486495
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "baneh": {
+  "sa_city_latitude": 35.91667,
+  "sa_city_longitude": 45.83333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بانه",
+  "sa_cty_population": 1385
+ },
+ "bijar": {
+  "sa_city_latitude": 35.86667,
+  "sa_city_longitude": 47.6,
+  "sa_cty_area": 4350,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بیجار",
+  "sa_cty_population": 1395
+ },
+ "dehgolan": {
+  "sa_city_latitude": 35.35,
+  "sa_city_longitude": 47.35,
+  "sa_cty_area": 2050,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "دهگلان",
+  "sa_cty_population": 87000
+ },
+ "divandarreh": {
+  "sa_city_latitude": 35.91667,
+  "sa_city_longitude": 47,
+  "sa_cty_area": 3637,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "دیواندره",
+  "sa_cty_population": 80040
+ },
+ "kamyaran": {
+  "sa_city_latitude": 34.91667,
+  "sa_city_longitude": 46.91667,
+  "sa_cty_area": 1,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کامیاران",
+  "sa_cty_population": 102856
+ },
+ "marivan": {
+  "sa_city_latitude": 35.58333,
+  "sa_city_longitude": 46.25,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "مریوان",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 195263
+ },
+ "qorveh": {
+  "sa_city_latitude": 35.25,
+  "sa_city_longitude": 47.66667,
+  "sa_cty_area": 2900,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "قروه",
+  "sa_cty_cities": 4,
+  "sa_cty_population": 140192
+ },
+ "sanandaj": {
+  "sa_city_latitude": 35.33333,
+  "sa_city_longitude": 46.83333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سنندج",
+  "sa_cty_districts": 4,
+  "sa_cty_population": 501
+ },
+ "saqqez": {
+  "sa_city_latitude": 36.16667,
+  "sa_city_longitude": 46.33333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سقز",
+  "sa_cty_districts": 4,
+  "sa_cty_population": 226451
+ },
+ "sarvabad": {
+  "sa_city_latitude": 35.25,
+  "sa_city_longitude": 46.33333,
+  "sa_cty_area": 1200,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سروآباد",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 49841
+ }
+}

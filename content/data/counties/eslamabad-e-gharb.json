@@ -1,0 +1,66 @@
+{
+ "conflicts": {
+  "population": {
+   "chosen": {
+    "wikipedia": 140786
+   },
+   "others": {
+    "wikidata": 140876
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D8%BA%D8%B1%D8%A8",
+   "value": 2125.0
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q393368",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q393368",
+   "value": "اسلامآباد غرب"
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D8%BA%D8%B1%D8%A8",
+   "value": 2
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q393368",
+   "value": 34.05
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q393368",
+   "value": 46.66667
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D8%BA%D8%B1%D8%A8",
+   "value": 140786
+  }
+ },
+ "name": "اسلام‌آباد غرب",
+ "province": "kermanshah",
+ "slug": "eslamabad-e-gharb"
+}

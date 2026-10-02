@@ -1,0 +1,81 @@
+{
+ "conflicts": {
+  "area": {
+   "chosen": {
+    "wikidata": 3500.0
+   },
+   "others": {
+    "wikipedia": 3825.0
+   }
+  },
+  "population": {
+   "chosen": {
+    "wikipedia": 181156
+   },
+   "others": {
+    "wikidata": 149941
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1274515",
+   "value": 3500.0
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1274515",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1274515",
+   "value": "مشگینشهر"
+  },
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": 6
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": 5
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1274515",
+   "value": 38.43333
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1274515",
+   "value": 47.75
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": 181156
+  }
+ },
+ "name": "مشگین‌شهر",
+ "province": "ardabil",
+ "slug": "meshgin-shahr"
+}

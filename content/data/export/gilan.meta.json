@@ -1,0 +1,167 @@
+{
+ "amlash": {
+  "sa_city_latitude": 36.98333,
+  "sa_city_longitude": 50.15,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "املش",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 43225,
+  "sa_cty_rural_districts": 4
+ },
+ "astaneh-ye-ashrafiyeh": {
+  "sa_city_elevation": -2,
+  "sa_city_latitude": 37.31667,
+  "sa_city_longitude": 49.96667,
+  "sa_cty_area": 426,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "آستانه اشرفیه",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 38,
+  "sa_cty_rural_districts": 5
+ },
+ "astara": {
+  "sa_city_latitude": 38.33333,
+  "sa_city_longitude": 48.76667,
+  "sa_cty_area": 344,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "آستارا",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 94200
+ },
+ "bandar-e-anzali": {
+  "sa_city_latitude": 37.4719,
+  "sa_city_longitude": 49.3889,
+  "sa_cty_area": 315,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بندر انزلی",
+  "sa_cty_population": 505
+ },
+ "fuman": {
+  "sa_city_latitude": 37.21667,
+  "sa_city_longitude": 49.31667,
+  "sa_cty_area": 1002,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "فومن",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 104000
+ },
+ "khomam": {
+  "sa_city_latitude": 37.41667,
+  "sa_city_longitude": 49.68333,
+  "sa_cty_area": 160,
+  "sa_cty_center": "خمام",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 54860
+ },
+ "lahijan": {
+  "sa_city_latitude": 37.23333,
+  "sa_city_longitude": 50.03333,
+  "sa_cty_area": 407,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "لاهیجان",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 167544
+ },
+ "langarud": {
+  "sa_city_latitude": 37.15,
+  "sa_city_longitude": 50.13333,
+  "sa_cty_area": 480,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "لنگرود",
+  "sa_cty_cities": 5,
+  "sa_cty_population": 140686
+ },
+ "masal": {
+  "sa_city_elevation": 84,
+  "sa_city_latitude": 37.38333,
+  "sa_city_longitude": 49,
+  "sa_cty_area": 622,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ماسال",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 52649
+ },
+ "rasht": {
+  "sa_city_latitude": 37.26667,
+  "sa_city_longitude": 49.7,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رشت",
+  "sa_cty_cities": 6,
+  "sa_cty_districts": 5,
+  "sa_cty_population": 998000
+ },
+ "rezvanshahr": {
+  "sa_city_latitude": 37.53333,
+  "sa_city_longitude": 48.95,
+  "sa_cty_area": 748,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شهرستان رضوانشهر",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 106909
+ },
+ "rudbar": {
+  "sa_city_elevation": 1050,
+  "sa_city_latitude": 36.81667,
+  "sa_city_longitude": 49.58333,
+  "sa_cty_area": 2574,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رودبار",
+  "sa_cty_cities": 7,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 95000
+ },
+ "rudsar": {
+  "sa_city_elevation": 19,
+  "sa_city_latitude": 36.7,
+  "sa_city_longitude": 50.3,
+  "sa_cty_area": 1310,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رودسر",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 147399
+ },
+ "shaft": {
+  "sa_city_elevation": 15,
+  "sa_city_latitude": 37.08333,
+  "sa_city_longitude": 49.4,
+  "sa_cty_area": 586,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شفت",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 54226
+ },
+ "siahkal": {
+  "sa_city_latitude": 36.93333,
+  "sa_city_longitude": 49.9,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سیاهکل",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 46975
+ },
+ "someh-sara": {
+  "sa_city_latitude": 37.33333,
+  "sa_city_longitude": 49.33333,
+  "sa_cty_area": 633,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "صومعهسرا",
+  "sa_cty_cities": 5,
+  "sa_cty_districts": 5,
+  "sa_cty_population": 145074
+ },
+ "talesh": {
+  "sa_city_latitude": 37.80142,
+  "sa_city_longitude": 48.90669,
+  "sa_cty_area": 2373,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "هشتپر",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 200649
+ }
+}

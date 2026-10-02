@@ -1,0 +1,66 @@
+{
+ "conflicts": {
+  "population": {
+   "chosen": {
+    "wikipedia": 75645
+   },
+   "others": {
+    "wikidata": 101727
+   }
+  }
+ },
+ "fields": {
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286427",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286427",
+   "value": "آشخانه"
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87_%D9%88_%D8%B3%D9%85%D9%84%D9%82%D8%A7%D9%86",
+   "value": 2
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286427",
+   "value": 37.55939
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1286427",
+   "value": 56.9213
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87_%D9%88_%D8%B3%D9%85%D9%84%D9%82%D8%A7%D9%86",
+   "value": 75645
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87_%D9%88_%D8%B3%D9%85%D9%84%D9%82%D8%A7%D9%86",
+   "value": 8
+  }
+ },
+ "name": "مانه و سملقان",
+ "province": "north-khorasan",
+ "slug": "maneh-samalqan"
+}

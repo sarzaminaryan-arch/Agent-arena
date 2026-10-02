@@ -1,0 +1,88 @@
+{
+ "conflicts": {
+  "area": {
+   "chosen": {
+    "wikidata": 262.8
+   },
+   "others": {
+    "wikipedia": 282.0
+   }
+  },
+  "population": {
+   "chosen": {
+    "wikipedia": 130054
+   },
+   "others": {
+    "wikidata": 98407
+   }
+  }
+ },
+ "fields": {
+  "area": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282219",
+   "value": 262.8
+  },
+  "census_year": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282219",
+   "value": "2016"
+  },
+  "center": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282219",
+   "value": "محمودآباد"
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 2
+  },
+  "elevation": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 17.0
+  },
+  "lat": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282219",
+   "value": 36.61667
+  },
+  "lon": {
+   "fetched": "2026-10-02",
+   "source": "wikidata",
+   "status": "auto",
+   "url": "https://www.wikidata.org/wiki/Q1282219",
+   "value": 52.33333
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 130054
+  },
+  "rural_districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": 5
+  }
+ },
+ "name": "محمودآباد",
+ "province": "mazandaran",
+ "slug": "mahmudabad"
+}

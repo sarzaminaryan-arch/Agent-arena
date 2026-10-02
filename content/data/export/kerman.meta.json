@@ -1,0 +1,240 @@
+{
+ "anar": {
+  "sa_city_latitude": 30.85,
+  "sa_city_longitude": 55.35,
+  "sa_cty_area": 2140,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "انار",
+  "sa_cty_population": 36897
+ },
+ "anbarabad": {
+  "sa_city_elevation": 3,
+  "sa_city_latitude": 28.4,
+  "sa_city_longitude": 57.98333,
+  "sa_cty_area": 3409,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "عنبرآباد",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 82438
+ },
+ "arzuiyeh": {
+  "sa_city_elevation": 1044,
+  "sa_city_latitude": 29.1,
+  "sa_city_longitude": 56.3728,
+  "sa_cty_area": 4980,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "ارزوئیه",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 38510
+ },
+ "baft": {
+  "sa_city_elevation": 2300,
+  "sa_city_latitude": 29.1,
+  "sa_city_longitude": 56.51667,
+  "sa_cty_area": 6465,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بافت",
+  "sa_cty_population": 84103
+ },
+ "bam": {
+  "sa_city_latitude": 29.06667,
+  "sa_city_longitude": 58.23333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بم",
+  "sa_cty_population": 228241
+ },
+ "bardsir": {
+  "sa_city_elevation": 2047,
+  "sa_city_latitude": 29.83333,
+  "sa_city_longitude": 56.58333,
+  "sa_cty_area": 6139,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بردسیر",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 81983
+ },
+ "fahraj": {
+  "sa_city_elevation": 30,
+  "sa_city_latitude": 29.13333,
+  "sa_city_longitude": 59.21667,
+  "sa_cty_area": 4550,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "فهرج",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 66791
+ },
+ "faryab": {
+  "sa_city_elevation": 600,
+  "sa_city_latitude": 28.2,
+  "sa_city_longitude": 57.21667,
+  "sa_cty_area": 2427,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "فاریاب",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 34000
+ },
+ "gonbaki": {
+  "sa_cty_area": 2292,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 26227
+ },
+ "jazmourian": {
+  "sa_city_latitude": 27.95,
+  "sa_city_longitude": 58.56667,
+  "sa_cty_area": 5040,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "زهکلوت",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 43867
+ },
+ "jiroft": {
+  "sa_city_latitude": 28.83333,
+  "sa_city_longitude": 57.58333,
+  "sa_cty_area": 9654,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "جیرفت",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 4,
+  "sa_cty_population": 308858
+ },
+ "kahnoj": {
+  "sa_city_elevation": 35,
+  "sa_city_latitude": 27.95,
+  "sa_city_longitude": 57.7,
+  "sa_cty_area": 2109,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کهنوج",
+  "sa_cty_population": 95848
+ },
+ "kerman": {
+  "sa_city_elevation": 1756,
+  "sa_city_latitude": 30.33333,
+  "sa_city_longitude": 58,
+  "sa_cty_area": 41581,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کرمان",
+  "sa_cty_cities": 11,
+  "sa_cty_districts": 5,
+  "sa_cty_population": 738724
+ },
+ "kuhbanan": {
+  "sa_city_latitude": 31.33639,
+  "sa_city_longitude": 56.27278,
+  "sa_cty_area": 2236,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کوهبنان",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 21205,
+  "sa_cty_rural_districts": 2
+ },
+ "manujan": {
+  "sa_city_elevation": 342,
+  "sa_city_latitude": 27.53333,
+  "sa_city_longitude": 57.5,
+  "sa_cty_area": 3422,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "منوجان",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 64971
+ },
+ "narmashir": {
+  "sa_city_latitude": 29.26667,
+  "sa_city_longitude": 58.73333,
+  "sa_cty_area": 671,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "نرماشیر",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 53983
+ },
+ "qaleh-ganj": {
+  "sa_city_latitude": 27.52417,
+  "sa_city_longitude": 57.87833,
+  "sa_cty_area": 10190,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "قلعهگنج",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 3,
+  "sa_cty_population": 77249
+ },
+ "rabor": {
+  "sa_city_elevation": 2343,
+  "sa_city_latitude": 29.25,
+  "sa_city_longitude": 56.98333,
+  "sa_cty_area": 1854,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رابر",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 35362
+ },
+ "rafsanjan": {
+  "sa_city_elevation": 1469,
+  "sa_city_latitude": 30.53333,
+  "sa_city_longitude": 55.95,
+  "sa_cty_area": 7678,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رفسنجان",
+  "sa_cty_districts": 4,
+  "sa_cty_population": 402300
+ },
+ "ravar": {
+  "sa_city_elevation": 1181,
+  "sa_city_latitude": 31.3,
+  "sa_city_longitude": 57.15,
+  "sa_cty_area": 11535,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "راور",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 43198
+ },
+ "rigan": {
+  "sa_city_latitude": 28.66889,
+  "sa_city_longitude": 59.07333,
+  "sa_cty_area": 5641,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "محمدآباد",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 62487,
+  "sa_cty_rural_districts": 9
+ },
+ "rudbar-e-jonub": {
+  "sa_city_latitude": 27.57511,
+  "sa_city_longitude": 58.93533,
+  "sa_cty_area": 1816,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رودبار",
+  "sa_cty_population": 62125
+ },
+ "shahr-e-babak": {
+  "sa_city_latitude": 30.25,
+  "sa_city_longitude": 54.91667,
+  "sa_cty_area": 14096,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "شهربابک",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 103975
+ },
+ "sirjan": {
+  "sa_city_latitude": 29.5,
+  "sa_city_longitude": 55.5,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سیرجان",
+  "sa_cty_cities": 6,
+  "sa_cty_districts": 5,
+  "sa_cty_population": 324103
+ },
+ "zarand": {
+  "sa_city_elevation": 1650,
+  "sa_city_latitude": 30.85,
+  "sa_city_longitude": 56.41667,
+  "sa_cty_area": 5477,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "زرند",
+  "sa_cty_cities": 5,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 138133
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "conflicts": {},
+ "fields": {
+  "cities": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%88%DA%86%D8%A7%D9%86",
+   "value": 4
+  },
+  "districts": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%88%DA%86%D8%A7%D9%86",
+   "value": 4
+  },
+  "population": {
+   "fetched": "2026-10-02",
+   "source": "wikipedia",
+   "status": "auto",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%88%DA%86%D8%A7%D9%86",
+   "value": 175000
+  }
+ },
+ "name": "قوچان",
+ "province": "razavi-khorasan",
+ "slug": "quchan"
+}

@@ -1,0 +1,126 @@
+{
+ "aliabad-e-katul": {
+  "sa_city_latitude": 36.83333,
+  "sa_city_longitude": 54.83333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "علیآباد کتول",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 140709
+ },
+ "aq-qala": {
+  "sa_city_latitude": 37.16667,
+  "sa_city_longitude": 54.58333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "آققلا",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 132733
+ },
+ "azadshahr": {
+  "sa_city_latitude": 37.125,
+  "sa_city_longitude": 55.1,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "آزادشهر",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 96110
+ },
+ "bandar-e-gaz": {
+  "sa_city_latitude": 36.71667,
+  "sa_city_longitude": 53.96667,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بندر گز",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 46130
+ },
+ "bandar-e-torkaman": {
+  "sa_city_latitude": 37.1,
+  "sa_city_longitude": 54.2,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "بندر ترکمن",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 79978
+ },
+ "galikesh": {
+  "sa_city_latitude": 37.3,
+  "sa_city_longitude": 55.65,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "گالیکش",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 59975
+ },
+ "gomishan": {
+  "sa_city_latitude": 37.15,
+  "sa_city_longitude": 54.15,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "گمیشان",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 68773
+ },
+ "gonbad-e-kavus": {
+  "sa_city_latitude": 37.5,
+  "sa_city_longitude": 55,
+  "sa_cty_area": 5071,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "گنبد کاووس",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 348744
+ },
+ "gorgan": {
+  "sa_city_latitude": 36.83333,
+  "sa_city_longitude": 54.5,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "گرگان",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 480541
+ },
+ "kalaleh": {
+  "sa_city_latitude": 37.71667,
+  "sa_city_longitude": 55.81667,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کلاله",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 117319
+ },
+ "kordkuy": {
+  "sa_city_latitude": 36.69167,
+  "sa_city_longitude": 54.2,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کردکوی",
+  "sa_cty_population": 67000
+ },
+ "maraveh-tappeh": {
+  "sa_city_latitude": 37.9,
+  "sa_city_longitude": 55.95,
+  "sa_cty_area": 350,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "مراوهتپه",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 60953
+ },
+ "minudasht": {
+  "sa_city_latitude": 37.16667,
+  "sa_city_longitude": 55.5,
+  "sa_cty_area": 662,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "مینودشت",
+  "sa_cty_cities": 2,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 75483
+ },
+ "ramian": {
+  "sa_city_latitude": 36.95,
+  "sa_city_longitude": 55.21667,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "رامیان",
+  "sa_cty_cities": 3,
+  "sa_cty_districts": 2,
+  "sa_cty_population": 86210
+ }
+}

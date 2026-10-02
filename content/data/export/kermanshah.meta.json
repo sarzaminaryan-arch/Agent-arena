@@ -1,0 +1,123 @@
+{
+ "dalahu": {
+  "sa_city_latitude": 34.26667,
+  "sa_city_longitude": 46.23333,
+  "sa_cty_area": 1914,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کرند غرب",
+  "sa_cty_population": 35987
+ },
+ "eslamabad-e-gharb": {
+  "sa_city_latitude": 34.05,
+  "sa_city_longitude": 46.66667,
+  "sa_cty_area": 2125,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "اسلامآباد غرب",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 140786
+ },
+ "gilangharb": {
+  "sa_city_elevation": 2586,
+  "sa_city_latitude": 34.16667,
+  "sa_city_longitude": 46,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "گیلانغرب",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 57007
+ },
+ "harsin": {
+  "sa_city_elevation": 1582,
+  "sa_city_latitude": 34.33333,
+  "sa_city_longitude": 47.5,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "هرسین",
+  "sa_cty_population": 78350
+ },
+ "javanrud": {
+  "sa_city_latitude": 34.76667,
+  "sa_city_longitude": 46.31667,
+  "sa_cty_area": 777,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "جوانرود",
+  "sa_cty_districts": 3,
+  "sa_cty_population": 75169
+ },
+ "kangavar": {
+  "sa_city_elevation": 1456,
+  "sa_city_latitude": 34.48333,
+  "sa_city_longitude": 47.93333,
+  "sa_cty_area": 930,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کنگاور",
+  "sa_cty_population": 76216
+ },
+ "kermanshah": {
+  "sa_city_latitude": 34.33333,
+  "sa_city_longitude": 47,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "کرمانشاه",
+  "sa_cty_districts": 6,
+  "sa_cty_population": 1083833
+ },
+ "paveh": {
+  "sa_city_latitude": 35,
+  "sa_city_longitude": 46.3,
+  "sa_cty_area": 802,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "پاوه",
+  "sa_cty_cities": 4,
+  "sa_cty_districts": 3,
+  "sa_cty_population": 75
+ },
+ "qasr-e-shirin": {
+  "sa_city_latitude": 34.2,
+  "sa_city_longitude": 45.63333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "قصر شیرین",
+  "sa_cty_districts": 2,
+  "sa_cty_population": 23929
+ },
+ "ravansar": {
+  "sa_city_latitude": 34.75,
+  "sa_city_longitude": 46.68333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "روانسر",
+  "sa_cty_districts": 3,
+  "sa_cty_population": 77657
+ },
+ "sahneh": {
+  "sa_city_elevation": 1380,
+  "sa_city_latitude": 34.47861,
+  "sa_city_longitude": 47.6889,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "صحنه",
+  "sa_cty_population": 70757
+ },
+ "salasa-babajani": {
+  "sa_city_latitude": 34.81667,
+  "sa_city_longitude": 45.98333,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "تازهآباد",
+  "sa_cty_population": 35219
+ },
+ "sarpol-e-zahab": {
+  "sa_city_elevation": 550,
+  "sa_city_latitude": 34.58333,
+  "sa_city_longitude": 45.83333,
+  "sa_cty_area": 1211,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سرپل ذهاب",
+  "sa_cty_districts": 3,
+  "sa_cty_population": 85342
+ },
+ "sonqor": {
+  "sa_city_elevation": 1681,
+  "sa_city_latitude": 34.83333,
+  "sa_city_longitude": 47.5,
+  "sa_cty_area": 2308,
+  "sa_cty_census_year": "2016",
+  "sa_cty_center": "سنقر",
+  "sa_cty_cities": 2,
+  "sa_cty_population": 81661
+ }
+}
