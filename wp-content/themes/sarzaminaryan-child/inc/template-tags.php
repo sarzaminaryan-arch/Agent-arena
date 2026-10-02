@@ -96,7 +96,14 @@ function sa_entity_facts( $post_id ) {
 				$rows[] = array( 'label' => $label, 'value' => sa_digits( $raw ), 'html' => false );
 		}
 	}
-	return $rows;
+
+	/**
+	 * Filter the key-facts rows of an entity.
+	 *
+	 * @param array $rows    Rows ( label / value / html ).
+	 * @param int   $post_id Post ID.
+	 */
+	return (array) apply_filters( 'sa_entity_facts', $rows, $post_id );
 }
 
 /**

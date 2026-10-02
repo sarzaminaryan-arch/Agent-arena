@@ -2631,3 +2631,147 @@ main.site-main.container,
 		grid-template-columns: 1fr;
 	}
 }
+
+/* ---- ۴. پروفایل ثابت شهرستان (v2.8.0) ---- */
+.sa-county {
+	margin-block: 28px;
+}
+
+.sa-county__title {
+	font-size: 1.25rem;
+	margin: 26px 0 12px;
+}
+
+.sa-county__sub {
+	font-size: 1.02rem;
+	margin: 16px 0 8px;
+}
+
+.sa-county__stats {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 10px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.sa-county__stat {
+	background: var(--sa-surface, #f8fafc);
+	border: 1px solid var(--sa-border, #e5e7eb);
+	border-radius: 12px;
+	padding: 12px 8px;
+	text-align: center;
+}
+
+.sa-county__num {
+	display: block;
+	font-size: 1.4rem;
+	font-weight: 700;
+	line-height: 1.2;
+}
+
+.sa-county__cap {
+	display: block;
+	font-size: .85rem;
+	opacity: .75;
+}
+
+.sa-county__chips {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.sa-county__chip {
+	border: 1px solid var(--sa-border, #e5e7eb);
+	border-radius: 999px;
+	padding: 6px 14px;
+	font-size: .92rem;
+	background: #fff;
+}
+
+.sa-county__chip small {
+	opacity: .6;
+	margin-inline-start: 4px;
+}
+
+.sa-county__chip.is-current {
+	background: var(--sa-accent, #0f766e);
+	border-color: var(--sa-accent, #0f766e);
+	color: #fff;
+}
+
+.sa-county__chip .is-pending {
+	opacity: .45;
+}
+
+.sa-county__poi {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: grid;
+	gap: 10px;
+}
+
+.sa-county__poi li {
+	border-inline-start: 3px solid var(--sa-accent, #0f766e);
+	background: var(--sa-surface, #f8fafc);
+	border-radius: 0 10px 10px 0;
+	padding: 10px 14px;
+}
+
+.sa-county__poi p {
+	margin: 4px 0 0;
+	font-size: .93rem;
+	opacity: .85;
+}
+
+.sa-county__dist {
+	font-size: .82rem;
+	background: #fff;
+	border: 1px solid var(--sa-border, #e5e7eb);
+	border-radius: 999px;
+	padding: 2px 8px;
+	margin-inline-start: 6px;
+}
+
+.sa-county__row {
+	display: flex;
+	gap: 10px;
+	padding: 7px 0;
+	border-bottom: 1px dashed var(--sa-border, #e5e7eb);
+}
+
+.sa-county__row dt {
+	min-width: 150px;
+	font-weight: 600;
+}
+
+.sa-county__list {
+	margin: 0;
+}
+
+.sa-county-siblings {
+	margin-block: 30px;
+}
+
+.sa-county-group {
+	margin: 18px 0 6px;
+	border-bottom: 1px solid #dcdcde;
+	padding-bottom: 4px;
+}
+
+@media (max-width: 640px) {
+	.sa-county__stats {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	.sa-county__row {
+		flex-direction: column;
+		gap: 2px;
+	}
+}
