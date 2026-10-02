@@ -43,6 +43,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
    "value": 1756.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=30.33333,58.0"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -56,6 +64,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286434",
    "value": 58.0
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bam": "جنوب",
+    "bardsir": "غرب",
+    "narmashir": "جنوب‌شرق",
+    "rabor": "جنوب‌غرب",
+    "ravar": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "ravar",
+    "narmashir",
+    "bam",
+    "bardsir",
+    "rabor"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

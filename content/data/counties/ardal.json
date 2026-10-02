@@ -24,6 +24,14 @@
    "url": "https://www.wikidata.org/wiki/Q1279017",
    "value": "اردل"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 54
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -38,6 +46,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
    "value": 1800.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.95,50.41667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -51,6 +67,60 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279017",
    "value": 50.41667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "dezpart": "جنوب‌غرب",
+    "farsan": "شمال‌شرق",
+    "izeh": "غرب",
+    "kiar": "شرق",
+    "kuhrang": "شمال‌غرب",
+    "lordegan": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "dezpart",
+    "farsan",
+    "kiar",
+    "izeh",
+    "kuhrang",
+    "lordegan"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کاروانسرای شلیل"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار زردلیمه\nسد کارون ۴\nالیکوه"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "لندی\nکارون\nدوپلان\nرستم‌آباد\nمنطقه حفاظت‌شده هلن\nبهشت‌آباد\nمعدن\nکاج\nرود بازفت\nگندمکار سفلی\nکری چهاربنیچه\nلیرابی"
   },
   "population": {
    "fetched": "2026-10-02",

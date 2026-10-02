@@ -39,6 +39,22 @@
    "url": "https://www.wikidata.org/wiki/Q1294072",
    "value": "فیروزکوه"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 122
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=35.73333,52.75"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -52,6 +68,60 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1294072",
    "value": 52.75
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "aradan": "جنوب",
+    "damavand": "غرب",
+    "mehdishahr": "شرق",
+    "nur": "شمال‌غرب",
+    "savadkuh": "شمال",
+    "sorkheh": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "savadkuh",
+    "sorkheh",
+    "damavand",
+    "mehdishahr",
+    "aradan",
+    "nur"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "نقش برجسته"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "تنگه واشی\nچشمه علی شهر ری"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "جاذبه‌های گردشگری\nتهران\nقاجار\nفصل تابستان\nپیاده‌روی\nدوره قاجار\nجاده هراز\nفتحعلی شاه قاجار\nعلی نقی میرزا\nصنعت گردشگری"
   },
   "population": {
    "fetched": "2026-10-02",

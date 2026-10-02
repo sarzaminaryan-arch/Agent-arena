@@ -29,12 +29,28 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%D9%84%D8%B4",
    "value": 4
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 92
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%D9%84%D8%B4",
    "value": 4
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=37.80142,48.90669"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -49,6 +65,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2570890",
    "value": 48.90669
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "ardabil-city": "شمال‌غرب",
+    "astara": "شمال",
+    "khalkhal": "جنوب‌غرب",
+    "rezvanshahr": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "rezvanshahr",
+    "khalkhal",
+    "astara",
+    "ardabil-city"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کاخ سردار امجد"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار چارگو\nآبشار نیلرود جوکندان\nتالاب جوکندان\nپارک جنگلی\nآبشار زمرد"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "سیاهداران\nسورتمه تالش\nقروق\nتازه‌آباد\nمریان\nریک\nییلاق\nسوئتون\nلیسار\nسلسال\nآسبومار\nجوکندان"
   },
   "population": {
    "fetched": "2026-10-02",

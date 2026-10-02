@@ -7,9 +7,12 @@ ID=$(wp post list --post_type=city --name=abyek --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "94536"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "60"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "nazarabad - جنوب‌شرق\nalborz-qazvin - غرب\ntaleghan - شرق\nrudsar - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.35"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1008"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.1,50.35"
 
 # آوج
 ID=$(wp post list --post_type=city --name=avaj --field=ID | head -1)
@@ -18,8 +21,11 @@ ID=$(wp post list --post_type=city --name=avaj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "109"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "razan-city - جنوب‌غرب\ndargazin - جنوب\nbuin-zahra - شرق\ntakestan - شمال‌شرق\nabhar - شمال\nkhodabandeh - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.57685"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.22241"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.57685,49.22241"
 
 # البرز
 ID=$(wp post list --post_type=city --name=alborz-qazvin --field=ID | head -1)
@@ -29,8 +35,11 @@ ID=$(wp post list --post_type=city --name=alborz-qazvin --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "406"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "35"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "abyek - شرق\nqazvin-city - شمال‌غرب\ntakestan - جنوب‌غرب\nrudsar - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.18333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.05"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.18333,50.05"
 
 # بوئین‌زهرا
 ID=$(wp post list --post_type=city --name=buin-zahra --field=ID | head -1)
@@ -40,16 +49,24 @@ ID=$(wp post list --post_type=city --name=buin-zahra --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "3022"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "91"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "avaj - غرب\ntakestan - شمال\ndargazin - جنوب‌غرب\nsaveh - جنوب‌شرق\nzarandieh - جنوب‌شرق\neshtehard - شرق"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "قورقورک"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کاروانسرای محمدآباد\nکاروانسرای هجیب\nتپه زاغه\nتپه قبرستان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.61667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.7"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.61667,49.7"
 
 # تاکستان
 ID=$(wp post list --post_type=city --name=takestan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "تاکستان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "172636"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "54"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kharadere - شمال‌غرب\nbuin-zahra - جنوب\nalborz-qazvin - شمال‌شرق\nqazvin-city - شمال‌شرق\navaj - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.55"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.0,49.55"
 
 # قزوین
 ID=$(wp post list --post_type=city --name=qazvin-city --field=ID | head -1)
@@ -59,6 +76,8 @@ ID=$(wp post list --post_type=city --name=qazvin-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "5572"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "5"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "alborz-qazvin - جنوب‌شرق\nrudbar - شمال‌غرب\nrudsar - شمال‌شرق\ntakestan - جنوب‌غرب\nsiahkal - شمال\nkharadere - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.43333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.81667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.43333,49.81667"
 

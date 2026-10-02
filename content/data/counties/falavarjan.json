@@ -38,6 +38,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86",
    "value": 9
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 24
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -52,6 +60,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86",
    "value": 1600.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=32.51667,51.53333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -65,6 +81,48 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1277889",
    "value": 51.53333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "isfahan-city": "شمال‌شرق",
+    "khomeyni-shahr": "شمال",
+    "lenjan": "جنوب‌غرب",
+    "mobarakeh": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khomeyni-shahr",
+    "mobarakeh",
+    "isfahan-city",
+    "lenjan"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پل بابا محمود"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پیربکران\nمحمد بن بکران\nقالی بافی\nمنبت‌کاری\nخاتم‌کاری\nملیله‌دوزی"
   },
   "population": {
    "fetched": "2026-10-02",

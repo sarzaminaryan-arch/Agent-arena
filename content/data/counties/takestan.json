@@ -15,6 +15,22 @@
    "url": "https://www.wikidata.org/wiki/Q1291817",
    "value": "تاکستان"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 54
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.0,49.55"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -28,6 +44,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291817",
    "value": 49.55
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "alborz-qazvin": "شمال‌شرق",
+    "avaj": "جنوب‌غرب",
+    "buin-zahra": "جنوب",
+    "kharadere": "شمال‌غرب",
+    "qazvin-city": "شمال‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "kharadere",
+    "buin-zahra",
+    "alborz-qazvin",
+    "qazvin-city",
+    "avaj"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

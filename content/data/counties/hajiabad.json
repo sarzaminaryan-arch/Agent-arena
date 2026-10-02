@@ -31,6 +31,14 @@
    "url": "https://www.wikidata.org/wiki/Q1280129",
    "value": "حاجیآباد"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 96
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -45,6 +53,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
    "value": 947.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=28.33333,55.83333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -58,6 +74,52 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1280129",
    "value": 55.83333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "arzuiyeh": "شمال‌شرق",
+    "bandar-abbas": "جنوب‌شرق",
+    "darab": "غرب",
+    "faryab": "شرق",
+    "khamir": "جنوب",
+    "sirjan": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "darab",
+    "bandar-abbas",
+    "arzuiyeh",
+    "khamir",
+    "sirjan",
+    "faryab"
+   ]
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشارتزرج"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "فارغان\nبادام"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -31,12 +31,28 @@
    "url": "https://www.wikidata.org/wiki/Q1291807",
    "value": "جلفا"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 95
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
    "value": 2
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=38.85,45.8"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -51,6 +67,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291807",
    "value": 45.8
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "chaypareh": "غرب",
+    "khoda-afarin": "شرق",
+    "marand": "جنوب",
+    "varzaqan": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "marand",
+    "chaypareh",
+    "varzaqan",
+    "khoda-afarin"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آرامگاه سید ابوالقاسم نباتی\nبرج دوزال\nحمام کردشت\nکلیسای استفانوس مقدس\nکلیسای ننه مریم\nکاروانسرای خواجه نظر\nکلیسای چوپان\nکلیسای مریم مقدس\nامامزاده سید محمد جلفا\nزیارتگاه بابا یعقوب\nقلعه علی بیگ\nحمام تاریخی جلفا"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "File:رودخانه ارس.jpg"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "File:Aras River.jpg\nآسیاب خرابه\nروستای اشتبین"
   },
   "population": {
    "fetched": "2026-10-02",

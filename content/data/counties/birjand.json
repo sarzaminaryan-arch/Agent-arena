@@ -22,6 +22,14 @@
    "url": "https://www.wikidata.org/wiki/Q1286327",
    "value": "بیرجند"
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=33.07,59.255"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +43,46 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286327",
    "value": 59.255
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "darmiyan": "شرق",
+    "khusf": "جنوب‌غرب",
+    "qayenat": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "qayenat",
+    "darmiyan",
+    "khusf"
+   ]
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "رشته کوه باقران\nکوه شاه\nکویر\nرشته کوه مؤمن آباد"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کال"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -45,6 +45,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%DA%AF%D8%B2",
    "value": 4
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=37.33333,59.08333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -58,6 +66,30 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q265274",
    "value": 59.08333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "chenaran": "جنوب",
+    "faruj": "غرب",
+    "kalat": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "chenaran",
+    "faruj",
+    "kalat"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

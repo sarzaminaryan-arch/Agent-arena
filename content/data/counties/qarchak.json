@@ -31,12 +31,28 @@
    "url": "https://www.wikidata.org/wiki/Q5704075",
    "value": "قرچک"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 33
+  },
   "elevation": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B1%DA%86%DA%A9",
    "value": 15.0
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=35.41667,51.56667"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -51,6 +67,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q5704075",
    "value": 51.56667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "pakdasht": "شرق",
+    "pishva": "جنوب‌شرق",
+    "rey": "غرب",
+    "tehran-city": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "pakdasht",
+    "pishva",
+    "rey",
+    "tehran-city"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

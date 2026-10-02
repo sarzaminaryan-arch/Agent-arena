@@ -36,6 +36,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B2%D9%88%DB%8C%D9%86",
    "value": 4
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.43333,49.81667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -49,6 +57,36 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291731",
    "value": 49.81667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "alborz-qazvin": "جنوب‌شرق",
+    "kharadere": "غرب",
+    "rudbar": "شمال‌غرب",
+    "rudsar": "شمال‌شرق",
+    "siahkal": "شمال",
+    "takestan": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "alborz-qazvin",
+    "rudbar",
+    "rudsar",
+    "takestan",
+    "siahkal",
+    "kharadere"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

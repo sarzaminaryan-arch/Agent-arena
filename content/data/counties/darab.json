@@ -29,6 +29,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8",
    "value": 5
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 262
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -43,6 +51,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8",
    "value": 1170.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=28.56667,54.95"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -56,6 +72,60 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270527",
    "value": 54.95
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "estahban": "شمال‌غرب",
+    "hajiabad": "شرق",
+    "khamir": "جنوب",
+    "neyriz": "شمال‌غرب",
+    "sirjan": "شمال‌شرق",
+    "zarrin-dasht": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "zarrin-dasht",
+    "hajiabad",
+    "neyriz",
+    "estahban",
+    "sirjan",
+    "khamir"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "امامزاده پیرمراد داراب\nآتشکده آذرخش\nآتشکده آذرجوی\nبرج شاه نشین"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار فدامی"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دارابگرد\nهخامنشیان\nدحیه کلبی\nساسانیان\nنقش شاپور\nمتر مربع\nپادشاه\nاسب\nکالسکه\nامپراتوری روم\nبخش فورگ\nعلی بن حسین مسعودی"
   },
   "population": {
    "fetched": "2026-10-02",

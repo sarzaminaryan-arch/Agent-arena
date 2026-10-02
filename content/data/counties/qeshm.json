@@ -38,6 +38,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B4%D9%85",
    "value": 4
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 88
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -52,6 +60,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B4%D9%85",
    "value": 30.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=26.81167,55.87778"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -65,6 +81,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270862",
    "value": 55.87778
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "abumusa": "جنوب‌غرب",
+    "bandar-abbas": "شمال‌شرق",
+    "khamir": "شمال‌غرب",
+    "minab": "شرق",
+    "sirik": "شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khamir",
+    "bandar-abbas",
+    "abumusa",
+    "sirik",
+    "minab"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

@@ -45,6 +45,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%AE%D8%B3",
    "value": 1
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.3,60.81667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -58,6 +66,30 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278163",
    "value": 60.81667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "fariman": "جنوب‌غرب",
+    "kalat": "شمال‌غرب",
+    "saleh-abad": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "saleh-abad",
+    "kalat",
+    "fariman"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q1286144",
    "value": "نور"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 102
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.31667,52.0"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286144",
    "value": 52.0
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "amol": "شمال‌شرق",
+    "firuzkuh": "جنوب‌شرق",
+    "nowshahr": "غرب",
+    "shemiranat": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "amol",
+    "nowshahr",
+    "shemiranat",
+    "firuzkuh"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه پولاد بلده\nحرم آب\nمسجد جامع یالو"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پارک جنگلی نور\nپارک جنگلی\nچشمه کشپل چمستان\nجنگل لاویج\nسد و دریاچه الیمالات"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کرسی\nخاور میانه\nناتل\nنیما یوشیج\nپیمد\nلُوس\nهلوپشته\nسوردار\nکالج"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q1277854",
    "value": "آشتیان"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 40
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=34.41667,50.06667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,36 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1277854",
    "value": 50.06667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "arak": "جنوب‌غرب",
+    "farahan": "شمال‌غرب",
+    "jafarabady": "شمال‌شرق",
+    "kahak": "شرق",
+    "mahallat": "جنوب‌شرق",
+    "tafresh": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "arak",
+    "farahan",
+    "tafresh",
+    "jafarabady",
+    "mahallat",
+    "kahak"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

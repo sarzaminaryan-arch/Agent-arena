@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q4808811",
    "value": "ملاثانی"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 31
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.5,48.95"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4808811",
    "value": 48.95
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "ahvaz-city": "جنوب‌غرب",
+    "haftkel": "شرق",
+    "masjed-soleyman": "شمال‌شرق",
+    "ramshir": "جنوب‌شرق",
+    "shushtar": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "ahvaz-city",
+    "haftkel",
+    "shushtar",
+    "masjed-soleyman",
+    "ramshir"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

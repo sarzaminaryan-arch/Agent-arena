@@ -31,12 +31,28 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
    "value": 2
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 13
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
    "value": 2
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.595,53.2075"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -51,6 +67,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q5249029",
    "value": 53.2075
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "behshahr": "شرق",
+    "joybar": "غرب",
+    "neka": "شرق",
+    "sari": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "sari",
+    "joybar",
+    "neka",
+    "behshahr"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

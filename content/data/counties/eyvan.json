@@ -29,12 +29,28 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
    "value": "معتدل و نیمه مرطوب"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 38
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
    "value": 2
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=33.88333,46.18333"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -49,6 +65,64 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291755",
    "value": 46.18333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "chardavol": "جنوب‌شرق",
+    "chavar": "جنوب‌غرب",
+    "dalahu": "شمال",
+    "eslamabad-e-gharb": "شمال‌شرق",
+    "gilangharb": "شمال‌غرب",
+    "ilam-city": "جنوب‌شرق",
+    "karun": "جنوب‌شرق",
+    "sirvan": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "chavar",
+    "gilangharb",
+    "ilam-city",
+    "chardavol",
+    "karun",
+    "sirvan",
+    "dalahu",
+    "eslamabad-e-gharb"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آتشکده سیاهگل"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار هفت قلوی پلیه"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دوره ساسانی\nقبرستان هلوچ\nطاق شیرین و فرهاد\nشهرستان قصر شیرین\nمنطقه رنو\nخوران علیا\nدانیوک ایوان\nبلیین"
   },
   "population": {
    "fetched": "2026-10-02",

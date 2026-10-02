@@ -60,6 +60,14 @@
    "url": "https://www.wikidata.org/wiki/Q1286263",
    "value": 1060
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=35.23833,58.46556"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -73,6 +81,30 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286263",
    "value": 58.46556
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "khalilabad": "غرب",
+    "kuhsorkh": "شمال",
+    "mahvelat": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khalilabad",
+    "kuhsorkh",
+    "mahvelat"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

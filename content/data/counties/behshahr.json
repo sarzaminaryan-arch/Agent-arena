@@ -38,6 +38,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%B4%D9%87%D8%B1",
    "value": 3
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 45
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -52,6 +60,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%B4%D9%87%D8%B1",
    "value": 20.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.65111,53.58833"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -65,6 +81,54 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1282178",
    "value": 53.58833
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "gologah": "شرق",
+    "miandorud": "غرب",
+    "neka": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "neka",
+    "gologah",
+    "miandorud"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آتشکده کاووس\nپل زیر قوسی شهدای اشرف البلاد بهشهر\nباغ عباس‌آباد\nباغ‌های ایرانی"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار اسپه‌او\nرشته‌کوه البرز\nکوه سیاخانی\nجنگل\nآبشار سنگ‌نو\nکوهستان\nرشته کوه‌های البرز"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "شهرستان بهشهر\nاستان مازندران\nهزارجریب\nسپید\nزبان مازندرانی\nدوران ساسانیان\nفهرست آثار ملی ایران\nکاووس\nقباد یکم\nخسرو انوشیروان\nتوس پسر نوذر\nکیانیان"
   },
   "population": {
    "fetched": "2026-10-02",

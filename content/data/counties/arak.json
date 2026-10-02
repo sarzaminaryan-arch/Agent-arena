@@ -31,6 +31,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%A7%DA%A9",
    "value": 3
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=34.13333,49.8"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -44,6 +52,52 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1266092",
    "value": 49.8
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "ashtian": "شمال‌شرق",
+    "farahan": "شمال",
+    "khomeyn": "جنوب",
+    "khondab": "شمال‌غرب",
+    "mahallat": "جنوب‌شرق",
+    "shazand": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "ashtian",
+    "shazand",
+    "farahan",
+    "khomeyn",
+    "mahallat",
+    "khondab"
+   ]
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "چشمه چپقلی\nغار کل\nایوان غار\nغار برآفتاب\nاشترانکوه\nکوه غار یا شاه نشین\nکوه غاغان"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "چناس\nبرآفتاب\nگورآب\nمیشو"
   },
   "population": {
    "fetched": "2026-10-02",

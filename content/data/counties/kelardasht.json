@@ -15,6 +15,22 @@
    "url": "https://www.wikidata.org/wiki/Q6385489",
    "value": "کلاردشت"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 182
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.41667,51.08333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -28,6 +44,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q6385489",
    "value": 51.08333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "abbasabad": "شمال",
+    "chalus": "شرق",
+    "taleghan": "جنوب‌غرب",
+    "tonekabon": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "chalus",
+    "tonekabon",
+    "abbasabad",
+    "taleghan"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

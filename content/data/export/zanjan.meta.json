@@ -6,8 +6,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ابهر",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 80,
+  "sa_cty_neighbors": "kharadere - شرق\nsoltaniyeh - غرب\nkhodabandeh - جنوب‌غرب\ntarom - شمال\navaj - جنوب",
   "sa_cty_population": 151528,
-  "sa_cty_rural_districts": 3
+  "sa_cty_rural_districts": 3,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.26667,49.05"
  },
  "ejrud": {
   "sa_city_latitude": 36.33333,
@@ -16,9 +19,12 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "زرینآباد",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 28,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "soltaniyeh - شرق\nzanjan-city - شمال\nbijar - جنوب‌غرب",
   "sa_cty_population": 36641,
-  "sa_cty_rural_districts": 4
+  "sa_cty_rural_districts": 4,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.33333,48.25"
  },
  "kharadere": {
   "sa_city_elevation": 1570,
@@ -27,7 +33,13 @@
   "sa_cty_area": 407,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خرمدره",
-  "sa_cty_population": 67951
+  "sa_cty_distance_center": 93,
+  "sa_cty_neighbors": "abhar - غرب\ntakestan - جنوب‌شرق\nqazvin-city - شرق\nrudbar - شمال‌شرق\ntarom - شمال",
+  "sa_cty_poi_heritage": "تپه باستانی خالصه",
+  "sa_cty_poi_nature": "سد خلیفه لو خرم دره",
+  "sa_cty_poi_offbeat": "گرمابه یان‌یان",
+  "sa_cty_population": 67951,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.28333,49.21667"
  },
  "khodabandeh": {
   "sa_city_elevation": 2050,
@@ -37,16 +49,22 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قیدار",
   "sa_cty_cities": 5,
+  "sa_cty_distance_center": 69,
   "sa_cty_districts": 4,
-  "sa_cty_population": 164493
+  "sa_cty_neighbors": "soltaniyeh - شمال\nabhar - شمال‌شرق\nkabudarahang-city - جنوب\nrazan-city - جنوب‌شرق\navaj - جنوب‌شرق\nbijar - غرب",
+  "sa_cty_population": 164493,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.0,48.5"
  },
  "mahneshan": {
   "sa_city_latitude": 36.66667,
   "sa_city_longitude": 47.5,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ماهنشان",
+  "sa_cty_distance_center": 68,
   "sa_cty_districts": 2,
-  "sa_cty_population": 39425
+  "sa_cty_neighbors": "takab - جنوب‌غرب\nzanjan-city - شرق\ncharoymaq - شمال‌غرب\nmianeh - شمال\nbijar - جنوب",
+  "sa_cty_population": 39425,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.66667,47.5"
  },
  "soltaniyeh": {
   "sa_city_latitude": 36.25,
@@ -54,9 +72,14 @@
   "sa_cty_area": 1358.8,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سلطانیه",
+  "sa_cty_distance_center": 43,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "ejrud - شمال‌غرب\nkhodabandeh - جنوب\nabhar - شرق",
+  "sa_cty_poi_heritage": "گنبد سلطانیه",
+  "sa_cty_poi_offbeat": "سلطان محمد خدابنده\nمعبد داش‌کسن\nویر\nبنای تاریخی چلبی اوغلی\nسلطانیه\nاسدآباد\nقره‌بلاغ\nحسن کاشی\nایلخانان\nمحمد خدابنده اولجایتو",
   "sa_cty_population": 29480,
-  "sa_cty_rural_districts": 2
+  "sa_cty_rural_districts": 2,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.25,48.5"
  },
  "tarom": {
   "sa_city_elevation": 400,
@@ -65,8 +88,11 @@
   "sa_cty_area": 2235,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آببر",
+  "sa_cty_distance_center": 71,
   "sa_cty_districts": 3,
-  "sa_cty_population": 46641
+  "sa_cty_neighbors": "shaft - شرق\nfuman - شمال‌شرق\nmasal - شمال\nzanjan-city - جنوب‌غرب\nabhar - جنوب\nkharadere - جنوب",
+  "sa_cty_population": 46641,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.95,48.9"
  },
  "zanjan-city": {
   "sa_city_latitude": 36.58333,
@@ -75,6 +101,8 @@
   "sa_cty_center": "زنجان",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
-  "sa_cty_population": 521302
+  "sa_cty_neighbors": "ejrud - جنوب\nmahneshan - غرب\ntarom - شمال‌شرق\nmianeh - شمال‌غرب",
+  "sa_cty_population": 521302,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.58333,48.25"
  }
 }

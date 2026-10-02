@@ -15,12 +15,28 @@
    "url": "https://www.wikidata.org/wiki/Q1270553",
    "value": "بوانات"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 136
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
    "value": 2
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=30.33333,53.66667"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -35,6 +51,44 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270553",
    "value": 53.66667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "abarkuh-city": "شمال",
+    "khatam-city": "شرق",
+    "khorrambid": "غرب",
+    "marvast-city": "شمال‌شرق",
+    "pasargad": "جنوب‌غرب",
+    "sarchahan": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "sarchahan",
+    "pasargad",
+    "khorrambid",
+    "marvast-city",
+    "khatam-city",
+    "abarkuh-city"
+   ]
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مزایجان\nپیرکدو"
   },
   "population": {
    "fetched": "2026-10-02",

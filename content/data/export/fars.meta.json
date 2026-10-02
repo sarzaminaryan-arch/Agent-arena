@@ -6,15 +6,24 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آباده",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 182,
   "sa_cty_districts": 2,
-  "sa_cty_population": 100831
+  "sa_cty_neighbors": "eqlid - جنوب‌شرق\nsemirom - غرب\nshahreza - شمال‌غرب\nashkezar-city - شمال‌شرق",
+  "sa_cty_poi_heritage": "کاروانسرای ایزدخواست\nپل ایزدخواست\nتیمچه صرافیان\nامامزاده سلطان ابراهیم\nعمارت کلاه‌فرنگی آباده\nمسجد امام حسن\nقلعه گبری دهدق",
+  "sa_cty_poi_nature": "سد قوسی ایزدخواست",
+  "sa_cty_poi_offbeat": "سورمق\nچالرز هیث\nدژ ایزدخواست\nتل قصر بهرام سورمق",
+  "sa_cty_population": 100831,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.25,52.5"
  },
  "arsanjan": {
   "sa_city_latitude": 29.8,
   "sa_city_longitude": 53.41667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ارسنجان",
-  "sa_cty_population": 42725
+  "sa_cty_distance_center": 88,
+  "sa_cty_neighbors": "kharameh - جنوب\nsarchahan - شمال‌شرق\npasargad - شمال‌غرب\nbakhtegan - جنوب‌شرق\nzarghan - غرب",
+  "sa_cty_population": 42725,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.8,53.41667"
  },
  "bakhtegan": {
   "sa_city_latitude": 29.63333,
@@ -22,31 +31,44 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آباده طشک",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 129,
   "sa_cty_districts": 2,
-  "sa_cty_population": 32224
+  "sa_cty_neighbors": "arsanjan - شمال‌غرب\nkharameh - غرب\nneyriz - جنوب‌شرق\nsarchahan - شمال\nestahban - جنوب\nkhatam-city - شمال‌شرق",
+  "sa_cty_population": 32224,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.63333,53.86667"
  },
  "bavanat": {
   "sa_city_latitude": 30.33333,
   "sa_city_longitude": 53.66667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بوانات",
+  "sa_cty_distance_center": 136,
   "sa_cty_districts": 2,
-  "sa_cty_population": 50418
+  "sa_cty_neighbors": "sarchahan - جنوب\npasargad - جنوب‌غرب\nkhorrambid - غرب\nmarvast-city - شمال‌شرق\nkhatam-city - شرق\nabarkuh-city - شمال",
+  "sa_cty_poi_offbeat": "مزایجان\nپیرکدو",
+  "sa_cty_population": 50418,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.33333,53.66667"
  },
  "beyza": {
   "sa_city_latitude": 30,
   "sa_city_longitude": 52.41667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بیضا",
+  "sa_cty_distance_center": 45,
   "sa_cty_districts": 2,
-  "sa_cty_population": 39883
+  "sa_cty_neighbors": "marvdasht - شرق\nsepidan - شمال‌غرب\nshiraz - جنوب",
+  "sa_cty_population": 39883,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.0,52.41667"
  },
  "chenar-shahijan": {
   "sa_city_latitude": 29.81667,
   "sa_city_longitude": 51.7,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قائمیه",
-  "sa_cty_population": 45638
+  "sa_cty_distance_center": 83,
+  "sa_cty_neighbors": "kazerun - جنوب\nmamasani - شمال‌غرب\nsepidan - شمال‌شرق\nshiraz - شرق",
+  "sa_cty_population": 45638,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.81667,51.7"
  },
  "darab": {
   "sa_city_elevation": 1170,
@@ -56,8 +78,14 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "داراب",
   "sa_cty_cities": 5,
+  "sa_cty_distance_center": 262,
   "sa_cty_districts": 5,
-  "sa_cty_population": 201489
+  "sa_cty_neighbors": "zarrin-dasht - جنوب‌غرب\nhajiabad - شرق\nneyriz - شمال‌غرب\nestahban - شمال‌غرب\nsirjan - شمال‌شرق\nkhamir - جنوب",
+  "sa_cty_poi_heritage": "امامزاده پیرمراد داراب\nآتشکده آذرخش\nآتشکده آذرجوی\nبرج شاه نشین",
+  "sa_cty_poi_nature": "آبشار فدامی",
+  "sa_cty_poi_offbeat": "دارابگرد\nهخامنشیان\nدحیه کلبی\nساسانیان\nنقش شاپور\nمتر مربع\nپادشاه\nاسب\nکالسکه\nامپراتوری روم\nبخش فورگ\nعلی بن حسین مسعودی",
+  "sa_cty_population": 201489,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.56667,54.95"
  },
  "eqlid": {
   "sa_city_elevation": 2300,
@@ -67,7 +95,13 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اقلید",
   "sa_cty_cities": 4,
-  "sa_cty_population": 93763
+  "sa_cty_distance_center": 142,
+  "sa_cty_neighbors": "abadeh - شمال‌غرب\nkhorrambid - جنوب‌شرق\nabarkuh-city - شرق\nsepidan - جنوب‌غرب",
+  "sa_cty_poi_heritage": "امامزاده سید محمد\nامام زاده",
+  "sa_cty_poi_nature": "تنگ براق\nچشمه محمد رسول‌الله\nرشته کوه\nدریاچه کافتر\nرودخانه شادکام\nرودخانه کر\nچشمه قدمگاه\nچشمه چویو\nپارک جنگلی\nکوه بل",
+  "sa_cty_poi_offbeat": "سانتی‌متر\nخط پهلوی ساسانی\nشهرآشوب\nآسپاس\nباتلاق گور بهرام\nعلی\nمرکز شهر\nپهلوی ساسانی\nشهرستان مرودشت\nسده\nزاگرس\nچشم‌انداز",
+  "sa_cty_population": 93763,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.88333,52.68333"
  },
  "estahban": {
   "sa_city_elevation": 1767,
@@ -76,15 +110,25 @@
   "sa_cty_area": 2652,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "استهبان",
+  "sa_cty_distance_center": 153,
   "sa_cty_districts": 2,
-  "sa_cty_population": 68850
+  "sa_cty_neighbors": "fasa - جنوب‌غرب\nneyriz - شمال‌شرق\nbakhtegan - شمال\nkharameh - شمال‌غرب\nzarrin-dasht - جنوب\ndarab - جنوب‌شرق",
+  "sa_cty_poi_heritage": "قلعه تاریخی دختر\nآتشکده زرتشتیان",
+  "sa_cty_poi_nature": "چشمه قهری\nرودخانه رودبال\nکوه آب باریک\nدم تنگ\nکوه تودج",
+  "sa_cty_poi_offbeat": "آب چکه\nچاه کج\nبِه چینو\nچاه کنده\nسلطان شهباز\nایج\nاب گرم روستای خیر\nغُلبند\nکِهل کل اکبر\nرودبال",
+  "sa_cty_poi_recreation": "استخر بوخوم\nاستخر پایین\nاستخر بالا\nاستخر آب باریک",
+  "sa_cty_population": 68850,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.11667,54.0"
  },
  "evaz": {
   "sa_city_latitude": 27.9,
   "sa_city_longitude": 53.88333,
   "sa_cty_census_year": 1395,
+  "sa_cty_distance_center": 231,
   "sa_cty_districts": 2,
-  "sa_cty_population": 40731
+  "sa_cty_neighbors": "gerash - جنوب‌غرب\njooyom - شمال\nlarestan - جنوب‌شرق",
+  "sa_cty_population": 40731,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.9,53.88333"
  },
  "farashband": {
   "sa_city_elevation": 850,
@@ -93,8 +137,11 @@
   "sa_cty_area": 2500,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فراشبند",
+  "sa_cty_distance_center": 99,
   "sa_cty_districts": 2,
-  "sa_cty_population": 45459
+  "sa_cty_neighbors": "firuzabad - شمال‌شرق\nkhormoj - جنوب‌غرب\nqir-va-karzin - جنوب‌شرق\njam - جنوب\nkazerun - شمال‌غرب",
+  "sa_cty_population": 45459,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.75,52.25"
  },
  "fasa": {
   "sa_city_elevation": 1456,
@@ -104,8 +151,14 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فسا",
   "sa_cty_cities": 6,
+  "sa_cty_distance_center": 140,
   "sa_cty_districts": 3,
-  "sa_cty_population": 205187
+  "sa_cty_neighbors": "estahban - شمال‌شرق\njahrom - جنوب‌غرب\nkhafr - غرب\nsarvestan - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعه ضحاک\nقلعه آشپزخانه ضحاک\nآتشکده ساسانی\nآتشکده سامانی\nقمپ آتشکده\nنقاره خانه\nبازار",
+  "sa_cty_poi_nature": "تنگ مج\nمنطقه حفاظت‌شده میان‌جنگل\nخرمنکوه",
+  "sa_cty_poi_offbeat": "پیشدادیان\nساسانیان\nصفویان\nمغول",
+  "sa_cty_population": 205187,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.96667,53.76667"
  },
  "firuzabad": {
   "sa_city_latitude": 28.91667,
@@ -113,15 +166,23 @@
   "sa_cty_area": 3579,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فیروزآباد",
+  "sa_cty_distance_center": 77,
   "sa_cty_districts": 2,
-  "sa_cty_population": 121417
+  "sa_cty_neighbors": "farashband - جنوب‌غرب\nkavar - شمال‌شرق\nkhafr - شرق\nqir-va-karzin - جنوب‌شرق\nkazerun - شمال‌غرب",
+  "sa_cty_population": 121417,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.91667,52.56667"
  },
  "gerash": {
   "sa_city_latitude": 27.65,
   "sa_city_longitude": 53.65,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گراش",
-  "sa_cty_population": 53907
+  "sa_cty_distance_center": 244,
+  "sa_cty_neighbors": "evaz - شمال‌شرق\nlamerd - جنوب‌غرب\nkhonj - شمال‌غرب\nbastak - جنوب‌شرق",
+  "sa_cty_poi_nature": "کوه ملک تیر",
+  "sa_cty_poi_offbeat": "دشت گراش",
+  "sa_cty_population": 53907,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.65,53.65"
  },
  "jahrom": {
   "sa_city_elevation": 1050,
@@ -131,8 +192,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جهرم",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 147,
   "sa_cty_districts": 3,
-  "sa_cty_population": 228532
+  "sa_cty_neighbors": "fasa - شمال‌شرق\nkhafr - شمال‌غرب\njooyom - جنوب‌شرق\nqir-va-karzin - جنوب‌غرب",
+  "sa_cty_population": 228532,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.64167,53.55833"
  },
  "jooyom": {
   "sa_city_latitude": 28.28,
@@ -140,7 +204,13 @@
   "sa_cty_area": 1875,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جویم",
-  "sa_cty_population": 25081
+  "sa_cty_distance_center": 206,
+  "sa_cty_neighbors": "zarrin-dasht - شرق\nevaz - جنوب\njahrom - شمال‌غرب",
+  "sa_cty_poi_heritage": "آتشکده آذرفرنبغ\nآب‌انبار قطب‌آباد\nحمام خضرجویم\nحمام قطب‌آباد\nقلعه گلی\nکاروانسرای خواجه ابوالحسن\nکاروانسرای رضا قلی خان\nکاروانسرای شتر خانه جویم\nکاروانسرای صفی قلی\nمسجد جامع جویم",
+  "sa_cty_poi_nature": "چشمه سرچشمه جویم",
+  "sa_cty_poi_offbeat": "جویم\nبرکه میان ده جویم",
+  "sa_cty_population": 25081,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.28,53.99722"
  },
  "kavar": {
   "sa_city_elevation": 1589,
@@ -149,7 +219,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کوار",
   "sa_cty_cities": 3,
-  "sa_cty_population": 83883
+  "sa_cty_distance_center": 48,
+  "sa_cty_neighbors": "firuzabad - جنوب‌غرب\nsarvestan - شرق\nshiraz - شمال‌غرب\nkhafr - جنوب‌شرق\nzarghan - شمال",
+  "sa_cty_population": 83883,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.21667,52.73333"
  },
  "kazerun": {
   "sa_city_elevation": 2062,
@@ -158,8 +231,15 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کازرون",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 84,
   "sa_cty_districts": 4,
-  "sa_cty_population": 211341
+  "sa_cty_neighbors": "chenar-shahijan - شمال\nborazjan - جنوب‌غرب\nshiraz - شرق\nfarashband - جنوب‌شرق\nfiruzabad - جنوب‌شرق",
+  "sa_cty_poi_heritage": "امامزاده سید حسین\nباغ نظر\nتپه شادی\nآرامگاه شیخ ابواسحاق کازرونی\nآرامگاه شیخ امین الدین بلیانی\nآرامگاه علامه دوانی\nآرامگاه ناصر دیوان کازرونی",
+  "sa_cty_poi_nature": "تنگ تیکاب\nدریاچه پریشان\nتنگ چوگان\nغار شاپور",
+  "sa_cty_poi_offbeat": "بیشاپور\nشاپور اول\nدشت برم\nسرمشهد\nمجسمه\nشاپور",
+  "sa_cty_poi_recreation": "شهربازی شماره ۲ کازرون",
+  "sa_cty_population": 211341,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.58333,51.66667"
  },
  "khafr": {
   "sa_city_elevation": 1300,
@@ -168,8 +248,15 @@
   "sa_cty_area": 1815,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "باب انار",
+  "sa_cty_distance_center": 96,
   "sa_cty_districts": 2,
-  "sa_cty_population": 42263
+  "sa_cty_neighbors": "sarvestan - شمال\njahrom - جنوب‌شرق\nkavar - شمال‌غرب\nfasa - شرق\nfiruzabad - غرب\nqir-va-karzin - جنوب",
+  "sa_cty_poi_heritage": "خانه‌های بومگردی خانکهدان و بافت قدیمی خاوران\nحمام تاریخی خاوران\nآرامگاه جاماسب حکیم\nبقعه شیخ خلیفه\nکاروانسرای آسمانجرد\nتل گورستان برایجان\nتل نقاره خانه شهر خفر\nگورستان چرگ\nکوچه باغ‌های خاوران\nقنات کرفت، جهرم",
+  "sa_cty_poi_nature": "جنگل شدید خاوران\nغار آب کمونه\nغار تادوان\nتنگ اشکفت",
+  "sa_cty_poi_offbeat": "کرفت\nتادوان\nتل خزانه ای",
+  "sa_cty_poi_recreation": "پارک شیخ احمدی خاوران",
+  "sa_cty_population": 42263,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.95,53.16667"
  },
  "kharameh": {
   "sa_city_elevation": 1500,
@@ -177,8 +264,11 @@
   "sa_city_longitude": 53.31667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خرامه",
+  "sa_cty_distance_center": 77,
   "sa_cty_districts": 2,
-  "sa_cty_population": 54864
+  "sa_cty_neighbors": "sarvestan - جنوب\narsanjan - شمال\nzarghan - شمال‌غرب\nbakhtegan - شرق\nestahban - جنوب‌شرق",
+  "sa_cty_population": 54864,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.5,53.31667"
  },
  "khonj": {
   "sa_city_latitude": 27.93333,
@@ -186,15 +276,21 @@
   "sa_cty_area": 4420,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خنج",
-  "sa_cty_population": 41359
+  "sa_cty_distance_center": 194,
+  "sa_cty_neighbors": "qir-va-karzin - شمال\nmehr - غرب\nlamerd - جنوب\ngerash - جنوب‌شرق\nasaluyeh - جنوب‌غرب",
+  "sa_cty_population": 41359,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.93333,53.08333"
  },
  "khorrambid": {
   "sa_city_latitude": 30.5,
   "sa_city_longitude": 53.08333,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "صفاشهر",
+  "sa_cty_distance_center": 112,
   "sa_cty_districts": 2,
-  "sa_cty_population": 50522
+  "sa_cty_neighbors": "pasargad - جنوب\neqlid - شمال‌غرب\nbavanat - شرق\nmarvdasht - جنوب‌غرب\nabarkuh-city - شمال‌شرق",
+  "sa_cty_population": 50522,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.5,53.08333"
  },
  "lamerd": {
   "sa_city_elevation": 52,
@@ -203,7 +299,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "لامرد",
   "sa_cty_cities": 5,
-  "sa_cty_population": 91782
+  "sa_cty_distance_center": 249,
+  "sa_cty_neighbors": "parsian - جنوب\nasaluyeh - غرب\ngerash - شمال‌شرق\nkhonj - شمال",
+  "sa_cty_population": 91782,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.45,53.18333"
  },
  "larestan": {
   "sa_city_elevation": 950,
@@ -212,7 +311,10 @@
   "sa_cty_area": 10740,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "لار",
-  "sa_cty_population": 213920
+  "sa_cty_distance_center": 277,
+  "sa_cty_neighbors": "evaz - شمال‌غرب\nbastak - جنوب\nzarrin-dasht - شمال\nkhamir - شرق",
+  "sa_cty_population": 213920,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.68333,54.33333"
  },
  "mamasani": {
   "sa_city_latitude": 30.1,
@@ -220,7 +322,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نورآباد",
   "sa_cty_cities": 2,
-  "sa_cty_population": 117527
+  "sa_cty_distance_center": 122,
+  "sa_cty_neighbors": "rostam - شمال\nchenar-shahijan - جنوب‌شرق\nsepidan - شرق\nganaveh - جنوب‌غرب",
+  "sa_cty_population": 117527,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.1,51.4"
  },
  "marvdasht": {
   "sa_city_latitude": 30.08333,
@@ -229,8 +334,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مرودشت",
   "sa_cty_cities": 8,
+  "sa_cty_distance_center": 54,
   "sa_cty_districts": 5,
-  "sa_cty_population": 323434
+  "sa_cty_neighbors": "beyza - غرب\nzarghan - جنوب‌شرق\npasargad - شرق\nkhorrambid - شمال‌شرق",
+  "sa_cty_population": 323434,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.08333,52.66667"
  },
  "mehr": {
   "sa_city_elevation": 1738,
@@ -238,8 +346,11 @@
   "sa_city_longitude": 52.58333,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مهر",
+  "sa_cty_distance_center": 203,
   "sa_cty_districts": 4,
-  "sa_cty_population": 64827
+  "sa_cty_neighbors": "kangan - جنوب‌غرب\njam - شمال‌غرب\nkhonj - شرق\nqir-va-karzin - شمال‌شرق",
+  "sa_cty_population": 64827,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.78333,52.58333"
  },
  "neyriz": {
   "sa_city_elevation": 1595,
@@ -249,16 +360,25 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نیریز",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 177,
   "sa_cty_districts": 3,
-  "sa_cty_population": 113291
+  "sa_cty_neighbors": "estahban - جنوب‌غرب\nbakhtegan - شمال‌غرب\nkhatam-city - شمال\ndarab - جنوب‌شرق\nsirjan - شرق",
+  "sa_cty_population": 113291,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.33333,54.33333"
  },
  "pasargad": {
   "sa_city_latitude": 30.13333,
   "sa_city_longitude": 53.15,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سعادتشهر",
+  "sa_cty_distance_center": 83,
   "sa_cty_districts": 2,
-  "sa_cty_population": 30118
+  "sa_cty_neighbors": "khorrambid - شمال\narsanjan - جنوب‌شرق\nmarvdasht - غرب\nsarchahan - شرق\nzarghan - جنوب‌غرب\nbavanat - شمال‌شرق",
+  "sa_cty_poi_heritage": "آرامگاه کورش بزرگ\nپاسارگاد\nامامزاده حسین\nآرامگاه کوروش\nآرامگاه کوروش بزرگ",
+  "sa_cty_poi_nature": "تنگه بلاغی",
+  "sa_cty_poi_offbeat": "شهید بابایی\nمنابع طبیعی\nشاه مردان\nغروب آفتاب\nقدم زدن",
+  "sa_cty_population": 30118,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.13333,53.15"
  },
  "qir-va-karzin": {
   "sa_city_elevation": 250,
@@ -266,8 +386,14 @@
   "sa_city_longitude": 52.91667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قیر",
+  "sa_cty_distance_center": 149,
   "sa_cty_districts": 4,
-  "sa_cty_population": 71203
+  "sa_cty_neighbors": "khonj - جنوب\nmehr - جنوب‌غرب\njahrom - شمال‌شرق\nkhafr - شمال\nfiruzabad - شمال‌غرب\njam - جنوب‌غرب\nfarashband - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعه گبری\nسنگ‌نگاره قیر و کارزین\nمسجدجامع کارزین\nآب‌انبار\nقلعه قلات",
+  "sa_cty_poi_nature": "سرچشمه\nسد سلمان فارسی",
+  "sa_cty_poi_offbeat": "تُل قندی\nشهرِ میری\nشاه علمدار",
+  "sa_cty_population": 71203,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.31667,52.91667"
  },
  "rostam": {
   "sa_city_elevation": 920,
@@ -276,8 +402,13 @@
   "sa_cty_area": 1054,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مصیری",
+  "sa_cty_distance_center": 139,
   "sa_cty_districts": 2,
-  "sa_cty_population": 44386
+  "sa_cty_neighbors": "basht - غرب\nmamasani - جنوب\ndena - شمال\nsepidan - جنوب‌شرق",
+  "sa_cty_poi_nature": "File:سراب سیاه.jpg",
+  "sa_cty_poi_offbeat": "File:مزرعه کلزا دهنو مرکزی.jpg\nFile:شالیزارهای دهنو مرکزی.jpg\nFile:شقایق شهرستان رستم.jpg\nFile:طبیعت زیبای دورگ دهنو محمدرضا اتابک.jpg",
+  "sa_cty_population": 44386,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.4,51.41667"
  },
  "sarchahan": {
   "sa_city_elevation": 2450,
@@ -287,8 +418,13 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کرهای",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 126,
   "sa_cty_districts": 2,
-  "sa_cty_population": 23129
+  "sa_cty_neighbors": "bavanat - شمال\narsanjan - جنوب‌غرب\npasargad - غرب\nbakhtegan - جنوب\nkhatam-city - شرق",
+  "sa_cty_poi_heritage": "تپه جمال‌آباد سرچهان\nگورستان قنات ابراهیم\nگورستان شاهزاده ابوالقاسم\nتپه یال\nتپه‌های آلتاخونی\nتل گورستان دشت رئیس\nگورستان صادق‌آباد\nتل گورستان نویه\nمحوطه کره\nخرفخانه‌های چرکه گارزه\nتل گورستان قاسم‌آباد\nتل و گورستان محمودآباد",
+  "sa_cty_poi_offbeat": "تل بزرگ میاق\nتل سلمه\nتل اعظم قلات\nتل شبدری\nتل ریگی کره‌ای\nتل مگسی\nتل آزاده",
+  "sa_cty_population": 23129,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.13333,53.68333"
  },
  "sarvestan": {
   "sa_city_latitude": 29.2749,
@@ -296,8 +432,13 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سروستان",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 76,
   "sa_cty_districts": 2,
-  "sa_cty_population": 38114
+  "sa_cty_neighbors": "kharameh - شمال\nkhafr - جنوب\nkavar - غرب\nfasa - جنوب‌شرق",
+  "sa_cty_poi_heritage": "کاخ سروستان\nآتشکدهٔ فیروزآباد\nکاخ ساسانی سروستان\nکاخ فیروزآباد",
+  "sa_cty_poi_offbeat": "بهرام پنجم ساسانی\nبهرام گور\nشهرستان شیراز",
+  "sa_cty_population": 38114,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.2749,53.21967"
  },
  "sepidan": {
   "sa_city_latitude": 30.15,
@@ -305,9 +446,12 @@
   "sa_cty_area": 1935,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اردکان",
+  "sa_cty_distance_center": 73,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "beyza - جنوب‌شرق\nchenar-shahijan - جنوب‌غرب\nmamasani - غرب\nrostam - شمال‌غرب\neqlid - شمال‌شرق",
   "sa_cty_population": 91049,
-  "sa_cty_rural_districts": 5
+  "sa_cty_rural_districts": 5,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.15,52.1"
  },
  "shiraz": {
   "sa_city_elevation": 1585,
@@ -318,7 +462,12 @@
   "sa_cty_center": "شیراز",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
-  "sa_cty_population": 1869001
+  "sa_cty_neighbors": "zarghan - شمال‌شرق\nbeyza - شمال\nkavar - جنوب‌شرق\nchenar-shahijan - غرب\nkazerun - غرب",
+  "sa_cty_poi_heritage": "حرم شاهچراغ\nارگ کریم خان زند\nحمام وکیل\nقلعه کریمخانی\nبازار وکیل\nموزه پارس\nآرامگاه کریم خان زند\nآرامگاه حافظ\nآرامگاه سعدی\nباغ تخت\nباغ ملی\nباغ نظر",
+  "sa_cty_poi_nature": "دریاچه مهارلو\nدریاچه ارژن\nکوه دراک\nکوه بمو\nباباکوهی\nرودخانه خشک",
+  "sa_cty_poi_offbeat": "قلات\nمحله قصردشت",
+  "sa_cty_population": 1869001,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.61,52.53"
  },
  "zarghan": {
   "sa_city_latitude": 29.73333,
@@ -327,8 +476,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "زرقان",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 35,
   "sa_cty_districts": 2,
-  "sa_cty_population": 56104
+  "sa_cty_neighbors": "shiraz - جنوب‌غرب\nmarvdasht - شمال‌غرب\nkharameh - جنوب‌شرق\npasargad - شمال‌شرق\narsanjan - شرق\nkavar - جنوب",
+  "sa_cty_population": 56104,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.73333,52.86667"
  },
  "zarrin-dasht": {
   "sa_city_elevation": 1021,
@@ -337,7 +489,10 @@
   "sa_cty_area": 4569,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "حاجیآباد",
+  "sa_cty_distance_center": 226,
   "sa_cty_districts": 2,
-  "sa_cty_population": 73199
+  "sa_cty_neighbors": "jooyom - غرب\ndarab - شمال‌شرق\nlarestan - جنوب\nestahban - شمال",
+  "sa_cty_population": 73199,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.33333,54.33333"
  }
 }

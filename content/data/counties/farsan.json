@@ -22,6 +22,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
    "value": 3
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 23
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -36,6 +44,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
    "value": 38.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=32.25,50.56667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -49,6 +65,58 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278699",
    "value": 50.56667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "ardal": "جنوب‌غرب",
+    "ben": "شمال",
+    "kiar": "جنوب‌شرق",
+    "kuhrang": "غرب",
+    "shahrekord": "شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "shahrekord",
+    "kiar",
+    "ben",
+    "ardal",
+    "kuhrang"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه جونقان\nمسجد جامع فارسان\nتپه چغاپنجعلی"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار کردیت\nپیرغار\nده‌چشمه\nکتیبه‌های مشروطیت پیر غار\nغار سراب"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "جونقان\nعلیقلی‌خان سردار اسعد\nطاق سنگی خان اوی\nامیدآباد\nفارسان"
   },
   "population": {
    "fetched": "2026-10-02",

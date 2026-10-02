@@ -31,6 +31,22 @@
    "url": "https://www.wikidata.org/wiki/Q1286550",
    "value": "اشکذر"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 75
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=32.0,53.66667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -44,6 +60,48 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286550",
    "value": 53.66667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "abadeh": "جنوب‌غرب",
+    "meybod-city": "شمال‌شرق",
+    "taft-city": "جنوب",
+    "varzaneh": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "meybod-city",
+    "taft-city",
+    "varzaneh",
+    "abadeh"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مسجد حاجی رجب علی اشکذر\nخانه نداف زاده\nحمام توده\nمسجد ریگ مجومرد\nمسجد جامع فیروزآباد"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آسیاب‌آبی اشکذر"
   },
   "population": {
    "fetched": "2026-10-02",

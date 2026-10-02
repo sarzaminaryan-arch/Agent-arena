@@ -22,12 +22,28 @@
    "url": "https://www.wikidata.org/wiki/Q1117046",
    "value": "هرات"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 191
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%AA%D9%85",
    "value": 2
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=30.16667,54.33333"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -42,6 +58,60 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1117046",
    "value": 54.33333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bakhtegan": "جنوب‌غرب",
+    "bavanat": "غرب",
+    "marvast-city": "شمال",
+    "neyriz": "جنوب",
+    "sarchahan": "غرب",
+    "shahr-e-babak": "شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "marvast-city",
+    "shahr-e-babak",
+    "sarchahan",
+    "bavanat",
+    "bakhtegan",
+    "neyriz"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "منطقه حفاظت شده باغ شادی\nقلعه محمد کریم خان\nقلعه محمد باقری هرات\nقلعه هاشم‌آباد\nخانه دکتر صالحی\nخانه محمد ابراهیم صداقت\nمسجد هاشم‌آباد\nآرامگاه معروف به شیخ کله پریده"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "بوستان سرچشمه نهر مسیح"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پناهگاه حیات وحش بروئیه\nقدمگاه"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q2610447",
    "value": "هویزه"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 61
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.4623,48.07396"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,46 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2610447",
    "value": 48.07396
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "dasht-azadegan": "شمال",
+    "hamidiyeh": "شرق",
+    "khorramshahr": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "dasht-azadegan",
+    "hamidiyeh",
+    "khorramshahr"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مزار شهدای هویزه\nمقبره ۴۰ عالم جلیل القدر\nپارک باغ وحش"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "گذرگاه مرزی شلمچه\nطلائیه\nهورالعظیم\nآثار جنگ تحمیلی\n[[گذرگاه مرزی شلمچه]]\n[[طلائیه]]\nقدمگاه ابراهیم الخلیل\n[[هورالعظیم]]"
   },
   "population": {
    "fetched": "2026-10-02",

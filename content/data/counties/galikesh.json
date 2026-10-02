@@ -31,6 +31,22 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%A7%D9%84%DB%8C%DA%A9%D8%B4",
    "value": 2
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 114
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=37.3,55.65"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -44,6 +60,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q6544827",
    "value": 55.65
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "garmeh": "جنوب‌شرق",
+    "gonbad-e-kavus": "غرب",
+    "kalaleh": "شمال",
+    "minudasht": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "minudasht",
+    "kalaleh",
+    "gonbad-e-kavus",
+    "garmeh"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

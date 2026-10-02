@@ -4,8 +4,13 @@
   "sa_city_longitude": 52.51667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آرادان",
+  "sa_cty_distance_center": 120,
   "sa_cty_districts": 2,
-  "sa_cty_population": 13884
+  "sa_cty_neighbors": "garmsar - جنوب‌غرب\ndamavand - شمال‌غرب\nfiruzkuh - شمال\nsorkheh - شمال‌شرق",
+  "sa_cty_poi_heritage": "بازار آرادان\nمسجد جامع و حسینیه آرادان\nقلعه آرادان\nموزه قلعه یاتری\nقلعه پاده\nامامزاده شاه نظر\nامامزاده علی‌اکبر\nامامزاده ذوالفقار\nآب‌انبار آرادان\nآب‌انبار علی‌آباد آرادان\nآب‌انبار قلعه خرابه",
+  "sa_cty_poi_offbeat": "ده نمک\nرامه",
+  "sa_cty_population": 13884,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.15,52.51667"
  },
  "damghan": {
   "sa_city_latitude": 35.5,
@@ -13,8 +18,14 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دامغان",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 74,
   "sa_cty_districts": 2,
-  "sa_cty_population": 94190
+  "sa_cty_neighbors": "semnan-city - جنوب‌غرب\nmehdishahr - غرب\nshahrud - شرق\nkordkuy - شمال",
+  "sa_cty_poi_heritage": "تاریخانه\nتپه شمس‌آباد\nتپه شیر آشیان\nتپه‌حصار تویه رودبار\nتپه قلعه پنجم\nتپه باغ بالا\nتپه تو رودبار\nتپه زیر چکل قلعه چه\nتپه سردور چاه\nتپه سفید عباس‌آباد\nتپه شماره ۲ نریشم\nتپه کلاته گوش",
+  "sa_cty_poi_nature": "تپه چشمه کبود\nتپه تیل تغار\nقلعه تپه بادله کوه",
+  "sa_cty_poi_offbeat": "منطقه گولر کن",
+  "sa_cty_population": 94190,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,54.33333"
  },
  "garmsar": {
   "sa_city_latitude": 35,
@@ -22,8 +33,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گرمسار",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 135,
   "sa_cty_districts": 2,
-  "sa_cty_population": 77421
+  "sa_cty_neighbors": "aradan - شمال‌شرق\nvaramin - غرب\npishva - شمال‌غرب\naran-bidgol - جنوب",
+  "sa_cty_population": 77421,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.0,52.33333"
  },
  "mehdishahr": {
   "sa_city_latitude": 35.7,
@@ -31,8 +45,14 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مهدیشهر",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 90,
   "sa_cty_districts": 2,
-  "sa_cty_population": 47475
+  "sa_cty_neighbors": "sorkheh - جنوب‌غرب\nfiruzkuh - غرب\nsavadkuh - شمال‌غرب\nneka - شمال\ndamghan - شرق",
+  "sa_cty_poi_heritage": "آب انبار تاریخی مهدی‌شهر\nامامزاده عبدالله شهمیرزاد\nامامزاده قاسم\nامامزاده یحیی شهمیرزاد\nبقعه شیخ شهمیرزاد\nحسینیه المهدی\nشکارگاه ملاده\nشیرقلعه\nعمارت کیپور\nکافرقلعه\nمسجد پامنار\nموزه عشایری ایل سنگسر",
+  "sa_cty_poi_nature": "جنگل فینسک\nقله نیزوا\nغار دربند",
+  "sa_cty_poi_offbeat": "چاشم\nچهل تن\nدرجزین\nرودبارک\nدیواره صخره‌نوردی سنگسر سل\nملاده\nمنطقه ملی گردشگری رودبارک\nمنطقه حفاظت شده پرور",
+  "sa_cty_population": 47475,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.7,53.35"
  },
  "meyami": {
   "sa_city_latitude": 36.63333,
@@ -40,8 +60,13 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "میامی",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 269,
   "sa_cty_districts": 2,
-  "sa_cty_population": 38718
+  "sa_cty_neighbors": "garmeh - شمال‌شرق\nminudasht - شمال‌غرب\nramian - شمال‌غرب\ndavarzan - شرق\nshahrud - جنوب",
+  "sa_cty_poi_heritage": "کاروانسراهای میان‌دشت",
+  "sa_cty_poi_offbeat": "ابن یمین فریومدی",
+  "sa_cty_population": 38718,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63333,56.0"
  },
  "semnan-city": {
   "sa_city_elevation": 1117,
@@ -50,7 +75,11 @@
   "sa_cty_area": 22119,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سمنان",
-  "sa_cty_population": 196521
+  "sa_cty_neighbors": "damghan - شمال‌شرق\nsorkheh - شمال‌غرب",
+  "sa_cty_poi_heritage": "مسجد جامع سمنان\nمنار سلجوقی مسجد جامع\nمسجد امام سمنان\nدروازه ارگ سمنان\nبازار سمنان\nبازار شیخ علاءالدوله\nبرج چهل‌دختران\nقلعه‌های سارو\nقلعه پاچنار\nقلعه کوشمغان\nقلعه زاوغان\nقلعه کهن‌دژ",
+  "sa_cty_poi_offbeat": "گرمابه پهنه سمنان\nبنای دارالحکومه\nمحله ملحی\nدژ چرمینه\nکاروان سرای شاه سلیمانی\nمعدن نمک ملحه\nدلفین‌های نمکی",
+  "sa_cty_population": 196521,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.98333,53.81667"
  },
  "shahrud": {
   "sa_city_latitude": 35.5,
@@ -58,8 +87,11 @@
   "sa_cty_area": 43405,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شاهرود",
+  "sa_cty_distance_center": 163,
   "sa_cty_districts": 2,
-  "sa_cty_population": 218628
+  "sa_cty_neighbors": "damghan - غرب\nmeyami - شمال\naliabad-e-katul - شمال",
+  "sa_cty_population": 218628,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,55.5"
  },
  "sorkheh": {
   "sa_city_elevation": 1100,
@@ -69,6 +101,9 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرخه",
   "sa_cty_cities": 2,
-  "sa_cty_population": 15523
+  "sa_cty_distance_center": 75,
+  "sa_cty_neighbors": "mehdishahr - شمال‌شرق\nfiruzkuh - شمال‌غرب\naradan - جنوب‌غرب\nsemnan-city - جنوب‌شرق",
+  "sa_cty_population": 15523,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.45,53.2167"
  }
 }

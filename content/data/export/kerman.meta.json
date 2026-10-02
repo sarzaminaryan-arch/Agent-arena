@@ -5,7 +5,10 @@
   "sa_cty_area": 2140,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "انار",
-  "sa_cty_population": 36897
+  "sa_cty_distance_center": 260,
+  "sa_cty_neighbors": "rafsanjan - جنوب‌شرق\nshahr-e-babak - جنوب‌غرب\nmehriz-city - شمال‌غرب\nkuhbanan - شمال‌شرق\nmarvast-city - غرب\nbafq-city - شمال",
+  "sa_cty_population": 36897,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.85,55.35"
  },
  "anbarabad": {
   "sa_city_elevation": 3,
@@ -15,8 +18,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "عنبرآباد",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 215,
   "sa_cty_districts": 2,
-  "sa_cty_population": 82438
+  "sa_cty_neighbors": "kahnoj - جنوب‌غرب\njiroft - شمال‌غرب\njazmourian - جنوب‌شرق\nbam - شمال\nfaryab - غرب\nrigan - شرق",
+  "sa_cty_population": 82438,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.4,57.98333"
  },
  "arzuiyeh": {
   "sa_city_elevation": 1044,
@@ -25,8 +31,11 @@
   "sa_cty_area": 4980,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ارزوئیه",
+  "sa_cty_distance_center": 209,
   "sa_cty_districts": 2,
-  "sa_cty_population": 38510
+  "sa_cty_neighbors": "baft - شرق\nbardsir - شمال\nsirjan - شمال‌غرب\nhajiabad - جنوب‌غرب",
+  "sa_cty_population": 38510,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.1,56.3728"
  },
  "baft": {
   "sa_city_elevation": 2300,
@@ -35,14 +44,24 @@
   "sa_cty_area": 6465,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بافت",
-  "sa_cty_population": 84103
+  "sa_cty_distance_center": 198,
+  "sa_cty_neighbors": "arzuiyeh - غرب\nrabor - شرق\nbardsir - شمال\nfaryab - جنوب‌شرق",
+  "sa_cty_poi_heritage": "File:قلعه قنجعلی خان.jpg\nقلعه غنجعلیخان افشار",
+  "sa_cty_poi_nature": "File:کوه شاه کیسکان.jpg\nکوه شاه\nغار جفریز\nآبشار سه کاسه\nسد بافت\nآبشار بنگان",
+  "sa_cty_poi_offbeat": "File:Baft-castle.jpg\nگوغر\nمنطقه حفاظت شده انجرک\nبزنجان\nخافکوییه",
+  "sa_cty_poi_recreation": "پارک ملی خبر",
+  "sa_cty_population": 84103,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.1,56.51667"
  },
  "bam": {
   "sa_city_latitude": 29.06667,
   "sa_city_longitude": 58.23333,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بم",
-  "sa_cty_population": 228241
+  "sa_cty_distance_center": 143,
+  "sa_cty_neighbors": "narmashir - شمال‌شرق\njiroft - غرب\nanbarabad - جنوب\nrigan - جنوب‌شرق\nkerman - شمال",
+  "sa_cty_population": 228241,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.06667,58.23333"
  },
  "bardsir": {
   "sa_city_elevation": 2047,
@@ -52,8 +71,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بردسیر",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 147,
   "sa_cty_districts": 4,
-  "sa_cty_population": 81983
+  "sa_cty_neighbors": "rabor - جنوب‌شرق\nbaft - جنوب\narzuiyeh - جنوب\nrafsanjan - شمال‌غرب\nsirjan - غرب\nzarand - شمال\nkerman - شمال‌شرق",
+  "sa_cty_population": 81983,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.83333,56.58333"
  },
  "fahraj": {
   "sa_city_elevation": 30,
@@ -62,8 +84,13 @@
   "sa_cty_area": 4550,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فهرج",
+  "sa_cty_distance_center": 178,
   "sa_cty_districts": 2,
-  "sa_cty_population": 67096
+  "sa_cty_neighbors": "narmashir - غرب\nrigan - جنوب\nzahedan - شرق",
+  "sa_cty_poi_heritage": "برج معاذ",
+  "sa_cty_poi_offbeat": "میل نادری\nدودمان سلجوق\nافشاریان\nشاهنشاهی ساسانی",
+  "sa_cty_population": 67096,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.13333,59.21667"
  },
  "faryab": {
   "sa_city_elevation": 600,
@@ -72,8 +99,11 @@
   "sa_cty_area": 2427,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فاریاب",
+  "sa_cty_distance_center": 249,
   "sa_cty_districts": 2,
-  "sa_cty_population": 34000
+  "sa_cty_neighbors": "kahnoj - جنوب‌شرق\nrudan - جنوب\nanbarabad - شرق\njiroft - شمال‌شرق\nbaft - شمال‌غرب\nhajiabad - غرب",
+  "sa_cty_population": 34000,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.2,57.21667"
  },
  "gonbaki": {
   "sa_cty_area": 2292,
@@ -86,7 +116,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "زهکلوت",
   "sa_cty_cities": 2,
-  "sa_cty_population": 43867
+  "sa_cty_distance_center": 271,
+  "sa_cty_neighbors": "rudbar-e-jonub - جنوب‌شرق\nanbarabad - شمال‌غرب\nqaleh-ganj - جنوب‌غرب\nkahnoj - غرب\nrigan - شمال‌شرق",
+  "sa_cty_population": 43867,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.95,58.56667"
  },
  "jiroft": {
   "sa_city_latitude": 28.83333,
@@ -95,8 +128,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جیرفت",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 172,
   "sa_cty_districts": 4,
-  "sa_cty_population": 308858
+  "sa_cty_neighbors": "anbarabad - جنوب‌شرق\nbam - شرق\nrabor - شمال‌غرب\nfaryab - جنوب‌غرب",
+  "sa_cty_population": 308858,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.83333,57.58333"
  },
  "kahnoj": {
   "sa_city_elevation": 35,
@@ -105,7 +141,10 @@
   "sa_cty_area": 2109,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کهنوج",
-  "sa_cty_population": 95848
+  "sa_cty_distance_center": 267,
+  "sa_cty_neighbors": "manujan - جنوب‌غرب\nqaleh-ganj - جنوب\nfaryab - شمال‌غرب\nanbarabad - شمال‌شرق\njazmourian - شرق",
+  "sa_cty_population": 95848,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.95,57.7"
  },
  "kerman": {
   "sa_city_elevation": 1756,
@@ -116,7 +155,9 @@
   "sa_cty_center": "کرمان",
   "sa_cty_cities": 11,
   "sa_cty_districts": 5,
-  "sa_cty_population": 738724
+  "sa_cty_neighbors": "ravar - شمال‌غرب\nnarmashir - جنوب‌شرق\nbam - جنوب\nbardsir - غرب\nrabor - جنوب‌غرب",
+  "sa_cty_population": 738724,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.33333,58.0"
  },
  "kuhbanan": {
   "sa_city_latitude": 31.33639,
@@ -124,9 +165,12 @@
   "sa_cty_area": 2236,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کوهبنان",
+  "sa_cty_distance_center": 199,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "zarand - جنوب\nbehabad-city - شمال\nravar - شرق\nanar - جنوب‌غرب",
   "sa_cty_population": 21205,
-  "sa_cty_rural_districts": 2
+  "sa_cty_rural_districts": 2,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.33639,56.27278"
  },
  "manujan": {
   "sa_city_elevation": 342,
@@ -135,8 +179,11 @@
   "sa_cty_area": 3422,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "منوجان",
+  "sa_cty_distance_center": 315,
   "sa_cty_districts": 2,
-  "sa_cty_population": 65705
+  "sa_cty_neighbors": "qaleh-ganj - شرق\nrudan - غرب\nkahnoj - شمال‌شرق\nminab - جنوب",
+  "sa_cty_population": 65705,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.53333,57.5"
  },
  "narmashir": {
   "sa_city_latitude": 29.26667,
@@ -144,8 +191,12 @@
   "sa_cty_area": 671,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نرماشیر",
+  "sa_cty_distance_center": 138,
   "sa_cty_districts": 2,
-  "sa_cty_population": 54228
+  "sa_cty_neighbors": "fahraj - شرق\nbam - جنوب‌غرب\nkerman - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعه پیرماه شاه\nقلعه شهید نرماشیر",
+  "sa_cty_population": 54228,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.26667,58.73333"
  },
  "qaleh-ganj": {
   "sa_city_latitude": 27.52417,
@@ -154,8 +205,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قلعهگنج",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 313,
   "sa_cty_districts": 3,
-  "sa_cty_population": 76495
+  "sa_cty_neighbors": "manujan - غرب\nkahnoj - شمال\njazmourian - شمال‌شرق\nbashagard - جنوب",
+  "sa_cty_population": 76495,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.52417,57.87833"
  },
  "rabor": {
   "sa_city_elevation": 2343,
@@ -164,8 +218,11 @@
   "sa_cty_area": 1854,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رابر",
+  "sa_cty_distance_center": 155,
   "sa_cty_districts": 2,
-  "sa_cty_population": 35362
+  "sa_cty_neighbors": "baft - غرب\njiroft - جنوب‌شرق\nbardsir - شمال‌غرب\nkerman - شمال‌شرق",
+  "sa_cty_population": 35362,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.25,56.98333"
  },
  "rafsanjan": {
   "sa_city_elevation": 1469,
@@ -174,8 +231,11 @@
   "sa_cty_area": 7678,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رفسنجان",
+  "sa_cty_distance_center": 198,
   "sa_cty_districts": 4,
-  "sa_cty_population": 311214
+  "sa_cty_neighbors": "zarand - شمال‌شرق\nanar - شمال‌غرب\nbardsir - جنوب‌شرق\nshahr-e-babak - غرب\nsirjan - جنوب",
+  "sa_cty_population": 311214,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.53333,55.95"
  },
  "ravar": {
   "sa_city_elevation": 1181,
@@ -185,8 +245,12 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "راور",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 135,
   "sa_cty_districts": 2,
-  "sa_cty_population": 43198
+  "sa_cty_neighbors": "kuhbanan - غرب\nzarand - جنوب‌غرب\nkerman - جنوب‌شرق",
+  "sa_cty_poi_offbeat": "گندم بریان",
+  "sa_cty_population": 43198,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.3,57.15"
  },
  "rigan": {
   "sa_city_latitude": 28.66889,
@@ -195,9 +259,12 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "محمدآباد",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 212,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "fahraj - شمال\nbam - شمال‌غرب\njazmourian - جنوب‌غرب\nanbarabad - غرب\niranshahr - جنوب‌شرق",
   "sa_cty_population": 88410,
-  "sa_cty_rural_districts": 9
+  "sa_cty_rural_districts": 9,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.66889,59.07333"
  },
  "rudbar-e-jonub": {
   "sa_city_latitude": 27.57511,
@@ -205,7 +272,10 @@
   "sa_cty_area": 1816,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رودبار",
-  "sa_cty_population": 105992
+  "sa_cty_distance_center": 320,
+  "sa_cty_neighbors": "dalgan - شرق\njazmourian - شمال‌غرب\nbashagard - جنوب‌غرب",
+  "sa_cty_population": 105992,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.57511,58.93533"
  },
  "shahr-e-babak": {
   "sa_city_latitude": 30.25,
@@ -213,8 +283,14 @@
   "sa_cty_area": 14096,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شهربابک",
+  "sa_cty_distance_center": 296,
   "sa_cty_districts": 2,
-  "sa_cty_population": 103975
+  "sa_cty_neighbors": "khatam-city - غرب\nanar - شمال‌شرق\nsirjan - جنوب‌شرق\nrafsanjan - شرق",
+  "sa_cty_poi_heritage": "عمارت موسی خانی\nپاقلعه",
+  "sa_cty_poi_nature": "غار ایوب",
+  "sa_cty_poi_offbeat": "میمند\nریواس\nبخش دهج\nجوزم\nمسینان\nمدوار\nیونسکو",
+  "sa_cty_population": 103975,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.25,54.91667"
  },
  "sirjan": {
   "sa_city_latitude": 29.5,
@@ -222,8 +298,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سیرجان",
   "sa_cty_cities": 6,
+  "sa_cty_distance_center": 258,
   "sa_cty_districts": 5,
-  "sa_cty_population": 324103
+  "sa_cty_neighbors": "arzuiyeh - جنوب‌شرق\nshahr-e-babak - شمال‌غرب\nbardsir - شرق\nneyriz - غرب\ndarab - جنوب‌غرب\nrafsanjan - شمال\nhajiabad - جنوب",
+  "sa_cty_population": 324103,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.5,55.5"
  },
  "zarand": {
   "sa_city_elevation": 1650,
@@ -233,7 +312,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "زرند",
   "sa_cty_cities": 5,
+  "sa_cty_distance_center": 162,
   "sa_cty_districts": 2,
-  "sa_cty_population": 138133
+  "sa_cty_neighbors": "kuhbanan - شمال\nrafsanjan - جنوب‌غرب\nravar - شمال‌شرق\nbardsir - جنوب",
+  "sa_cty_population": 138133,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.85,56.41667"
  }
 }

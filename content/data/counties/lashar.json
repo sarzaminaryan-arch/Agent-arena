@@ -15,6 +15,22 @@
    "url": "https://www.wikidata.org/wiki/Q109670507",
    "value": "اسپکه"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 306
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=26.73333,60.16667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -28,6 +44,58 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q109670507",
    "value": 60.16667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bampur": "شمال",
+    "fanuj": "غرب",
+    "nik-shahr": "جنوب",
+    "qasr-e-qand": "جنوب‌شرق",
+    "sarbaz": "شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "bampur",
+    "nik-shahr",
+    "fanuj",
+    "qasr-e-qand",
+    "sarbaz"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه اسپکه\nقلعه هریدوک"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آبشار گرموسی"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "ایرانشهر\nزاهدان\nبخش لاشار\nنیک‌شهر\nهریدوک\nکوپچ\nکشیگان\nرود\nمرکز دهستان\nجاذبه‌های گردشگری\nگیاهان دارویی\nچابهار"
   }
  },
  "name": "لاشار",

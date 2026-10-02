@@ -45,6 +45,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DB%8C%D8%B2%D8%AF",
    "value": 2
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.88333,54.45"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -58,6 +66,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1292178",
    "value": 54.45
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bafq-city": "شرق",
+    "mehriz-city": "جنوب",
+    "meybod-city": "شمال‌غرب",
+    "taft-city": "جنوب‌غرب",
+    "zarch-city": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "zarch-city",
+    "meybod-city",
+    "taft-city",
+    "mehriz-city",
+    "bafq-city"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

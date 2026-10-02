@@ -7,7 +7,9 @@
   "sa_cty_center": "بجستان",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 31207
+  "sa_cty_neighbors": "gonabad - شرق\nferdows - جنوب\nkhalilabad - شمال\nmahvelat - شمال‌شرق\nsarayan - جنوب‌شرق\neshqabad - غرب",
+  "sa_cty_population": 31207,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.51627,58.18332"
  },
  "bakharz": {
   "sa_city_latitude": 35.005,
@@ -17,7 +19,9 @@
   "sa_cty_center": "باخرز",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 54615
+  "sa_cty_neighbors": "taybad - جنوب‌شرق\nkhaf - جنوب‌غرب\nzaveh - شمال‌غرب\nroshtkhar - غرب\nfariman - شمال‌غرب\nsaleh-abad - شمال‌شرق",
+  "sa_cty_population": 54615,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.005,60.33361"
  },
  "bardaskan": {
   "sa_cty_area": 7126,
@@ -39,7 +43,9 @@
   "sa_cty_center": "چناران",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
-  "sa_cty_population": 155013
+  "sa_cty_neighbors": "golbahar - جنوب\nkalat - شرق\ndargaz - شمال\nfaruj - شمال‌غرب",
+  "sa_cty_population": 155013,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.66667,59.15"
  },
  "dargaz": {
   "sa_city_latitude": 37.33333,
@@ -49,7 +55,9 @@
   "sa_cty_center": "درگز",
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
-  "sa_cty_population": 72355
+  "sa_cty_neighbors": "chenaran - جنوب\nfaruj - غرب\nkalat - جنوب‌شرق",
+  "sa_cty_population": 72355,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.33333,59.08333"
  },
  "davarzan": {
   "sa_city_latitude": 36.31667,
@@ -58,7 +66,9 @@
   "sa_cty_center": "داورزن",
   "sa_cty_cities": 2,
   "sa_cty_districts": 1,
-  "sa_cty_population": 21911
+  "sa_cty_neighbors": "joghatai - شمال\nsheshtamad - جنوب‌شرق\nmeyami - غرب",
+  "sa_cty_population": 21911,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.31667,57.08333"
  },
  "fariman": {
   "sa_city_latitude": 35.7,
@@ -68,7 +78,9 @@
   "sa_cty_center": "فریمان",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
-  "sa_cty_population": 99001
+  "sa_cty_neighbors": "zaveh - جنوب‌غرب\ntorbat-heydarieh - جنوب‌غرب\nbakharz - جنوب‌شرق\ngolbahar - شمال‌غرب\nsarakhs - شمال‌شرق\nsaleh-abad - شرق",
+  "sa_cty_population": 99001,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.7,59.83333"
  },
  "firuzeh": {
   "sa_city_elevation": 1200,
@@ -79,7 +91,9 @@
   "sa_cty_center": "فیروزه",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 37539
+  "sa_cty_neighbors": "mian-jolgeh - جنوب\nkhoshab - غرب\ngolbahar - شمال‌شرق\nsheshtamad - جنوب‌غرب",
+  "sa_cty_population": 37539,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.28583,58.58611"
  },
  "golbahar": {
   "sa_city_latitude": 36.49722,
@@ -87,7 +101,9 @@
   "sa_cty_area": 1007,
   "sa_cty_center": "گلبهار",
   "sa_cty_cities": 2,
-  "sa_cty_districts": 2
+  "sa_cty_districts": 2,
+  "sa_cty_neighbors": "chenaran - شمال\nfiruzeh - جنوب‌غرب\nfariman - جنوب‌شرق",
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.49722,59.19444"
  },
  "gonabad": {
   "sa_city_elevation": 1105,
@@ -98,8 +114,10 @@
   "sa_cty_center": "گناباد",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "bajestan - غرب\nsarayan - جنوب\nmahvelat - شمال\nroshtkhar - شمال‌شرق\nqayenat - جنوب‌شرق",
   "sa_cty_population": 88753,
-  "sa_cty_rural_districts": 4
+  "sa_cty_rural_districts": 4,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.41667,58.66667"
  },
  "joghatai": {
   "sa_city_latitude": 36.63566,
@@ -108,8 +126,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جغتای",
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "jovein - شرق\ndavarzan - جنوب\njajarm - شمال‌غرب",
   "sa_cty_population": 49175,
-  "sa_cty_rural_districts": 4
+  "sa_cty_rural_districts": 4,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63566,57.07351"
  },
  "jovein": {
   "sa_city_latitude": 36.70523,
@@ -119,7 +139,9 @@
   "sa_cty_center": "نقاب",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 54488
+  "sa_cty_neighbors": "joghatai - غرب\nesfarayen - شمال\nbam-safiabad - شرق\nkhoshab - جنوب‌شرق",
+  "sa_cty_population": 54488,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.70523,57.41732"
  },
  "kalat": {
   "sa_city_latitude": 36.9,
@@ -129,7 +151,9 @@
   "sa_cty_center": "کلات",
   "sa_cty_cities": 2,
   "sa_cty_districts": 3,
-  "sa_cty_population": 36237
+  "sa_cty_neighbors": "chenaran - غرب\ndargaz - شمال‌غرب\nsarakhs - جنوب‌شرق",
+  "sa_cty_population": 36237,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.9,59.9"
  },
  "kashmar": {
   "sa_city_elevation": 1060,
@@ -140,7 +164,9 @@
   "sa_cty_center": "کاشمر",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 168664
+  "sa_cty_neighbors": "khalilabad - غرب\nkuhsorkh - شمال\nmahvelat - جنوب‌شرق",
+  "sa_cty_population": 168664,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.23833,58.46556"
  },
  "khaf": {
   "sa_city_latitude": 34.5,
@@ -150,7 +176,9 @@
   "sa_cty_center": "خواف",
   "sa_cty_cities": 5,
   "sa_cty_districts": 4,
-  "sa_cty_population": 138972
+  "sa_cty_neighbors": "bakharz - شمال‌شرق\ntaybad - شمال‌شرق\nroshtkhar - شمال‌غرب\nzirkuh - جنوب\nqayenat - جنوب‌غرب",
+  "sa_cty_population": 138972,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.5,60.0"
  },
  "khalilabad": {
   "sa_city_latitude": 35.16667,
@@ -159,7 +187,9 @@
   "sa_cty_center": "خلیلآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 51701
+  "sa_cty_neighbors": "kashmar - شرق\nbajestan - جنوب",
+  "sa_cty_population": 51701,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.16667,58.21667"
  },
  "khoshab": {
   "sa_city_latitude": 36.43333,
@@ -169,8 +199,11 @@
   "sa_cty_center": "سلطانآباد",
   "sa_cty_cities": 3,
   "sa_cty_districts": 3,
+  "sa_cty_neighbors": "bam-safiabad - شمال\nfiruzeh - شرق\njovein - شمال‌غرب\nsheshtamad - جنوب",
+  "sa_cty_poi_offbeat": "سلطان‌آباد\nداراب\nگردشگران\nطالبی",
   "sa_cty_population": 37181,
-  "sa_cty_rural_districts": 5
+  "sa_cty_rural_districts": 5,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.43333,58.06667"
  },
  "kuhsorkh": {
   "sa_city_latitude": 35.46667,
@@ -178,7 +211,12 @@
   "sa_cty_area": 2198,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ریوش",
-  "sa_cty_population": 25014
+  "sa_cty_neighbors": "kashmar - جنوب\nmian-jolgeh - شمال\nsheshtamad - شمال‌غرب\ntorbat-heydarieh - شرق",
+  "sa_cty_poi_heritage": "گورستان نامق\nمزار پشت پنجه پدر\nمزار پشت پنجه پسر\nحمام بند قراء\nتپه پشت پشته",
+  "sa_cty_poi_nature": "سد شاهی\nرودخانه نابای",
+  "sa_cty_poi_offbeat": "قصون\nریوش",
+  "sa_cty_population": 25014,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.46667,58.45"
  },
  "mahvelat": {
   "sa_city_latitude": 35.01814,
@@ -188,8 +226,10 @@
   "sa_cty_center": "فیضآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "kashmar - شمال‌غرب\nroshtkhar - شرق\ntorbat-heydarieh - شمال‌شرق\ngonabad - جنوب\nbajestan - جنوب‌غرب",
   "sa_cty_population": 51409,
-  "sa_cty_rural_districts": 3
+  "sa_cty_rural_districts": 3,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.01814,58.78916"
  },
  "mashhad": {
   "sa_cty_area": 9169,
@@ -204,14 +244,17 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "عشقآباد",
   "sa_cty_cities": 2,
-  "sa_cty_population": 39288
+  "sa_cty_neighbors": "firuzeh - شمال\nkuhsorkh - جنوب\nsheshtamad - غرب\ntorbat-heydarieh - جنوب‌شرق",
+  "sa_cty_population": 39288,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.88333,58.65"
  },
  "neyshabur": {
   "sa_cty_districts": 2
  },
  "quchan": {
   "sa_cty_cities": 4,
-  "sa_cty_districts": 4
+  "sa_cty_districts": 4,
+  "sa_cty_poi_offbeat": "برسلان\nدربادام\nشمخال\nمنطقه حفاظت‌شده"
  },
  "roshtkhar": {
   "sa_city_elevation": 1150,
@@ -222,8 +265,10 @@
   "sa_cty_center": "رشتخوار",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "zaveh - شمال\nmahvelat - غرب\nkhaf - جنوب‌شرق\ngonabad - جنوب‌غرب\nbakharz - شرق",
   "sa_cty_population": 60689,
-  "sa_cty_rural_districts": 4
+  "sa_cty_rural_districts": 4,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.91667,59.36667"
  },
  "sabzevar": {
   "sa_cty_area": 7217,
@@ -238,7 +283,9 @@
   "sa_cty_center": "صالحآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 43426
+  "sa_cty_neighbors": "sarakhs - شمال\nbakharz - جنوب‌غرب\ntaybad - جنوب\nfariman - غرب",
+  "sa_cty_population": 43426,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.68806,61.09556"
  },
  "sarakhs": {
   "sa_city_latitude": 36.3,
@@ -248,7 +295,9 @@
   "sa_cty_center": "سرخس",
   "sa_cty_cities": 2,
   "sa_cty_districts": 1,
-  "sa_cty_population": 97519
+  "sa_cty_neighbors": "saleh-abad - جنوب\nkalat - شمال‌غرب\nfariman - جنوب‌غرب",
+  "sa_cty_population": 97519,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.3,60.81667"
  },
  "sheshtamad": {
   "sa_city_latitude": 35.81667,
@@ -258,7 +307,11 @@
   "sa_cty_center": "ششتمد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 24261
+  "sa_cty_neighbors": "kuhsorkh - جنوب‌شرق\nmian-jolgeh - شرق\nkhoshab - شمال\nfiruzeh - شمال‌شرق\ndavarzan - شمال‌غرب",
+  "sa_cty_poi_nature": "قله",
+  "sa_cty_poi_offbeat": "شهرستان بردسکن\nمزینان\nششتمد\nشهرستان سبزوار\nصخره‌نوردی\nپادر",
+  "sa_cty_population": 24261,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.81667,57.93333"
  },
  "taybad": {
   "sa_city_elevation": 810,
@@ -269,8 +322,10 @@
   "sa_cty_center": "تایباد",
   "sa_cty_cities": 3,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "bakharz - شمال‌غرب\nkhaf - جنوب‌غرب\nsaleh-abad - شمال",
   "sa_cty_population": 117564,
-  "sa_cty_rural_districts": 5
+  "sa_cty_rural_districts": 5,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.8,60.66667"
  },
  "torbat-heydarieh": {
   "sa_city_elevation": 14,
@@ -281,7 +336,9 @@
   "sa_cty_center": "تربت حیدریه",
   "sa_cty_cities": 5,
   "sa_cty_districts": 4,
-  "sa_cty_population": 224626
+  "sa_cty_neighbors": "zaveh - جنوب‌شرق\nfariman - شمال‌شرق\nmahvelat - جنوب‌غرب\nkuhsorkh - غرب\nmian-jolgeh - شمال‌غرب",
+  "sa_cty_population": 224626,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.4,59.31667"
  },
  "torbatjam": {
   "sa_city_elevation": 5,
@@ -299,13 +356,17 @@
   "sa_cty_center": "دولتآباد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "torbat-heydarieh - شمال‌غرب\nroshtkhar - جنوب\nfariman - شمال‌شرق\nbakharz - شرق",
   "sa_cty_population": 67695,
-  "sa_cty_rural_districts": 4
+  "sa_cty_rural_districts": 4,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.2825,59.5215"
  },
  "zebarkhan": {
   "sa_city_elevation": 1250,
   "sa_cty_area": 1102,
   "sa_cty_cities": 3,
-  "sa_cty_districts": 2
+  "sa_cty_districts": 2,
+  "sa_cty_poi_heritage": "تپه اسحاق‌آباد\nکاروانسرای قدمگاه",
+  "sa_cty_poi_offbeat": "جاذبه‌های گردشگری\nاکوتوریسم\nفیروزه‌تراشی در نیشابور\nفهرست آثار ملی شهرستان زبرخان\nآسیاب سر تلخ\nکمه‌جوش"
  }
 }

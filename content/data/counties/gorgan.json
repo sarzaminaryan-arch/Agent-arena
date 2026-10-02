@@ -29,6 +29,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
    "value": 2
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.83333,54.5"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -42,6 +50,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1292686",
    "value": 54.5
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "aliabad-e-katul": "شرق",
+    "aq-qala": "شمال",
+    "bandar-e-torkaman": "شمال‌غرب",
+    "kordkuy": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "aliabad-e-katul",
+    "kordkuy",
+    "aq-qala",
+    "bandar-e-torkaman"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

@@ -43,6 +43,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%88%D9%87",
    "value": 1750.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=35.2825,59.5215"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -56,6 +64,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2723570",
    "value": 59.5215
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bakharz": "شرق",
+    "fariman": "شمال‌شرق",
+    "roshtkhar": "جنوب",
+    "torbat-heydarieh": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "torbat-heydarieh",
+    "roshtkhar",
+    "fariman",
+    "bakharz"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

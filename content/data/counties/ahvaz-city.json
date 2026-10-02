@@ -15,6 +15,14 @@
    "url": "https://www.wikidata.org/wiki/Q1272922",
    "value": "اهواز"
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.3275,48.69389"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -28,6 +36,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1272922",
    "value": 48.69389
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bavi": "شمال‌شرق",
+    "hamidiyeh": "شمال‌غرب",
+    "khorramshahr": "جنوب‌غرب",
+    "ramshir": "جنوب‌شرق",
+    "shadegan": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "hamidiyeh",
+    "bavi",
+    "shadegan",
+    "ramshir",
+    "khorramshahr"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

@@ -15,12 +15,28 @@
    "url": "https://www.wikidata.org/wiki/Q1291793",
    "value": "صحنه"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 65
+  },
   "elevation": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B5%D8%AD%D9%86%D9%87",
    "value": 1380.0
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=34.47861,47.6889"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -35,6 +51,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291793",
    "value": 47.6889
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "delfan": "جنوب",
+    "harsin": "جنوب‌غرب",
+    "kangavar": "شرق",
+    "sonqor": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "kangavar",
+    "harsin",
+    "sonqor",
+    "delfan"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

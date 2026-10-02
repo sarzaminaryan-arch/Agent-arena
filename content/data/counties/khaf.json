@@ -45,6 +45,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%A7%D9%81",
    "value": 4
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=34.5,60.0"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -58,6 +66,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2571648",
    "value": 60.0
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bakharz": "شمال‌شرق",
+    "qayenat": "جنوب‌غرب",
+    "roshtkhar": "شمال‌غرب",
+    "taybad": "شمال‌شرق",
+    "zirkuh": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "bakharz",
+    "taybad",
+    "roshtkhar",
+    "zirkuh",
+    "qayenat"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

@@ -15,6 +15,22 @@
    "url": "https://www.wikidata.org/wiki/Q1270925",
    "value": "دهبارز"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 89
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=27.5935,57.1262"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -28,6 +44,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270925",
    "value": 57.1262
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bandar-abbas": "غرب",
+    "faryab": "شمال",
+    "manujan": "شرق",
+    "minab": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "manujan",
+    "faryab",
+    "minab",
+    "bandar-abbas"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "امامزاده سید سلطان محمد\nقلعه کمیز\nقلعه دختران\nزیارتگاه [[امامزاده سید سلطان محمد]]\nامامزاده شاه قطب‌الدین حیدر"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کوه زندان"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قبل از میلاد\nامام موسی بن جعفر\nزیارت پیرچوگان\nزندانیان سیاسی\nشجره نامه\nحسن مجتبی\nسنگ نوشته‌های بادافشان\nتم مارو"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -31,12 +31,28 @@
    "url": "https://www.wikidata.org/wiki/Q1286542",
    "value": "کهنوج"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 267
+  },
   "elevation": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%87%D9%86%D9%88%D8%AC",
    "value": 35.0
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=27.95,57.7"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -51,6 +67,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286542",
    "value": 57.7
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "anbarabad": "شمال‌شرق",
+    "faryab": "شمال‌غرب",
+    "jazmourian": "شرق",
+    "manujan": "جنوب‌غرب",
+    "qaleh-ganj": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "manujan",
+    "qaleh-ganj",
+    "faryab",
+    "anbarabad",
+    "jazmourian"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

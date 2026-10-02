@@ -6,16 +6,24 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آبدانان",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 128,
   "sa_cty_districts": 3,
-  "sa_cty_population": 47851
+  "sa_cty_neighbors": "badreh - شمال‌غرب\ndarreh-shahr - شمال‌غرب\ndehloran - جنوب‌غرب\npol-e-dokhtar - شمال‌شرق\nandimeshk - جنوب‌شرق",
+  "sa_cty_poi_nature": "دریاچه دوقلو آبدانان",
+  "sa_cty_poi_offbeat": "File:3جاده دسترسی به شهرستان آبدانان در ایام عید نوروز.JPG",
+  "sa_cty_population": 47851,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.88333,47.5"
  },
  "badreh": {
   "sa_city_latitude": 33,
   "sa_city_longitude": 47.25,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بدره",
+  "sa_cty_distance_center": 102,
   "sa_cty_districts": 2,
-  "sa_cty_population": 15614
+  "sa_cty_neighbors": "darreh-shahr - شمال‌شرق\nabdanan - جنوب‌شرق\ndehloran - جنوب\nmalekshahi - شمال‌غرب",
+  "sa_cty_population": 15614,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.0,47.25"
  },
  "chardavol": {
   "sa_city_latitude": 33.75,
@@ -24,8 +32,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرابله",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 21,
   "sa_cty_districts": 4,
-  "sa_cty_population": 57381
+  "sa_cty_neighbors": "karun - شمال\nsirvan - شمال\nilam-city - جنوب‌غرب\neslamabad-e-gharb - شمال\neyvan - شمال‌غرب\nhalilan - شرق",
+  "sa_cty_population": 57381,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.75,46.56667"
  },
  "chavar": {
   "sa_city_elevation": 17,
@@ -33,7 +44,10 @@
   "sa_city_longitude": 46.08333,
   "sa_cty_area": 1168,
   "sa_cty_center": "چوار",
-  "sa_cty_cities": 2
+  "sa_cty_cities": 2,
+  "sa_cty_distance_center": 35,
+  "sa_cty_neighbors": "eyvan - شمال‌شرق\nilam-city - جنوب‌شرق",
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.75,46.08333"
  },
  "darreh-shahr": {
   "sa_city_latitude": 33.13333,
@@ -41,7 +55,10 @@
   "sa_cty_area": 903,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "درهشهر",
-  "sa_cty_population": 43708
+  "sa_cty_distance_center": 102,
+  "sa_cty_neighbors": "badreh - جنوب‌غرب\nrumeshkan - شمال\nabdanan - جنوب‌شرق\npol-e-dokhtar - شرق\nmamulan - شمال‌شرق\nmalekshahi - غرب",
+  "sa_cty_population": 43708,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.13333,47.36667"
  },
  "dehloran": {
   "sa_city_elevation": 213,
@@ -51,8 +68,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دهلران",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 129,
   "sa_cty_districts": 4,
-  "sa_cty_population": 65630
+  "sa_cty_neighbors": "abdanan - شمال‌شرق\nbadreh - شمال\nshush - جنوب‌شرق",
+  "sa_cty_population": 65630,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.68333,47.26667"
  },
  "eyvan": {
   "sa_city_latitude": 33.88333,
@@ -61,8 +81,14 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ایوانغرب",
   "sa_cty_climate": "معتدل و نیمه مرطوب",
+  "sa_cty_distance_center": 38,
   "sa_cty_districts": 2,
-  "sa_cty_population": 49491
+  "sa_cty_neighbors": "chavar - جنوب‌غرب\ngilangharb - شمال‌غرب\nilam-city - جنوب‌شرق\nchardavol - جنوب‌شرق\nkarun - جنوب‌شرق\nsirvan - جنوب‌شرق\ndalahu - شمال\neslamabad-e-gharb - شمال‌شرق",
+  "sa_cty_poi_heritage": "آتشکده سیاهگل",
+  "sa_cty_poi_nature": "آبشار هفت قلوی پلیه",
+  "sa_cty_poi_offbeat": "دوره ساسانی\nقبرستان هلوچ\nطاق شیرین و فرهاد\nشهرستان قصر شیرین\nمنطقه رنو\nخوران علیا\nدانیوک ایوان\nبلیین",
+  "sa_cty_population": 49491,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.88333,46.18333"
  },
  "halilan": {
   "sa_city_latitude": 33.71861,
@@ -70,8 +96,14 @@
   "sa_cty_area": 736,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "توحید",
+  "sa_cty_distance_center": 69,
   "sa_cty_districts": 2,
-  "sa_cty_population": 15276
+  "sa_cty_neighbors": "kuhdasht - جنوب‌شرق\nchardavol - غرب\nkarun - غرب\nsirvan - غرب\neslamabad-e-gharb - شمال‌غرب\nmalekshahi - جنوب‌غرب\nkermanshah - شمال\nharsin - شمال‌شرق\ndelfan - شمال‌شرق",
+  "sa_cty_poi_heritage": "پل‌دختر\nگورستان",
+  "sa_cty_poi_nature": "رودخانه سیمره\nدره شیرز\nکوه کران‌بزان",
+  "sa_cty_poi_offbeat": "ایلام\nاستان لرستان\nسیمره\nپارینه‌سنگی زیرین\nپناهگاه سنگی\nآشولی\nطویل\nزاگرس\nزاگرس مرکزی\nعصر مفرغ\nپارینه‌سنگی میانی\nژئومورفولوژی",
+  "sa_cty_population": 15276,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.71861,47.15833"
  },
  "ilam-city": {
   "sa_city_latitude": 33.60528,
@@ -79,29 +111,42 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ایلام",
   "sa_cty_districts": 2,
-  "sa_cty_population": 235144
+  "sa_cty_neighbors": "chardavol - شمال‌شرق\nkarun - شمال‌شرق\nsirvan - شمال‌شرق\nmalekshahi - جنوب‌شرق\nchavar - شمال‌غرب\neyvan - شمال‌غرب\nmehran - جنوب‌غرب",
+  "sa_cty_population": 235144,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.60528,46.42278"
  },
  "malekshahi": {
   "sa_city_latitude": 33.38333,
   "sa_city_longitude": 46.6,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ارکواز",
+  "sa_cty_distance_center": 30,
   "sa_cty_districts": 2,
-  "sa_cty_population": 21138
+  "sa_cty_neighbors": "ilam-city - شمال‌غرب\nmehran - غرب\nhalilan - شمال‌شرق\nrumeshkan - شرق\nbadreh - جنوب‌شرق\ndarreh-shahr - شرق",
+  "sa_cty_poi_heritage": "File:امامزاده ابوچماقین.jpg\nآرامگاه سید محمد\nنقش‌برجسته گل گل ملکشاهی",
+  "sa_cty_poi_offbeat": "ارکواز\nسلجوقیان\nسکه‌های هخامنشی\nهخامنشی\nهخامنشیان\nساسانیان\nسناخریب\nآشوربانی پال\nآشور\nایلام\nفهرست آثار ملی ایران",
+  "sa_cty_population": 21138,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.38333,46.6"
  },
  "mehran": {
   "sa_city_latitude": 33.26667,
   "sa_city_longitude": 46.25,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مهران",
+  "sa_cty_distance_center": 41,
   "sa_cty_districts": 2,
-  "sa_cty_population": 29797
+  "sa_cty_neighbors": "malekshahi - شرق\nilam-city - شمال‌شرق",
+  "sa_cty_population": 29797,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.26667,46.25"
  },
  "sirvan": {
   "sa_city_latitude": 33.75,
   "sa_city_longitude": 46.56667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "لومار",
-  "sa_cty_population": 14404
+  "sa_cty_distance_center": 21,
+  "sa_cty_neighbors": "chardavol - شمال\nkarun - شمال\nilam-city - جنوب‌غرب\neslamabad-e-gharb - شمال\neyvan - شمال‌غرب\nhalilan - شرق",
+  "sa_cty_population": 14404,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.75,46.56667"
  }
 }

@@ -47,6 +47,7 @@ META_MAP = {
     'lat': 'sa_city_latitude',
     'lon': 'sa_city_longitude',
     'elevation': 'sa_city_elevation',
+    'google_map_url': 'sa_google_map_url',
 }
 FA = '۰۱۲۳۴۵۶۷۸۹'
 
@@ -75,7 +76,10 @@ def to_meta(doc):
         if v in (None, '', []):
             continue
         if field == 'neighbors':
-            v = '\n'.join(v)
+            dirs = val(doc, 'neighbor_dirs') or {}
+            v = '\n'.join(
+                ('%s - %s' % (n, dirs[n])) if dirs.get(n) else str(n) for n in v
+            )
         elif isinstance(v, float) and v.is_integer():
             v = int(v)
         out[key] = v

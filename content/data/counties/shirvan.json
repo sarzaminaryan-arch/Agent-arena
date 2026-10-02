@@ -22,12 +22,28 @@
    "url": "https://www.wikidata.org/wiki/Q1286343",
    "value": "شیروان"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 50
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
    "value": 3
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=37.53333,57.9"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -42,6 +58,54 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286343",
    "value": 57.9
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "esfarayen": "جنوب‌غرب",
+    "faruj": "جنوب‌شرق",
+    "raz-jargalan": "غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "faruj",
+    "raz-jargalan",
+    "esfarayen"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "حمام روستای پیرشهید\nمقبره حضرت زکریا\nامامزاده حمزه رضا\nامام زاده محمدرضا مشهد طرقی\nامامزاده قاسم الحسینی روستای خادمی\nتپه کمرک\nتپه برزل‌آباد"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "کوهستان پارک شیرکوه\nآبشار استرخی\nکوه شاهجهان از رشته کوه آلاداغ\nکوه کپه داغ\nغار کافر قلعه\nغار پوستین دوز\nکوه‌های آلخاص\nترناو (چشمه‌ای دائمی با آب بسیار گوارا"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "چهارطاقی تیموری\nFile:Fajrabad.jpg\nالله‌آباد علیا\nبهشت گمشده\nییلاق گلیان\nمنطقه حفاظت شده گلول وسرانی\nزوارم\nسدهای بارزو و شورک\nچلو\nییلاق اوغاز"
   },
   "population": {
    "fetched": "2026-10-02",

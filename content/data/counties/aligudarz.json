@@ -29,6 +29,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
    "value": 3
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 116
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -42,6 +50,14 @@
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
    "value": 2022.0
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=33.08333,49.48333"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -57,6 +73,19 @@
    "url": "https://www.wikidata.org/wiki/Q1279488",
    "value": 49.48333
   },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "azna": "شمال",
+    "dezful": "جنوب‌غرب",
+    "fereydunshahr": "شرق",
+    "lali": "جنوب"
+   }
+  },
   "neighbors": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -67,6 +96,38 @@
     "dorud",
     "khorramabad"
    ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آتشکده باستانی کیورز امیرآباد\nقلعه دختر\nقلعه باجول الیگودرز\nموزه مردم‌شناسی الیگودرز"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دریاچه تمی الیگودرز\nآبشار آب سفید الیگودرز\nدریاچه گهر\nآبشار چکان الیگودرز\nآبشار برنجه الیگودرز\nدامنه‌های اشترانکوه الیگودرز\nپارک جنگلی بنفشه الیگودرز"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دشت لاله‌های واژگون\nرستوران گردان بام الیگودرز\nروستای گایکان"
+  },
+  "poi_recreation": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پیست بین الملی اسکی تمندر الیگودرز"
   },
   "population": {
    "fetched": "2026-10-02",

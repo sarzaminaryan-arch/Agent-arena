@@ -38,6 +38,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
    "value": 3
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=38.08333,46.28333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -51,6 +59,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286247",
    "value": 46.28333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bostanabad": "جنوب‌شرق",
+    "heris": "شرق",
+    "osku": "جنوب‌غرب",
+    "shabestar": "غرب",
+    "varzaqan": "شمال‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "osku",
+    "shabestar",
+    "heris",
+    "bostanabad",
+    "varzaqan"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

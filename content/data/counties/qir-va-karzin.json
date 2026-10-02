@@ -15,6 +15,14 @@
    "url": "https://www.wikidata.org/wiki/Q1270561",
    "value": "قیر"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 149
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -29,6 +37,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%DB%8C%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86",
    "value": 250.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=28.31667,52.91667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -42,6 +58,62 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270561",
    "value": 52.91667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "farashband": "شمال‌غرب",
+    "firuzabad": "شمال‌غرب",
+    "jahrom": "شمال‌شرق",
+    "jam": "جنوب‌غرب",
+    "khafr": "شمال",
+    "khonj": "جنوب",
+    "mehr": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khonj",
+    "mehr",
+    "jahrom",
+    "khafr",
+    "firuzabad",
+    "jam",
+    "farashband"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه گبری\nسنگ‌نگاره قیر و کارزین\nمسجدجامع کارزین\nآب‌انبار\nقلعه قلات"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "سرچشمه\nسد سلمان فارسی"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "تُل قندی\nشهرِ میری\nشاه علمدار"
   },
   "population": {
    "fetched": "2026-10-02",

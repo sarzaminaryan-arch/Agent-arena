@@ -6,7 +6,11 @@
   "sa_cty_area": 1950,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اهرم",
-  "sa_cty_population": 76706
+  "sa_cty_distance_center": 40,
+  "sa_cty_neighbors": "bushehr-city - شمال‌غرب\nborazjan - شمال\nkhormoj - جنوب‌شرق",
+  "sa_cty_poi_offbeat": "موسی کاظم",
+  "sa_cty_population": 76706,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.88333,51.26667"
  },
  "asaluyeh": {
   "sa_city_elevation": 77,
@@ -16,7 +20,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "عسلویه",
   "sa_cty_cities": 3,
-  "sa_cty_population": 73958
+  "sa_cty_distance_center": 256,
+  "sa_cty_neighbors": "kangan - شمال‌غرب\nlamerd - شرق\nparsian - جنوب‌شرق\nkhonj - شمال‌شرق",
+  "sa_cty_population": 73958,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.43333,52.73333"
  },
  "borazjan": {
   "sa_city_elevation": 77,
@@ -26,8 +33,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "برازجان",
   "sa_cty_cities": 8,
+  "sa_cty_distance_center": 30,
   "sa_cty_districts": 6,
-  "sa_cty_population": 252047
+  "sa_cty_neighbors": "bushehr-city - جنوب‌غرب\nahram - جنوب\nkazerun - شمال‌شرق\nganaveh - شمال‌غرب",
+  "sa_cty_population": 252047,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.28333,51.25"
  },
  "bushehr-city": {
   "sa_city_elevation": 77,
@@ -36,7 +46,9 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر بوشهر",
   "sa_cty_districts": 3,
-  "sa_cty_population": 298594
+  "sa_cty_neighbors": "borazjan - شمال‌شرق\nahram - جنوب‌شرق\nganaveh - شمال‌غرب",
+  "sa_cty_population": 298594,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.15,50.98333"
  },
  "deylam": {
   "sa_city_latitude": 30.02278,
@@ -44,7 +56,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر دیلم",
   "sa_cty_cities": 2,
-  "sa_cty_population": 34828
+  "sa_cty_distance_center": 114,
+  "sa_cty_neighbors": "ganaveh - جنوب‌شرق\ngachsaran - شمال‌شرق\nbehbahan - شمال\nhendijan - غرب",
+  "sa_cty_population": 34828,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.02278,50.35583"
  },
  "deyr": {
   "sa_city_elevation": 77,
@@ -53,8 +68,13 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر دیر",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 142,
   "sa_cty_districts": 3,
-  "sa_cty_population": 60612
+  "sa_cty_neighbors": "khormoj - شمال\njam - شرق",
+  "sa_cty_poi_heritage": "مسجد بردستان\nبخش مرکزی شهرستان دیر\nقلعه بردستان\nقلعه زندان\nقلعه گنوی\nتل سوزو دیر\nمحوطه بردو\nآب‌انبار سرمستان\nآرامگاه بی بی دولت\nمحوطه بطانه",
+  "sa_cty_poi_offbeat": "بخش بردخون\nچاه سنگی جبرانی ۱\nچاه سنگی جبرانی ۲\nآثار سنگی شاهزاده ابوالقاسم\nچاه رمیله\nبخش آبدان\nچاه‌های آب بردستان\nآسیاب‌آبی گنوی",
+  "sa_cty_population": 60612,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.04028,51.70222"
  },
  "ganaveh": {
   "sa_city_elevation": 77,
@@ -63,7 +83,10 @@
   "sa_cty_area": 1877,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر گناوه",
-  "sa_cty_population": 102484
+  "sa_cty_distance_center": 64,
+  "sa_cty_neighbors": "deylam - شمال‌غرب\nbushehr-city - جنوب‌شرق\nborazjan - جنوب‌شرق\nmamasani - شمال‌شرق",
+  "sa_cty_population": 102484,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.65,50.65"
  },
  "jam": {
   "sa_city_elevation": 700,
@@ -73,8 +96,13 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جم",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 177,
   "sa_cty_districts": 2,
-  "sa_cty_population": 70051
+  "sa_cty_neighbors": "mehr - جنوب‌شرق\ndeyr - غرب\nqir-va-karzin - شمال‌شرق\nfarashband - شمال",
+  "sa_cty_poi_nature": "کوه پردیس\nجنگل گلوبردکان",
+  "sa_cty_poi_offbeat": "باریکان",
+  "sa_cty_population": 70051,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.0,52.23333"
  },
  "kangan": {
   "sa_city_elevation": 77,
@@ -84,8 +112,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بندر کنگان",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 224,
   "sa_cty_districts": 2,
-  "sa_cty_population": 107801
+  "sa_cty_neighbors": "mehr - شمال‌شرق\nasaluyeh - جنوب‌شرق",
+  "sa_cty_population": 107801,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.65,52.51667"
  },
  "khormoj": {
   "sa_city_latitude": 28.48333,
@@ -93,7 +124,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "خورموج",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 92,
   "sa_cty_districts": 3,
-  "sa_cty_population": 86319
+  "sa_cty_neighbors": "deyr - جنوب\nahram - شمال‌غرب\nfarashband - شمال‌شرق",
+  "sa_cty_poi_offbeat": "دیالیز\nهیدرات",
+  "sa_cty_population": 86319,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.48333,51.55"
  }
 }

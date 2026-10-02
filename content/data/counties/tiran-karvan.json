@@ -31,6 +31,22 @@
    "url": "https://www.wikidata.org/wiki/Q1286519",
    "value": "تیران"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 82
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=32.81667,50.91667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -44,6 +60,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286519",
    "value": 50.91667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "chadegan": "غرب",
+    "najafabad": "شرق",
+    "saman": "جنوب",
+    "shahin-shahr-meymeh": "شمال‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "chadegan",
+    "najafabad",
+    "saman",
+    "shahin-shahr-meymeh"
+   ]
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "چشمه مرغاب\nدالان‌کوه\nدالانکوه"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قوچ‌ومیش\nپستانداران\nکل و بز\nجوجه‌تیغی\nتشی\nخزندگان\nشاه عباس یکم\nمسعود میرزا ظل‌السلطان\nمتر مربع\nکرد سفلی\nحکومت قاجار\nناصرالدین شاه"
+  },
+  "poi_recreation": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پارک ملی و پناهگاه حیات وحش قمیشلو"
   },
   "population": {
    "fetched": "2026-10-02",

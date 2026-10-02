@@ -5,7 +5,12 @@
   "sa_cty_area": 1914,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کرند غرب",
-  "sa_cty_population": 35987
+  "sa_cty_distance_center": 71,
+  "sa_cty_neighbors": "gilangharb - جنوب‌غرب\neyvan - جنوب\neslamabad-e-gharb - جنوب‌شرق\nsarpol-e-zahab - شمال‌غرب\njavanrud - شمال",
+  "sa_cty_poi_nature": "سراب کرند\nکوه قلعه قاضی",
+  "sa_cty_poi_offbeat": "یارسان\nریجاب\nحریر\nزمکان\nدالاهو\nمحمد\nاحد\nابوبکر",
+  "sa_cty_population": 35987,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.26667,46.23333"
  },
  "eslamabad-e-gharb": {
   "sa_city_latitude": 34.05,
@@ -13,8 +18,11 @@
   "sa_cty_area": 2125,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اسلامآباد غرب",
+  "sa_cty_distance_center": 44,
   "sa_cty_districts": 2,
-  "sa_cty_population": 140876
+  "sa_cty_neighbors": "chardavol - جنوب\nkarun - جنوب\nsirvan - جنوب\nkermanshah - شمال‌شرق\ndalahu - شمال‌غرب\neyvan - غرب\nhalilan - جنوب‌شرق",
+  "sa_cty_population": 140876,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.05,46.66667"
  },
  "gilangharb": {
   "sa_city_elevation": 2586,
@@ -22,8 +30,11 @@
   "sa_city_longitude": 46,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گیلانغرب",
+  "sa_cty_distance_center": 94,
   "sa_cty_districts": 2,
-  "sa_cty_population": 57007
+  "sa_cty_neighbors": "dalahu - شمال‌شرق\nqasr-e-shirin - غرب\neyvan - جنوب‌شرق\nsarpol-e-zahab - شمال",
+  "sa_cty_population": 57007,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.16667,46.0"
  },
  "harsin": {
   "sa_city_elevation": 1582,
@@ -31,7 +42,13 @@
   "sa_city_longitude": 47.5,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "هرسین",
-  "sa_cty_population": 78350
+  "sa_cty_distance_center": 46,
+  "sa_cty_neighbors": "sahneh - شمال‌شرق\nkermanshah - غرب\ndelfan - جنوب‌شرق\nhalilan - جنوب‌غرب",
+  "sa_cty_poi_heritage": "کتیبه بیستون\nقلعه هرسین\nتپه قلعه دزد بر هرسین\nپل خسرو",
+  "sa_cty_poi_nature": "تپه گنج‌دره\nسراب بیستون\nغار شکارچیان\nغار مرآفتاب\nغار چشمه‌سراب\nسراب هرسین\nچشمه گرماب هرسین",
+  "sa_cty_poi_offbeat": "گوردخمه اسحاق‌وند\nمجسمه هرکول\nحوض سنگی\nطاق سنگی\nپلکان سنگی\nفرهاد تراش\nفرهاد تراش\nسنگ‌نبشته بیستون\nسنگ بلاش\nگوردخمه‌های اسحاق‌وند",
+  "sa_cty_population": 78350,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,47.5"
  },
  "javanrud": {
   "sa_city_latitude": 34.76667,
@@ -39,8 +56,11 @@
   "sa_cty_area": 777,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جوانرود",
+  "sa_cty_distance_center": 79,
   "sa_cty_districts": 3,
-  "sa_cty_population": 75169
+  "sa_cty_neighbors": "paveh - شمال\nsalasa-babajani - غرب\nravansar - شرق\ndalahu - جنوب",
+  "sa_cty_population": 75169,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.76667,46.31667"
  },
  "kangavar": {
   "sa_city_elevation": 1456,
@@ -49,7 +69,10 @@
   "sa_cty_area": 930,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کنگاور",
-  "sa_cty_population": 76216
+  "sa_cty_distance_center": 87,
+  "sa_cty_neighbors": "sahneh - غرب\nnahavand-city - جنوب‌شرق\ntuyserkan-city - شرق\nasadabad-city - شمال‌شرق\ndelfan - جنوب",
+  "sa_cty_population": 76216,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.48333,47.93333"
  },
  "kermanshah": {
   "sa_city_latitude": 34.33333,
@@ -57,7 +80,9 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کرمانشاه",
   "sa_cty_districts": 6,
-  "sa_cty_population": 1083833
+  "sa_cty_neighbors": "eslamabad-e-gharb - جنوب‌غرب\nharsin - شرق\nravansar - شمال‌غرب\nhalilan - جنوب\nsonqor - شمال‌شرق",
+  "sa_cty_population": 1083833,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,47.0"
  },
  "paveh": {
   "sa_city_latitude": 35,
@@ -66,24 +91,39 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پاوه",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 98,
   "sa_cty_districts": 3,
-  "sa_cty_population": 60431
+  "sa_cty_neighbors": "javanrud - جنوب\nsarvabad - شمال\nsalasa-babajani - جنوب‌غرب",
+  "sa_cty_poi_nature": "سد داریان\nغار سنگی حسین کوهکن\nکوه شاهو\nغار قوری‌قلعه",
+  "sa_cty_poi_offbeat": "نوسمه\nشمشیر\nخانقاه\nحجیج بزرگ\nپاوه\nنودشه\nمنطقه گردشگری میگوره\nکیمنه\nبیدرواز\nهانی‌گرمله\nداریان\nگلال",
+  "sa_cty_population": 60431,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.0,46.3"
  },
  "qasr-e-shirin": {
   "sa_city_latitude": 34.2,
   "sa_city_longitude": 45.63333,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "قصر شیرین",
+  "sa_cty_distance_center": 126,
   "sa_cty_districts": 2,
-  "sa_cty_population": 23929
+  "sa_cty_neighbors": "gilangharb - شرق\nsarpol-e-zahab - شمال‌شرق",
+  "sa_cty_poi_heritage": "کاخ خسرو\nکاروانسرای عباسی قصر شیرین\nبان‌قلعه",
+  "sa_cty_poi_offbeat": "چهارقاپی",
+  "sa_cty_population": 23929,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.2,45.63333"
  },
  "ravansar": {
   "sa_city_latitude": 34.75,
   "sa_city_longitude": 46.68333,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "روانسر",
+  "sa_cty_distance_center": 55,
   "sa_cty_districts": 3,
-  "sa_cty_population": 47657
+  "sa_cty_neighbors": "kamyaran - شمال‌شرق\njavanrud - غرب\nkermanshah - جنوب‌شرق",
+  "sa_cty_poi_nature": "سراب روانسر\nسراب جاوری",
+  "sa_cty_poi_offbeat": "باستان‌شناسی\nپارینه سنگی\nدوران یخبندان\nدخمه روانسر\nماد\nاهورامزدا\nخط کوفی\nآشور\nنیکور\nیزدگرد سوم\nخط پهلوی",
+  "sa_cty_population": 47657,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.75,46.68333"
  },
  "sahneh": {
   "sa_city_elevation": 1380,
@@ -91,14 +131,20 @@
   "sa_city_longitude": 47.6889,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "صحنه",
-  "sa_cty_population": 70757
+  "sa_cty_distance_center": 65,
+  "sa_cty_neighbors": "kangavar - شرق\nharsin - جنوب‌غرب\nsonqor - شمال‌غرب\ndelfan - جنوب",
+  "sa_cty_population": 70757,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.47861,47.6889"
  },
  "salasa-babajani": {
   "sa_city_latitude": 34.81667,
   "sa_city_longitude": 45.98333,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تازهآباد",
-  "sa_cty_population": 35219
+  "sa_cty_distance_center": 107,
+  "sa_cty_neighbors": "sarpol-e-zahab - جنوب‌غرب\njavanrud - شرق\npaveh - شمال‌شرق",
+  "sa_cty_population": 35219,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.81667,45.98333"
  },
  "sarpol-e-zahab": {
   "sa_city_elevation": 550,
@@ -107,8 +153,11 @@
   "sa_cty_area": 1211,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرپل ذهاب",
+  "sa_cty_distance_center": 111,
   "sa_cty_districts": 3,
-  "sa_cty_population": 85342
+  "sa_cty_neighbors": "salasa-babajani - شمال‌شرق\nqasr-e-shirin - جنوب‌غرب\ngilangharb - جنوب\ndalahu - جنوب‌شرق",
+  "sa_cty_population": 85342,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.58333,45.83333"
  },
  "sonqor": {
   "sa_city_elevation": 1681,
@@ -118,6 +167,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سنقر",
   "sa_cty_cities": 2,
-  "sa_cty_population": 81661
+  "sa_cty_distance_center": 72,
+  "sa_cty_neighbors": "sahneh - جنوب‌شرق\nqorveh - شمال\nkamyaran - غرب\nasadabad-city - شرق\nkermanshah - جنوب‌غرب",
+  "sa_cty_poi_heritage": "آرامگاه مالک",
+  "sa_cty_poi_offbeat": "سلجوقیان\nایران قاجاری",
+  "sa_cty_population": 81661,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.83333,47.5"
  }
 }

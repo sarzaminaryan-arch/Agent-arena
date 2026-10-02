@@ -3,23 +3,32 @@
   "sa_city_latitude": 35.81667,
   "sa_city_longitude": 50.83333,
   "sa_cty_center": "چهارباغ",
-  "sa_cty_districts": 2
+  "sa_cty_distance_center": 15,
+  "sa_cty_districts": 2,
+  "sa_cty_neighbors": "karaj - شرق\nfardis - جنوب‌شرق\nsavojablogh - شمال‌غرب\nmalard - جنوب‌غرب",
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.81667,50.83333"
  },
  "eshtehard": {
   "sa_city_latitude": 35.72806,
   "sa_city_longitude": 50.41417,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اشتهارد",
+  "sa_cty_distance_center": 54,
   "sa_cty_districts": 2,
-  "sa_cty_population": 37876
+  "sa_cty_neighbors": "nazarabad - شمال‌شرق\nmalard - جنوب‌شرق\nzarandieh - جنوب\nbuin-zahra - غرب",
+  "sa_cty_population": 37876,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.72806,50.41417"
  },
  "fardis": {
   "sa_city_latitude": 35.72306,
   "sa_city_longitude": 50.97861,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فردیس",
+  "sa_cty_distance_center": 12,
   "sa_cty_districts": 2,
-  "sa_cty_population": 271829
+  "sa_cty_neighbors": "qods - شرق\nshahriar - جنوب‌شرق\nkaraj - شمال\nchaharbagh - شمال‌غرب\nmalard - جنوب‌غرب",
+  "sa_cty_population": 271829,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.72306,50.97861"
  },
  "karaj": {
   "sa_city_latitude": 35.83333,
@@ -27,8 +36,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کرج",
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "fardis - جنوب\nqods - جنوب‌شرق\nchaharbagh - غرب\nchalus - شمال",
   "sa_cty_population": 1973470,
-  "sa_cty_rural_districts": 6
+  "sa_cty_rural_districts": 6,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.83333,51.0"
  },
  "nazarabad": {
   "sa_city_latitude": 35.91667,
@@ -36,15 +47,21 @@
   "sa_cty_area": 587,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نظرآباد",
-  "sa_cty_population": 152437
+  "sa_cty_distance_center": 45,
+  "sa_cty_neighbors": "savojablogh - شرق\neshtehard - جنوب‌غرب\nabyek - شمال‌غرب",
+  "sa_cty_population": 152437,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.91667,50.51667"
  },
  "savojablogh": {
   "sa_city_latitude": 35.95,
   "sa_city_longitude": 50.66667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "مهستان",
+  "sa_cty_distance_center": 33,
   "sa_cty_districts": 3,
-  "sa_cty_population": 259973
+  "sa_cty_neighbors": "nazarabad - غرب\nchaharbagh - جنوب‌شرق\ntaleghan - شمال",
+  "sa_cty_population": 259973,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.95,50.66667"
  },
  "taleghan": {
   "sa_city_latitude": 36.20528,
@@ -52,7 +69,12 @@
   "sa_cty_area": 1200,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "طالقان",
+  "sa_cty_distance_center": 46,
   "sa_cty_districts": 2,
-  "sa_cty_population": 16815
+  "sa_cty_neighbors": "savojablogh - جنوب\nkelardasht - شمال‌شرق\nabyek - غرب\ntonekabon - شمال",
+  "sa_cty_poi_heritage": "تکیه روستای جوستان\nخانه محمود طالقانی",
+  "sa_cty_poi_offbeat": "سنگ‌نوشته گردنه عسلک",
+  "sa_cty_population": 16815,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.20528,50.7761"
  }
 }

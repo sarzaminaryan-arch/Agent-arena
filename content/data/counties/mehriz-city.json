@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q1286443",
    "value": "مهریز"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 69
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.26667,54.5"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286443",
    "value": 54.5
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "anar": "جنوب‌شرق",
+    "bafq-city": "شمال‌شرق",
+    "marvast-city": "جنوب‌غرب",
+    "taft-city": "شمال‌غرب",
+    "yazd-city": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "yazd-city",
+    "taft-city",
+    "marvast-city",
+    "anar",
+    "bafq-city"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

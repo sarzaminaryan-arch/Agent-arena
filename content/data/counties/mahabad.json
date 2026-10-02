@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q750775",
    "value": "مهاباد"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 109
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.76667,45.73333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,44 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q750775",
    "value": 45.73333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bukan": "جنوب‌شرق",
+    "chaharborj": "شمال",
+    "miandoab": "شرق",
+    "mirabad": "جنوب‌غرب",
+    "naqadeh": "شمال‌غرب",
+    "piranshahr": "غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "naqadeh",
+    "chaharborj",
+    "miandoab",
+    "bukan",
+    "piranshahr",
+    "mirabad"
+   ]
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "ایران\nمینوآ\nمادها\nفقرگاه"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -6,9 +6,15 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اسدآباد",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 73,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "bahar-city - شمال‌شرق\ntuyserkan-city - جنوب‌شرق\nkangavar - جنوب‌غرب\nsonqor - غرب\nqorveh - شمال‌غرب",
+  "sa_cty_poi_heritage": "کتیبه آقاجان بلاغی\nحمام گلستان\nمسجد سلطانی\nپل شکسته خسروآباد\nآب انبار شاه عباس",
+  "sa_cty_poi_nature": "ملهمدره\nبهمن دره\nتالاب پیر سلیمان",
+  "sa_cty_poi_offbeat": "سیدجمال الدین اسدآبادی\nصفویه",
   "sa_cty_population": 100901,
-  "sa_cty_rural_districts": 6
+  "sa_cty_rural_districts": 6,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.8,48.15"
  },
  "bahar-city": {
   "sa_city_latitude": 34.98333,
@@ -16,14 +22,22 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بهار",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 53,
   "sa_cty_districts": 3,
-  "sa_cty_population": 119082
+  "sa_cty_neighbors": "asadabad-city - جنوب‌غرب\nkabudarahang-city - شمال\nhamadan-city - شرق\nqorveh - شمال‌غرب",
+  "sa_cty_poi_heritage": "کاروانسرای تاج‌آباد\nتپه سیمین زاغه",
+  "sa_cty_poi_offbeat": "لالجین\nصالح آباد\nشیخ محمد بهاری\nمهاجران\nصنایع دستی\nسفال\nسرامیک\nقالی",
+  "sa_cty_population": 119082,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.98333,48.35"
  },
  "dargazin": {
   "sa_city_latitude": 35.33333,
   "sa_city_longitude": 49.25,
   "sa_cty_census_year": 1395,
-  "sa_cty_population": 36999
+  "sa_cty_distance_center": 53,
+  "sa_cty_neighbors": "razan-city - غرب\nfamenin-city - جنوب\navaj - شمال\nbuin-zahra - شمال‌شرق\nsaveh - شرق",
+  "sa_cty_population": 36999,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.33333,49.25"
  },
  "famenin-city": {
   "sa_city_latitude": 35.11667,
@@ -31,8 +45,11 @@
   "sa_cty_area": 1036,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فامنین",
+  "sa_cty_distance_center": 29,
   "sa_cty_districts": 2,
-  "sa_cty_population": 39359
+  "sa_cty_neighbors": "dargazin - شمال\nhamadan-city - جنوب‌غرب\nkomijan - جنوب\nsaveh - شرق",
+  "sa_cty_population": 39359,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.11667,49.16667"
  },
  "hamadan-city": {
   "sa_city_elevation": 1,
@@ -42,14 +59,22 @@
   "sa_cty_center": "همدان",
   "sa_cty_cities": 4,
   "sa_cty_districts": 2,
-  "sa_cty_population": 676105
+  "sa_cty_neighbors": "famenin-city - شمال‌شرق\nkomijan - جنوب‌شرق\nbahar-city - غرب\ntuyserkan-city - جنوب‌غرب\nmalayer-city - جنوب",
+  "sa_cty_population": 676105,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.93333,48.93333"
  },
  "kabudarahang-city": {
   "sa_city_latitude": 35.36667,
   "sa_city_longitude": 48.36667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کبودرآهنگ",
-  "sa_cty_population": 126062
+  "sa_cty_distance_center": 71,
+  "sa_cty_neighbors": "bahar-city - جنوب\nrazan-city - شرق\nqorveh - غرب\nkhodabandeh - شمال\nbijar - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعهٔ باشقورتاران\nپل کوریجان\n[[قلعهٔ باشقورتاران]]\n[[پل کوریجان]]\nحمام سنگی باشقورتاران\nامامزاده جعفر کوریجان",
+  "sa_cty_poi_nature": "غار علی‌صدر\n[[غار علی‌صدر]]",
+  "sa_cty_poi_offbeat": "زمین‌شناسان\nژوراسیک\nقیزلار قالاسی",
+  "sa_cty_population": 126062,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.36667,48.36667"
  },
  "malayer-city": {
   "sa_city_elevation": 8,
@@ -59,8 +84,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ملایر",
   "sa_cty_cities": 7,
+  "sa_cty_distance_center": 67,
   "sa_cty_districts": 4,
-  "sa_cty_population": 288685
+  "sa_cty_neighbors": "khondab - شرق\ntuyserkan-city - شمال‌غرب\nborujerd - جنوب\nnahavand-city - غرب\nshazand - جنوب‌شرق\nhamadan-city - شمال",
+  "sa_cty_population": 288685,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,48.83333"
  },
  "nahavand-city": {
   "sa_city_elevation": 1644,
@@ -70,8 +98,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نهاوند",
   "sa_cty_cities": 4,
+  "sa_cty_distance_center": 101,
   "sa_cty_districts": 4,
-  "sa_cty_population": 178787
+  "sa_cty_neighbors": "tuyserkan-city - شمال\ndelfan - جنوب‌غرب\nkangavar - شمال‌غرب\nselseleh - جنوب\nmalayer-city - شرق\nborujerd - جنوب‌شرق",
+  "sa_cty_population": 178787,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.23333,48.23333"
  },
  "razan-city": {
   "sa_city_latitude": 35.41667,
@@ -79,8 +110,11 @@
   "sa_cty_area": 1887,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "رزن",
+  "sa_cty_distance_center": 54,
   "sa_cty_districts": 2,
-  "sa_cty_population": 107587
+  "sa_cty_neighbors": "dargazin - شرق\navaj - شمال‌شرق\nkabudarahang-city - غرب\nkhodabandeh - شمال‌غرب",
+  "sa_cty_population": 107587,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.41667,49.0"
  },
  "tuyserkan-city": {
   "sa_city_elevation": 1784,
@@ -89,7 +123,14 @@
   "sa_cty_area": 1556,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "تویسرکان",
+  "sa_cty_distance_center": 67,
   "sa_cty_districts": 2,
-  "sa_cty_population": 101666
+  "sa_cty_neighbors": "asadabad-city - شمال‌غرب\nnahavand-city - جنوب\nkangavar - غرب\nmalayer-city - جنوب‌شرق\nhamadan-city - شمال‌شرق",
+  "sa_cty_poi_heritage": "قلعه اردلان\nکاروانسرای فرسفج\nمدرسه شیخ علی خان زنگنه\nمسجد جامع تویسرکان\nخانه مسعودی\nمسجد باغوار\nآرامگاه میررضی‌الدین آرتیمانی\nآرامگاه حبقوق نبی",
+  "sa_cty_poi_nature": "مسجد جامع سرابی\nسرابی\nحمام سرابی\nدره گزندر سرابی\nآبشار افشار",
+  "sa_cty_poi_offbeat": "اشتران\nفرسفج\nکرزان\nقاجار\nچنار\nسرکان\nروستای آرتیمان\nگشانی\nشهرستانه\nباباپیرعلی\nبوجان",
+  "sa_cty_poi_recreation": "پارک توریستی کمربسته",
+  "sa_cty_population": 101666,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.56667,48.35"
  }
 }

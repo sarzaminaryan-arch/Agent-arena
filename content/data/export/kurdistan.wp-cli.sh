@@ -6,8 +6,11 @@ ID=$(wp post list --post_type=city --name=baneh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "بانه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "158690"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "111"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sardasht - شمال‌غرب\nmarivan - جنوب‌شرق\nsaqqez - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.91667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "45.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.91667,45.83333"
 
 # بیجار
 ID=$(wp post list --post_type=city --name=bijar --field=ID | head -1)
@@ -15,8 +18,14 @@ ID=$(wp post list --post_type=city --name=bijar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "89162"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4350"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "91"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "divandarreh - غرب\ndehgolan - جنوب\nqorveh - جنوب\nejrud - شمال‌شرق\nkhodabandeh - شرق\ntakab - شمال‌غرب\nkabudarahang-city - جنوب‌شرق\nmahneshan - شمال"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "قزل‌اوزن\nمنطقه حفاظت‌شده"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "پیست اسکی نسار"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد خسروآباد گروس"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.86667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.6"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.86667,47.6"
 
 # دهگلان
 ID=$(wp post list --post_type=city --name=dehgolan --field=ID | head -1)
@@ -24,8 +33,11 @@ ID=$(wp post list --post_type=city --name=dehgolan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "64015"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2050"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "47"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "qorveh - شرق\nsanandaj - غرب\nbijar - شمال\nkamyaran - جنوب‌غرب\ndivandarreh - شمال‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.35"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.35"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.35,47.35"
 
 # دیواندره
 ID=$(wp post list --post_type=city --name=divandarreh --field=ID | head -1)
@@ -33,8 +45,11 @@ ID=$(wp post list --post_type=city --name=divandarreh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "80040"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "3637"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "67"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bijar - شرق\nsaqqez - شمال‌غرب\nsanandaj - جنوب\ntakab - شمال\ndehgolan - جنوب‌شرق\nmarivan - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.91667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.91667,47.0"
 
 # سروآباد
 ID=$(wp post list --post_type=city --name=sarvabad --field=ID | head -1)
@@ -43,8 +58,11 @@ ID=$(wp post list --post_type=city --name=sarvabad --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1200"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "46"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "paveh - جنوب\nmarivan - شمال\nsanandaj - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.25,46.33333"
 
 # سقز
 ID=$(wp post list --post_type=city --name=saqqez --field=ID | head -1)
@@ -52,8 +70,11 @@ ID=$(wp post list --post_type=city --name=saqqez --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "226451"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "103"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bukan - شمال\nbaneh - جنوب‌غرب\nmarivan - جنوب\ndivandarreh - جنوب‌شرق\ntakab - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.16667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=36.16667,46.33333"
 
 # سنندج
 ID=$(wp post list --post_type=city --name=sanandaj --field=ID | head -1)
@@ -61,8 +82,10 @@ ID=$(wp post list --post_type=city --name=sanandaj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "501402"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sarvabad - غرب\ndehgolan - شرق\nkamyaran - جنوب\nmarivan - شمال‌غرب\ndivandarreh - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.83333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.33333,46.83333"
 
 # قروه
 ID=$(wp post list --post_type=city --name=qorveh --field=ID | head -1)
@@ -71,8 +94,11 @@ ID=$(wp post list --post_type=city --name=qorveh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2900"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "76"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "dehgolan - غرب\nsonqor - جنوب\nkabudarahang-city - شرق\nasadabad-city - جنوب‌شرق\nbijar - شمال\nbahar-city - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "47.66667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.25,47.66667"
 
 # مریوان
 ID=$(wp post list --post_type=city --name=marivan --field=ID | head -1)
@@ -80,14 +106,23 @@ ID=$(wp post list --post_type=city --name=marivan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "195263"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "60"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "sarvabad - جنوب\nbaneh - شمال‌غرب\nsanandaj - جنوب‌شرق\nsaqqez - شمال\ndivandarreh - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.58333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.25"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.58333,46.25"
 
 # کامیاران
 ID=$(wp post list --post_type=city --name=kamyaran --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "کامیاران"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "102856"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "47"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ravansar - جنوب‌غرب\nsanandaj - شمال\nsonqor - شرق\ndehgolan - شمال‌شرق"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "سد گاوشان\nچشمه آب‌معدنی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "شهرستان کامیاران\nبنای تاریخی\nثبت ملی اماکن تاریخی\nگردشگری\nپالنگان\nسنگ‌نبشته اورامان\nعکاشه\nروستای پالنگان\nخبرگزاری فارس"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "تپه قلعه توبره ریز"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.91667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "46.91667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.91667,46.91667"
 

@@ -31,6 +31,14 @@
    "url": "https://www.wikidata.org/wiki/Q606064",
    "value": "زابل"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 216
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -45,6 +53,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D8%A8%D9%84",
    "value": 475.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.03333,61.6"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -58,6 +74,54 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q606064",
    "value": 61.6
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "hirmand": "شمال‌شرق",
+    "nimruz": "شمال‌غرب",
+    "zehak": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "zehak",
+    "nimruz",
+    "hirmand"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "آتشکده کرکویه\nقلعه سام\nقلعه رستم\nقلعه تپه\nقلعه مچی\nقلعه رامرود\nتپه زیارت تخت شاه\nآرامگاه خواجه غلطان\nارگ خان ملک کیانی\nتپه تخت شاه ۸\nمجموعه تپه‌های تخت عدالت شاه\nقلعه کک کهزاد"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه سه کوهه\nسه کوهه"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دهانه غلامان\nچاه نیمه\nبی بی دوست\nمیل قاسم‌آباد\nمیل نادری\nزاهدان کهنه\nآسیاب بادی سیستان"
   },
   "population": {
    "fetched": "2026-10-02",

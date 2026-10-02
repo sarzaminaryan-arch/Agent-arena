@@ -24,7 +24,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @return string[]
  */
 function sa_county_import_keys() {
-	$keys = array( 'sa_city_latitude', 'sa_city_longitude', 'sa_city_elevation' );
+	$keys = array( 'sa_city_latitude', 'sa_city_longitude', 'sa_city_elevation', 'sa_google_map_url', 'sa_city_population' );
 	foreach ( sa_county_schema() as $f ) {
 		$keys[] = $f['key'];
 	}

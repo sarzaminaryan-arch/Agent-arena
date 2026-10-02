@@ -22,6 +22,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
    "value": 4
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 142
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -36,6 +44,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
    "value": 77.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=28.04028,51.70222"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -49,6 +65,44 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270657",
    "value": 51.70222
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "jam": "شرق",
+    "khormoj": "شمال"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khormoj",
+    "jam"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "مسجد بردستان\nبخش مرکزی شهرستان دیر\nقلعه بردستان\nقلعه زندان\nقلعه گنوی\nتل سوزو دیر\nمحوطه بردو\nآب‌انبار سرمستان\nآرامگاه بی بی دولت\nمحوطه بطانه"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "بخش بردخون\nچاه سنگی جبرانی ۱\nچاه سنگی جبرانی ۲\nآثار سنگی شاهزاده ابوالقاسم\nچاه رمیله\nبخش آبدان\nچاه‌های آب بردستان\nآسیاب‌آبی گنوی"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -31,6 +31,22 @@
    "url": "https://www.wikidata.org/wiki/Q1286210",
    "value": "کلیبر"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 113
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=38.9,47.05"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -44,6 +60,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1286210",
    "value": 47.05
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "ahar": "جنوب‌شرق",
+    "hurand": "شرق",
+    "khoda-afarin": "شمال",
+    "varzaqan": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khoda-afarin",
+    "hurand",
+    "ahar",
+    "varzaqan"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلعه بابک\nقلعه پشتو\nقلعه پیغام\nقلعه آوارسین\nمسجد جامع کلیبر\nمقبره شاه قاسم"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دره مکیدی\nقلعه دره سی"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "File:Motaalleq village II.jpg\nمتعلق\nعاشقلو\nییلاق\nچپرلی\nآقداش\nآینالو\nآب‌درمانی\nبابک خرم‌دین\nکلیبر\nاستان آذربایجان شرقی\nهوراند"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -29,12 +29,28 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%82%D9%84%DB%8C%D8%AF",
    "value": 4
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 142
+  },
   "elevation": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%82%D9%84%DB%8C%D8%AF",
    "value": 2300.0
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=30.88333,52.68333"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -49,6 +65,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1270488",
    "value": 52.68333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "abadeh": "شمال‌غرب",
+    "abarkuh-city": "شرق",
+    "khorrambid": "جنوب‌شرق",
+    "sepidan": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "abadeh",
+    "khorrambid",
+    "abarkuh-city",
+    "sepidan"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "امامزاده سید محمد\nامام زاده"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "تنگ براق\nچشمه محمد رسول‌الله\nرشته کوه\nدریاچه کافتر\nرودخانه شادکام\nرودخانه کر\nچشمه قدمگاه\nچشمه چویو\nپارک جنگلی\nکوه بل"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "سانتی‌متر\nخط پهلوی ساسانی\nشهرآشوب\nآسپاس\nباتلاق گور بهرام\nعلی\nمرکز شهر\nپهلوی ساسانی\nشهرستان مرودشت\nسده\nزاگرس\nچشم‌انداز"
   },
   "population": {
    "fetched": "2026-10-02",

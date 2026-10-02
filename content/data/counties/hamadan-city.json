@@ -36,6 +36,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%85%D8%AF%D8%A7%D9%86",
    "value": 1.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=34.93333,48.93333"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -49,6 +57,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1279518",
    "value": 48.93333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bahar-city": "غرب",
+    "famenin-city": "شمال‌شرق",
+    "komijan": "جنوب‌شرق",
+    "malayer-city": "جنوب",
+    "tuyserkan-city": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "famenin-city",
+    "komijan",
+    "bahar-city",
+    "tuyserkan-city",
+    "malayer-city"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

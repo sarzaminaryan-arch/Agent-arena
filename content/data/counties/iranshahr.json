@@ -24,12 +24,28 @@
    "url": "https://www.wikidata.org/wiki/Q1278141",
    "value": "ایرانشهر"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 192
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1",
    "value": 3
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=27.76806,60.03361"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -44,6 +60,42 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1278141",
    "value": 60.03361
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bampur": "جنوب",
+    "dalgan": "جنوب‌غرب",
+    "khash": "شمال‌شرق",
+    "rigan": "شمال‌غرب",
+    "taftan": "شمال‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "dalgan",
+    "bampur",
+    "taftan",
+    "khash",
+    "rigan"
+   ]
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "ایرانشهر\nبلوچستان ایرانشهر"
   },
   "population": {
    "fetched": "2026-10-02",

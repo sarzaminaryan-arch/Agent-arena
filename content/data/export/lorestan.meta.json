@@ -7,9 +7,15 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "الیگودرز",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 116,
   "sa_cty_districts": 5,
-  "sa_cty_neighbors": "azna\ndorud\nkhorramabad",
-  "sa_cty_population": 137534
+  "sa_cty_neighbors": "azna - شمال\ndorud\nkhorramabad",
+  "sa_cty_poi_heritage": "آتشکده باستانی کیورز امیرآباد\nقلعه دختر\nقلعه باجول الیگودرز\nموزه مردم‌شناسی الیگودرز",
+  "sa_cty_poi_nature": "دریاچه تمی الیگودرز\nآبشار آب سفید الیگودرز\nدریاچه گهر\nآبشار چکان الیگودرز\nآبشار برنجه الیگودرز\nدامنه‌های اشترانکوه الیگودرز\nپارک جنگلی بنفشه الیگودرز",
+  "sa_cty_poi_offbeat": "دشت لاله‌های واژگون\nرستوران گردان بام الیگودرز\nروستای گایکان",
+  "sa_cty_poi_recreation": "پیست بین الملی اسکی تمندر الیگودرز",
+  "sa_cty_population": 137534,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.08333,49.48333"
  },
  "azna": {
   "sa_city_latitude": 33.46667,
@@ -18,8 +24,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "ازنا",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 101,
   "sa_cty_districts": 2,
-  "sa_cty_population": 74936
+  "sa_cty_neighbors": "dorud - غرب\naligudarz - جنوب\nshazand - شمال\nkhomeyn - شمال‌شرق",
+  "sa_cty_population": 74936,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.46667,49.41667"
  },
  "borujerd": {
   "sa_city_elevation": 1570,
@@ -29,16 +38,27 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "بروجرد",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 59,
   "sa_cty_districts": 3,
-  "sa_cty_population": 326452
+  "sa_cty_neighbors": "dorud - جنوب‌شرق\nshazand - شرق\nmalayer-city - شمال\nkhorramabad - جنوب‌غرب\nselseleh - غرب\nnahavand-city - شمال‌غرب",
+  "sa_cty_poi_heritage": "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان",
+  "sa_cty_poi_offbeat": "دهستان شیروان",
+  "sa_cty_population": 326452,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.83333,48.83333"
  },
  "chegeni": {
   "sa_city_latitude": 33.61667,
   "sa_city_longitude": 47.91667,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "سرابدوره",
+  "sa_cty_distance_center": 41,
   "sa_cty_districts": 2,
-  "sa_cty_population": 41756
+  "sa_cty_neighbors": "mamulan - جنوب\nselseleh - شمال‌شرق\nkhorramabad - شرق\ndelfan - شمال\nkuhdasht - غرب",
+  "sa_cty_poi_heritage": "پل کشکان\nتپه سر قلعه ناوه کش\nتپه چغادرویشان\nمحوطه قلاع بردی",
+  "sa_cty_poi_nature": "غار دوشه\nپارک جنگلی شوراب",
+  "sa_cty_poi_offbeat": "پیرشمس الدین\nاشکانیان\nمله شبانان",
+  "sa_cty_population": 41756,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.61667,47.91667"
  },
  "delfan": {
   "sa_city_elevation": 2180,
@@ -48,8 +68,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "نورآباد (دلفان)",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 75,
   "sa_cty_districts": 4,
-  "sa_cty_population": 143973
+  "sa_cty_neighbors": "selseleh - جنوب‌شرق\nnahavand-city - شمال‌شرق\nharsin - شمال‌غرب\nkangavar - شمال\nchegeni - جنوب\nsahneh - شمال\nhalilan - جنوب‌غرب",
+  "sa_cty_population": 143973,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.0551,47.8698"
  },
  "dorud": {
   "sa_city_latitude": 33.5,
@@ -57,8 +80,13 @@
   "sa_cty_area": 1326,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "دورود",
+  "sa_cty_distance_center": 70,
   "sa_cty_districts": 3,
-  "sa_cty_population": 174508
+  "sa_cty_neighbors": "azna - شرق\nborujerd - شمال‌غرب\nshazand - شمال‌شرق\nkhorramabad - غرب\ndezful - جنوب",
+  "sa_cty_poi_nature": "کوه\nجنگل\nرودخانه\nسراب\nاشترانکوه\nدریاچه گهر",
+  "sa_cty_poi_offbeat": "دورود",
+  "sa_cty_population": 174508,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.5,49.08333"
  },
  "khorramabad": {
   "sa_city_elevation": 1200,
@@ -69,7 +97,10 @@
   "sa_cty_center": "خرمآباد",
   "sa_cty_cities": 4,
   "sa_cty_districts": 4,
-  "sa_cty_population": 506471
+  "sa_cty_neighbors": "mamulan - جنوب‌غرب\nselseleh - شمال‌غرب\nchegeni - غرب\nborujerd - شمال‌شرق\ndorud - شرق",
+  "sa_cty_poi_nature": "چشمه\nرودخانه\nآبشار",
+  "sa_cty_population": 506471,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.5,48.33333"
  },
  "kuhdasht": {
   "sa_city_elevation": 1195,
@@ -78,8 +109,11 @@
   "sa_cty_area": 3904,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "کوهدشت",
+  "sa_cty_distance_center": 87,
   "sa_cty_districts": 4,
-  "sa_cty_population": 166658
+  "sa_cty_neighbors": "rumeshkan - جنوب\nhalilan - شمال‌غرب\nchegeni - شرق\nmamulan - شرق",
+  "sa_cty_population": 166658,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.51667,47.4"
  },
  "mamulan": {
   "sa_city_latitude": 33.35472,
@@ -87,16 +121,25 @@
   "sa_cty_area": 1440,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "معمولان",
+  "sa_cty_distance_center": 38,
   "sa_cty_districts": 2,
-  "sa_cty_population": 21372
+  "sa_cty_neighbors": "pol-e-dokhtar - جنوب\nchegeni - شمال\nkhorramabad - شمال‌شرق\nkuhdasht - غرب\nrumeshkan - غرب\ndarreh-shahr - جنوب‌غرب",
+  "sa_cty_population": 21372,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.35472,47.96333"
  },
  "pol-e-dokhtar": {
   "sa_city_latitude": 33.16667,
   "sa_city_longitude": 48,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پل دختر",
+  "sa_cty_distance_center": 48,
   "sa_cty_districts": 2,
-  "sa_cty_population": 73744
+  "sa_cty_neighbors": "mamulan - شمال\nabdanan - جنوب‌غرب\ndarreh-shahr - غرب\nandimeshk - جنوب‌شرق",
+  "sa_cty_poi_heritage": "پل‌دختر\nپل کلهر\nکاروانسرای چمشک\nتپهٔ واشیان\nپل گاومیشان\nمقبره سید نعمت‌الله جزائری",
+  "sa_cty_poi_nature": "غار کلماکره\nدره خزینه\nرودخانه زال\nغار کوگان\nکبیرکوه\nآبشار آبتاف\nآبشار افرینه\nتالاب بلمک\nتالاب زردابه",
+  "sa_cty_poi_offbeat": "کول چپ\nحیات‌الغیب",
+  "sa_cty_population": 73744,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.16667,48.0"
  },
  "rumeshkan": {
   "sa_city_elevation": 1095,
@@ -105,9 +148,15 @@
   "sa_cty_area": 853,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "چقابل",
+  "sa_cty_distance_center": 91,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "kuhdasht - شمال\ndarreh-shahr - جنوب\nmamulan - شرق\nmalekshahi - غرب",
+  "sa_cty_poi_heritage": "امامزاده باباحبیب انصاری\nتپه کفتارلان ۱\nتپه برآفتاب\nقلعه کهزاد",
+  "sa_cty_poi_nature": "غار درونشیر\nغار کلک رو\nغار ور مر\nمحوطه تنگ بره",
+  "sa_cty_poi_offbeat": "پناهگاه صخره‌ای کلک رو ۱\nپناهگاه صخره‌ای کلک رو ۲\nپناهگاه صخره‌ای ورمر\nکلک رو\nآثار ملی ایران",
   "sa_cty_population": 39058,
-  "sa_cty_rural_districts": 4
+  "sa_cty_rural_districts": 4,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.3667,47.3667"
  },
  "selseleh": {
   "sa_city_elevation": 1700,
@@ -116,7 +165,10 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "الشتر",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 40,
   "sa_cty_districts": 2,
-  "sa_cty_population": 75559
+  "sa_cty_neighbors": "chegeni - جنوب‌غرب\ndelfan - شمال‌غرب\nkhorramabad - جنوب‌شرق\nnahavand-city - شمال\nborujerd - شرق",
+  "sa_cty_population": 75559,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.83333,48.16667"
  }
 }

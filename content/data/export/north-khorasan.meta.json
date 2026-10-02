@@ -5,8 +5,13 @@
   "sa_cty_area": 1606,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "صفیآباد",
+  "sa_cty_distance_center": 102,
   "sa_cty_districts": 2,
-  "sa_cty_population": 16887
+  "sa_cty_neighbors": "esfarayen - شمال‌غرب\nkhoshab - جنوب\njovein - غرب\nfaruj - شمال‌شرق",
+  "sa_cty_poi_heritage": "رباط (کاروانسرای) راونیز",
+  "sa_cty_poi_offbeat": "شهر زیرزمینی جهان بام",
+  "sa_cty_population": 16887,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.805,57.93611"
  },
  "bojnord": {
   "sa_city_latitude": 37.58333,
@@ -15,7 +20,10 @@
   "sa_cty_center": "بجنورد",
   "sa_cty_cities": 2,
   "sa_cty_districts": 2,
-  "sa_cty_population": 324083
+  "sa_cty_neighbors": "raz-jargalan - جنوب‌شرق\nmaneh-samalqan - غرب",
+  "sa_cty_poi_offbeat": "گردشگاه باباامان\nبش قارداش\nاسفیدان\nحمید",
+  "sa_cty_population": 324083,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.58333,57.33333"
  },
  "esfarayen": {
   "sa_city_elevation": 8,
@@ -25,7 +33,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "اسفراین",
   "sa_cty_cities": 2,
-  "sa_cty_population": 120513
+  "sa_cty_distance_center": 68,
+  "sa_cty_neighbors": "jovein - جنوب\nbam-safiabad - جنوب‌شرق\nfaruj - شمال‌شرق\nraz-jargalan - شمال\nshirvan - شمال‌شرق",
+  "sa_cty_poi_offbeat": "پستانداران\nمنطقه حفاظت شده\nاستان خراسان\nمناطق حفاظت شده",
+  "sa_cty_population": 120513,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.0,57.55"
  },
  "faruj": {
   "sa_city_elevation": 1280,
@@ -34,8 +46,11 @@
   "sa_cty_area": 1615,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "فاروج",
+  "sa_cty_distance_center": 87,
   "sa_cty_districts": 2,
-  "sa_cty_population": 49271
+  "sa_cty_neighbors": "shirvan - شمال‌غرب\nbam-safiabad - جنوب‌غرب\nesfarayen - جنوب‌غرب\ndargaz - شرق\nchenaran - جنوب‌شرق",
+  "sa_cty_population": 49271,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.22829,58.21542"
  },
  "garmeh": {
   "sa_city_elevation": 2118,
@@ -45,8 +60,14 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "گرمه",
   "sa_cty_cities": 3,
+  "sa_cty_distance_center": 114,
+  "sa_cty_neighbors": "jajarm - شرق\nmeyami - جنوب‌غرب\ngalikesh - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعه خداوردی درق\nمنجاق تپه\nتپه رباط عشق",
+  "sa_cty_poi_nature": "جنگل گلستان",
+  "sa_cty_poi_offbeat": "جاذبه‌های گردشگری\nرباط عشق\nنارنج",
   "sa_cty_population": 25475,
-  "sa_cty_rural_districts": 9
+  "sa_cty_rural_districts": 9,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.98333,56.28333"
  },
  "jajarm": {
   "sa_city_elevation": 1000,
@@ -55,24 +76,38 @@
   "sa_cty_area": 3500,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "جاجرم",
+  "sa_cty_distance_center": 98,
   "sa_cty_districts": 3,
-  "sa_cty_population": 36673
+  "sa_cty_neighbors": "garmeh - غرب\njoghatai - جنوب‌شرق\nmaneh-samalqan - شمال‌شرق",
+  "sa_cty_poi_heritage": "مسجد جامع جاجرم\nتپه پهلوان",
+  "sa_cty_poi_offbeat": "استان خراسان",
+  "sa_cty_population": 36673,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.0,56.5"
  },
  "maneh": {
   "sa_city_latitude": 37.88,
   "sa_city_longitude": 56.79,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "پیشقلعه",
-  "sa_cty_population": 26082
+  "sa_cty_distance_center": 58,
+  "sa_cty_neighbors": "maneh-samalqan - جنوب\nmaraveh-tappeh - غرب",
+  "sa_cty_population": 26082,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.88,56.79"
  },
  "maneh-samalqan": {
   "sa_city_latitude": 37.55939,
   "sa_city_longitude": 56.9213,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "آشخانه",
+  "sa_cty_distance_center": 36,
   "sa_cty_districts": 2,
+  "sa_cty_neighbors": "bojnord - شرق\nmaneh - شمال\njajarm - جنوب‌غرب",
+  "sa_cty_poi_heritage": "تپه‌های شهرآوا\nقلعه خان\nآتشکده اسپاخو\nامامزاده سلطان محمدابراهیم کشانک\nتپه تاریخی ریوی آشخانه در روستا نجف\nجاده پارک رضوان آشخانه\nآرامگاه استاد سهراب محمدی در امامزاده صالح آشخانه",
+  "sa_cty_poi_nature": "چشمه آبگرم و دره کفترخانه مهمانک\nروستای تفریحی جنگلی درکش\nجنگل‌های هاور\nرودخانه شیرآباد",
+  "sa_cty_poi_offbeat": "جاذبه‌های گردشگری",
   "sa_cty_population": 101727,
-  "sa_cty_rural_districts": 8
+  "sa_cty_rural_districts": 8,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.55939,56.9213"
  },
  "raz-jargalan": {
   "sa_city_latitude": 37.56667,
@@ -81,8 +116,11 @@
   "sa_cty_census_year": 1395,
   "sa_cty_center": "راز",
   "sa_cty_cities": 2,
+  "sa_cty_distance_center": 2,
   "sa_cty_districts": 3,
-  "sa_cty_population": 59210
+  "sa_cty_neighbors": "bojnord - شمال‌غرب\nshirvan - شرق\nesfarayen - جنوب",
+  "sa_cty_population": 59210,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.56667,57.35"
  },
  "shirvan": {
   "sa_city_latitude": 37.53333,
@@ -90,7 +128,13 @@
   "sa_cty_area": 3789,
   "sa_cty_census_year": 1395,
   "sa_cty_center": "شیروان",
+  "sa_cty_distance_center": 50,
   "sa_cty_districts": 3,
-  "sa_cty_population": 146140
+  "sa_cty_neighbors": "faruj - جنوب‌شرق\nraz-jargalan - غرب\nesfarayen - جنوب‌غرب",
+  "sa_cty_poi_heritage": "حمام روستای پیرشهید\nمقبره حضرت زکریا\nامامزاده حمزه رضا\nامام زاده محمدرضا مشهد طرقی\nامامزاده قاسم الحسینی روستای خادمی\nتپه کمرک\nتپه برزل‌آباد",
+  "sa_cty_poi_nature": "کوهستان پارک شیرکوه\nآبشار استرخی\nکوه شاهجهان از رشته کوه آلاداغ\nکوه کپه داغ\nغار کافر قلعه\nغار پوستین دوز\nکوه‌های آلخاص\nترناو (چشمه‌ای دائمی با آب بسیار گوارا",
+  "sa_cty_poi_offbeat": "چهارطاقی تیموری\nFile:Fajrabad.jpg\nالله‌آباد علیا\nبهشت گمشده\nییلاق گلیان\nمنطقه حفاظت شده گلول وسرانی\nزوارم\nسدهای بارزو و شورک\nچلو\nییلاق اوغاز",
+  "sa_cty_population": 146140,
+  "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.53333,57.9"
  }
 }

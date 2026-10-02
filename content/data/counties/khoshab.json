@@ -36,6 +36,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
    "value": 3
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=36.43333,58.06667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -49,6 +57,40 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q6402482",
    "value": 58.06667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bam-safiabad": "شمال",
+    "firuzeh": "شرق",
+    "jovein": "شمال‌غرب",
+    "sheshtamad": "جنوب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "bam-safiabad",
+    "firuzeh",
+    "jovein",
+    "sheshtamad"
+   ]
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "سلطان‌آباد\nداراب\nگردشگران\nطالبی"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -1,6 +1,6 @@
 # گزارش اعتبارسنجی دادهٔ شهرستان‌ها
 
-پرونده‌های بررسی‌شده: 483 از ۴۸۳ · خطا: 0 · هشدار: 145
+پرونده‌های بررسی‌شده: 483 از ۴۸۳ · خطا: 0 · هشدار: 150
 
 ## خطاها (باید پیش از ورود به سایت حل شوند)
 
@@ -12,6 +12,8 @@
 |---|---|
 | `ajabshir` | تعارض منبع در population: {"chosen": {"wikidata": 70852}, "others": {"wikipedia": 70850}} |
 | `alborz-qazvin` | تعارض منبع در population: {"chosen": {"wikidata": 242865}, "others": {"wikipedia": 243868}} |
+| `aligudarz` | همسایگی نامتقارن با dorud |
+| `aligudarz` | همسایگی نامتقارن با khorramabad |
 | `andimeshk` | تعارض منبع در population: {"chosen": {"wikidata": 171412}, "others": {"wikipedia": 291412}} |
 | `angut` | مختصات ندارد |
 | `arak` | تعارض منبع در population: {"chosen": {"wikidata": 591756}, "others": {"wikipedia": 591737}} |
@@ -46,12 +48,14 @@
 | `dehaqan` | تعارض منبع در population: {"chosen": {"wikidata": 34511}, "others": {"wikipedia": 42354}} |
 | `dehgolan` | تعارض منبع در population: {"chosen": {"wikidata": 64015}, "others": {"wikipedia": 87000}} |
 | `delfan` | تعارض منبع در population: {"chosen": {"wikidata": 143973}, "others": {"wikipedia": 1439}} |
+| `dezful` | همسایگی نامتقارن با aligudarz |
 | `eslamabad-e-gharb` | تعارض منبع در population: {"chosen": {"wikidata": 140876}, "others": {"wikipedia": 140786}} |
 | `fahraj` | تعارض منبع در population: {"chosen": {"wikidata": 67096}, "others": {"wikipedia": 66791}} |
 | `falavarjan` | تعارض منبع در area: {"chosen": {"wikidata": 313.0}, "others": {"wikipedia": 318.0}} |
 | `fanuj` | تعارض منبع در population: {"chosen": {"wikidata": 49161}, "others": {"wikipedia": 47827}} |
 | `fasa` | تعارض منبع در population: {"chosen": {"wikidata": 205187}, "others": {"wikipedia": 207900}} |
 | `ferdows` | تعارض منبع در population: {"chosen": {"wikidata": 45523}, "others": {"wikipedia": 61346}} |
+| `fereydunshahr` | همسایگی نامتقارن با aligudarz |
 | `firuzeh` | تعارض منبع در population: {"chosen": {"wikidata": 37539}, "others": {"wikipedia": 42739}} |
 | `firuzkuh` | تعارض منبع در area: {"chosen": {"wikidata": 2386.0}, "others": {"wikipedia": 2261.0}} |
 | `firuzkuh` | تعارض منبع در population: {"chosen": {"wikidata": 33558}, "others": {"wikipedia": 40000}} |
@@ -87,6 +91,7 @@
 | `konarak` | تعارض منبع در population: {"chosen": {"wikidata": 98212}, "others": {"wikipedia": 77818}} |
 | `kordkuy` | تعارض منبع در population: {"chosen": {"wikidata": 71270}, "others": {"wikipedia": 67000}} |
 | `kuhpayeh` | تعارض منبع در population: {"chosen": {"wikidata": 23676}, "others": {"wikipedia": 26676}} |
+| `lali` | همسایگی نامتقارن با aligudarz |
 | `lali` | تعارض منبع در population: {"chosen": {"wikidata": 37963}, "others": {"wikipedia": 70963}} |
 | `larestan` | تعارض منبع در population: {"chosen": {"wikidata": 213920}, "others": {"wikipedia": 147456}} |
 | `mahallat` | تعارض منبع در population: {"chosen": {"wikidata": 55342}, "others": {"wikipedia": 56342}} |

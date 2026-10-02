@@ -38,6 +38,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
    "value": 5
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=27.53722,56.22417"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -51,6 +59,32 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q154757",
    "value": 56.22417
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "hajiabad": "شمال‌غرب",
+    "khamir": "غرب",
+    "qeshm": "جنوب‌غرب",
+    "rudan": "شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khamir",
+    "qeshm",
+    "rudan",
+    "hajiabad"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

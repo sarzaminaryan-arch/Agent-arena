@@ -7,8 +7,11 @@ ID=$(wp post list --post_type=city --name=ashtian --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "16357"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "1240"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "40"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "arak - جنوب‌غرب\nfarahan - شمال‌غرب\ntafresh - شمال\njafarabady - شمال‌شرق\nmahallat - جنوب‌شرق\nkahak - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.06667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.41667,50.06667"
 
 # اراک
 ID=$(wp post list --post_type=city --name=arak --field=ID | head -1)
@@ -16,16 +19,23 @@ ID=$(wp post list --post_type=city --name=arak --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "591756"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ashtian - شمال‌شرق\nshazand - جنوب‌غرب\nfarahan - شمال\nkhomeyn - جنوب\nmahallat - جنوب‌شرق\nkhondab - شمال‌غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "چشمه چپقلی\nغار کل\nایوان غار\nغار برآفتاب\nاشترانکوه\nکوه غار یا شاه نشین\nکوه غاغان"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "چناس\nبرآفتاب\nگورآب\nمیشو"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.13333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.8"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.13333,49.8"
 
 # تفرش
 ID=$(wp post list --post_type=city --name=tafresh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_center "تفرش"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "24913"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "78"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "saveh - شمال\nfarahan - جنوب‌غرب\nashtian - جنوب\njafarabady - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.83333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.88333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.83333,49.88333"
 
 # خمین
 ID=$(wp post list --post_type=city --name=khomeyn --field=ID | head -1)
@@ -34,9 +44,15 @@ ID=$(wp post list --post_type=city --name=khomeyn --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "55"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "golpayegan - جنوب‌شرق\nmahallat - شمال‌شرق\narak - شمال\nazna - غرب\nshazand - غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "کوه بوجه"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "سید روح‌الله خمینی\nجعفرآباد\nخط کوفی\nالوند\nمیشیجان علیا"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "عمارت کشاورز صدر\nحمام لکان\nامامزاده اهل ابن علی\nارگ میشیجان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.66667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1830"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.66667,50.0"
 
 # خنداب
 ID=$(wp post list --post_type=city --name=khondab --field=ID | head -1)
@@ -44,8 +60,11 @@ ID=$(wp post list --post_type=city --name=khondab --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_population "54018"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "62"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "malayer-city - غرب\nkomijan - شمال\nfarahan - شمال‌شرق\nshazand - جنوب\narak - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.38"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.18972"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.38,49.18972"
 
 # دلیجان
 ID=$(wp post list --post_type=city --name=delijan --field=ID | head -1)
@@ -54,9 +73,15 @@ ID=$(wp post list --post_type=city --name=delijan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2500"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "90"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "mahallat - غرب\nkahak - شمال\nkashan - شرق\nmeymeh-vazvan - جنوب‌شرق"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار چال نخجیر"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "جاذبه‌های گردشگری"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کاروانسرای دودهک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.03333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.76667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1530"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.03333,50.76667"
 
 # زرندیه
 ID=$(wp post list --post_type=city --name=zarandieh --field=ID | head -1)
@@ -66,9 +91,15 @@ ID=$(wp post list --post_type=city --name=zarandieh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "4116"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "146"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "eshtehard - شمال\nmalard - شمال‌شرق\nsaveh - جنوب‌غرب\nbuin-zahra - شمال‌غرب\njafarabady - جنوب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "یخچال مهدی‌آباد"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "گردشگری\nجاده ابریشم\nتاریخ ایران باستان\nدوره اشکانیان\nپیک\nمنطقه گزنگ صدرآباد\nشاهنشاهی ساسانی\nتاریخ ایران پس از اسلام\nهزاره سوم\nایران قاجاری\nایلخانان\nایران صفوی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "تپه خورآباد\nتپه‌های روستای آجان\nتپه گبری الویر\nتپه قلعه باش علیشار\nتپه سر قلعه\nآب‌انبار محمودآباد\nآب‌انبار نوروزآباد\nامامزاده پنج‌تن\nآرامگاه امامزاده سید منصوربن موسی\nکاروانسرای خشکه رود\nمسجد چاله\nحمام آسیابک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.36667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1256"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.36667,50.33333"
 
 # ساوه
 ID=$(wp post list --post_type=city --name=saveh --field=ID | head -1)
@@ -77,8 +108,13 @@ ID=$(wp post list --post_type=city --name=saveh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "109"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "tafresh - جنوب\nzarandieh - شمال‌شرق\nbuin-zahra - شمال‌غرب\njafarabady - جنوب‌شرق\ndargazin - غرب\nfamenin-city - غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "ایران\nمغول\nتیمور لنگ\nصفویه\nسلجوقی\nزندیه\nساسانیان\nموسی کاظم"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار ساوه\nمسجد جامع ساوه\nمناره مسجد جمعه\nمناره مسجد میدان\nمسجد سرخ\nمسجد بازار ساوه\nگنبد چهارسوق\nقلعه دختر\nقیزقلعه\nامامزاده سید اسحاق\nبنای امامزاده سید حمزه\nآرامگاه امامزاده فضل بن سلیمان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.1"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.98333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.1,49.98333"
 
 # شازند
 ID=$(wp post list --post_type=city --name=shazand --field=ID | head -1)
@@ -88,8 +124,11 @@ ID=$(wp post list --post_type=city --name=shazand --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "2745"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "4"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "4"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "53"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "borujerd - غرب\ndorud - جنوب‌غرب\nazna - جنوب\narak - شمال‌شرق\nkhondab - شمال\nmalayer-city - شمال‌غرب\nkhomeyn - شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.9"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.9,49.3"
 
 # فراهان
 ID=$(wp post list --post_type=city --name=farahan --field=ID | head -1)
@@ -98,8 +137,11 @@ ID=$(wp post list --post_type=city --name=farahan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "3"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "54"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "komijan - شمال‌غرب\ntafresh - شمال‌شرق\nashtian - جنوب‌شرق\nkhondab - جنوب‌غرب\narak - جنوب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.6"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.63333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.6,49.63333"
 
 # محلات
 ID=$(wp post list --post_type=city --name=mahallat --field=ID | head -1)
@@ -108,8 +150,13 @@ ID=$(wp post list --post_type=city --name=mahallat --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_area "37"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "62"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "delijan - شرق\ngolpayegan - جنوب\nkhomeyn - جنوب‌غرب\narak - شمال‌غرب\nashtian - شمال‌غرب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "یخچال نیم‌ور\nآبگرم\nآب‌گرم\nآتشکده آتشکوه"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "منطقه حفاظت‌شده\nچنار\nنیم‌ور\nساسانیان\nدهستان خورهه\nاشکانیان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "33.91667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.41667"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=33.91667,50.41667"
 
 # کمیجان
 ID=$(wp post list --post_type=city --name=komijan --field=ID | head -1)
@@ -118,6 +165,12 @@ ID=$(wp post list --post_type=city --name=komijan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_census_year "1395"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_districts "2"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_cities "2"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_distance_center "82"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "farahan - جنوب‌شرق\nhamadan-city - شمال‌غرب\nfamenin-city - شمال\nkhondab - جنوب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "غار ورد"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "وفس\nمیلاجرد\nآمره\nفامرین"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه تپه میلا جرد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.76667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.33333"
+[ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=34.76667,49.33333"
 

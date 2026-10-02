@@ -52,6 +52,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
    "value": 1585.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=29.61,52.53"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -65,6 +73,58 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2422280",
    "value": 52.53
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "beyza": "شمال",
+    "chenar-shahijan": "غرب",
+    "kavar": "جنوب‌شرق",
+    "kazerun": "غرب",
+    "zarghan": "شمال‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "zarghan",
+    "beyza",
+    "kavar",
+    "chenar-shahijan",
+    "kazerun"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "حرم شاهچراغ\nارگ کریم خان زند\nحمام وکیل\nقلعه کریمخانی\nبازار وکیل\nموزه پارس\nآرامگاه کریم خان زند\nآرامگاه حافظ\nآرامگاه سعدی\nباغ تخت\nباغ ملی\nباغ نظر"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "دریاچه مهارلو\nدریاچه ارژن\nکوه دراک\nکوه بمو\nباباکوهی\nرودخانه خشک"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "قلات\nمحله قصردشت"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -15,6 +15,14 @@
    "url": "https://www.wikidata.org/wiki/Q4814729",
    "value": "خرامه"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 77
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -29,6 +37,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D8%A7%D9%85%D9%87",
    "value": 1500.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=29.5,53.31667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -42,6 +58,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4814729",
    "value": 53.31667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "arsanjan": "شمال",
+    "bakhtegan": "شرق",
+    "estahban": "جنوب‌شرق",
+    "sarvestan": "جنوب",
+    "zarghan": "شمال‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "sarvestan",
+    "arsanjan",
+    "zarghan",
+    "bakhtegan",
+    "estahban"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

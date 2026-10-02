@@ -15,6 +15,14 @@
    "url": "https://www.wikidata.org/wiki/Q107423141",
    "value": "مروست"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 139
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -29,6 +37,14 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
    "value": 1541.0
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=30.65,54.2"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -42,6 +58,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q107423141",
    "value": 54.2
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "abarkuh-city": "شمال‌غرب",
+    "anar": "شرق",
+    "bavanat": "جنوب‌غرب",
+    "khatam-city": "جنوب",
+    "mehriz-city": "شمال‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "khatam-city",
+    "bavanat",
+    "mehriz-city",
+    "abarkuh-city",
+    "anar"
+   ]
   }
  },
  "name": "مروست",

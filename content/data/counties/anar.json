@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q4751607",
    "value": "انار"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 260
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=30.85,55.35"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,36 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q4751607",
    "value": 55.35
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bafq-city": "شمال",
+    "kuhbanan": "شمال‌شرق",
+    "marvast-city": "غرب",
+    "mehriz-city": "شمال‌غرب",
+    "rafsanjan": "جنوب‌شرق",
+    "shahr-e-babak": "جنوب‌غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "rafsanjan",
+    "shahr-e-babak",
+    "mehriz-city",
+    "kuhbanan",
+    "marvast-city",
+    "bafq-city"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

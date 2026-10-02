@@ -22,12 +22,28 @@
    "url": "https://www.wikidata.org/wiki/Q1291784",
    "value": "اهر"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 101
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
    "status": "auto",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%87%D8%B1",
    "value": 2
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=38.53333,47.28333"
   },
   "lat": {
    "fetched": "2026-10-02",
@@ -42,6 +58,36 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q1291784",
    "value": 47.28333
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "heris": "جنوب‌غرب",
+    "hurand": "شمال",
+    "kaleybar": "شمال‌غرب",
+    "meshgin-shahr": "شرق",
+    "sarab": "جنوب",
+    "varzaqan": "غرب"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "hurand",
+    "meshgin-shahr",
+    "kaleybar",
+    "heris",
+    "varzaqan",
+    "sarab"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

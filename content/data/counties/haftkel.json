@@ -22,6 +22,22 @@
    "url": "https://www.wikidata.org/wiki/Q2610721",
    "value": "هفتکل"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 72
+  },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=31.56667,49.4"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -35,6 +51,34 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q2610721",
    "value": 49.4
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "bagh-e-malek": "شرق",
+    "bavi": "غرب",
+    "izeh": "شمال‌شرق",
+    "masjed-soleyman": "شمال",
+    "ramhormoz": "جنوب‌شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "bavi",
+    "ramhormoz",
+    "masjed-soleyman",
+    "bagh-e-malek",
+    "izeh"
+   ]
   },
   "population": {
    "fetched": "2026-10-02",

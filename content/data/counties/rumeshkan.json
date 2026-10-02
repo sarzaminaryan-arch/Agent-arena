@@ -39,6 +39,14 @@
    "url": "https://www.wikidata.org/wiki/Q7379250",
    "value": "چقابل"
   },
+  "distance_center": {
+   "fetched": "2026-10-02",
+   "note": "خط مستقیم روی نقشه (نه مسافت جاده‌ای) — از مختصات مراکز شهرستان و استان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": 91
+  },
   "districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",
@@ -53,6 +61,14 @@
    "url": "https://www.wikidata.org/wiki/Q7379250",
    "value": 1095
   },
+  "google_map_url": {
+   "fetched": "2026-10-02",
+   "note": "ساخته‌شده از مختصات مرکز شهرستان",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "https://www.google.com/maps/search/?api=1&query=33.3667,47.3667"
+  },
   "lat": {
    "fetched": "2026-10-02",
    "source": "wikidata",
@@ -66,6 +82,56 @@
    "status": "auto",
    "url": "https://www.wikidata.org/wiki/Q7379250",
    "value": 47.3667
+  },
+  "neighbor_dirs": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": {
+    "darreh-shahr": "جنوب",
+    "kuhdasht": "شمال",
+    "malekshahi": "غرب",
+    "mamulan": "شرق"
+   }
+  },
+  "neighbors": {
+   "fetched": "2026-10-02",
+   "note": "تقریبی: از مجاورت مختصات مراکز شهرستان‌ها محاسبه شده — پیش از انتشار بازبینی شود",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": [
+    "kuhdasht",
+    "darreh-shahr",
+    "mamulan",
+    "malekshahi"
+   ]
+  },
+  "poi_heritage": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "امامزاده باباحبیب انصاری\nتپه کفتارلان ۱\nتپه برآفتاب\nقلعه کهزاد"
+  },
+  "poi_nature": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "غار درونشیر\nغار کلک رو\nغار ور مر\nمحوطه تنگ بره"
+  },
+  "poi_offbeat": {
+   "fetched": "2026-10-02",
+   "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
+   "source": "derived",
+   "status": "auto",
+   "url": "",
+   "value": "پناهگاه صخره‌ای کلک رو ۱\nپناهگاه صخره‌ای کلک رو ۲\nپناهگاه صخره‌ای ورمر\nکلک رو\nآثار ملی ایران"
   },
   "population": {
    "fetched": "2026-10-02",
