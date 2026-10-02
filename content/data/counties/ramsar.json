@@ -156,6 +156,7 @@
      "section": "جاذبه های تاریخی، طبیعی و گردشگری",
      "source_title": "رامسر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 658865,
      "target_revision_id": 44304629,
      "target_title": "قلعه مارکوه",
@@ -170,6 +171,7 @@
      "section": "جاذبه های تاریخی، طبیعی و گردشگری",
      "source_title": "رامسر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 208545,
      "target_revision_id": 44483966,
      "target_title": "کاخ مرمر رامسر",
@@ -182,30 +184,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
    "value": "قلعه مارکوه\nکاخ مرمر رامسر"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد میجران",
-     "pageid": 20772,
-     "revision_id": 44400880,
-     "section": "جاذبه های تاریخی، طبیعی و گردشگری / [[بخش دالخانی|جنگل دالخانی]] / مکان های دیدنی جنگل دالخانی / [[اربه کله|روستای اربه کله]]",
-     "source_title": "رامسر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
-     "target_pageid": 2455884,
-     "target_revision_id": 42747157,
-     "target_title": "سد میجران",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%85%DB%8C%D8%AC%D8%B1%D8%A7%D9%86"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D8%B3%D8%B1",
-   "value": "سد میجران"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

@@ -14,20 +14,6 @@
  "chabahar": {
   "candidates": [
    {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه پرتغالی‌ها (چابهار)",
-    "pageid": 13420,
-    "revision_id": 43111016,
-    "section": "جاذبه های تاریخی و گردشگری",
-    "source_title": "شهرستان چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_pageid": 422251,
-    "target_revision_id": 44349352,
-    "target_title": "قلعه پرتغالی‌ها (چابهار)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%DB%8C%E2%80%8C%D9%87%D8%A7_%28%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1%29"
-   },
-   {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
     "name": "کوه‌های مریخی چابهار",
@@ -36,6 +22,7 @@
     "section": "جاذبه های تاریخی و گردشگری",
     "source_title": "شهرستان چابهار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 3926550,
     "target_revision_id": 39230068,
     "target_title": "کوه‌های مریخی چابهار",
@@ -50,80 +37,11 @@
     "section": "جاذبه های گردشگری / دیدنی های طبیعی",
     "source_title": "چابهار",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 176731,
     "target_revision_id": 42459992,
     "target_title": "خلیج چابهار",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%84%DB%8C%D8%AC_%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تالاب لیپار",
-    "pageid": 35022,
-    "revision_id": 44539256,
-    "section": "جاذبه های گردشگری / دیدنی های طبیعی",
-    "source_title": "چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_pageid": 426092,
-    "target_revision_id": 44006403,
-    "target_title": "تالاب لیپار",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D9%84%DB%8C%D9%BE%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه پیروز گت",
-    "pageid": 35022,
-    "revision_id": 44539256,
-    "section": "جاذبه های گردشگری / آثار تاریخی / قلعه ها",
-    "source_title": "چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_pageid": 422254,
-    "target_revision_id": 44349373,
-    "target_title": "قلعه پیروز گت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%BE%DB%8C%D8%B1%D9%88%D8%B2_%DA%AF%D8%AA"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه بلوچ گت",
-    "pageid": 35022,
-    "revision_id": 44539256,
-    "section": "جاذبه های گردشگری / آثار تاریخی / قلعه ها",
-    "source_title": "چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_pageid": 422255,
-    "target_revision_id": 44349365,
-    "target_title": "قلعه بلوچ گت",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A8%D9%84%D9%88%DA%86_%DA%AF%D8%AA"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غارهای بان مسیتی",
-    "pageid": 35022,
-    "revision_id": 44539256,
-    "section": "جاذبه های گردشگری / آثار تاریخی / گورستان های تاریخی",
-    "source_title": "چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_pageid": 422246,
-    "target_revision_id": 31170687,
-    "target_title": "غارهای بان مسیتی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A8%D8%A7%D9%86_%D9%85%D8%B3%DB%8C%D8%AA%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه سید غلام رسول",
-    "pageid": 35022,
-    "revision_id": 44539256,
-    "section": "جاذبه های گردشگری / آثار تاریخی / گورستان های تاریخی",
-    "source_title": "چابهار",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
-    "target_pageid": 422242,
-    "target_revision_id": 44553370,
-    "target_title": "آرامگاه سید غلام رسول",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B3%DB%8C%D8%AF_%D8%BA%D9%84%D8%A7%D9%85_%D8%B1%D8%B3%D9%88%D9%84"
    }
   ],
   "center_confirmed": true,
@@ -136,8 +54,20 @@
     "reason": "target page missing"
    },
    {
+    "name": "قلعه پرتغالی‌ها (چابهار)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "جنگل‌های حرا",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "تالاب لیپار",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "تالاب لیپار",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "خلیج گواتر",
@@ -156,12 +86,32 @@
     "reason": "target page missing"
    },
    {
+    "name": "قلعه پرتغالی‌ها (چابهار)",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قلعه پیروز گت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "قلعه بلوچ گت",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "قلعه انوشیروان",
     "reason": "target page missing"
    },
    {
     "name": "قلعه باتل",
     "reason": "target page missing"
+   },
+   {
+    "name": "غارهای بان مسیتی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آرامگاه سید غلام رسول",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -228,6 +178,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان هامون",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 161509,
     "target_revision_id": 43491253,
     "target_title": "قلعه رستم",
@@ -242,6 +193,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان هامون",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 161501,
     "target_revision_id": 44304702,
     "target_title": "قلعه مچی",
@@ -256,6 +208,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان هامون",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662632,
     "target_revision_id": 44304448,
     "target_title": "قلعه سه کوهه",
@@ -270,24 +223,11 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان هامون",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 161159,
     "target_revision_id": 43925947,
     "target_title": "آرامگاه خواجه غلطان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D8%BA%D9%84%D8%B7%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه هامون",
-    "pageid": 1827056,
-    "revision_id": 44098648,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان هامون",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%A7%D9%85%D9%88%D9%86",
-    "target_pageid": 15500,
-    "target_revision_id": 43756639,
-    "target_title": "دریاچه هامون",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%87%D8%A7%D9%85%D9%88%D9%86"
    }
   ],
   "center_confirmed": true,
@@ -314,6 +254,10 @@
    {
     "name": "قلعه کک کهزاد",
     "reason": "lead locates target in another county"
+   },
+   {
+    "name": "دریاچه هامون",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -355,6 +299,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان خاش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%B4",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 663215,
     "target_revision_id": 44304029,
     "target_title": "قلعه ایرندگان",
@@ -369,6 +314,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان خاش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%B4",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 659414,
     "target_revision_id": 44304196,
     "target_title": "قلعه حیدرآباد",
@@ -383,6 +329,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان خاش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%B4",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 3473525,
     "target_revision_id": 33798375,
     "target_title": "غار گواتامک",
@@ -397,6 +344,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان خاش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D8%B4",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 3473528,
     "target_revision_id": 28965608,
     "target_title": "غار صداکی",
@@ -454,6 +402,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان لاشار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B4%D8%A7%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662727,
     "target_revision_id": 44303993,
     "target_title": "قلعه اسپکه",
@@ -468,6 +417,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان لاشار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B4%D8%A7%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662640,
     "target_revision_id": 44304754,
     "target_title": "قلعه هریدوک",
@@ -524,6 +474,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نیکشهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%D8%B4%D9%87%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662537,
     "target_revision_id": 44304744,
     "target_title": "قلعه نیکشهر",
@@ -538,6 +489,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نیکشهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%D8%B4%D9%87%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662642,
     "target_revision_id": 44304104,
     "target_title": "قلعه بنت",
@@ -552,6 +504,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نیکشهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%D8%B4%D9%87%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 663226,
     "target_revision_id": 44304867,
     "target_title": "قلعه چانف",
@@ -566,6 +519,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نیکشهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%DA%A9%D8%B4%D9%87%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662676,
     "target_revision_id": 44344286,
     "target_title": "مسجد عبدالقادر",
@@ -629,6 +583,7 @@
     "section": "جاذبه های گردشگری و تاریخی",
     "source_title": "شهرستان سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 663974,
     "target_revision_id": 44226450,
     "target_title": "سنگ نگاره‌های دره نگاران",
@@ -643,6 +598,7 @@
     "section": "جاذبه های گردشگری و تاریخی / سنگ نگاره های سراوان / [[کوه مهرگان|سنگ نگاره های کوه مهرگان]]",
     "source_title": "شهرستان سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 4873473,
     "target_revision_id": 40898310,
     "target_title": "کوه مهرگان",
@@ -657,24 +613,11 @@
     "section": "جاذبه های گردشگری و تاریخی / روستاهای گردشگری / دزک",
     "source_title": "شهرستان سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1593842,
     "target_revision_id": 44177097,
     "target_title": "دزک (سراوان)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%DA%A9_%28%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86%29"
-   },
-   {
-    "field": "poi_offbeat",
-    "location_evidence": "county tourism section",
-    "name": "تابستان",
-    "pageid": 18306,
-    "revision_id": 43864146,
-    "section": "جاذبه های گردشگری و تاریخی / روستاهای گردشگری / ناهوک",
-    "source_title": "شهرستان سراوان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
-    "target_pageid": 12379,
-    "target_revision_id": 44218934,
-    "target_title": "تابستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -685,6 +628,7 @@
     "section": "آثار تاریخی",
     "source_title": "سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 661887,
     "target_revision_id": 44356789,
     "target_title": "موزه زنده سفال کلپورگان",
@@ -699,6 +643,7 @@
     "section": "آثار تاریخی",
     "source_title": "سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 666810,
     "target_revision_id": 44304296,
     "target_title": "قلعه دزک (بلقیس)",
@@ -713,6 +658,7 @@
     "section": "آثار تاریخی",
     "source_title": "سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657810,
     "target_revision_id": 44343822,
     "target_title": "مسجد جامع سراوان (دزک)",
@@ -727,6 +673,7 @@
     "section": "آثار تاریخی",
     "source_title": "سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 677232,
     "target_revision_id": 44343824,
     "target_title": "مسجد جامع سرجو",
@@ -741,6 +688,7 @@
     "section": "آثار تاریخی",
     "source_title": "سراوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 5228552,
     "target_revision_id": 42011285,
     "target_title": "سنگ نگاره‌های گشت",
@@ -755,6 +703,10 @@
    {
     "name": "قلعه خیرآباد",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "تابستان",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -801,26 +753,13 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "قلعه‌تپه",
-    "pageid": 13467,
-    "revision_id": 44098643,
-    "section": "اماکن گردشگری",
-    "source_title": "شهرستان زابل",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D8%A8%D9%84",
-    "target_pageid": 161524,
-    "target_revision_id": 43917399,
-    "target_title": "قلعه‌تپه",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%AA%D9%BE%D9%87"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "قلعه رامرود",
     "pageid": 13467,
     "revision_id": 44098643,
     "section": "اماکن گردشگری",
     "source_title": "شهرستان زابل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D8%A8%D9%84",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 161150,
     "target_revision_id": 41381950,
     "target_title": "قلعه رامرود",
@@ -843,6 +782,10 @@
    {
     "name": "قلعه رستم",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "قلعه‌تپه",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "قلعه مچی",
@@ -885,31 +828,23 @@
     "section": "جاذبه های تاریخی و تفریحی",
     "source_title": "زاهدان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 4864205,
     "target_revision_id": 44392179,
     "target_title": "مسجد جامع مکی زاهدان",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%85%DA%A9%DB%8C_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه پست و ارتباطات زاهدان",
-    "pageid": 20954,
-    "revision_id": 44604586,
-    "section": "جاذبه های تاریخی و تفریحی",
-    "source_title": "زاهدان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
-    "target_pageid": 5390659,
-    "target_revision_id": 44357126,
-    "target_title": "موزه پست و ارتباطات زاهدان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%BE%D8%B3%D8%AA_%D9%88_%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "زاهدان",
   "fetched": "2026-10-02",
   "province": "sistan-baluchestan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "موزه پست و ارتباطات زاهدان",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86"

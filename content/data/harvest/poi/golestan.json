@@ -91,6 +91,7 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 18236,
     "target_revision_id": 44509578,
     "target_title": "برج گنبد قابوس",
@@ -105,6 +106,7 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 515449,
     "target_revision_id": 43928374,
     "target_title": "دریاچه مصنوعی گنبد کاووس",
@@ -119,24 +121,11 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 429111,
     "target_revision_id": 44105096,
     "target_title": "تالاب آلماگل",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A2%D9%84%D9%85%D8%A7%DA%AF%D9%84"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تالاب آجی‌گل",
-    "pageid": 8236,
-    "revision_id": 44505392,
-    "section": "مناطق دیدنی",
-    "source_title": "گنبد کاووس",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-    "target_pageid": 33114,
-    "target_revision_id": 33759265,
-    "target_title": "تالاب آجی‌گل",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A2%D8%AC%DB%8C%E2%80%8C%DA%AF%D9%84"
    },
    {
     "field": "poi_nature",
@@ -147,6 +136,7 @@
     "section": "مناطق دیدنی",
     "source_title": "گنبد کاووس",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 226922,
     "target_revision_id": 37201897,
     "target_title": "تالاب آلاگل",
@@ -169,6 +159,10 @@
    {
     "name": "سد گلستان ۱ و ۲",
     "reason": "target page missing"
+   },
+   {
+    "name": "تالاب آجی‌گل",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -179,20 +173,6 @@
  "gorgan": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "جنگل‌های هیرکانی",
-    "pageid": 15272,
-    "revision_id": 44500396,
-    "section": "گردشگری / ناهارخوران",
-    "source_title": "گرگان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
-    "target_pageid": 1317542,
-    "target_revision_id": 44415077,
-    "target_title": "جنگل‌های هیرکانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C"
-   },
-   {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پارک جنگلی النگدره",
@@ -201,6 +181,7 @@
     "section": "گردشگری / النگدره",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 3685485,
     "target_revision_id": 44383388,
     "target_title": "پارک جنگلی النگدره",
@@ -215,6 +196,7 @@
     "section": "گردشگری / تپه قلعه خندان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657559,
     "target_revision_id": 44304230,
     "target_title": "قلعه خندان",
@@ -229,6 +211,7 @@
     "section": "گردشگری / بناها / بافت قدیم گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658523,
     "target_revision_id": 44154506,
     "target_title": "خانه باقری (گرگان)",
@@ -243,6 +226,7 @@
     "section": "گردشگری / بناها / بافت قدیم گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 660939,
     "target_revision_id": 44156123,
     "target_title": "خانه مفیدیان",
@@ -257,6 +241,7 @@
     "section": "گردشگری / بناها / بافت قدیم گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 664332,
     "target_revision_id": 44156255,
     "target_title": "خانه میرشهیدی",
@@ -271,6 +256,7 @@
     "section": "گردشگری / بناها / بافت قدیم گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658045,
     "target_revision_id": 44155018,
     "target_title": "خانه خراسانی",
@@ -285,6 +271,7 @@
     "section": "گردشگری / بناها / بافت قدیم گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658965,
     "target_revision_id": 44155511,
     "target_title": "خانه شیرنگی",
@@ -299,6 +286,7 @@
     "section": "گردشگری / بناها / بافت قدیم گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658217,
     "target_revision_id": 44356826,
     "target_title": "موزه صنایع دستی گرگان",
@@ -313,6 +301,7 @@
     "section": "گردشگری / بناها / بازار نعلبندان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 4271612,
     "target_revision_id": 37266173,
     "target_title": "بازار نعلبندان",
@@ -327,6 +316,7 @@
     "section": "گردشگری / موزه ها / موزهٔ باستان شناسی گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 4280381,
     "target_revision_id": 41655389,
     "target_title": "موزه باستان‌شناسی گرگان",
@@ -341,6 +331,7 @@
     "section": "گردشگری / موزه ها / کاخ موزهٔ گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 4280394,
     "target_revision_id": 44442613,
     "target_title": "کاخ‌موزه گرگان",
@@ -355,6 +346,7 @@
     "section": "گردشگری / موزه ها / موزهٔ صنایع دستی گرگان",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 260768,
     "target_revision_id": 42935259,
     "target_title": "شاه‌کوه سفلی",
@@ -369,6 +361,7 @@
     "section": "گردشگری / موزه ها / کاخ آقامحمدخان قاجار",
     "source_title": "گرگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 668088,
     "target_revision_id": 44442371,
     "target_title": "کاخ آقا محمدخان قاجار",
@@ -380,6 +373,10 @@
   "fetched": "2026-10-02",
   "province": "golestan",
   "rejected_candidates": [
+   {
+    "name": "جنگل‌های هیرکانی",
+    "reason": "county placement needs manual corroboration"
+   },
    {
     "name": "خانه شفیعی",
     "reason": "explicitly different county"
@@ -416,6 +413,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "کردکوی",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 494489,
     "target_revision_id": 40215434,
     "target_title": "میان‌دره (کردکوی)",
@@ -471,24 +469,11 @@
     "section": "جاذبه های گردشگری",
     "source_title": "رامیان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1581960,
     "target_revision_id": 44144754,
     "target_title": "پاقلعه (رامیان)",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%82%D9%84%D8%B9%D9%87_%28%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86%29"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "جنگل‌های هیرکانی",
-    "pageid": 141815,
-    "revision_id": 43775753,
-    "section": "جاذبه های گردشگری / قلعه موران (قلعه میران)",
-    "source_title": "رامیان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-    "target_pageid": 1317542,
-    "target_revision_id": 44415077,
-    "target_title": "جنگل‌های هیرکانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C"
    }
   ],
   "center_confirmed": true,
@@ -511,6 +496,10 @@
    {
     "name": "چشمه ساران",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "جنگل‌های هیرکانی",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [

@@ -160,6 +160,7 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "شهرکرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 4072392,
      "target_revision_id": 44118652,
      "target_title": "تپه سراب (گنبدک)",
@@ -174,6 +175,7 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "شهرکرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 2787840,
      "target_revision_id": 40989073,
      "target_title": "گردشگاه چشمه‌زنه",
@@ -188,24 +190,11 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "شهرکرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 3838049,
      "target_revision_id": 44090690,
      "target_title": "چشمه وقت و ساعت (جهان‌بین)",
      "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D9%88%D9%82%D8%AA_%D9%88_%D8%B3%D8%A7%D8%B9%D8%AA_%28%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%D8%A8%DB%8C%D9%86%29"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار جهان‌بین",
-     "pageid": 6506,
-     "revision_id": 44458604,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "شهرکرد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
-     "target_pageid": 3227658,
-     "target_revision_id": 33798363,
-     "target_title": "غار جهان‌بین",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%D8%A8%DB%8C%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -213,7 +202,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
-   "value": "تپه سراب (گنبدک)\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت (جهان‌بین)\nغار جهان‌بین"
+   "value": "تپه سراب (گنبدک)\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت (جهان‌بین)"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

@@ -138,7 +138,7 @@
   "sa_cty_livelihood": "کشاورزی (گندم، پنبه و برنج)، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "azadshahr - جنوب\naq-qala - جنوب‌غرب\ngalikesh - شرق\nkalaleh - شرق",
   "sa_cty_poi_heritage": "برج گنبد قابوس",
-  "sa_cty_poi_nature": "دریاچه مصنوعی گنبد کاووس\nتالاب آلماگل\nتالاب آجی‌گل\nتالاب آلاگل",
+  "sa_cty_poi_nature": "دریاچه مصنوعی گنبد کاووس\nتالاب آلماگل\nتالاب آلاگل",
   "sa_cty_population": 348744,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.5,55.0"
@@ -158,7 +158,7 @@
   "sa_cty_livelihood": "کشاورزی (گندم، پنبه و برنج)، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "aliabad-e-katul - شرق\nkordkuy - جنوب‌غرب\naq-qala - شمال\nbandar-e-torkaman - شمال‌غرب",
   "sa_cty_poi_heritage": "قلعه خندان\nخانه باقری (گرگان)\nخانه مفیدیان\nخانه میرشهیدی\nخانه خراسانی\nخانه شیرنگی\nموزه صنایع دستی گرگان\nبازار نعلبندان\nموزه باستان‌شناسی گرگان\nکاخ‌موزه گرگان\nکاخ آقا محمدخان قاجار",
-  "sa_cty_poi_nature": "جنگل‌های هیرکانی\nشاه‌کوه سفلی",
+  "sa_cty_poi_nature": "شاه‌کوه سفلی",
   "sa_cty_poi_recreation": "پارک جنگلی النگدره",
   "sa_cty_population": 480541,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.83333,54.5"
@@ -251,7 +251,6 @@
   "sa_cty_livelihood": "کشاورزی (گندم، پنبه و برنج)، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "azadshahr - شمال‌غرب\nminudasht - شمال‌شرق\naliabad-e-katul - غرب\nmeyami - جنوب‌شرق",
   "sa_cty_poi_heritage": "پاقلعه (رامیان)",
-  "sa_cty_poi_nature": "جنگل‌های هیرکانی",
   "sa_cty_poi_offbeat": "جاذبه‌های گردشگری",
   "sa_cty_population": 86210,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.95,55.21667"

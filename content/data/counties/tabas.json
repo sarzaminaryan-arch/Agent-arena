@@ -160,30 +160,6 @@
    "url": "",
    "value": "طاق شاه عباس\nازمیغان\nخرو\nحسن صباح\nروستای سرند وماودر\nپیرحاجات\nجوخواه"
   },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "ژئوپارک",
-     "pageid": 57952,
-     "revision_id": 44268743,
-     "section": "گردشگری / ژئوپارک طبس",
-     "source_title": "طبس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
-     "target_pageid": 342293,
-     "target_revision_id": 44439821,
-     "target_title": "ژئوپارک",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
-   "value": "ژئوپارک"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -165,7 +165,6 @@ ID=$(wp post list --post_type=city --name=saveh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "صنعت (ماشین‌سازی و پتروشیمی)، کشاورزی و دامداری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "tafresh - جنوب\nzarandieh - شمال‌شرق\nbuin-zahra - شمال‌غرب\njafarabady - جنوب‌شرق\ndargazin - غرب\nfamenin-city - غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "رودخانه مزلقان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "ایران\nمغول\nتیمور لنگ\nصفویه\nسلجوقی\nزندیه\nساسانیان\nموسی کاظم"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "بازار ساوه\nمسجد جامع ساوه\nمناره مسجد جمعه\nمناره مسجد میدان\nمسجد سرخ\nمسجد بازار ساوه\nگنبد چهارسوق\nقلعه دختر\nقیزقلعه\nامامزاده سید اسحاق\nبنای امامزاده سید حمزه\nآرامگاه امامزاده فضل بن سلیمان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.1"

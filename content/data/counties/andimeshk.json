@@ -137,6 +137,7 @@
      "section": "گردشگری",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 662584,
      "target_revision_id": 44304333,
      "target_title": "قلعه رزه (بنا)",
@@ -151,6 +152,7 @@
      "section": "گردشگری / امامزاده بابا لَنگ",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 1560544,
      "target_revision_id": 40136952,
      "target_title": "امامزاده بابالنگ",
@@ -165,6 +167,7 @@
      "section": "گردشگری / [[قلعه رزه (بنا)|قلعه رزه]] (قلعه رزمان یا رزمانان)",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 1560311,
      "target_revision_id": 40180336,
      "target_title": "قلعه‌رزه",
@@ -179,6 +182,7 @@
      "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 665420,
      "target_revision_id": 32870183,
      "target_title": "پل بالارود",
@@ -203,24 +207,11 @@
      "section": "گردشگری",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 540553,
      "target_revision_id": 43569477,
      "target_title": "سد کرخه",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D8%B1%D8%AE%D9%87"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد دز",
-     "pageid": 6487,
-     "revision_id": 44399141,
-     "section": "گردشگری",
-     "source_title": "اندیمشک",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_pageid": 49903,
-     "target_revision_id": 44219707,
-     "target_title": "سد دز",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AF%D8%B2"
     }
    ],
    "fetched": "2026-10-02",
@@ -228,7 +219,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-   "value": "سد کرخه\nسد دز"
+   "value": "سد کرخه"
   },
   "population": {
    "fetched": "2026-10-02",

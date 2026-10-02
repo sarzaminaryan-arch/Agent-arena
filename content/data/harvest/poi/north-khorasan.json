@@ -26,6 +26,7 @@
     "section": "اماکن دیدنی / عمارت جاجرمی",
     "source_title": "بجنورد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 6162150,
     "target_revision_id": 41414646,
     "target_title": "عمارت جاجرمی",
@@ -58,6 +59,7 @@
     "section": "گردشگری",
     "source_title": "اسفراین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 4333795,
     "target_revision_id": 43610906,
     "target_title": "کوه شاه جهان",
@@ -85,24 +87,11 @@
     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
     "source_title": "فاروج",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 6376701,
     "target_revision_id": 41211223,
     "target_title": "سد چری",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%86%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار یخچالی",
-    "pageid": 140995,
-    "revision_id": 44280543,
-    "section": "گردشگری / آثار تاریخی و باستانی فاروج",
-    "source_title": "فاروج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
-    "target_pageid": 385229,
-    "target_revision_id": 43569890,
-    "target_title": "غار یخچالی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DB%8C%D8%AE%DA%86%D8%A7%D9%84%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -113,6 +102,7 @@
     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
     "source_title": "فاروج",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 4333795,
     "target_revision_id": 43610906,
     "target_title": "کوه شاه جهان",
@@ -131,6 +121,10 @@
    {
     "name": "امامزاده عبدالله (ری)",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "غار یخچالی",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -141,34 +135,6 @@
  "garmeh": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "پارک ملی گلستان",
-    "pageid": 316273,
-    "revision_id": 43406907,
-    "section": "مکان های تاریخی و گردشگری",
-    "source_title": "شهرستان گرمه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D9%87",
-    "target_pageid": 53793,
-    "target_revision_id": 44103754,
-    "target_title": "پارک ملی گلستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "امامزاده سید حمزه (کاشمر)",
-    "pageid": 316273,
-    "revision_id": 43406907,
-    "section": "مکان های تاریخی و گردشگری / بنای مزار گرمه",
-    "source_title": "شهرستان گرمه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D9%87",
-    "target_pageid": 220660,
-    "target_revision_id": 44325187,
-    "target_title": "امامزاده سید حمزه (کاشمر)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%AD%D9%85%D8%B2%D9%87_%28%DA%A9%D8%A7%D8%B4%D9%85%D8%B1%29"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "قلعه جلال‌الدین",
@@ -177,6 +143,7 @@
     "section": "مکان های تاریخی و گردشگری گرمه",
     "source_title": "گرمه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D9%87",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657436,
     "target_revision_id": 44126219,
     "target_title": "قلعه جلال‌الدین",
@@ -189,8 +156,16 @@
   "province": "north-khorasan",
   "rejected_candidates": [
    {
+    "name": "پارک ملی گلستان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "قلعه خداوردی درق",
     "reason": "target page missing"
+   },
+   {
+    "name": "امامزاده سید حمزه (کاشمر)",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -209,6 +184,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان جاجرم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657448,
     "target_revision_id": 44343762,
     "target_title": "مسجد جامع جاجرم",
@@ -223,6 +199,7 @@
     "section": "گردشگری / حمام قدیمی جاجرم",
     "source_title": "شهرستان جاجرم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 672409,
     "target_revision_id": 44150645,
     "target_title": "حمام قدیمی جاجرم",
@@ -300,6 +277,7 @@
     "section": "مکان های زیارتی و تفریحی",
     "source_title": "شهرستان شیروان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 664316,
     "target_revision_id": 44150486,
     "target_title": "حمام روستای پیرشهید",

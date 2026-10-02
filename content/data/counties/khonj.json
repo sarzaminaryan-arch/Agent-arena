@@ -140,30 +140,6 @@
     "asaluyeh"
    ]
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "جزیره هرمز",
-     "pageid": 2044,
-     "revision_id": 44175700,
-     "section": "آثار تاریخی / مجموعه دانیالیه",
-     "source_title": "خنج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%86%D8%AC",
-     "target_pageid": 57299,
-     "target_revision_id": 44576508,
-     "target_title": "جزیره هرمز",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%87%D8%B1%D9%85%D8%B2"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%86%D8%AC",
-   "value": "جزیره هرمز"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

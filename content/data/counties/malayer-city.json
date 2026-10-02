@@ -151,60 +151,8 @@
     "hamadan-city"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "برج ایفل",
-     "pageid": 13070,
-     "revision_id": 44466677,
-     "section": "جاذبه ها",
-     "source_title": "ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_pageid": 29006,
-     "target_revision_id": 43483277,
-     "target_title": "برج ایفل",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%A7%DB%8C%D9%81%D9%84"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "برج آزادی",
-     "pageid": 13070,
-     "revision_id": 44466677,
-     "section": "جاذبه ها",
-     "source_title": "ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_pageid": 38848,
-     "target_revision_id": 44416307,
-     "target_title": "برج آزادی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "برج ایفل\nبرج آزادی"
-  },
   "poi_nature": {
    "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "شبه‌جزیره اسکاندیناوی",
-     "pageid": 12564,
-     "revision_id": 44263476,
-     "section": "جاذبه های دیدنی / تالاب فصلی آق گل",
-     "source_title": "شهرستان ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_pageid": 204544,
-     "target_revision_id": 44059234,
-     "target_title": "شبه‌جزیره اسکاندیناوی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87%E2%80%8C%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D8%A7%D8%B3%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D9%86%D8%A7%D9%88%DB%8C"
-    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -214,6 +162,7 @@
      "section": "ساختار شهری / پارک ها",
      "source_title": "ملایر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 2322415,
      "target_revision_id": 40746071,
      "target_title": "کوه گرمه",
@@ -224,8 +173,8 @@
    "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
    "source": "wikipedia-poi",
    "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "شبه‌جزیره اسکاندیناوی\nکوه گرمه"
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+   "value": "کوه گرمه"
   },
   "population": {
    "fetched": "2026-10-02",

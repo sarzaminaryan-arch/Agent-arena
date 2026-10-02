@@ -166,26 +166,13 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کبوتر جنگلی",
-     "pageid": 5381,
-     "revision_id": 44300615,
-     "section": "جاذبه های گردشگری / جنگل",
-     "source_title": "قائم‌شهر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_pageid": 1698703,
-     "target_revision_id": 44029875,
-     "target_title": "کبوتر جنگلی",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A8%D9%88%D8%AA%D8%B1_%D8%AC%D9%86%DA%AF%D9%84%DB%8C"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "جنگل شالتماس",
      "pageid": 5381,
      "revision_id": 44300615,
      "section": "جاذبه های گردشگری / منابع طبیعی و جنگل ها",
      "source_title": "قائم‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 1256491,
      "target_revision_id": 36520942,
      "target_title": "جنگل شالتماس",
@@ -200,6 +187,7 @@
      "section": "جاذبه های گردشگری / سدها",
      "source_title": "قائم‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 1059381,
      "target_revision_id": 41043416,
      "target_title": "سد زمزم",
@@ -214,6 +202,7 @@
      "section": "جاذبه های گردشگری / دریاچه ها و آب بندان ها",
      "source_title": "قائم‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 1063889,
      "target_revision_id": 21238199,
      "target_title": "دریاچه گل‌پل",
@@ -225,7 +214,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
-   "value": "کبوتر جنگلی\nجنگل شالتماس\nسد زمزم\nدریاچه گل‌پل"
+   "value": "جنگل شالتماس\nسد زمزم\nدریاچه گل‌پل"
   },
   "population": {
    "fetched": "2026-10-02",

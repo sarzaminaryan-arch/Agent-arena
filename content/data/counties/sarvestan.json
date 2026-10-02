@@ -150,24 +150,11 @@
      "section": "جاذبه های مذهبی شهرستان / بقاع متبرکه",
      "source_title": "سروستان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 1568644,
      "target_revision_id": 40201484,
      "target_title": "هزاردره (سروستان)",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%87%D8%B2%D8%A7%D8%B1%D8%AF%D8%B1%D9%87_%28%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86%29"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دریاچه مهارلو",
-     "pageid": 91550,
-     "revision_id": 44296944,
-     "section": "جاذبه های طبیعی سروستان",
-     "source_title": "سروستان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
-     "target_pageid": 113552,
-     "target_revision_id": 44347683,
-     "target_title": "دریاچه مهارلو",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%85%D9%87%D8%A7%D8%B1%D9%84%D9%88"
     }
    ],
    "fetched": "2026-10-02",
@@ -175,7 +162,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
-   "value": "هزاردره (سروستان)\nدریاچه مهارلو"
+   "value": "هزاردره (سروستان)"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

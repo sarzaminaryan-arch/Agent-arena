@@ -207,7 +207,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "qarchak - شرق\nbaharestan - شمال‌غرب\neslamshahr - شمال‌غرب\nqom-city - جنوب",
-  "sa_cty_poi_heritage": "کارخانه سیمان ری\nکاروانسرای شاه‌عباسی (شهر ری)\nبرج طغرل\nکاروانسرای کنارگرد\nقلعه گبری (شهر ری)",
+  "sa_cty_poi_heritage": "برج طغرل\nکاروانسرای کنارگرد\nقلعه گبری (شهر ری)",
   "sa_cty_poi_nature": "تپه چشمه‌علی\nکوه نقارخانه",
   "sa_cty_population": 349700,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.38333,51.33333"
@@ -269,7 +269,6 @@
   "sa_cty_poi_heritage": "امامزاده قاسم",
   "sa_cty_poi_nature": "سد لتیان\nپارک جنگلی لویزان\nآبشار دوقلو\nبوستان جنگلی لویزان",
   "sa_cty_poi_offbeat": "امامه\nدربندسر\nمهرچال\nاسون\nمنظریه\nتوچال\nشمشک\nدیزین",
-  "sa_cty_poi_recreation": "بوستان جنگلی لویزان",
   "sa_cty_population": 47279,
   "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.93333,51.58333"
@@ -289,7 +288,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "eslamshahr - جنوب‌غرب\nqods - غرب\nshemiranat - شمال‌شرق\nqarchak - جنوب‌شرق\npardis - شرق",
-  "sa_cty_poi_heritage": "کاخ‌های تهران\nبرج آزادی\nبرج میلاد\nپل طبیعت\nکاخ گلستان",
+  "sa_cty_poi_heritage": "برج آزادی\nپل طبیعت",
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.68333,51.4"
  },

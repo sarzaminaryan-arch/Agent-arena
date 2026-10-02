@@ -120,7 +120,6 @@
   "sa_cty_poi_heritage": "کارخانه حریربافی چالوس",
   "sa_cty_poi_nature": "علم کوه\nمنطقه نمونه گردشگری دریاچه ولشت\nیخچال طبیعی",
   "sa_cty_poi_offbeat": "منطقه نمونه گردشگری نمک‌آبرود\nفشکور",
-  "sa_cty_poi_recreation": "بوستان جنگلی ورگاویج",
   "sa_cty_population": 116542,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.40056,51.24417"
  },
@@ -231,7 +230,6 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "sari - جنوب‌غرب\njoybar - غرب\nneka - شرق\nbehshahr - شرق",
-  "sa_cty_poi_nature": "جنگل‌های هیرکانی\nگربه جنگلی",
   "sa_cty_population": 55053,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.595,53.2075"
  },
@@ -274,7 +272,6 @@
   "sa_cty_poi_heritage": "موزه کندلوس",
   "sa_cty_poi_nature": "پارک جنگلی سیسنگان\nغار قندیلی خاچک\nسد خاکی آویدر\nچشمه گردو\nدیو چشمه\nدریاچه ارواح",
   "sa_cty_poi_offbeat": "کجور\nلرگان\nصلاح الدین کلا\nبندر نوشهر\nنجارده\nاستانکرود\nکوشکسرا\nنوشهر\nچالوس\nونوش\nلاشک\nهزارخال",
-  "sa_cty_poi_recreation": "بوستان جنگلی سی‌سنگان",
   "sa_cty_population": 138913,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.43333,51.6"
  },
@@ -316,7 +313,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "simorgh - شمال‌غرب\nsari - شرق\nsavadkuh - جنوب",
-  "sa_cty_poi_nature": "کبوتر جنگلی\nجنگل شالتماس\nسد زمزم\nدریاچه گل‌پل",
+  "sa_cty_poi_nature": "جنگل شالتماس\nسد زمزم\nدریاچه گل‌پل",
   "sa_cty_population": 309199,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.86667"
@@ -338,7 +335,6 @@
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "rudsar - جنوب‌غرب\ntonekabon - جنوب‌شرق\namlash - شمال‌غرب",
   "sa_cty_poi_heritage": "قلعه مارکوه\nکاخ مرمر رامسر",
-  "sa_cty_poi_nature": "سد میجران",
   "sa_cty_poi_offbeat": "هتل قدیم رامسر\nرامسر",
   "sa_cty_population": 74179,
   "sa_cty_rural_districts": 4,
@@ -428,7 +424,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "abbasabad - شرق\nramsar - شمال‌غرب\nkelardasht - جنوب‌شرق\ntaleghan - جنوب",
-  "sa_cty_poi_heritage": "تخت سلیمان (مازندران)\nقلعه تنکا\nقلعه کوتی لشکرک\nپل قلعه گردن",
+  "sa_cty_poi_heritage": "قلعه تنکا\nپل قلعه گردن",
   "sa_cty_population": 166132,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63333,50.81667"
  }

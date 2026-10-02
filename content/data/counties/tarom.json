@@ -161,6 +161,7 @@
      "section": "دیدنی های طارم / آتشکده ها",
      "source_title": "شهرستان طارم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 656965,
      "target_revision_id": 43925572,
      "target_title": "آتشکده تشویر",
@@ -173,44 +174,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
    "value": "آتشکده تشویر"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "آبشار هشترخان",
-     "pageid": 14926,
-     "revision_id": 43155190,
-     "section": "دیدنی های طارم / آبشارها",
-     "source_title": "شهرستان طارم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-     "target_pageid": 2457508,
-     "target_revision_id": 33577940,
-     "target_title": "آبشار هشترخان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%87%D8%B4%D8%AA%D8%B1%D8%AE%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "سد سفیدرود",
-     "pageid": 14926,
-     "revision_id": 43155190,
-     "section": "دیدنی های طارم / رودها",
-     "source_title": "شهرستان طارم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-     "target_pageid": 294494,
-     "target_revision_id": 44272363,
-     "target_title": "سد سفیدرود",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B3%D9%81%DB%8C%D8%AF%D8%B1%D9%88%D8%AF"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-   "value": "آبشار هشترخان\nسد سفیدرود"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -185,7 +185,7 @@ ID=$(wp post list --post_type=city --name=zahedan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، تجارت مرزی و صنایع دستی؛ در جنوب شیلات و بنادر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا اسفند؛ تابستان بسیار گرم است"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "fahraj - غرب\ntaftan - جنوب‌شرق\nmirjaveh - جنوب‌شرق\nhamun - شمال‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد جامع مکی زاهدان\nموزه پست و ارتباطات زاهدان"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد جامع مکی زاهدان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "29.48333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "60.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1380"

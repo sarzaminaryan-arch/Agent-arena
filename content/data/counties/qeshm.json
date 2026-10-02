@@ -168,6 +168,7 @@
      "section": "جاذبه های گردشگری / دژ پرتغالی ها",
      "source_title": "جزیره قشم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 113184,
      "target_revision_id": 43929197,
      "target_title": "قلعه لافت",
@@ -182,6 +183,7 @@
      "section": "جاذبه های گردشگری / دژ پرتغالی ها",
      "source_title": "جزیره قشم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 114454,
      "target_revision_id": 43929202,
      "target_title": "قلعه هرمز",
@@ -194,44 +196,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
    "value": "قلعه لافت\nقلعه هرمز"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "ژئوپارک قشم",
-     "pageid": 18109,
-     "revision_id": 44319196,
-     "section": "جاذبه های گردشگری / دره چاه کوه",
-     "source_title": "جزیره قشم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_pageid": 4311234,
-     "target_revision_id": 44455424,
-     "target_title": "ژئوپارک قشم",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9_%D9%82%D8%B4%D9%85"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "ژئوپارک",
-     "pageid": 18109,
-     "revision_id": 44319196,
-     "section": "جاذبه های گردشگری / ژئوپارک قشم",
-     "source_title": "جزیره قشم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_pageid": 342293,
-     "target_revision_id": 44439821,
-     "target_title": "ژئوپارک",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-   "value": "ژئوپارک قشم\nژئوپارک"
   },
   "population": {
    "fetched": "2026-10-02",

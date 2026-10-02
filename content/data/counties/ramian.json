@@ -135,6 +135,7 @@
      "section": "جاذبه های گردشگری",
      "source_title": "رامیان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 1581960,
      "target_revision_id": 44144754,
      "target_title": "پاقلعه (رامیان)",
@@ -147,30 +148,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
    "value": "پاقلعه (رامیان)"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "جنگل‌های هیرکانی",
-     "pageid": 141815,
-     "revision_id": 43775753,
-     "section": "جاذبه های گردشگری / قلعه موران (قلعه میران)",
-     "source_title": "رامیان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_pageid": 1317542,
-     "target_revision_id": 44415077,
-     "target_title": "جنگل‌های هیرکانی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-   "value": "جنگل‌های هیرکانی"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

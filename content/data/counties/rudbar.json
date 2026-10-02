@@ -159,34 +159,6 @@
    "entries": [
     {
      "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "سد سفیدرود",
-     "pageid": 19005,
-     "revision_id": 44434695,
-     "section": "جاذبه های گردشگری / سد ها در شهرستان رودبار",
-     "source_title": "شهرستان رودبار",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-     "target_pageid": 294494,
-     "target_revision_id": 44272363,
-     "target_title": "سد سفیدرود",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B3%D9%81%DB%8C%D8%AF%D8%B1%D9%88%D8%AF"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "سد تاریک",
-     "pageid": 19005,
-     "revision_id": 44434695,
-     "section": "جاذبه های گردشگری / سد ها در شهرستان رودبار",
-     "source_title": "شهرستان رودبار",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-     "target_pageid": 1082046,
-     "target_revision_id": 40273317,
-     "target_title": "سد تاریک",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9"
-    },
-    {
-     "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "غار دربند رشی",
      "pageid": 32556,
@@ -194,6 +166,7 @@
      "section": "جاذبه های گردشگری رودبار / غار دربند رشی",
      "source_title": "رودبار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 1085786,
      "target_revision_id": 44278445,
      "target_title": "غار دربند رشی",
@@ -204,8 +177,8 @@
    "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
    "source": "wikipedia-poi",
    "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-   "value": "سد سفیدرود\nسد تاریک\nغار دربند رشی"
+   "url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+   "value": "غار دربند رشی"
   },
   "population": {
    "fetched": "2026-10-02",

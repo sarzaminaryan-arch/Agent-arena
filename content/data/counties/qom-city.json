@@ -161,44 +161,17 @@
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ولایت (تهران)",
-     "pageid": 7906,
-     "revision_id": 44466546,
-     "section": "امکانات شهری / پارک ها و فضای سبز",
-     "source_title": "قم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
-     "target_pageid": 709962,
-     "target_revision_id": 44250432,
-     "target_title": "بوستان ولایت (تهران)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D9%84%D8%A7%DB%8C%D8%AA_%28%D8%AA%D9%87%D8%B1%D8%A7%D9%86%29"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "بوستان علوی (قم)",
      "pageid": 7906,
      "revision_id": 44466546,
      "section": "امکانات شهری / پارک ها و فضای سبز",
      "source_title": "قم",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 6957243,
      "target_revision_id": 43874959,
      "target_title": "بوستان علوی (قم)",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D9%84%D9%88%DB%8C_%28%D9%82%D9%85%29"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان کتاب",
-     "pageid": 7906,
-     "revision_id": 44466546,
-     "section": "امکانات شهری / پارک ها و فضای سبز",
-     "source_title": "قم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
-     "target_pageid": 5172425,
-     "target_revision_id": 44262695,
-     "target_title": "بوستان کتاب",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%AA%D8%A7%D8%A8"
     }
    ],
    "fetched": "2026-10-02",
@@ -206,7 +179,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
-   "value": "بوستان ولایت (تهران)\nبوستان علوی (قم)\nبوستان کتاب"
+   "value": "بوستان علوی (قم)"
   },
   "population": {
    "fetched": "2026-10-02",

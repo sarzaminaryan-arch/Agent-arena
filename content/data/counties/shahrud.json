@@ -147,6 +147,7 @@
      "section": "گردشگری",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 657734,
      "target_revision_id": 44344243,
      "target_title": "مسجد شیخ علی‌اکبر",
@@ -161,24 +162,11 @@
      "section": "گردشگری",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 657679,
      "target_revision_id": 44343834,
      "target_title": "مسجد جامع شاهرود",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه بالا (شاهرود)",
-     "pageid": 6494,
-     "revision_id": 44612577,
-     "section": "گردشگری / جاذبه های طبیعی شاهرود",
-     "source_title": "شاهرود",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
-     "target_pageid": 4777145,
-     "target_revision_id": 40367296,
-     "target_title": "قلعه بالا (شاهرود)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A8%D8%A7%D9%84%D8%A7_%28%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF%29"
     },
     {
      "field": "poi_heritage",
@@ -189,24 +177,11 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 203605,
      "target_revision_id": 43303822,
      "target_title": "آرامگاه ابوالحسن خرقانی",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%AE%D8%B1%D9%82%D8%A7%D9%86%DB%8C"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه‌نو خرقان",
-     "pageid": 6494,
-     "revision_id": 44612577,
-     "section": "گردشگری / جاذبه های تاریخی",
-     "source_title": "شاهرود",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
-     "target_pageid": 396579,
-     "target_revision_id": 43797790,
-     "target_title": "قلعه‌نو خرقان",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D9%86%D9%88_%D8%AE%D8%B1%D9%82%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -217,6 +192,7 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 5262049,
      "target_revision_id": 44156647,
      "target_title": "خانه یغمایی",
@@ -231,6 +207,7 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 658059,
      "target_revision_id": 44018801,
      "target_title": "بازار شاهرود",
@@ -245,6 +222,7 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 663174,
      "target_revision_id": 44155690,
      "target_title": "خانه عطاردی",
@@ -256,7 +234,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
-   "value": "مسجد شیخ علی‌اکبر\nمسجد جامع شاهرود\nقلعه بالا (شاهرود)\nآرامگاه ابوالحسن خرقانی\nقلعه‌نو خرقان\nخانه یغمایی\nبازار شاهرود\nخانه عطاردی"
+   "value": "مسجد شیخ علی‌اکبر\nمسجد جامع شاهرود\nآرامگاه ابوالحسن خرقانی\nخانه یغمایی\nبازار شاهرود\nخانه عطاردی"
   },
   "poi_nature": {
    "entries": [
@@ -269,6 +247,7 @@
      "section": "گردشگری / جاذبه های طبیعی شاهرود",
      "source_title": "شاهرود",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 419839,
      "target_revision_id": 44137379,
      "target_title": "جنگل ابر",

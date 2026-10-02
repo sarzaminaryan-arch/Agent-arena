@@ -36,7 +36,7 @@ ID=$(wp post list --post_type=city --name=qom-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "kahak - جنوب\njafarabady - غرب\nrey - شمال\nvaramin - شمال‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "کوه خضر نبی\nگنبد نمکی قم\nکوه دوبرادران\nغار کهک\nمجموعه معادن چاله غار وشنوه\nتنگه قاهان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "حوض سلطان\nکهک"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "بوستان ولایت (تهران)\nبوستان علوی (قم)\nبوستان کتاب"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "بوستان علوی (قم)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "حرم فاطمه معصومه\nمسجد جمکران\nخانه یزدانپناه\nتیمچه بزرگ قم\nقلعه قمرود\nحمام حاج عسگرخان\nکاروانسرای پاسنگان\nدیر گچین\nکاروانسرای حوض سلطان\nخانه ملاصدرا\nمجموعه راسته بازار کهنه و نو\nخانه حاج علی خان زند"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "34.73333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.05"

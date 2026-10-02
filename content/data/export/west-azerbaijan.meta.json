@@ -129,9 +129,8 @@
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "naqadeh - شمال‌غرب\nchaharborj - شمال\nmiandoab - شرق\nbukan - جنوب‌شرق\npiranshahr - غرب\nmirabad - جنوب‌غرب",
   "sa_cty_poi_heritage": "مسجد جامع سرخ\nباغ سیسه",
-  "sa_cty_poi_nature": "سد مهاباد\nغار سهولان\nتالاب کانی برازان",
+  "sa_cty_poi_nature": "سد مهاباد\nغار سهولان",
   "sa_cty_poi_offbeat": "ایران\nمینوآ\nمادها\nفقرگاه",
-  "sa_cty_poi_recreation": "بوستان ملت (مهاباد)",
   "sa_cty_population": 236849,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.76667,45.73333"
  },
@@ -283,7 +282,6 @@
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "khoy - شمال‌شرق\nurmia - جنوب\nshabestar - شرق",
   "sa_cty_poi_heritage": "سنگ‌نگاره ساسانی خان‌تختی\nقلعه چهریق",
-  "sa_cty_poi_nature": "دریاچه ارومیه",
   "sa_cty_poi_offbeat": "اردشیر یکم\nاورارتو",
   "sa_cty_population": 196546,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.18333,44.73333"
@@ -322,7 +320,6 @@
   "sa_cty_neighbors": "baruq - شمال\nmiandoab - شمال‌غرب\ntakab - جنوب‌شرق\nbukan - جنوب‌غرب",
   "sa_cty_poi_nature": "کوه پیر محمد",
   "sa_cty_poi_offbeat": "زرینه‌رود\nمنطقه شکارممنوع بیان\nآغاجاری",
-  "sa_cty_poi_recreation": "بوستان شهری",
   "sa_cty_population": 92456,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.73333,46.68333"
  },
@@ -386,8 +383,8 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "oshnavieh - جنوب\najabshir - شرق\nsalmas - شمال\nazarshahr - شرق",
-  "sa_cty_poi_heritage": "موزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nکلیسای جامع حضرت مریم (ارومیه)\nخانه‌های جنرال\nخانه انصاری (ارومیه)\nخانه دیزج سیاوش\nیتیمچه",
-  "sa_cty_poi_nature": "دریاچه ارومیه\nدریاچه آب شور\nپارک ملی دریاچه ارومیه",
+  "sa_cty_poi_heritage": "بازار ارومیه\nمسجد جامع ارومیه\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nخانه‌های جنرال\nخانه دیزج سیاوش",
+  "sa_cty_poi_nature": "دریاچه ارومیه",
   "sa_cty_population": 1040565,
   "sa_cty_rural_districts": 20,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.55,45.0"

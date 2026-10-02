@@ -149,30 +149,6 @@
    "url": "",
    "value": "زرینه‌رود\nمنطقه شکارممنوع بیان\nآغاجاری"
   },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان شهری",
-     "pageid": 92007,
-     "revision_id": 44582288,
-     "section": "جاذبه های گردشگری",
-     "source_title": "شاهین‌دژ",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DB%8C%D9%86%E2%80%8C%D8%AF%DA%98",
-     "target_pageid": 3770593,
-     "target_revision_id": 40938010,
-     "target_title": "بوستان شهری",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DB%8C%D9%86%E2%80%8C%D8%AF%DA%98",
-   "value": "بوستان شهری"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

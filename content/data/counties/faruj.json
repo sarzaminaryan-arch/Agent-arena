@@ -151,24 +151,11 @@
      "section": "گردشگری / آثار تاریخی و باستانی فاروج",
      "source_title": "فاروج",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 6376701,
      "target_revision_id": 41211223,
      "target_title": "سد چری",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%86%D8%B1%DB%8C"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار یخچالی",
-     "pageid": 140995,
-     "revision_id": 44280543,
-     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
-     "source_title": "فاروج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
-     "target_pageid": 385229,
-     "target_revision_id": 43569890,
-     "target_title": "غار یخچالی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DB%8C%D8%AE%DA%86%D8%A7%D9%84%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -179,6 +166,7 @@
      "section": "گردشگری / آثار تاریخی و باستانی فاروج",
      "source_title": "فاروج",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 4333795,
      "target_revision_id": 43610906,
      "target_title": "کوه شاه جهان",
@@ -190,7 +178,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
-   "value": "سد چری\nغار یخچالی\nکوه شاه جهان"
+   "value": "سد چری\nکوه شاه جهان"
   },
   "population": {
    "fetched": "2026-10-02",

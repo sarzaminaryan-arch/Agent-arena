@@ -22,6 +22,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان بیجار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658392,
     "target_revision_id": 44344049,
     "target_title": "مسجد خسروآباد گروس",
@@ -36,6 +37,7 @@
     "section": "گردشگری",
     "source_title": "شهرستان بیجار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 2149245,
     "target_revision_id": 44430684,
     "target_title": "پیست اسکی نسار",
@@ -50,6 +52,7 @@
     "section": "جاذبه های گردشگری بیجار",
     "source_title": "بیجار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658331,
     "target_revision_id": 44018669,
     "target_title": "بازار بیجار",
@@ -64,6 +67,7 @@
     "section": "جاذبه های گردشگری بیجار",
     "source_title": "بیجار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 390858,
     "target_revision_id": 44304600,
     "target_title": "قلعه قمچقای",
@@ -97,26 +101,13 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "چهل‌چشمه",
-    "pageid": 11867,
-    "revision_id": 44184039,
-    "section": "گردشگری",
-    "source_title": "دیواندره",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D8%AF%D8%B1%D9%87",
-    "target_pageid": 863412,
-    "target_revision_id": 44438501,
-    "target_title": "چهل‌چشمه",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%87%D9%84%E2%80%8C%DA%86%D8%B4%D9%85%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "غار کرفتو",
     "pageid": 11867,
     "revision_id": 44184039,
     "section": "گردشگری",
     "source_title": "دیواندره",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D8%AF%D8%B1%D9%87",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 10720,
     "target_revision_id": 44369245,
     "target_title": "غار کرفتو",
@@ -127,7 +118,12 @@
   "county": "دیواندره",
   "fetched": "2026-10-02",
   "province": "kurdistan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "چهل‌چشمه",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D8%AF%D8%B1%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D8%AF%D8%B1%D9%87"
@@ -135,20 +131,6 @@
  },
  "kamyaran": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سد گاوشان",
-    "pageid": 139475,
-    "revision_id": 44261502,
-    "section": "گردشگری",
-    "source_title": "شهرستان کامیاران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D9%85%DB%8C%D8%A7%D8%B1%D8%A7%D9%86",
-    "target_pageid": 717512,
-    "target_revision_id": 43265660,
-    "target_title": "سد گاوشان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%AF%D8%A7%D9%88%D8%B4%D8%A7%D9%86"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
@@ -158,31 +140,27 @@
     "section": "گردشگری",
     "source_title": "شهرستان کامیاران",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D9%85%DB%8C%D8%A7%D8%B1%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 662337,
     "target_revision_id": 44120451,
     "target_title": "تپه قلعه توبره ریز",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D9%82%D9%84%D8%B9%D9%87_%D8%AA%D9%88%D8%A8%D8%B1%D9%87_%D8%B1%DB%8C%D8%B2"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه آب‌معدنی",
-    "pageid": 139475,
-    "revision_id": 44261502,
-    "section": "گردشگری",
-    "source_title": "شهرستان کامیاران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D9%85%DB%8C%D8%A7%D8%B1%D8%A7%D9%86",
-    "target_pageid": 1105977,
-    "target_revision_id": 42875578,
-    "target_title": "چشمه آب‌معدنی",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A2%D8%A8%E2%80%8C%D9%85%D8%B9%D8%AF%D9%86%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "کامیاران",
   "fetched": "2026-10-02",
   "province": "kurdistan",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "سد گاوشان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه آب‌معدنی",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D9%85%DB%8C%D8%A7%D8%B1%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%DB%8C%D8%A7%D8%B1%D8%A7%D9%86"
@@ -223,6 +201,7 @@
     "section": "مراکز گردشگری و تاریخی / موزه ها",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388035,
     "target_revision_id": 44276834,
     "target_title": "عمارت سالار سعید",
@@ -237,24 +216,11 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387126,
     "target_revision_id": 44276812,
     "target_title": "عمارت خسروآباد",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%AE%D8%B3%D8%B1%D9%88%D8%A2%D8%A8%D8%A7%D8%AF"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "عمارت مشیر دیوان",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 387327,
-    "target_revision_id": 28523388,
-    "target_title": "عمارت مشیر دیوان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%85%D8%B4%DB%8C%D8%B1_%D8%AF%DB%8C%D9%88%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -265,6 +231,7 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388737,
     "target_revision_id": 44276771,
     "target_title": "عمارت امجدالاشراف",
@@ -279,6 +246,7 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387489,
     "target_revision_id": 40679131,
     "target_title": "عمارت وکیل‌الملک",
@@ -293,6 +261,7 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658561,
     "target_revision_id": 44154255,
     "target_title": "خانه احمدزاده (سنندج)",
@@ -307,24 +276,11 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387490,
     "target_revision_id": 44276841,
     "target_title": "عمارت سرهنگ آزموده اردلان",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B3%D8%B1%D9%87%D9%86%DA%AF_%D8%A2%D8%B2%D9%85%D9%88%D8%AF%D9%87_%D8%A7%D8%B1%D8%AF%D9%84%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "عمارت ملا لطف‌الله شیخ‌الاسلام",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 387491,
-    "target_revision_id": 44276901,
-    "target_title": "عمارت ملا لطف‌الله شیخ‌الاسلام",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%85%D9%84%D8%A7_%D9%84%D8%B7%D9%81%E2%80%8C%D8%A7%D9%84%D9%84%D9%87_%D8%B4%DB%8C%D8%AE%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -335,6 +291,7 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387988,
     "target_revision_id": 43277633,
     "target_title": "عمارت ملک‌التجار",
@@ -349,24 +306,11 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 388735,
     "target_revision_id": 44276763,
     "target_title": "عمارت آصف وزیری",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%A2%D8%B5%D9%81_%D9%88%D8%B2%DB%8C%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه پیرمرادی",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 387987,
-    "target_revision_id": 44156479,
-    "target_title": "خانه پیرمرادی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%BE%DB%8C%D8%B1%D9%85%D8%B1%D8%A7%D8%AF%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -377,6 +321,7 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387985,
     "target_revision_id": 44156117,
     "target_title": "خانه معمارباشی",
@@ -391,24 +336,11 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387984,
     "target_revision_id": 44155987,
     "target_title": "خانه محمد مردوخ کردستانی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%B1%D8%AF%D9%88%D8%AE_%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه گله‌داری سنندج",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 388039,
-    "target_revision_id": 44156596,
-    "target_title": "خانه گله‌داری سنندج",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%DA%AF%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%B1%DB%8C_%D8%B3%D9%86%D9%86%D8%AF%D8%AC"
    },
    {
     "field": "poi_heritage",
@@ -419,6 +351,7 @@
     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 387983,
     "target_revision_id": 44155943,
     "target_title": "خانه مجتهدی (سنندج)",
@@ -433,6 +366,7 @@
     "section": "مراکز گردشگری و تاریخی / حمام ها",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388061,
     "target_revision_id": 43926462,
     "target_title": "حمام شیشه",
@@ -447,24 +381,11 @@
     "section": "مراکز گردشگری و تاریخی / حمام ها",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 388736,
     "target_revision_id": 44150399,
     "target_title": "حمام خان (سنندج)",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AE%D8%A7%D9%86_%28%D8%B3%D9%86%D9%86%D8%AF%D8%AC%29"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام صلاحی",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / حمام ها",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 388062,
-    "target_revision_id": 41273688,
-    "target_title": "حمام صلاحی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B5%D9%84%D8%A7%D8%AD%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -475,52 +396,11 @@
     "section": "مراکز گردشگری و تاریخی / حمام ها",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388063,
     "target_revision_id": 31505780,
     "target_title": "حمام عبدالخالق",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D9%82"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام عمارت آصف",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / حمام ها",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 388064,
-    "target_revision_id": 43281820,
-    "target_title": "حمام عمارت آصف",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%A2%D8%B5%D9%81"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام عمارت ملا لطف‌الله شیخ‌الاسلام",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / حمام ها",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 388065,
-    "target_revision_id": 43271390,
-    "target_title": "حمام عمارت ملا لطف‌الله شیخ‌الاسلام",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%85%D9%84%D8%A7_%D9%84%D8%B7%D9%81%E2%80%8C%D8%A7%D9%84%D9%84%D9%87_%D8%B4%DB%8C%D8%AE%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام وکیل‌الملک",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / حمام ها",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 388067,
-    "target_revision_id": 43271388,
-    "target_title": "حمام وکیل‌الملک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%88%DA%A9%DB%8C%D9%84%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%DA%A9"
    },
    {
     "field": "poi_heritage",
@@ -531,6 +411,7 @@
     "section": "مراکز گردشگری و تاریخی / دیگر آثار تاریخی",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 388389,
     "target_revision_id": 44422685,
     "target_title": "پل قشلاق",
@@ -545,6 +426,7 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 61502,
     "target_revision_id": 43926439,
     "target_title": "مسجد هاجرخاتون",
@@ -559,6 +441,7 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 675059,
     "target_revision_id": 44343616,
     "target_title": "مسجد امین",
@@ -573,6 +456,7 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388155,
     "target_revision_id": 43745234,
     "target_title": "مسجد خورشیدلقا خانم",
@@ -587,6 +471,7 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 389034,
     "target_revision_id": 44344070,
     "target_title": "مسجد دارالاحسان",
@@ -601,24 +486,11 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388154,
     "target_revision_id": 33327123,
     "target_title": "مسجد دارالامان",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AF%D8%A7%D8%B1%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد رشید قلعه‌بیگی",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 388150,
-    "target_revision_id": 33327124,
-    "target_title": "مسجد رشید قلعه‌بیگی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B1%D8%B4%DB%8C%D8%AF_%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%A8%DB%8C%DA%AF%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -629,6 +501,7 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388151,
     "target_revision_id": 28546169,
     "target_title": "مسجد وکیل (سنندج)",
@@ -643,6 +516,7 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مساجد",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 388152,
     "target_revision_id": 33327125,
     "target_title": "مسجد وزیر",
@@ -657,24 +531,11 @@
     "section": "مراکز گردشگری و تاریخی / جاذبه های مذهبی / مکان های مذهبی دیگر ادیان",
     "source_title": "سنندج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 388162,
     "target_revision_id": 43157029,
     "target_title": "کلیسای سنندج",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D8%B3%D9%86%D9%86%D8%AF%D8%AC"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سد قشلاق",
-    "pageid": 3690,
-    "revision_id": 44576330,
-    "section": "مراکز گردشگری و تاریخی / اماکن تفریحی / سد وحدت",
-    "source_title": "سنندج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-    "target_pageid": 20379,
-    "target_revision_id": 44219810,
-    "target_title": "سد قشلاق",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%82%D8%B4%D9%84%D8%A7%D9%82"
    }
   ],
   "center_confirmed": true,
@@ -683,12 +544,48 @@
   "province": "kurdistan",
   "rejected_candidates": [
    {
+    "name": "عمارت مشیر دیوان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "عمارت فهیمی",
     "reason": "target page missing"
    },
    {
+    "name": "عمارت ملا لطف‌الله شیخ‌الاسلام",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "مجموعه عمارت شیخ محمد باقر غیاثی",
     "reason": "target page missing"
+   },
+   {
+    "name": "خانه پیرمرادی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "خانه گله‌داری سنندج",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "حمام صلاحی",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "حمام عمارت آصف",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "حمام عمارت ملا لطف‌الله شیخ‌الاسلام",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "حمام وکیل‌الملک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "مسجد رشید قلعه‌بیگی",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "امامزاده پیر عمر",
@@ -717,6 +614,10 @@
    {
     "name": "چهارباغ خسروآباد",
     "reason": "target page missing"
+   },
+   {
+    "name": "سد قشلاق",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -735,24 +636,11 @@
     "section": "اماکن تفریحی",
     "source_title": "سقز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 1595120,
     "target_revision_id": 41630697,
     "target_title": "سد چراغ ویس",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%86%D8%B1%D8%A7%D8%BA_%D9%88%DB%8C%D8%B3"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه وزنه",
-    "pageid": 4337,
-    "revision_id": 44466402,
-    "section": "اماکن تفریحی",
-    "source_title": "سقز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-    "target_pageid": 5582006,
-    "target_revision_id": 38505875,
-    "target_title": "کوه وزنه",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%88%D8%B2%D9%86%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -763,6 +651,7 @@
     "section": "اماکن تفریحی",
     "source_title": "سقز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1443109,
     "target_revision_id": 43783861,
     "target_title": "قلعه زیویه",
@@ -777,6 +666,7 @@
     "section": "اماکن تفریحی / پارک ها",
     "source_title": "سقز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 5583234,
     "target_revision_id": 40176640,
     "target_title": "رودخانه سقز",
@@ -791,6 +681,10 @@
    {
     "name": "دریاچه لَگزی",
     "reason": "target page missing"
+   },
+   {
+    "name": "کوه وزنه",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "غار کرفتو",

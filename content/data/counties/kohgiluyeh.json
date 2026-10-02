@@ -134,26 +134,13 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کوه نور",
-     "pageid": 141787,
-     "revision_id": 44322132,
-     "section": "گردشگری / غار نزل",
-     "source_title": "دهدشت",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-     "target_pageid": 167576,
-     "target_revision_id": 44485044,
-     "target_title": "کوه نور",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%86%D9%88%D8%B1"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "آبشار کمردوغ",
      "pageid": 141787,
      "revision_id": 44322132,
      "section": "گردشگری / آبشار کمردوغ",
      "source_title": "دهدشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 316387,
      "target_revision_id": 43928347,
      "target_title": "آبشار کمردوغ",
@@ -165,7 +152,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-   "value": "کوه نور\nآبشار کمردوغ"
+   "value": "آبشار کمردوغ"
   },
   "population": {
    "fetched": "2026-10-02",

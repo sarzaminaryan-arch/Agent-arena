@@ -130,7 +130,7 @@ ID=$(wp post list --post_type=city --name=karaj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "fardis - جنوب\nqods - جنوب‌شرق\nchaharbagh - غرب\nchalus - شمال"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "گرمدره\nسد امیرکبیر\nرودخانه کرج\nغار یخ‌مراد\nپارک ملی ایران کوچک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "پیست دیزین\nپیست اسکی خور\nبوستان چمران"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "باغ سیب مهرشهر\nکاخ مروارید\nباغ لاله‌های گچسر\nکاروانسرای شاه‌عباسی (کرج)\nکاخ شهرستانک\nپل دختر کرج\nامامزاده طاهر (کرج)\nکاخ سلیمانیه\nحمام مصباح"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "باغ سیب مهرشهر\nکاخ مروارید\nکاروانسرای شاه‌عباسی (کرج)\nکاخ شهرستانک\nپل دختر کرج\nامامزاده طاهر (کرج)\nحمام مصباح"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.83333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1341"

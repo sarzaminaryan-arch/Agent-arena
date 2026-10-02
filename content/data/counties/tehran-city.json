@@ -137,44 +137,17 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاخ‌های تهران",
-     "pageid": 778,
-     "revision_id": 44345743,
-     "section": "اقتصاد / گردشگری",
-     "source_title": "تهران",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-     "target_pageid": 150008,
-     "target_revision_id": 41579309,
-     "target_title": "کاخ‌های تهران",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "برج آزادی",
      "pageid": 778,
      "revision_id": 44345743,
      "section": "اقتصاد / گردشگری",
      "source_title": "تهران",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 38848,
      "target_revision_id": 44416307,
      "target_title": "برج آزادی",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "برج میلاد",
-     "pageid": 778,
-     "revision_id": 44345743,
-     "section": "اقتصاد / گردشگری",
-     "source_title": "تهران",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-     "target_pageid": 31326,
-     "target_revision_id": 44069156,
-     "target_title": "برج میلاد",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D9%85%DB%8C%D9%84%D8%A7%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -185,24 +158,11 @@
      "section": "اقتصاد / گردشگری",
      "source_title": "تهران",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 1484138,
      "target_revision_id": 44422653,
      "target_title": "پل طبیعت",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاخ گلستان",
-     "pageid": 778,
-     "revision_id": 44345743,
-     "section": "اقتصاد / گردشگری",
-     "source_title": "تهران",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-     "target_pageid": 48593,
-     "target_revision_id": 44442600,
-     "target_title": "کاخ گلستان",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -210,7 +170,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-   "value": "کاخ‌های تهران\nبرج آزادی\nبرج میلاد\nپل طبیعت\nکاخ گلستان"
+   "value": "برج آزادی\nپل طبیعت"
   },
   "rural_districts": {
    "fetched": "2026-10-02",

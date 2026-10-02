@@ -10,6 +10,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان اردل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 6186167,
     "target_revision_id": 43971519,
     "target_title": "آبشار زردلیمه",
@@ -24,6 +25,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان اردل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 1068874,
     "target_revision_id": 44352175,
     "target_title": "منطقه حفاظت‌شده هلن",
@@ -38,6 +40,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان اردل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1599704,
     "target_revision_id": 40181096,
     "target_title": "کاروانسرای شلیل",
@@ -68,26 +71,13 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "سد زاینده‌رود",
-    "pageid": 1665215,
-    "revision_id": 44109202,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان بن",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
-    "target_pageid": 736748,
-    "target_revision_id": 43769200,
-    "target_title": "سد زاینده‌رود",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B2%D8%A7%DB%8C%D9%86%D8%AF%D9%87%E2%80%8C%D8%B1%D9%88%D8%AF"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "یان‌چشمه",
     "pageid": 1665215,
     "revision_id": 44109202,
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1320658,
     "target_revision_id": 43948417,
     "target_title": "یان‌چشمه",
@@ -102,6 +92,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 6231781,
     "target_revision_id": 41228866,
     "target_title": "امامزاده سیدمحمد بارده",
@@ -116,6 +107,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 673952,
     "target_revision_id": 40519958,
     "target_title": "امامزاده سید بهاءالدین محمد",
@@ -130,6 +122,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 661441,
     "target_revision_id": 43519038,
     "target_title": "امامزاده باباپیر احمدبن",
@@ -144,6 +137,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 674063,
     "target_revision_id": 44304041,
     "target_title": "قلعه بارده",
@@ -154,7 +148,12 @@
   "county": "بن",
   "fetched": "2026-10-02",
   "province": "chaharmahal-bakhtiari",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "سد زاینده‌رود",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86"
   ]
@@ -170,38 +169,11 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان بروجن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 16910,
     "target_revision_id": 44424968,
     "target_title": "تالاب چغاخور",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%DA%86%D8%BA%D8%A7%D8%AE%D9%88%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تالاب گندمان",
-    "pageid": 16897,
-    "revision_id": 44475708,
-    "section": "مناطق گردشگری",
-    "source_title": "شهرستان بروجن",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
-    "target_pageid": 22064,
-    "target_revision_id": 43183446,
-    "target_title": "تالاب گندمان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%DA%AF%D9%86%D8%AF%D9%85%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تالاب سولقان",
-    "pageid": 16897,
-    "revision_id": 44475708,
-    "section": "مناطق گردشگری",
-    "source_title": "شهرستان بروجن",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
-    "target_pageid": 2388069,
-    "target_revision_id": 44172158,
-    "target_title": "تالاب سولقان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%B3%D9%88%D9%84%D9%82%D8%A7%D9%86"
    },
    {
     "field": "poi_nature",
@@ -212,6 +184,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان بروجن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 2400781,
     "target_revision_id": 43239488,
     "target_title": "کوه کلار",
@@ -226,24 +199,11 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان بروجن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 663534,
     "target_revision_id": 43924479,
     "target_title": "امامزاده حمزه علی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%AD%D9%85%D8%B2%D9%87_%D8%B9%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه سیاسرد",
-    "pageid": 16897,
-    "revision_id": 44475708,
-    "section": "مناطق گردشگری",
-    "source_title": "شهرستان بروجن",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
-    "target_pageid": 22066,
-    "target_revision_id": 31635801,
-    "target_title": "کوه سیاسرد",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B3%DB%8C%D8%A7%D8%B3%D8%B1%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -254,6 +214,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "بروجن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 659709,
     "target_revision_id": 27316327,
     "target_title": "پل تاریخی مصلی",
@@ -266,8 +227,28 @@
   "province": "chaharmahal-bakhtiari",
   "rejected_candidates": [
    {
+    "name": "تالاب گندمان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "تالاب سولقان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کوه سیاسرد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "منطقه حفاظت‌شده سبزکوه",
     "reason": "lead locates target in another county"
+   },
+   {
+    "name": "کوه سیاسرد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "تالاب گندمان",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -313,6 +294,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان فارسان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657414,
     "target_revision_id": 42994822,
     "target_title": "قلعه جونقان",
@@ -327,6 +309,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان فارسان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 19944,
     "target_revision_id": 44286728,
     "target_title": "پیرغار",
@@ -341,6 +324,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان فارسان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 23797,
     "target_revision_id": 44286712,
     "target_title": "ده‌چشمه",
@@ -355,6 +339,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان فارسان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658043,
     "target_revision_id": 40324910,
     "target_title": "کتیبه‌های مشروطیت پیر غار",
@@ -369,6 +354,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان فارسان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 20376,
     "target_revision_id": 43924526,
     "target_title": "غار سراب",
@@ -383,6 +369,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان فارسان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 669063,
     "target_revision_id": 42431634,
     "target_title": "مسجد جامع فارسان",
@@ -423,20 +410,6 @@
  "kiar": {
   "candidates": [
    {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه دزک",
-    "pageid": 328205,
-    "revision_id": 43926845,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان کیار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
-    "target_pageid": 19885,
-    "target_revision_id": 43924436,
-    "target_title": "قلعه دزک",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%B2%DA%A9"
-   },
-   {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
     "name": "دریاچه شلمزار",
@@ -445,24 +418,11 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کیار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 3841012,
     "target_revision_id": 44443997,
     "target_title": "دریاچه شلمزار",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B4%D9%84%D9%85%D8%B2%D8%A7%D8%B1"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تالاب سولقان",
-    "pageid": 328205,
-    "revision_id": 43926845,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان کیار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
-    "target_pageid": 2388069,
-    "target_revision_id": 44172158,
-    "target_title": "تالاب سولقان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%B3%D9%88%D9%84%D9%82%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -473,6 +433,7 @@
     "section": "گردشگری",
     "source_title": "شلمزار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%84%D9%85%D8%B2%D8%A7%D8%B1",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 673547,
     "target_revision_id": 44150806,
     "target_title": "حمام پایین شلمزار",
@@ -485,8 +446,16 @@
   "province": "chaharmahal-bakhtiari",
   "rejected_candidates": [
    {
+    "name": "قلعه دزک",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "قلعه صمصام‌السلطنه",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "تالاب سولقان",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "امامزاده جعفر شهر گهرو",
@@ -513,6 +482,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کوهرنگ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 5303893,
     "target_revision_id": 43924494,
     "target_title": "غار یخی چما",
@@ -527,6 +497,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کوهرنگ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 5587459,
     "target_revision_id": 43377015,
     "target_title": "آبشار شیخ علیخان",
@@ -541,24 +512,11 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کوهرنگ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 19875,
     "target_revision_id": 43924500,
     "target_title": "چشمه دیمه",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%AF%DB%8C%D9%85%D9%87"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه کوهرنگ",
-    "pageid": 16901,
-    "revision_id": 44483104,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان کوهرنگ",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
-    "target_pageid": 5893581,
-    "target_revision_id": 44483100,
-    "target_title": "چشمه کوهرنگ",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF"
    },
    {
     "field": "poi_recreation",
@@ -569,6 +527,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کوهرنگ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 400842,
     "target_revision_id": 44327429,
     "target_title": "پیست اسکی چلگرد",
@@ -583,6 +542,7 @@
     "section": "مناطق گردشگری",
     "source_title": "چلگرد",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 669228,
     "target_revision_id": 35503944,
     "target_title": "پل چلگرد",
@@ -597,6 +557,14 @@
    {
     "name": "رودخانه بازفت",
     "reason": "generic or untyped target"
+   },
+   {
+    "name": "چشمه کوهرنگ",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "چشمه کوهرنگ",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [
@@ -615,6 +583,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان لردگان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 288095,
     "target_revision_id": 43931655,
     "target_title": "آبشار آتشگاه",
@@ -629,6 +598,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان لردگان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 116533,
     "target_revision_id": 44401251,
     "target_title": "سد کارون ۴",
@@ -643,6 +613,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان لردگان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 672723,
     "target_revision_id": 32965147,
     "target_title": "کاروانسرای قلعه مدرسه",
@@ -657,6 +628,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان لردگان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 667699,
     "target_revision_id": 44331681,
     "target_title": "محوطه قبرستان و کاروانسرای پل بریده",
@@ -684,6 +656,7 @@
     "section": "مناطق گردشگری",
     "source_title": "شهرستان سامان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%85%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 92057,
     "target_revision_id": 44422576,
     "target_title": "پل زمان‌خان",
@@ -710,6 +683,7 @@
     "section": "جاذبه های گردشگری / آثار دیدنی دیگر",
     "source_title": "شهرستان شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657886,
     "target_revision_id": 44346221,
     "target_title": "قلعه چالشتر",
@@ -724,6 +698,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 656909,
     "target_revision_id": 44560277,
     "target_title": "مسجد اتابکان",
@@ -738,6 +713,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657731,
     "target_revision_id": 44343870,
     "target_title": "مسجد جامع محبعلی بیگ",
@@ -752,6 +728,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657413,
     "target_revision_id": 44343837,
     "target_title": "مسجد جامع شهرکرد",
@@ -766,6 +743,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657619,
     "target_revision_id": 44346223,
     "target_title": "مسجد جامع چالشتر",
@@ -780,6 +758,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 673153,
     "target_revision_id": 44150738,
     "target_title": "حمام مهدیه",
@@ -794,6 +773,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 674115,
     "target_revision_id": 44018954,
     "target_title": "بازارچه لحاف‌دوزان",
@@ -808,6 +788,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658496,
     "target_revision_id": 44150933,
     "target_title": "حمامین درب امامزاده",
@@ -822,6 +803,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657897,
     "target_revision_id": 44150808,
     "target_title": "حمام پرهیزگار",
@@ -836,6 +818,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657605,
     "target_revision_id": 44346247,
     "target_title": "خانه آزاده",
@@ -850,6 +833,7 @@
     "section": "گردشگری / جاذبه های تاریخی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 4072392,
     "target_revision_id": 44118652,
     "target_title": "تپه سراب (گنبدک)",
@@ -864,6 +848,7 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 2787840,
     "target_revision_id": 40989073,
     "target_title": "گردشگاه چشمه‌زنه",
@@ -878,24 +863,11 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "شهرکرد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 3838049,
     "target_revision_id": 44090690,
     "target_title": "چشمه وقت و ساعت (جهان‌بین)",
     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D9%88%D9%82%D8%AA_%D9%88_%D8%B3%D8%A7%D8%B9%D8%AA_%28%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%D8%A8%DB%8C%D9%86%29"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار جهان‌بین",
-    "pageid": 6506,
-    "revision_id": 44458604,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "شهرکرد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
-    "target_pageid": 3227658,
-    "target_revision_id": 33798363,
-    "target_title": "غار جهان‌بین",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%D8%A8%DB%8C%D9%86"
    }
   ],
   "center_confirmed": true,
@@ -906,6 +878,10 @@
    {
     "name": "قلعه سورک",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "غار جهان‌بین",
+    "reason": "county placement needs manual corroboration"
    }
   ],
   "sources": [

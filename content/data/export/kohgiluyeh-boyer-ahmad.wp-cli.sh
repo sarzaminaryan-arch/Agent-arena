@@ -167,7 +167,7 @@ ID=$(wp post list --post_type=city --name=kohgiluyeh --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا اسفند؛ تابستان بسیار گرم است"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "landeh - غرب\nchoram - جنوب‌شرق\nmargoun - شمال‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "کوه نور\nآبشار کمردوغ"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "آبشار کمردوغ"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "30.96667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "50.55"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=30.96667,50.55"

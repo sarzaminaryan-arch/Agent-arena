@@ -135,6 +135,7 @@
      "section": "جاذبه ها / حمام تاریخی دیلمان",
      "source_title": "سیاهکل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 659176,
      "target_revision_id": 41699139,
      "target_title": "حمام دیلمان",
@@ -149,6 +150,7 @@
      "section": "جاذبه ها / کاروانسرای تی تی",
      "source_title": "سیاهکل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 657612,
      "target_revision_id": 44124815,
      "target_title": "تی تی کاروانسرا",
@@ -163,6 +165,7 @@
      "section": "جاذبه ها / قلعهٔ گرماور",
      "source_title": "سیاهکل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 660542,
      "target_revision_id": 44304769,
      "target_title": "قلعه و برج گرماور",
@@ -177,24 +180,11 @@
      "section": "جاذبه ها / قلعهٔ کوتول شاه",
      "source_title": "سیاهکل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 664765,
      "target_revision_id": 44430288,
      "target_title": "قلعه کوتول شاه",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%A9%D9%88%D8%AA%D9%88%D9%84_%D8%B4%D8%A7%D9%87"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه عضدی سیاهکل",
-     "pageid": 56996,
-     "revision_id": 44244794,
-     "section": "جاذبه ها / خانهٔ عضدی سیاهکل",
-     "source_title": "سیاهکل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
-     "target_pageid": 4923428,
-     "target_revision_id": 35895990,
-     "target_title": "خانه عضدی سیاهکل",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B9%D8%B6%D8%AF%DB%8C_%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84"
     }
    ],
    "fetched": "2026-10-02",
@@ -202,7 +192,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
-   "value": "حمام دیلمان\nتی تی کاروانسرا\nقلعه و برج گرماور\nقلعه کوتول شاه\nخانه عضدی سیاهکل"
+   "value": "حمام دیلمان\nتی تی کاروانسرا\nقلعه و برج گرماور\nقلعه کوتول شاه"
   },
   "poi_nature": {
    "entries": [
@@ -215,38 +205,11 @@
      "section": "جاذبه ها / آبشار لونک",
      "source_title": "سیاهکل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 144778,
      "target_revision_id": 41633502,
      "target_title": "آبشار لونک",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%84%D9%88%D9%86%DA%A9"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "شمشاد جنگلی",
-     "pageid": 56996,
-     "revision_id": 44244794,
-     "section": "جاذبه ها / منطقهٔ شکارممنوع دیلمان",
-     "source_title": "سیاهکل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
-     "target_pageid": 3289008,
-     "target_revision_id": 43479221,
-     "target_title": "شمشاد جنگلی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%85%D8%B4%D8%A7%D8%AF_%D8%AC%D9%86%DA%AF%D9%84%DB%8C"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "گربه جنگلی",
-     "pageid": 56996,
-     "revision_id": 44244794,
-     "section": "جاذبه ها / منطقهٔ شکارممنوع دیلمان",
-     "source_title": "سیاهکل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
-     "target_pageid": 1754175,
-     "target_revision_id": 44245413,
-     "target_title": "گربه جنگلی",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A8%D9%87_%D8%AC%D9%86%DA%AF%D9%84%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -254,7 +217,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
-   "value": "آبشار لونک\nشمشاد جنگلی\nگربه جنگلی"
+   "value": "آبشار لونک"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -139,6 +139,7 @@
      "section": "آثار تاریخی",
      "source_title": "ارسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+     "target_location_evidence": "target lead explicitly locates it in this county seat",
      "target_pageid": 668867,
      "target_revision_id": 44343705,
      "target_title": "مسجد جامع ارسنجان",
@@ -157,26 +158,13 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دریاچه طشک",
-     "pageid": 5615,
-     "revision_id": 43928807,
-     "section": "جاذبه های گردشگری",
-     "source_title": "ارسنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_pageid": 716998,
-     "target_revision_id": 44176722,
-     "target_title": "دریاچه طشک",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B7%D8%B4%DA%A9"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "غار سیده خاتون",
      "pageid": 5615,
      "revision_id": 43928807,
      "section": "جاذبه های گردشگری",
      "source_title": "ارسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 1784243,
      "target_revision_id": 40695643,
      "target_title": "غار سیده خاتون",
@@ -188,7 +176,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "دریاچه طشک\nغار سیده خاتون"
+   "value": "غار سیده خاتون"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -79,7 +79,6 @@ ID=$(wp post list --post_type=city --name=borazjan --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "نفت و گاز (پارس جنوبی)، شیلات، نخلستان و بنادر بازرگانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "آبان تا فروردین؛ تابستان به‌سبب گرما و شرجی توصیه نمی‌شود"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "bushehr-city - جنوب‌غرب\nahram - جنوب\nkazerun - شمال‌شرق\nganaveh - شمال‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "کاخ چرخاب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "29.28333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.25"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "70"

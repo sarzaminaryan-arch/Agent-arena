@@ -10,6 +10,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان بهارستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 666647,
     "target_revision_id": 44120630,
     "target_title": "تپه قلعه وجه‌آباد",
@@ -24,6 +25,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان بهارستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 3374303,
     "target_revision_id": 41031206,
     "target_title": "امامزاده حسن (اسماعیل‌آباد)",
@@ -38,6 +40,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان بهارستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1611698,
     "target_revision_id": 40213302,
     "target_title": "امامزاده باقر",
@@ -64,6 +67,7 @@
     "section": "طبیعت و گردشگری",
     "source_title": "شهرستان دماوند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 544108,
     "target_revision_id": 41430837,
     "target_title": "چشمه اعلاء",
@@ -78,24 +82,11 @@
     "section": "طبیعت و گردشگری",
     "source_title": "شهرستان دماوند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 966588,
     "target_revision_id": 44316653,
     "target_title": "برج شیخ شبلی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%B4%DB%8C%D8%AE_%D8%B4%D8%A8%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد جامع",
-    "pageid": 11958,
-    "revision_id": 43534440,
-    "section": "طبیعت و گردشگری",
-    "source_title": "شهرستان دماوند",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
-    "target_pageid": 139544,
-    "target_revision_id": 44336507,
-    "target_title": "مسجد جامع",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9"
    },
    {
     "field": "poi_heritage",
@@ -106,24 +97,11 @@
     "section": "طبیعت و گردشگری",
     "source_title": "شهرستان دماوند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 663777,
     "target_revision_id": 44343937,
     "target_title": "مسجد جامع کیلان",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DA%A9%DB%8C%D9%84%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "پیست اسکی آبعلی",
-    "pageid": 11958,
-    "revision_id": 43534440,
-    "section": "طبیعت و گردشگری",
-    "source_title": "شهرستان دماوند",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
-    "target_pageid": 230672,
-    "target_revision_id": 41255244,
-    "target_title": "پیست اسکی آبعلی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%A2%D8%A8%D8%B9%D9%84%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -134,6 +112,7 @@
     "section": "طبیعت و گردشگری",
     "source_title": "شهرستان دماوند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+    "target_location_evidence": "target lead names this county",
     "target_pageid": 1084601,
     "target_revision_id": 44176643,
     "target_title": "دریاچه تار",
@@ -148,6 +127,7 @@
     "section": "طبیعت و گردشگری",
     "source_title": "شهرستان دماوند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 672127,
     "target_revision_id": 42006446,
     "target_title": "غار رود افشان",
@@ -162,6 +142,7 @@
     "section": "طبیعت و گردشگری",
     "source_title": "شهرستان دماوند",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 3975058,
     "target_revision_id": 27265179,
     "target_title": "آبشار تیزاب",
@@ -172,7 +153,16 @@
   "county": "دماوند",
   "fetched": "2026-10-02",
   "province": "tehran",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "مسجد جامع",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "پیست اسکی آبعلی",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF"
   ]
@@ -205,6 +195,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان فیروزکوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%DA%A9%D9%88%D9%87",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 149600,
     "target_revision_id": 43924341,
     "target_title": "تنگه واشی",
@@ -283,6 +274,7 @@
     "section": "گردشگری و جاذبه ها",
     "source_title": "قرچک",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B1%DA%86%DA%A9",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 5004709,
     "target_revision_id": 43332250,
     "target_title": "پل باقرآباد (تهران)",
@@ -321,38 +313,11 @@
     "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
     "source_title": "شهر ری",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 6656537,
     "target_revision_id": 43931944,
     "target_title": "تپه چشمه‌علی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B9%D9%84%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کارخانه سیمان ری",
-    "pageid": 50049,
-    "revision_id": 44401660,
-    "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
-    "source_title": "شهر ری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-    "target_pageid": 6775272,
-    "target_revision_id": 43057418,
-    "target_title": "کارخانه سیمان ری",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%DB%8C%D9%85%D8%A7%D9%86_%D8%B1%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای شاه‌عباسی (شهر ری)",
-    "pageid": 50049,
-    "revision_id": 44401660,
-    "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
-    "source_title": "شهر ری",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-    "target_pageid": 263270,
-    "target_revision_id": 40714935,
-    "target_title": "کاروانسرای شاه‌عباسی (شهر ری)",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B4%D8%A7%D9%87%E2%80%8C%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C_%28%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C%29"
    },
    {
     "field": "poi_heritage",
@@ -363,6 +328,7 @@
     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
     "source_title": "شهر ری",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 93551,
     "target_revision_id": 43503809,
     "target_title": "برج طغرل",
@@ -377,6 +343,7 @@
     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
     "source_title": "شهر ری",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 656287,
     "target_revision_id": 43570803,
     "target_title": "کوه نقارخانه",
@@ -391,6 +358,7 @@
     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
     "source_title": "شهر ری",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 263269,
     "target_revision_id": 40714967,
     "target_title": "کاروانسرای کنارگرد",
@@ -405,6 +373,7 @@
     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
     "source_title": "شهر ری",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 262620,
     "target_revision_id": 44305018,
     "target_title": "قلعه گبری (شهر ری)",
@@ -425,8 +394,16 @@
     "reason": "explicitly different county"
    },
    {
+    "name": "کارخانه سیمان ری",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
     "name": "بازار شهر ری",
     "reason": "explicitly different county"
+   },
+   {
+    "name": "کاروانسرای شاه‌عباسی (شهر ری)",
+    "reason": "county placement needs manual corroboration"
    },
    {
     "name": "قلعه کاسنی ری",
@@ -449,6 +426,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان رباط‌کریم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 666176,
     "target_revision_id": 44084910,
     "target_title": "بقعه پیغمبر لوط",
@@ -463,6 +441,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان رباط‌کریم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 666805,
     "target_revision_id": 44120519,
     "target_title": "تپه قلعه روستای حسن",
@@ -477,6 +456,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان رباط‌کریم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 666165,
     "target_revision_id": 37981597,
     "target_title": "پل بازارک",
@@ -491,6 +471,7 @@
     "section": "بناهای تاریخی",
     "source_title": "شهرستان رباط‌کریم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 657423,
     "target_revision_id": 43764891,
     "target_title": "کاروانسرای فتحعلیشاهی",
@@ -505,6 +486,7 @@
     "section": "جاذبه های تاریخی و مذهبی / اماکن و بناهای تاریخی",
     "source_title": "رباط‌کریم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 6340460,
     "target_revision_id": 40930754,
     "target_title": "کاروانسرای قلعه سنگی",
@@ -556,48 +538,6 @@
  "shemiranat": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سد لتیان",
-    "pageid": 2085,
-    "revision_id": 44081541,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان شمیرانات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
-    "target_pageid": 48335,
-    "target_revision_id": 44219826,
-    "target_title": "سد لتیان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%84%D8%AA%DB%8C%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
-    "name": "بوستان جنگلی لویزان",
-    "pageid": 2085,
-    "revision_id": 44081541,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان شمیرانات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
-    "target_pageid": 113297,
-    "target_revision_id": 44285092,
-    "target_title": "بوستان جنگلی لویزان",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%84%D9%88%DB%8C%D8%B2%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار دوقلو",
-    "pageid": 2085,
-    "revision_id": 44081541,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان شمیرانات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
-    "target_pageid": 10870,
-    "target_revision_id": 43968179,
-    "target_title": "آبشار دوقلو",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AF%D9%88%D9%82%D9%84%D9%88"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "امامزاده قاسم (تهران)",
@@ -606,6 +546,7 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان شمیرانات",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 524810,
     "target_revision_id": 43185114,
     "target_title": "امامزاده قاسم (تهران)",
@@ -616,7 +557,24 @@
   "county": "شمیرانات",
   "fetched": "2026-10-02",
   "province": "tehran",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "سد لتیان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان جنگلی لویزان",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "آبشار دوقلو",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "بوستان جنگلی لویزان",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86"
@@ -627,44 +585,17 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاخ‌های تهران",
-    "pageid": 778,
-    "revision_id": 44345743,
-    "section": "اقتصاد / گردشگری",
-    "source_title": "تهران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-    "target_pageid": 150008,
-    "target_revision_id": 41579309,
-    "target_title": "کاخ‌های تهران",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "برج آزادی",
     "pageid": 778,
     "revision_id": 44345743,
     "section": "اقتصاد / گردشگری",
     "source_title": "تهران",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 38848,
     "target_revision_id": 44416307,
     "target_title": "برج آزادی",
     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "برج میلاد",
-    "pageid": 778,
-    "revision_id": 44345743,
-    "section": "اقتصاد / گردشگری",
-    "source_title": "تهران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-    "target_pageid": 31326,
-    "target_revision_id": 44069156,
-    "target_title": "برج میلاد",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D9%85%DB%8C%D9%84%D8%A7%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -675,31 +606,31 @@
     "section": "اقتصاد / گردشگری",
     "source_title": "تهران",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "target_location_evidence": "target lead explicitly locates it in this county seat",
     "target_pageid": 1484138,
     "target_revision_id": 44422653,
     "target_title": "پل طبیعت",
     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاخ گلستان",
-    "pageid": 778,
-    "revision_id": 44345743,
-    "section": "اقتصاد / گردشگری",
-    "source_title": "تهران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-    "target_pageid": 48593,
-    "target_revision_id": 44442600,
-    "target_title": "کاخ گلستان",
-    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "تهران",
   "fetched": "2026-10-02",
   "province": "tehran",
-  "rejected_candidates": [],
+  "rejected_candidates": [
+   {
+    "name": "کاخ‌های تهران",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "برج میلاد",
+    "reason": "county placement needs manual corroboration"
+   },
+   {
+    "name": "کاخ گلستان",
+    "reason": "county placement needs manual corroboration"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
@@ -716,6 +647,7 @@
     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 3358290,
     "target_revision_id": 41031221,
     "target_title": "امامزاده شاه حسین",
@@ -730,6 +662,7 @@
     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 970122,
     "target_revision_id": 43702827,
     "target_title": "مسجد جامع ورامین",
@@ -744,6 +677,7 @@
     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 656253,
     "target_revision_id": 43924240,
     "target_title": "برج آرامگاه علاءالدین",
@@ -758,6 +692,7 @@
     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 1351959,
     "target_revision_id": 43924302,
     "target_title": "امامزاده یحیی (ورامین)",
@@ -772,6 +707,7 @@
     "section": "آثار تاریخی / سایر بناهای تاریخی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 658630,
     "target_revision_id": 43924288,
     "target_title": "امامزاده حسین رضا",
@@ -786,6 +722,7 @@
     "section": "آثار تاریخی / سایر بناهای تاریخی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 670292,
     "target_revision_id": 42929354,
     "target_title": "امامزاده بی‌بی سکینه",
@@ -800,6 +737,7 @@
     "section": "آثار تاریخی / سایر بناهای تاریخی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 4639241,
     "target_revision_id": 35212280,
     "target_title": "امامزاده کوکب‌الدین",
@@ -814,6 +752,7 @@
     "section": "آثار تاریخی / سایر بناهای تاریخی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 665292,
     "target_revision_id": 42493736,
     "target_title": "آرامگاه سید فتح‌الله",
@@ -828,6 +767,7 @@
     "section": "آثار تاریخی / سایر بناهای تاریخی",
     "source_title": "ورامین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+    "target_location_evidence": "target infobox names this county",
     "target_pageid": 670300,
     "target_revision_id": 34698362,
     "target_title": "امامزاده زید ابوالحسن الحسینی",

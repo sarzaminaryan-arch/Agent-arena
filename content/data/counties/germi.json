@@ -149,30 +149,6 @@
    "url": "",
    "value": "تپه باستانی\nموزه ملی ایران\nقیز قلعه سی"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "جنگل‌های ایران",
-     "pageid": 8955,
-     "revision_id": 44160389,
-     "section": "جغرافیا و طبیعت / گونه های گیاهی و جانوری",
-     "source_title": "شهرستان گرمی",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
-     "target_pageid": 415334,
-     "target_revision_id": 43055396,
-     "target_title": "جنگل‌های ایران",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
-   "value": "جنگل‌های ایران"
-  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

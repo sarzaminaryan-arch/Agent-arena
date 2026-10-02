@@ -143,7 +143,7 @@ ID=$(wp post list --post_type=city --name=faruj --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، صنایع غذایی و گردشگری طبیعی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "shirvan - شمال‌غرب\nbam-safiabad - جنوب‌غرب\nesfarayen - جنوب‌غرب\ndargaz - شرق\nchenaran - جنوب‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "سد چری\nغار یخچالی\nکوه شاه جهان"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "سد چری\nکوه شاه جهان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "37.22829"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "58.21542"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1280"

@@ -463,7 +463,7 @@ ID=$(wp post list --post_type=city --name=kerman --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ravar - شمال‌غرب\nnarmashir - جنوب‌شرق\nbam - جنوب\nbardsir - غرب\nrabor - جنوب‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه اردشیر\nخودمختارگرایی\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل (کرمان)\nحمام وکیل (کرمان)\nکاروانسرای وکیل (کرمان)\nآرامگاه خواجه اتابک\nخانه امینیان\nخانه غفاری\nخانه پرداختی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قلعه اردشیر\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل (کرمان)\nحمام وکیل (کرمان)\nکاروانسرای وکیل (کرمان)\nآرامگاه خواجه اتابک\nخانه امینیان\nخانه غفاری\nخانه پرداختی\nباغ بیرم‌آباد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "30.33333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "58"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1760"

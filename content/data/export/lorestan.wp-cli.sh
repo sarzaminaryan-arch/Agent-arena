@@ -60,7 +60,7 @@ ID=$(wp post list --post_type=city --name=borujerd --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی و دامداری، صنایع غذایی و گردشگری طبیعی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "dorud - جنوب‌شرق\nshazand - شرق\nmalayer-city - شمال\nkhorramabad - جنوب‌غرب\nselseleh - غرب\nnahavand-city - شمال‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "رشته‌کوه گرین\nقله ولاش\nتنگه کپرگه"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "قله ولاش\nتنگه کپرگه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "دهستان شیروان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "بوستان فدک بروجرد\nباغ پرندگان بروجرد\nبوستان جنگلی شهید بهشتی بروجرد"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان"

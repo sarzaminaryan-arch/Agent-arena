@@ -145,44 +145,17 @@
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "تخت سلیمان (مازندران)",
-     "pageid": 21460,
-     "revision_id": 44361747,
-     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / آب گرم معدنی سه هزار",
-     "source_title": "شهرستان تنکابن",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
-     "target_pageid": 535289,
-     "target_revision_id": 43928878,
-     "target_title": "تخت سلیمان (مازندران)",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%AE%D8%AA_%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86_%28%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86%29"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
      "name": "قلعه تنکا",
      "pageid": 21460,
      "revision_id": 44361747,
      "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / آبشار فرهاد جوی",
      "source_title": "شهرستان تنکابن",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 672374,
      "target_revision_id": 44304141,
      "target_title": "قلعه تنکا",
      "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AA%D9%86%DA%A9%D8%A7"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "قلعه کوتی لشکرک",
-     "pageid": 21460,
-     "revision_id": 44361747,
-     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / مزارع پرورش ماهیان سردآبی",
-     "source_title": "شهرستان تنکابن",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
-     "target_pageid": 301449,
-     "target_revision_id": 44157380,
-     "target_title": "قلعه کوتی لشکرک",
-     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%A9%D9%88%D8%AA%DB%8C_%D9%84%D8%B4%DA%A9%D8%B1%DA%A9"
     },
     {
      "field": "poi_heritage",
@@ -193,6 +166,7 @@
      "section": "گردشگری / مزارع پرورش ماهیان سردآبی",
      "source_title": "تنکابن",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 672129,
      "target_revision_id": 35632794,
      "target_title": "پل قلعه گردن",
@@ -204,7 +178,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
-   "value": "تخت سلیمان (مازندران)\nقلعه تنکا\nقلعه کوتی لشکرک\nپل قلعه گردن"
+   "value": "قلعه تنکا\nپل قلعه گردن"
   },
   "population": {
    "fetched": "2026-10-02",

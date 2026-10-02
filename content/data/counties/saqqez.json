@@ -144,6 +144,7 @@
      "section": "اماکن تفریحی",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_location_evidence": "target infobox names this county",
      "target_pageid": 1443109,
      "target_revision_id": 43783861,
      "target_title": "قلعه زیویه",
@@ -168,24 +169,11 @@
      "section": "اماکن تفریحی",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 1595120,
      "target_revision_id": 41630697,
      "target_title": "سد چراغ ویس",
      "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%86%D8%B1%D8%A7%D8%BA_%D9%88%DB%8C%D8%B3"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کوه وزنه",
-     "pageid": 4337,
-     "revision_id": 44466402,
-     "section": "اماکن تفریحی",
-     "source_title": "سقز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-     "target_pageid": 5582006,
-     "target_revision_id": 38505875,
-     "target_title": "کوه وزنه",
-     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%88%D8%B2%D9%86%D9%87"
     },
     {
      "field": "poi_nature",
@@ -196,6 +184,7 @@
      "section": "اماکن تفریحی / پارک ها",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_location_evidence": "target lead names this county",
      "target_pageid": 5583234,
      "target_revision_id": 40176640,
      "target_title": "رودخانه سقز",
@@ -207,7 +196,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-   "value": "سد چراغ ویس\nکوه وزنه\nرودخانه سقز"
+   "value": "سد چراغ ویس\nرودخانه سقز"
   },
   "population": {
    "fetched": "2026-10-02",

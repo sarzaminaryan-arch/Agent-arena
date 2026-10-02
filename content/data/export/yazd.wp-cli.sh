@@ -217,7 +217,7 @@ ID=$(wp post list --post_type=city --name=mehriz-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "مهر تا فروردین؛ شب‌های کویر در پاییز و زمستان بهترین‌اند"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "yazd-city - شمال\ntaft-city - شمال‌غرب\nmarvast-city - جنوب‌غرب\nanar - جنوب‌شرق\nbafq-city - شمال‌شرق"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قنات حسن‌آباد مشیر\nباغ پهلوان‌پور\nخانه خوشنویس\nحمام استهریج\nقلعه سریزد\nقلعه خورمیز\nمسجد جامع\nبرج دیدبانی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "قنات حسن‌آباد مشیر\nباغ پهلوان‌پور\nخانه خوشنویس\nحمام استهریج\nقلعه سریزد\nقلعه خورمیز"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "31.26667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "54.5"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "1475"
