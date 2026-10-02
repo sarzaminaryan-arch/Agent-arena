@@ -96,7 +96,7 @@ class ExtractionTests(unittest.TestCase):
         wt = '== جاذبه‌ها ==\n[[آبشار نمونه‌ها (شهرستان نمونه)|آبشار]]'
         wt = wt.replace('\x0c', '\u200c')
         items = poi.extract_candidates(page(wt), 'county')
-        self.assertEqual(items[0]['name'], 'آبشار نمونه\u200cها')
+        self.assertEqual(items[0]['name'], 'آبشار نمونه\u200cها (شهرستان نمونه)')
 
     def test_each_name_keeps_source_revision_and_section(self):
         item = poi.extract_candidates(page('== جاذبه‌ها ==\n[[غار نمونه]]'), 'county')[0]
@@ -121,6 +121,38 @@ class TargetValidationTests(unittest.TestCase):
         for title in ('بازار', 'کاروانسرا', 'امام زاده', 'پارک جنگلی', 'دریاچه سد'):
             self.assertIsNone(poi.classify(title, 'جاذبه‌ها'))
 
+    def test_all_bare_type_keywords_are_rejected_except_proper_names(self):
+        proper = {'تخت جمشید', 'تخت سلیمان', 'طاق بستان', 'نقش رستم', 'هگمتانه', 'چغازنبیل'}
+        for group in (poi.NATURE, poi.RECREATION, poi.HERITAGE):
+            for keyword in group:
+                name = keyword.strip()
+                if name not in proper:
+                    self.assertIsNone(poi.classify(name, 'جاذبه‌ها'), name)
+
+    def test_bridge_named_seven_springs_is_not_a_spring(self):
+        self.assertEqual(poi.classify('پل هفت‌چشمه', 'جاذبه‌ها'), 'poi_heritage')
+
+    def test_bird_garden_is_recreation(self):
+        self.assertEqual(poi.classify('باغ پرندگان اصفهان', 'جاذبه‌ها'), 'poi_recreation')
+
+    def test_other_province_is_rejected(self):
+        p = page('{{جعبه اطلاعات مکان\n| استان = خوزستان\n}}', 'پل نمونه')
+        with mock.patch.object(poi.registry, 'provinces', return_value={'ardabil':'اردبیل', 'khuzestan':'خوزستان'}):
+            self.assertEqual(poi.target_location_conflicts(p, 'اردبیل', 'اردبیل'),
+                             'explicitly different province')
+
+    def test_lead_county_location_conflict_is_rejected(self):
+        p = page('این پل در [[شهرستان اندیمشک]] واقع شده است.', 'پل نمونه')
+        with mock.patch.object(poi.registry, 'counties', return_value=[{'name':'اردبیل'},{'name':'اندیمشک'}]):
+            self.assertEqual(poi.target_location_conflicts(p, 'اردبیل'),
+                             'lead locates target in another county')
+
+    def test_known_center_city_in_other_county_is_rejected(self):
+        p = page('{{مکان\n| شهر = سلطانیه\n}}', 'گنبد نمونه')
+        seats={poi.registry.normalize_fa('سلطانیه'):{poi.registry.normalize_fa('سلطانیه')}}
+        self.assertEqual(poi.target_location_conflicts(p, 'زنجان', seats=seats),
+                         'explicit city in another county')
+
     def test_redirect_aliases_are_deduplicated_by_page_id(self):
         entries = [self.candidate('مسجد قدیم'), self.candidate('مسجد نام تازه')]
         target = page('یک مسجد', 'مسجد نام تازه')
@@ -130,6 +162,14 @@ class TargetValidationTests(unittest.TestCase):
         self.assertEqual(accepted[0]['name'], 'مسجد نام تازه')
         self.assertEqual(accepted[0]['target_revision_id'], 456)
         self.assertEqual(rejected, [])
+
+    def test_disambiguation_target_is_not_exported(self):
+        target = page('صفحهٔ ابهام‌زدایی', 'قلعه نمونه')
+        target['disambiguation'] = True
+        accepted, rejected = poi.validate_targets([self.candidate('قلعه نمونه')],
+                                                  {'قلعه نمونه': target}, 'نمونه')
+        self.assertEqual(accepted, [])
+        self.assertEqual(rejected[0]['reason'], 'disambiguation page')
 
     def test_missing_target_is_not_exported(self):
         accepted, rejected = poi.validate_targets([self.candidate('قلعه ناموجود')], {}, 'نمونه')

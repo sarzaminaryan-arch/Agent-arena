@@ -12,6 +12,7 @@ not a claim that every attraction or administrative boundary has been verified.
 """
 import argparse
 import datetime
+import functools
 import json
 import os
 import re
@@ -39,7 +40,8 @@ NATURE = ('آبشار', 'غار', 'تنگه', 'دریاچه', 'تالاب', 'ج�
           'گنبد نمکی', 'سراب', 'مرداب', 'خلیج', 'جزیره', 'ساحل', 'سد ', 'پارک ملی',
           'منطقه حفاظت', 'پناهگاه حیات وحش')
 RECREATION = ('پارک', 'بوستان', 'تله کابین', 'پیست', 'شهربازی', 'مجموعه تفریحی',
-              'مرکز خرید', 'باغ وحش', 'پارک آبی', 'سینما', 'مجتمع تفریحی')
+              'مرکز خرید', 'باغ وحش', 'پارک آبی', 'سینما', 'مجتمع تفریحی',
+              'باغ پرندگان', 'باغ خزندگان', 'باغ گیاه شناسی', 'باغ گیاهشناسی')
 HERITAGE = ('مسجد', 'امامزاده', 'امام زاده', 'قلعه', 'ارگ', 'کاروانسرا', 'حمام',
             'بازار', 'تیمچه', 'خانه ', 'عمارت', 'کاخ', 'برج ', 'مناره', 'مقبره',
             'آرامگاه', 'آتشکده', 'پل ', 'محوطه', 'کلیسا', 'بقعه', 'حرم', 'موزه',
@@ -50,12 +52,24 @@ GENERIC = {'ایران', 'گردشگری', 'طبیعت', 'مسجد', 'موزه',
            'تاریخ', 'آثار تاریخی', 'جاذبه های گردشگری', 'تفریح', 'زیارت',
            'بازار', 'کاروانسرا', 'امامزاده', 'امام زاده', 'آرامگاه', 'قلعه',
            'پارک جنگلی', 'دریاچه سد', 'آب انبار', 'پل', 'قنات', 'ساحل', 'جزیره',
-           'تالاب', 'حسینیه', 'خانه تاریخی', 'باغ', 'بوستان', 'پیست اسکی'}
+           'تالاب', 'حسینیه', 'خانه تاریخی', 'باغ', 'بوستان', 'پیست اسکی',
+           'سینما', 'شهربازی', 'باغ وحش', 'پارک آبی', 'مرکز خرید', 'پیست',
+           'تله کابین', 'منطقه حفاظت شده', 'پناهگاه حیات وحش', 'آبگرم',
+           'آب گرم', 'سراب', 'گورستان', 'مناره', 'حمام', 'عمارت', 'کاخ',
+           'کلیسا', 'آتشکده', 'برج', 'دیر', 'خلیج', 'قله', 'چشمه', 'رودخانه',
+           'دره', 'کویر', 'بیابان', 'تنگه', 'سد', 'گنبد نمکی', 'مرداب', 'سنگ نگاره'}
 
 
 def normal(text):
     text = str(text or '').replace('\u200c', ' ').replace('ي', 'ی').replace('ك', 'ک')
     return re.sub(r'\s+', ' ', text).strip()
+
+
+# Bare type names are concepts, not county-specific landmarks. These six names
+# are actual named heritage sites, not type keywords.
+_PROPER_HERITAGE = {'تخت جمشید', 'تخت سلیمان', 'طاق بستان', 'نقش رستم', 'هگمتانه', 'چغازنبیل'}
+GENERIC.update(normal(k.strip()) for group in (NATURE, RECREATION, HERITAGE)
+               for k in group if k.strip() not in _PROPER_HERITAGE)
 
 
 def page_url(title):
@@ -77,7 +91,8 @@ def decode_pages(data, requested):
         if not isinstance(wt, str) or not p.get('pageid') or not rev.get('revid'):
             continue
         pages[p['title']] = {'title': p['title'], 'text': wt, 'pageid': p['pageid'],
-                             'revid': rev['revid'], 'url': page_url(p['title'])}
+                             'revid': rev['revid'], 'url': page_url(p['title']),
+                             'disambiguation': 'disambiguation' in p.get('pageprops', {})}
     aliases = {}
     for group in ('normalized', 'redirects', 'converted'):
         aliases.update({a['from']: a['to'] for a in query.get(group, [])})
@@ -97,7 +112,8 @@ def fetch_pages(titles, sleep=1.0):
     titles = sorted(set(t for t in titles if t))
     for start in range(0, len(titles), 20):
         chunk = titles[start:start + 20]
-        params = {'action': 'query', 'prop': 'revisions', 'rvprop': 'ids|content',
+        params = {'action': 'query', 'prop': 'revisions|pageprops', 'ppprop': 'disambiguation',
+                  'rvprop': 'ids|content',
                   'rvslots': 'main', 'format': 'json', 'formatversion': '2',
                   'redirects': '1', 'maxlag': '5', 'titles': '|'.join(chunk)}
         url = API + '?' + urllib.parse.urlencode(params)
@@ -146,6 +162,8 @@ def classify(name, section):
         return 'poi_nature'
     if any(k in name for k in RECREATION):
         return 'poi_recreation'
+    if name.startswith(('پل ', 'پلهای ', 'پل های ')):
+        return 'poi_heritage'
     if any(k in name for k in NATURE):
         return 'poi_nature'
     if any(k in name for k in HERITAGE):
@@ -187,7 +205,7 @@ def extract_candidates(page, location):
             if (':' in title or '|' in title or not 4 <= len(title) <= 100 or
                     title.startswith(('شهرستان ', 'استان ', 'بخش ', 'دهستان '))):
                 continue
-            name = re.sub(r'\s*\([^)]*\)\s*$', '', title).strip()
+            name = title
             if normal(name) in GENERIC:
                 continue
             field = classify(name, section)
@@ -221,7 +239,51 @@ def city_belongs_to_county(page, county_name):
     return bool(re.search(re.escape(needle) + r'(?=[ ،.؛]|$)', plain))
 
 
-def validate_targets(candidates, pages, county_name):
+@functools.lru_cache(maxsize=8)
+def location_patterns(prefix, names):
+    return [(name, re.compile(re.escape(prefix) + r'\s*' +
+             re.escape(normal(name)).replace(r'\ ', r'\s*') + r'(?=$|[\s،.؛:])'))
+            for name in sorted(names, key=len, reverse=True)]
+
+
+def location_mentions(text, prefix, names):
+    if prefix not in text:
+        return set()
+    return {name for name, pattern in location_patterns(prefix, tuple(names)) if pattern.search(text)}
+
+
+def target_location_conflicts(target, county_name, province_name=None, seats=None):
+    """Reject explicit conflicting county/province/city evidence, not infer new borders."""
+    lead = target['text'].split('\n==', 1)[0][:12000]
+    fields = infobox_fields(lead)
+    wanted = registry.normalize_fa(county_name)
+    for key, value in fields.items():
+        key = normal(key)
+        value = strip_markup(value)
+        if key in ('شهرستان', 'نام شهرستان', 'county'):
+            if registry.normalize_fa(value) != wanted:
+                return 'explicitly different county'
+        elif key in ('استان', 'نام استان', 'province') and province_name:
+            found = registry.normalize_fa(value.replace('استان', ''))
+            valid = {registry.normalize_fa(n) for n in registry.provinces().values()}
+            if found in valid and found != registry.normalize_fa(province_name):
+                return 'explicitly different province'
+        elif key in ('شهر', 'نام شهر', 'city') and seats:
+            owners = seats.get(registry.normalize_fa(value))
+            if owners and wanted not in owners:
+                return 'explicit city in another county'
+    plain = normal(strip_markup(lead))[:4000]
+    counties = location_mentions(plain, 'شهرستان', tuple(r['name'] for r in registry.counties()))
+    if counties and wanted not in {registry.normalize_fa(n) for n in counties}:
+        return 'lead locates target in another county'
+    if province_name:
+        provinces = location_mentions(plain, 'استان', tuple(registry.provinces().values()))
+        if provinces and registry.normalize_fa(province_name) not in {registry.normalize_fa(n) for n in provinces}:
+            return 'lead locates target in another province'
+    return None
+
+
+def validate_targets(candidates, pages, county_name, province_name=None, seats=None):
     """Require an existing target article, deduplicate redirects, reject wrong counties."""
     accepted, rejected, seen = [], [], set()
     for original in candidates:
@@ -229,20 +291,24 @@ def validate_targets(candidates, pages, county_name):
         if not target:
             rejected.append({'name': original['name'], 'reason': 'target page missing'})
             continue
-        name = re.sub(r'\s*\([^)]*\)\s*$', '', target['title']).strip()
+        if target.get('disambiguation'):
+            rejected.append({'name': original['name'], 'reason': 'disambiguation page'})
+            continue
+        name = target['title'].strip()
         field = classify(name, original['section'])
         if not field:
             rejected.append({'name': original['name'], 'reason': 'generic or untyped target'})
             continue
-        lead = target['text'].split('\n==', 1)[0][:12000]
-        wrong_county = False
-        for key, value in infobox_fields(lead).items():
-            if normal(key) in ('شهرستان', 'نام شهرستان', 'county'):
-                wrong_county = registry.normalize_fa(strip_markup(value)) != registry.normalize_fa(county_name)
-                break
-        if wrong_county:
-            rejected.append({'name': name, 'reason': 'explicitly different county'})
+        conflict = target_location_conflicts(target, county_name, province_name, seats)
+        if conflict:
+            rejected.append({'name': name, 'reason': conflict})
             continue
+        # The title "garden" alone does not distinguish an old garden from a
+        # municipal park. Use an explicit park/boستان description when present.
+        if field == 'poi_heritage' and 'باغ' in normal(name):
+            lead = normal(strip_markup(target['text'].split('\n==', 1)[0]))[:1200]
+            if any(k in lead for k in ('از پارک', 'یک پارک', 'بوستان', 'جعبه اطلاعات پارک')):
+                field = 'poi_recreation'
         identity = (field, target['pageid'])
         if identity in seen:
             continue
@@ -343,11 +409,21 @@ def harvest(rows, sleep=1.0, refresh_drafts=False):
         raw[slug] = {'county': row['name'], 'province': row['province'], 'sources': sources,
                      'fetched': today, 'candidates': candidates,
                      'center_confirmed': bool(city and slug not in rejected_centers)}
+    seats = {}
+    for county_row in registry.counties():
+        path = os.path.join(registry.FACTS_DIR, county_row['slug'] + '.json')
+        if not os.path.isfile(path):
+            continue
+        with open(path, encoding='utf-8') as fh:
+            center = json.load(fh).get('fields', {}).get('center') or {}
+        if center.get('value') and center.get('url'):
+            seats.setdefault(registry.normalize_fa(center['value']), set()).add(registry.normalize_fa(county_row['name']))
     target_titles = [e['target_title'] for record in raw.values() for e in record['candidates']]
     target_pages = fetch_pages(target_titles, sleep)
     for row in rows:
         slug = row['slug']
-        accepted, rejected = validate_targets(raw[slug]['candidates'], target_pages, row['name'])
+        accepted, rejected = validate_targets(raw[slug]['candidates'], target_pages, row['name'],
+                                               registry.provinces().get(row['province']), seats)
         raw[slug]['candidates'] = accepted
         raw[slug]['rejected_candidates'] = rejected
         added = fill_empty_fields(docs[slug], accepted, today, refresh_drafts=refresh_drafts)
