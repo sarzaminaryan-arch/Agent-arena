@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """Pass 4: sourced attraction lists from county articles and confirmed county seats.
 
-Only EMPTY poi_* fields are filled. Statistics, existing lists and manual/verified
-fields are never changed. Unclassified links are NOT labelled "offbeat". Every new
+Only EMPTY poi_* fields from before this pass are filled. Statistics and manual/
+verified fields never change. Explicit refresh may correct this pass's own drafts. Unclassified links are NOT labelled "offbeat". Every new
 name retains its source page/revision/section; these are sourced editorial drafts,
 not a claim that every attraction or administrative boundary has been verified.
 
@@ -285,6 +285,32 @@ def target_location_conflicts(target, county_name, province_name=None, seats=Non
     return None
 
 
+def target_location_support(target, county_name, seats=None):
+    """Require corroboration in the target, not just a list on a city article."""
+    lead = target['text'].split('\n==', 1)[0][:12000]
+    wanted = registry.normalize_fa(county_name)
+    for key, value in infobox_fields(lead).items():
+        key = normal(key)
+        value = registry.normalize_fa(strip_markup(value))
+        if key in ('شهرستان', 'نام شهرستان', 'county') and value == wanted:
+            return 'target infobox names this county'
+        if key in ('شهر', 'نام شهر', 'city') and seats and wanted in seats.get(value, set()):
+            return 'target city is a confirmed seat of this county'
+    plain = normal(strip_markup(lead))[:4000]
+    if location_mentions(plain, 'شهرستان', (county_name,)):
+        return 'target lead names this county'
+    if seats:
+        # "Near another city's road" is NOT enough. We accept an explicit "in
+        # city" clause for our confirmed seat; everything else stays review-only.
+        for name, owners in seats.items():
+            if wanted not in owners:
+                continue
+            spelling = r'\s*'.join(re.escape(ch) for ch in name)
+            if re.search(r'(?:در\s+(?:شهر\s+)?|شهر\s+)' + spelling + r'(?=$|[\s،.؛:])', plain):
+                return 'target lead explicitly locates it in this county seat'
+    return None
+
+
 def validate_targets(candidates, pages, county_name, province_name=None, seats=None):
     """Require an existing target article, deduplicate redirects, reject wrong counties."""
     accepted, rejected, seen = [], [], set()
@@ -305,6 +331,10 @@ def validate_targets(candidates, pages, county_name, province_name=None, seats=N
         if conflict:
             rejected.append({'name': name, 'reason': conflict})
             continue
+        support = target_location_support(target, county_name, seats)
+        if not support:
+            rejected.append({'name': name, 'reason': 'county placement needs manual corroboration'})
+            continue
         # The title "garden" alone does not distinguish an old garden from a
         # municipal park. Use an explicit park/boستان description when present.
         if field == 'poi_heritage' and 'باغ' in normal(name):
@@ -318,7 +348,7 @@ def validate_targets(candidates, pages, county_name, province_name=None, seats=N
         entry = dict(original)
         entry.update({'name': name, 'field': field, 'target_title': target['title'],
                       'target_url': target['url'], 'target_pageid': target['pageid'],
-                      'target_revision_id': target['revid']})
+                      'target_revision_id': target['revid'], 'target_location_evidence': support})
         accepted.append(entry)
     return accepted, rejected
 
@@ -451,7 +481,7 @@ def harvest(rows, sleep=1.0, refresh_drafts=False):
               (today, len(rows), len(completed)),
               'مقالهٔ شهرستان دریافت‌شده: %d · مقالهٔ مرکز دریافت‌شده: %d.' %
               (len(county_pages), len(city_pages)),
-              'صفحهٔ مقصد جاذبهٔ دریافت‌شده: %d؛ نام‌های عمومی/ناموجود/خارج از شهرستان کنار گذاشته شدند و ریدایرکت‌های تکراری ادغام شدند.' % len(target_pages), '',
+              'صفحهٔ مقصد جاذبهٔ دریافت‌شده: %d؛ نام‌های عمومی/ناموجود/دارای تعارض مکانی یا فاقد تأیید شهرستان کنار گذاشته شدند و ریدایرکت‌های تکراری ادغام شدند.' % len(target_pages), '',
               'فقط خانه‌های خالی جاذبهٔ مرحلهٔ قبلی پر شدند؛ بازبینی این بسته فقط پیش‌نویس‌های تولیدشدهٔ خودش را تصحیح کرد. آمار، فهرست‌های قبلی و داده‌های دستی تغییر نکردند.',
               'این فهرست‌ها پیش‌نویس منبع‌دارند؛ صحت نهاییِ موقعیت، دسته‌بندی، فاصله و توضیح نیاز به بازبینی دارد.', '',
               '| بخش | قبل | بعد | خانهٔ تازه |', '|---|---:|---:|---:|']

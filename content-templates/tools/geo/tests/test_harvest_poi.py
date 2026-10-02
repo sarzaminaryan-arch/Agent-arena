@@ -161,7 +161,7 @@ class TargetValidationTests(unittest.TestCase):
 
     def test_redirect_aliases_are_deduplicated_by_page_id(self):
         entries = [self.candidate('مسجد قدیم'), self.candidate('مسجد نام تازه')]
-        target = page('یک مسجد', 'مسجد نام تازه')
+        target = page('مسجدی در [[شهرستان نمونه]] است.', 'مسجد نام تازه')
         accepted, rejected = poi.validate_targets(entries,
             {'مسجد قدیم': target, 'مسجد نام تازه': target}, 'نمونه')
         self.assertEqual(len(accepted), 1)
@@ -176,6 +176,30 @@ class TargetValidationTests(unittest.TestCase):
                                                   {'قلعه نمونه': target}, 'نمونه')
         self.assertEqual(accepted, [])
         self.assertEqual(rejected[0]['reason'], 'disambiguation page')
+
+    def test_list_alone_is_not_county_placement_proof(self):
+        target = page('این پل در ۱۰ کیلومتری اندیمشک است.', 'پل نمونه')
+        accepted, rejected = poi.validate_targets([self.candidate('پل نمونه')],
+                                                  {'پل نمونه': target}, 'اردبیل')
+        self.assertEqual(accepted, [])
+        self.assertEqual(rejected[0]['reason'], 'county placement needs manual corroboration')
+
+    def test_explicit_matching_county_corroborates_target(self):
+        target = page('{{مکان\n| شهرستان = نمونه\n}}', 'قلعه نمونه')
+        accepted, _ = poi.validate_targets([self.candidate('قلعه نمونه')],
+                                           {'قلعه نمونه': target}, 'نمونه')
+        self.assertEqual(len(accepted), 1)
+        self.assertIn('county', accepted[0]['target_location_evidence'])
+
+    def test_target_in_confirmed_seat_is_supported(self):
+        target = page('این بنا در شهر زنجان واقع شده است.', 'قلعه نمونه')
+        seats={poi.registry.normalize_fa('زنجان'):{poi.registry.normalize_fa('زنجان')}}
+        self.assertTrue(poi.target_location_support(target, 'زنجان', seats))
+
+    def test_target_city_in_plain_lead_is_supported(self):
+        target = page('این قلعه از آثار تاریخی شهر زنجان است.', 'قلعه نمونه')
+        seats={poi.registry.normalize_fa('زنجان'):{poi.registry.normalize_fa('زنجان')}}
+        self.assertTrue(poi.target_location_support(target, 'زنجان', seats))
 
     def test_missing_target_is_not_exported(self):
         accepted, rejected = poi.validate_targets([self.candidate('قلعه ناموجود')], {}, 'نمونه')
