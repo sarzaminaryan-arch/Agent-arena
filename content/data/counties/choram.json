@@ -146,18 +146,10 @@
      "section": "پیشینه / آثار تاریخی",
      "source_title": "چرام",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-     "target_title": "قلعه شهرک چرام"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کتیبه تنگ پیرزال",
-     "pageid": 141785,
-     "revision_id": 44435150,
-     "section": "پیشینه / آثار تاریخی",
-     "source_title": "چرام",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-     "target_title": "کتیبه تنگ پیرزال"
+     "target_pageid": 661602,
+     "target_revision_id": 44304492,
+     "target_title": "قلعه شهرک چرام",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B4%D9%87%D8%B1%DA%A9_%DA%86%D8%B1%D8%A7%D9%85"
     }
    ],
    "fetched": "2026-10-02",
@@ -165,31 +157,23 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-   "value": "قلعه شهرک چرام\nکتیبه تنگ پیرزال"
+   "value": "قلعه شهرک چرام"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ چشمه بلقیس و برج تاریخی",
+     "name": "چشمه بلقیس چرام",
      "pageid": 141785,
      "revision_id": 44435150,
      "section": "پیشینه / آثار تاریخی",
      "source_title": "چرام",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-     "target_title": "باغ چشمه بلقیس و برج تاریخی"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چشمه بلقیس چرام",
-     "pageid": 141785,
-     "revision_id": 44435150,
-     "section": "جاذبه های گردشگری",
-     "source_title": "چرام",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-     "target_title": "چشمه بلقیس چرام"
+     "target_pageid": 1102282,
+     "target_revision_id": 44435878,
+     "target_title": "چشمه بلقیس چرام",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A8%D9%84%D9%82%DB%8C%D8%B3_%DA%86%D8%B1%D8%A7%D9%85"
     }
    ],
    "fetched": "2026-10-02",
@@ -197,7 +181,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-   "value": "باغ چشمه بلقیس و برج تاریخی\nچشمه بلقیس چرام"
+   "value": "چشمه بلقیس چرام"
   },
   "population": {
    "fetched": "2026-10-02",

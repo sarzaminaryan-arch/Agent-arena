@@ -151,7 +151,10 @@
      "section": "گردشگری",
      "source_title": "فیروزآباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-     "target_title": "کاخ اردشیر بابکان"
+     "target_pageid": 110544,
+     "target_revision_id": 44095640,
+     "target_title": "کاخ اردشیر بابکان",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%D8%A7%D8%B1%D8%AF%D8%B4%DB%8C%D8%B1_%D8%A8%D8%A7%D8%A8%DA%A9%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -162,18 +165,24 @@
      "section": "گردشگری",
      "source_title": "فیروزآباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-     "target_title": "قلعه دختر (فیروزآباد)"
+     "target_pageid": 110545,
+     "target_revision_id": 44304267,
+     "target_title": "قلعه دختر (فیروزآباد)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%28%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF%29"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سنگ‌نگاره پادشاهی اردشیر بابکان",
+     "name": "سنگ‌نگاره تاجگذاری اردشیر بابکان",
      "pageid": 5616,
      "revision_id": 44422300,
      "section": "گردشگری",
      "source_title": "فیروزآباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-     "target_title": "سنگ‌نگاره پادشاهی اردشیر بابکان"
+     "target_pageid": 4661892,
+     "target_revision_id": 44226662,
+     "target_title": "سنگ‌نگاره تاجگذاری اردشیر بابکان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D8%AA%D8%A7%D8%AC%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B1%D8%AF%D8%B4%DB%8C%D8%B1_%D8%A8%D8%A7%D8%A8%DA%A9%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -184,7 +193,10 @@
      "section": "گردشگری",
      "source_title": "فیروزآباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-     "target_title": "سنگ‌نگاره پیروزی اردشیر بابکان"
+     "target_pageid": 329063,
+     "target_revision_id": 44226684,
+     "target_title": "سنگ‌نگاره پیروزی اردشیر بابکان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C_%D8%A7%D8%B1%D8%AF%D8%B4%DB%8C%D8%B1_%D8%A8%D8%A7%D8%A8%DA%A9%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -192,7 +204,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-   "value": "کاخ اردشیر بابکان\nقلعه دختر\nسنگ‌نگاره پادشاهی اردشیر بابکان\nسنگ‌نگاره پیروزی اردشیر بابکان"
+   "value": "کاخ اردشیر بابکان\nقلعه دختر\nسنگ‌نگاره تاجگذاری اردشیر بابکان\nسنگ‌نگاره پیروزی اردشیر بابکان"
   },
   "poi_nature": {
    "entries": [
@@ -205,7 +217,24 @@
      "section": "گردشگری",
      "source_title": "فیروزآباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-     "target_title": "چشمه حنیفقان"
+     "target_pageid": 740997,
+     "target_revision_id": 26182690,
+     "target_title": "چشمه حنیفقان",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%AD%D9%86%DB%8C%D9%81%D9%82%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد تنگاب",
+     "pageid": 5616,
+     "revision_id": 44422300,
+     "section": "گردشگری",
+     "source_title": "فیروزآباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+     "target_pageid": 395589,
+     "target_revision_id": 40936654,
+     "target_title": "سد تنگاب",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AA%D9%86%DA%AF%D8%A7%D8%A8"
     }
    ],
    "fetched": "2026-10-02",
@@ -213,7 +242,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
-   "value": "چشمه حنیفقان"
+   "value": "چشمه حنیفقان\nسد تنگاب"
   },
   "population": {
    "fetched": "2026-10-02",

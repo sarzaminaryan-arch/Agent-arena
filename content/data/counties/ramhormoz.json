@@ -142,24 +142,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه داودختر",
-     "pageid": 26891,
-     "revision_id": 44445595,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامهرمز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "قلعه داودختر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "قلعه امیر مجاهد",
      "pageid": 26891,
      "revision_id": 44445595,
      "section": "جاذبه های گردشگری",
      "source_title": "رامهرمز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "قلعه امیر مجاهد"
+     "target_pageid": 939959,
+     "target_revision_id": 28662641,
+     "target_title": "قلعه امیر مجاهد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A7%D9%85%DB%8C%D8%B1_%D9%85%D8%AC%D8%A7%D9%87%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -170,7 +162,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "رامهرمز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "قلعه یزدگرد (رامهرمز)"
+     "target_pageid": 1883207,
+     "target_revision_id": 44305074,
+     "target_title": "قلعه یزدگرد (رامهرمز)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DB%8C%D8%B2%D8%AF%DA%AF%D8%B1%D8%AF_%28%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2%29"
     },
     {
      "field": "poi_heritage",
@@ -181,29 +176,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "رامهرمز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "عمارت صمیمی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "روستای زیبای چم هاشم قلعه دهقان",
-     "pageid": 26891,
-     "revision_id": 44445595,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامهرمز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "روستای زیبای چم هاشم قلعه دهقان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه ایران باستان",
-     "pageid": 26891,
-     "revision_id": 44445595,
-     "section": "جاذبه های گردشگری / گنجینه جوبجی",
-     "source_title": "رامهرمز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "موزه ایران باستان"
+     "target_pageid": 922983,
+     "target_revision_id": 27466751,
+     "target_title": "عمارت صمیمی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B5%D9%85%DB%8C%D9%85%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -211,32 +187,10 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-   "value": "قلعه داودختر\nقلعه امیر مجاهد\nقلعه یزدگرد\nعمارت صمیمی\nروستای زیبای چم هاشم قلعه دهقان\nموزه ایران باستان"
+   "value": "قلعه امیر مجاهد\nقلعه یزدگرد\nعمارت صمیمی"
   },
   "poi_nature": {
    "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار صیدون کبوتری",
-     "pageid": 26891,
-     "revision_id": 44445595,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامهرمز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "غار صیدون کبوتری"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تشکوه رامهرمز",
-     "pageid": 26891,
-     "revision_id": 44445595,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامهرمز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "تشکوه رامهرمز"
-    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -246,18 +200,24 @@
      "section": "جاذبه های گردشگری",
      "source_title": "رامهرمز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "چشمه‌های قیر ماماتین (خون اژدها)"
+     "target_pageid": 923322,
+     "target_revision_id": 44432719,
+     "target_title": "چشمه‌های قیر ماماتین",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%82%DB%8C%D8%B1_%D9%85%D8%A7%D9%85%D8%A7%D8%AA%DB%8C%D9%86"
     },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "منطقه حفاظت شده",
+     "name": "منطقه حفاظت‌شده",
      "pageid": 26891,
      "revision_id": 44445595,
      "section": "جاذبه های گردشگری / حیات وحش و زیستگاها",
      "source_title": "رامهرمز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-     "target_title": "منطقه حفاظت شده"
+     "target_pageid": 457177,
+     "target_revision_id": 41813235,
+     "target_title": "منطقه حفاظت‌شده",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -265,7 +225,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2",
-   "value": "غار صیدون کبوتری\nتشکوه رامهرمز\nچشمه‌های قیر ماماتین\nمنطقه حفاظت شده"
+   "value": "چشمه‌های قیر ماماتین\nمنطقه حفاظت‌شده"
   },
   "population": {
    "fetched": "2026-10-02",

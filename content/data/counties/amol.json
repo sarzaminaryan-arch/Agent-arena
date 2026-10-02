@@ -173,24 +173,30 @@
     {
      "field": "poi_recreation",
      "location_evidence": "county tourism section",
+     "name": "بوستان جنگلی میرزا کوچک‌خان",
+     "pageid": 13679,
+     "revision_id": 43580063,
+     "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
+     "source_title": "شهرستان آمل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
+     "target_pageid": 220768,
+     "target_revision_id": 43844720,
+     "target_title": "بوستان جنگلی میرزا کوچک‌خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7_%DA%A9%D9%88%DA%86%DA%A9%E2%80%8C%D8%AE%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
      "name": "پارک دهکده طلایی",
      "pageid": 13679,
      "revision_id": 43580063,
      "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
      "source_title": "شهرستان آمل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-     "target_title": "پارک دهکده طلایی"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک مینیاتوری آمل",
-     "pageid": 3874,
-     "revision_id": 44590110,
-     "section": "اماکن تفریحی و خدماتی / پارک ها",
-     "source_title": "آمل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D9%84",
-     "target_title": "پارک مینیاتوری آمل"
+     "target_pageid": 958516,
+     "target_revision_id": 36754617,
+     "target_title": "پارک دهکده طلایی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%AF%D9%87%DA%A9%D8%AF%D9%87_%D8%B7%D9%84%D8%A7%DB%8C%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -198,7 +204,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
-   "value": "پارک دهکده طلایی\nپارک مینیاتوری آمل"
+   "value": "بوستان جنگلی میرزا کوچک‌خان\nپارک دهکده طلایی"
   },
   "population": {
    "fetched": "2026-10-02",

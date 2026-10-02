@@ -139,7 +139,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "بازار اراک"
+     "target_pageid": 236366,
+     "target_revision_id": 43929108,
+     "target_title": "بازار اراک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D8%B1%D8%A7%DA%A9"
     },
     {
      "field": "poi_heritage",
@@ -150,7 +153,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "حمام چهارفصل"
+     "target_pageid": 657206,
+     "target_revision_id": 44150868,
+     "target_title": "حمام چهارفصل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%DA%86%D9%87%D8%A7%D8%B1%D9%81%D8%B5%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -161,7 +167,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "خانه حسن‌پور"
+     "target_pageid": 1265872,
+     "target_revision_id": 43929106,
+     "target_title": "خانه حسن‌پور",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%B3%D9%86%E2%80%8C%D9%BE%D9%88%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -172,7 +181,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "برج شیشه اراک"
+     "target_pageid": 1237047,
+     "target_revision_id": 44076512,
+     "target_title": "برج شیشه اراک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%B4%DB%8C%D8%B4%D9%87_%D8%A7%D8%B1%D8%A7%DA%A9"
     },
     {
      "field": "poi_heritage",
@@ -183,7 +195,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "قلعه حاج وکیل"
+     "target_pageid": 657606,
+     "target_revision_id": 44304180,
+     "target_title": "قلعه حاج وکیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AD%D8%A7%D8%AC_%D9%88%DA%A9%DB%8C%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -194,18 +209,24 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "ارگ حکومتی اراک"
+     "target_pageid": 1518114,
+     "target_revision_id": 43929099,
+     "target_title": "ارگ حکومتی اراک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%D8%AD%DA%A9%D9%88%D9%85%D8%AA%DB%8C_%D8%A7%D8%B1%D8%A7%DA%A9"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای شاه عباسی",
+     "name": "کاروانسرای شاه‌عباسی",
      "pageid": 5967,
      "revision_id": 44609638,
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "کاروانسرای شاه عباسی"
+     "target_pageid": 739643,
+     "target_revision_id": 33754728,
+     "target_title": "کاروانسرای شاه‌عباسی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B4%D8%A7%D9%87%E2%80%8C%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -216,7 +237,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "خانه حاج‌آقا محسن اراکی"
+     "target_pageid": 674582,
+     "target_revision_id": 44154856,
+     "target_title": "خانه حاج‌آقا محسن اراکی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%A2%D9%82%D8%A7_%D9%85%D8%AD%D8%B3%D9%86_%D8%A7%D8%B1%D8%A7%DA%A9%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -227,7 +251,10 @@
      "section": "گردشگری / آثار تاریخی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "خانه حاج‌حسین خاکباز محسنی"
+     "target_pageid": 659055,
+     "target_revision_id": 44154857,
+     "target_title": "خانه حاج‌حسین خاکباز محسنی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%AD%D8%B3%DB%8C%D9%86_%D8%AE%D8%A7%DA%A9%D8%A8%D8%A7%D8%B2_%D9%85%D8%AD%D8%B3%D9%86%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -238,7 +265,10 @@
      "section": "گردشگری / جاذبه های مذهبی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "آرامگاه شاهزاده محمد عابد"
+     "target_pageid": 298139,
+     "target_revision_id": 44389641,
+     "target_title": "آرامگاه شاهزاده محمد عابد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D8%A7%D8%A8%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -249,18 +279,24 @@
      "section": "گردشگری / جاذبه های مذهبی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "امامزاده شاهزاده عبدالله و آمنه خاتون"
+     "target_pageid": 658233,
+     "target_revision_id": 43929161,
+     "target_title": "امامزاده شاهزاده عبدالله و آمنه خاتون",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D9%88_%D8%A2%D9%85%D9%86%D9%87_%D8%AE%D8%A7%D8%AA%D9%88%D9%86"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کلیسای مسروپ",
+     "name": "کلیسای مسروپ مقدس، اراک",
      "pageid": 5967,
      "revision_id": 44609638,
      "section": "گردشگری / جاذبه های مذهبی",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "کلیسای مسروپ"
+     "target_pageid": 659056,
+     "target_revision_id": 43929184,
+     "target_title": "کلیسای مسروپ مقدس، اراک",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D9%85%D8%B3%D8%B1%D9%88%D9%BE_%D9%85%D9%82%D8%AF%D8%B3%D8%8C_%D8%A7%D8%B1%D8%A7%DA%A9"
     }
    ],
    "fetched": "2026-10-02",
@@ -268,7 +304,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-   "value": "بازار اراک\nحمام چهارفصل\nخانه حسن‌پور\nبرج شیشه اراک\nقلعه حاج وکیل\nارگ حکومتی اراک\nکاروانسرای شاه عباسی\nخانه حاج‌آقا محسن اراکی\nخانه حاج‌حسین خاکباز محسنی\nآرامگاه شاهزاده محمد عابد\nامامزاده شاهزاده عبدالله و آمنه خاتون\nکلیسای مسروپ"
+   "value": "بازار اراک\nحمام چهارفصل\nخانه حسن‌پور\nبرج شیشه اراک\nقلعه حاج وکیل\nارگ حکومتی اراک\nکاروانسرای شاه‌عباسی\nخانه حاج‌آقا محسن اراکی\nخانه حاج‌حسین خاکباز محسنی\nآرامگاه شاهزاده محمد عابد\nامامزاده شاهزاده عبدالله و آمنه خاتون\nکلیسای مسروپ مقدس، اراک"
   },
   "poi_nature": {
    "fetched": "2026-10-02",
@@ -297,7 +333,10 @@
      "section": "مراکز تفریحی / پارک ها",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "شهربازی"
+     "target_pageid": 442335,
+     "target_revision_id": 43377222,
+     "target_title": "شهربازی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C"
     },
     {
      "field": "poi_recreation",
@@ -308,18 +347,24 @@
      "section": "مراکز تفریحی / پارک ها",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "پارک آبی"
+     "target_pageid": 442337,
+     "target_revision_id": 44367379,
+     "target_title": "پارک آبی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%A2%D8%A8%DB%8C"
     },
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ وحش",
+     "name": "باغ‌وحش",
      "pageid": 5967,
      "revision_id": 44609638,
      "section": "مراکز تفریحی / پارک ها",
      "source_title": "اراک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-     "target_title": "باغ وحش"
+     "target_pageid": 32487,
+     "target_revision_id": 42745967,
+     "target_title": "باغ‌وحش",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA%E2%80%8C%D9%88%D8%AD%D8%B4"
     }
    ],
    "fetched": "2026-10-02",
@@ -327,7 +372,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
-   "value": "شهربازی\nپارک آبی\nباغ وحش"
+   "value": "شهربازی\nپارک آبی\nباغ‌وحش"
   },
   "population": {
    "fetched": "2026-10-02",

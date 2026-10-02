@@ -155,7 +155,10 @@
      "section": "گردشگری جهانگردی",
      "source_title": "ایذه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-     "target_title": "قنات‌های راسوند"
+     "target_pageid": 676805,
+     "target_revision_id": 44305469,
+     "target_title": "قنات‌های راسوند",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B1%D8%A7%D8%B3%D9%88%D9%86%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -166,7 +169,10 @@
      "section": "گردشگری جهانگردی",
      "source_title": "ایذه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-     "target_title": "قلعه کژدم"
+     "target_pageid": 676773,
+     "target_revision_id": 44305008,
+     "target_title": "قلعه کژدم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%A9%DA%98%D8%AF%D9%85"
     }
    ],
    "fetched": "2026-10-02",
@@ -187,7 +193,24 @@
      "section": "گردشگری جهانگردی",
      "source_title": "ایذه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-     "target_title": "تالاب میانگران"
+     "target_pageid": 521070,
+     "target_revision_id": 43745416,
+     "target_title": "تالاب میانگران",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D9%85%DB%8C%D8%A7%D9%86%DA%AF%D8%B1%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد کارون ۳",
+     "pageid": 18806,
+     "revision_id": 44418096,
+     "section": "گردشگری جهانگردی",
+     "source_title": "ایذه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+     "target_pageid": 21390,
+     "target_revision_id": 44135735,
+     "target_title": "سد کارون ۳",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D8%A7%D8%B1%D9%88%D9%86_%DB%B3"
     },
     {
      "field": "poi_nature",
@@ -198,7 +221,10 @@
      "section": "گردشگری جهانگردی",
      "source_title": "ایذه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-     "target_title": "کوه منگشت"
+     "target_pageid": 5164582,
+     "target_revision_id": 40619938,
+     "target_title": "کوه منگشت",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%85%D9%86%DA%AF%D8%B4%D8%AA"
     }
    ],
    "fetched": "2026-10-02",
@@ -206,7 +232,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
-   "value": "تالاب میانگران\nکوه منگشت"
+   "value": "تالاب میانگران\nسد کارون ۳\nکوه منگشت"
   },
   "population": {
    "fetched": "2026-10-02",

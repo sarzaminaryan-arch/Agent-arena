@@ -123,6 +123,7 @@
   "sa_cty_poi_heritage": "منطقه حفاظت شده باغ شادی\nقلعه محمد کریم خان\nقلعه محمد باقری هرات\nقلعه هاشم‌آباد\nخانه دکتر صالحی\nخانه محمد ابراهیم صداقت\nمسجد هاشم‌آباد\nآرامگاه معروف به شیخ کله پریده",
   "sa_cty_poi_nature": "بوستان سرچشمه نهر مسیح",
   "sa_cty_poi_offbeat": "پناهگاه حیات وحش بروئیه\nقدمگاه",
+  "sa_cty_poi_recreation": "بوستان سرچشمه نهر مسیح",
   "sa_cty_population": 36562,
   "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.16667,54.33333"
@@ -142,7 +143,7 @@
   "sa_cty_language": "فارسی با گویش یزدی؛ گویش بهدینان در میان زرتشتیان",
   "sa_cty_livelihood": "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری",
   "sa_cty_neighbors": "khatam-city - جنوب\nbavanat - جنوب‌غرب\nmehriz-city - شمال‌شرق\nabarkuh-city - شمال‌غرب\nanar - شرق",
-  "sa_cty_poi_heritage": "قلعه مروست\nآرامگاه شیخ عبداله\nآرامگاه شیخ بهاءالدین\nکاروانسرای شعبه\nآرامگاه شریف السادات",
+  "sa_cty_poi_heritage": "قلعه مروست\nکاروانسرای شعبه\nآرامگاه شریف السادات",
   "sa_cty_poi_nature": "پناهگاه حیات وحش بروئیه",
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.65,54.2"
@@ -163,7 +164,7 @@
   "sa_cty_language": "فارسی با گویش یزدی؛ گویش بهدینان در میان زرتشتیان",
   "sa_cty_livelihood": "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری",
   "sa_cty_neighbors": "yazd-city - شمال\ntaft-city - شمال‌غرب\nmarvast-city - جنوب‌غرب\nanar - جنوب‌شرق\nbafq-city - شمال‌شرق",
-  "sa_cty_poi_heritage": "قنات حسن‌آباد مشیر\nباغ پهلوان‌پور\nخانه خوشنویس\nحمام استهریج\nقلعه سریزد\nقلعه خورمیز\nحمام قدیمی\nقلعه رباط\nمسجد جامع\nبرج دیده‌بانی\nکاروانسرای شاه",
+  "sa_cty_poi_heritage": "قنات حسن‌آباد مشیر\nباغ پهلوان‌پور\nخانه خوشنویس\nحمام استهریج\nقلعه سریزد\nقلعه خورمیز\nمسجد جامع\nبرج دیدبانی",
   "sa_cty_population": 51733,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.26667,54.5"
@@ -184,8 +185,7 @@
   "sa_cty_language": "فارسی با گویش یزدی؛ گویش بهدینان در میان زرتشتیان",
   "sa_cty_livelihood": "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری",
   "sa_cty_neighbors": "ardakan-city - شمال‌شرق\nashkezar-city - جنوب‌غرب\nyazd-city - جنوب‌شرق\nnain - شمال‌غرب",
-  "sa_cty_poi_heritage": "نارین قلعه\nکبوترخانه میبد\nکاروانسرای میبد\nچاپارخانه میبد\nمسجد جامع میبد و گنبد امام حسن\nمسجد جامع فیروزآباد\nمسجد جامع بفروئیه\nمسجد جامع ندوشن\nآرامگاه پیرچراغ\nامامزاده سیدصدرالدین قنبر\nامامزاده میر شمس الحق\nقلعه مهرجرد",
-  "sa_cty_poi_nature": "غار نباتی ندوشن",
+  "sa_cty_poi_heritage": "نارین قلعه\nکبوترخانه میبد\nکاروانسرای میبد\nچاپارخانه میبد\nمسجد جامع میبد و گنبد امام حسن\nمسجد جامع فیروزآباد\nمسجد جامع بفروئیه\nمسجد جامع ندوشن\nآرامگاه پیرچراغ\nقلعه مهرجرد\nقلعه بارجین\nخانه برونی",
   "sa_cty_population": 99727,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.16667,53.83333"
@@ -228,8 +228,7 @@
   "sa_cty_language": "فارسی با گویش یزدی؛ گویش بهدینان در میان زرتشتیان",
   "sa_cty_livelihood": "صنایع نساجی و کاشی، معدن، باغداری پسته و انار و گردشگری",
   "sa_cty_neighbors": "zarch-city - شمال\nmeybod-city - شمال‌غرب\ntaft-city - جنوب‌غرب\nmehriz-city - جنوب\nbafq-city - شرق",
-  "sa_cty_poi_heritage": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت سازی\nبازار افشار\nبازار محمد علی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد",
-  "sa_cty_poi_recreation": "بوستان",
+  "sa_cty_poi_heritage": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت‌سازی\nبازار افشار\nبازار محمدعلی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد",
   "sa_cty_population": 656474,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.88333,54.45"

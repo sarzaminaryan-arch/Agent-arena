@@ -139,40 +139,10 @@
      "section": "اماکن تاریخی / مساجد",
      "source_title": "مهاباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "مسجد جامع سرخ"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد دارالاحسان",
-     "pageid": 9103,
-     "revision_id": 44353754,
-     "section": "اماکن تاریخی / مساجد",
-     "source_title": "مهاباد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "مسجد دارالاحسان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد سید",
-     "pageid": 9103,
-     "revision_id": 44353754,
-     "section": "اماکن تاریخی / مساجد",
-     "source_title": "مهاباد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "مسجد سید"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد قاضی",
-     "pageid": 9103,
-     "revision_id": 44353754,
-     "section": "اماکن تاریخی / مساجد",
-     "source_title": "مهاباد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "مسجد قاضی"
+     "target_pageid": 656878,
+     "target_revision_id": 44343825,
+     "target_title": "مسجد جامع سرخ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B3%D8%B1%D8%AE"
     },
     {
      "field": "poi_heritage",
@@ -183,29 +153,10 @@
      "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
      "source_title": "مهاباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "باغ سیسه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ میکائیل",
-     "pageid": 9103,
-     "revision_id": 44353754,
-     "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
-     "source_title": "مهاباد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "باغ میکائیل"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ مکائیل",
-     "pageid": 9103,
-     "revision_id": 44353754,
-     "section": "اماکن گردشگری",
-     "source_title": "مهاباد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "باغ مکائیل"
+     "target_pageid": 232714,
+     "target_revision_id": 43177477,
+     "target_title": "باغ سیسه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%DB%8C%D8%B3%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -213,10 +164,24 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-   "value": "مسجد جامع سرخ\nمسجد دارالاحسان\nمسجد سید\nمسجد قاضی\nباغ سیسه\nباغ میکائیل\nباغ مکائیل"
+   "value": "مسجد جامع سرخ\nباغ سیسه"
   },
   "poi_nature": {
    "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد مهاباد",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن گردشگری",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_pageid": 399814,
+     "target_revision_id": 44219854,
+     "target_title": "سد مهاباد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF"
+    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -226,7 +191,10 @@
      "section": "اماکن گردشگری",
      "source_title": "مهاباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "غار سهولان"
+     "target_pageid": 22276,
+     "target_revision_id": 43123512,
+     "target_title": "غار سهولان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%D9%87%D9%88%D9%84%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -237,7 +205,10 @@
      "section": "اماکن گردشگری",
      "source_title": "مهاباد",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-     "target_title": "تالاب کانی برازان"
+     "target_pageid": 3501965,
+     "target_revision_id": 43922886,
+     "target_title": "تالاب کانی برازان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%DA%A9%D8%A7%D9%86%DB%8C_%D8%A8%D8%B1%D8%A7%D8%B2%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -245,7 +216,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
-   "value": "غار سهولان\nتالاب کانی برازان"
+   "value": "سد مهاباد\nغار سهولان\nتالاب کانی برازان"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",
@@ -254,6 +225,30 @@
    "status": "auto",
    "url": "",
    "value": "ایران\nمینوآ\nمادها\nفقرگاه"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان ملت",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_pageid": 655506,
+     "target_revision_id": 42762833,
+     "target_title": "بوستان ملت (مهاباد)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%AA_%28%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF%29"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+   "value": "بوستان ملت"
   },
   "population": {
    "fetched": "2026-10-02",

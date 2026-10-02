@@ -150,7 +150,10 @@
      "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
      "source_title": "شهرستان جوین",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-     "target_title": "شهر آق قلعه"
+     "target_pageid": 657824,
+     "target_revision_id": 44259480,
+     "target_title": "شهر آق قلعه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%A2%D9%82_%D9%82%D9%84%D8%B9%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -161,18 +164,24 @@
      "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
      "source_title": "شهرستان جوین",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-     "target_title": "آرامگاه هفت معصوم"
+     "target_pageid": 659659,
+     "target_revision_id": 38038441,
+     "target_title": "آرامگاه هفت معصوم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D9%87%D9%81%D8%AA_%D9%85%D8%B9%D8%B5%D9%88%D9%85"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "بقعه خواجه نجم‌الدین",
+     "name": "آرامگاه خواجه نجم‌الدین",
      "pageid": 298448,
      "revision_id": 44260577,
      "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
      "source_title": "شهرستان جوین",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-     "target_title": "بقعه خواجه نجم‌الدین"
+     "target_pageid": 657816,
+     "target_revision_id": 41369162,
+     "target_title": "آرامگاه خواجه نجم‌الدین",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D9%86%D8%AC%D9%85%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -180,20 +189,23 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-   "value": "شهر آق قلعه\nآرامگاه هفت معصوم\nبقعه خواجه نجم‌الدین"
+   "value": "شهر آق قلعه\nآرامگاه هفت معصوم\nآرامگاه خواجه نجم‌الدین"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "کوه‌های جغتای",
+     "name": "رشته‌کوه جغتای",
      "pageid": 298448,
      "revision_id": 44260577,
      "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
      "source_title": "شهرستان جوین",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-     "target_title": "کوه‌های جغتای"
+     "target_pageid": 3709331,
+     "target_revision_id": 44404417,
+     "target_title": "رشته‌کوه جغتای",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -201,7 +213,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-   "value": "کوه‌های جغتای"
+   "value": "رشته‌کوه جغتای"
   },
   "population": {
    "fetched": "2026-10-02",

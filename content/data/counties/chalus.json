@@ -142,7 +142,10 @@
      "section": "جاذبه های تاریخی، طبیعی و گردشگری",
      "source_title": "چالوس",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D9%84%D9%88%D8%B3",
-     "target_title": "کارخانه حریربافی چالوس"
+     "target_pageid": 6166115,
+     "target_revision_id": 39932275,
+     "target_title": "کارخانه حریربافی چالوس",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%B1%DB%8C%D8%B1%D8%A8%D8%A7%D9%81%DB%8C_%DA%86%D8%A7%D9%84%D9%88%D8%B3"
     }
    ],
    "fetched": "2026-10-02",
@@ -167,6 +170,30 @@
    "status": "auto",
    "url": "",
    "value": "منطقه نمونه گردشگری نمک‌آبرود\nفشکور"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان جنگلی ورگاویج",
+     "pageid": 139599,
+     "revision_id": 44592377,
+     "section": "جاذبه های تاریخی، طبیعی و گردشگری",
+     "source_title": "چالوس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D9%84%D9%88%D8%B3",
+     "target_pageid": 6387739,
+     "target_revision_id": 43844728,
+     "target_title": "بوستان جنگلی ورگاویج",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%88%D8%B1%DA%AF%D8%A7%D9%88%DB%8C%D8%AC"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D9%84%D9%88%D8%B3",
+   "value": "بوستان جنگلی ورگاویج"
   },
   "population": {
    "fetched": "2026-10-02",

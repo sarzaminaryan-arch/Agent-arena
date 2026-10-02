@@ -145,7 +145,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "هگمتانه"
+     "target_pageid": 16668,
+     "target_revision_id": 44603785,
+     "target_title": "هگمتانه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%87%DA%AF%D9%85%D8%AA%D8%A7%D9%86%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -156,29 +159,24 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "گورستان پارتی همدان"
+     "target_pageid": 859627,
+     "target_revision_id": 42202604,
+     "target_title": "گورستان پارتی همدان",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C_%D9%87%D9%85%D8%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کتیبه‌های گنج‌نامه",
+     "name": "آرامگاه خضر",
      "pageid": 2926,
      "revision_id": 44594221,
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "کتیبه‌های گنج‌نامه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بقعه خضر",
-     "pageid": 2926,
-     "revision_id": 44594221,
-     "section": "جاذبه های گردشگری / آثار تاریخی",
-     "source_title": "همدان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "بقعه خضر"
+     "target_pageid": 3933851,
+     "target_revision_id": 24726485,
+     "target_title": "آرامگاه خضر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D8%B6%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -189,7 +187,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "آرامگاه استر و مردخای"
+     "target_pageid": 16669,
+     "target_revision_id": 44213499,
+     "target_title": "آرامگاه استر و مردخای",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D8%B3%D8%AA%D8%B1_%D9%88_%D9%85%D8%B1%D8%AF%D8%AE%D8%A7%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -200,7 +201,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "برج قربان"
+     "target_pageid": 23994,
+     "target_revision_id": 43929417,
+     "target_title": "برج قربان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D9%82%D8%B1%D8%A8%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -211,7 +215,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "پل آبشینه"
+     "target_pageid": 641894,
+     "target_revision_id": 34586998,
+     "target_title": "پل آبشینه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A2%D8%A8%D8%B4%DB%8C%D9%86%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -222,7 +229,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "مسجد جامع همدان"
+     "target_pageid": 779886,
+     "target_revision_id": 44343905,
+     "target_title": "مسجد جامع همدان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%87%D9%85%D8%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -233,7 +243,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "بازار همدان"
+     "target_pageid": 20556,
+     "target_revision_id": 43929338,
+     "target_title": "بازار همدان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%87%D9%85%D8%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -244,7 +257,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "آرامگاه باباطاهر (همدان)"
+     "target_pageid": 657693,
+     "target_revision_id": 44055724,
+     "target_title": "آرامگاه باباطاهر (همدان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A8%D8%A7%D8%A8%D8%A7%D8%B7%D8%A7%D9%87%D8%B1_%28%D9%87%D9%85%D8%AF%D8%A7%D9%86%29"
     },
     {
      "field": "poi_heritage",
@@ -255,7 +271,10 @@
      "section": "جاذبه های گردشگری / آثار تاریخی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "آرامگاه بوعلی‌سینا"
+     "target_pageid": 414628,
+     "target_revision_id": 44283312,
+     "target_title": "آرامگاه بوعلی‌سینا",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A8%D9%88%D8%B9%D9%84%DB%8C%E2%80%8C%D8%B3%DB%8C%D9%86%D8%A7"
     },
     {
      "field": "poi_heritage",
@@ -266,7 +285,24 @@
      "section": "جاذبه های گردشگری / موزه ها",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "موزه تاریخ طبیعی همدان"
+     "target_pageid": 521199,
+     "target_revision_id": 43929412,
+     "target_title": "موزه تاریخ طبیعی همدان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C_%D9%87%D9%85%D8%AF%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه هگمتانه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / موزه ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_pageid": 844075,
+     "target_revision_id": 43929415,
+     "target_title": "موزه هگمتانه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%87%DA%AF%D9%85%D8%AA%D8%A7%D9%86%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -274,7 +310,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-   "value": "هگمتانه\nگورستان پارتی همدان\nکتیبه‌های گنج‌نامه\nبقعه خضر\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان"
+   "value": "هگمتانه\nگورستان پارتی همدان\nآرامگاه خضر\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان\nموزه هگمتانه"
   },
   "poi_nature": {
    "entries": [
@@ -287,7 +323,10 @@
      "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "دره مرادبیگ"
+     "target_pageid": 852156,
+     "target_revision_id": 44166223,
+     "target_title": "دره مرادبیگ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D9%85%D8%B1%D8%A7%D8%AF%D8%A8%DB%8C%DA%AF"
     },
     {
      "field": "poi_nature",
@@ -298,18 +337,10 @@
      "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "دره عباس‌آباد"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دره گنج‌نامه",
-     "pageid": 2926,
-     "revision_id": 44594221,
-     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
-     "source_title": "همدان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "دره گنج‌نامه"
+     "target_pageid": 853616,
+     "target_revision_id": 40586827,
+     "target_title": "دره عباس‌آباد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%B9%D8%A8%D8%A7%D8%B3%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
     },
     {
      "field": "poi_nature",
@@ -320,7 +351,10 @@
      "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "آبشار گنج‌نامه"
+     "target_pageid": 765643,
+     "target_revision_id": 42949057,
+     "target_title": "آبشار گنج‌نامه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%AF%D9%86%D8%AC%E2%80%8C%D9%86%D8%A7%D9%85%D9%87"
     },
     {
      "field": "poi_nature",
@@ -331,7 +365,24 @@
      "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "دره امامزاده کوه"
+     "target_pageid": 852380,
+     "target_revision_id": 35088073,
+     "target_title": "دره امامزاده کوه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%DA%A9%D9%88%D9%87"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد اکباتان",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_pageid": 92192,
+     "target_revision_id": 44219644,
+     "target_title": "سد اکباتان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -339,7 +390,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-   "value": "دره مرادبیگ\nدره عباس‌آباد\nدره گنج‌نامه\nآبشار گنج‌نامه\nدره امامزاده کوه"
+   "value": "دره مرادبیگ\nدره عباس‌آباد\nآبشار گنج‌نامه\nدره امامزاده کوه\nسد اکباتان"
   },
   "poi_recreation": {
    "entries": [
@@ -352,7 +403,10 @@
      "section": "نمای شهر / پارک ها",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "بوستان تپه حاج عنایت"
+     "target_pageid": 852374,
+     "target_revision_id": 26520272,
+     "target_title": "بوستان تپه حاج عنایت",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%BE%D9%87_%D8%AD%D8%A7%D8%AC_%D8%B9%D9%86%D8%A7%DB%8C%D8%AA"
     },
     {
      "field": "poi_recreation",
@@ -363,7 +417,10 @@
      "section": "نمای شهر / پارک ها",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "بوستان شیرسنگی"
+     "target_pageid": 852372,
+     "target_revision_id": 26067621,
+     "target_title": "بوستان شیرسنگی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%B3%D9%86%DA%AF%DB%8C"
     },
     {
      "field": "poi_recreation",
@@ -374,7 +431,10 @@
      "section": "نمای شهر / پارک ها",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "بوستان مردم"
+     "target_pageid": 852356,
+     "target_revision_id": 40595613,
+     "target_title": "بوستان مردم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D8%AF%D9%85"
     },
     {
      "field": "poi_recreation",
@@ -385,7 +445,10 @@
      "section": "نمای شهر / پارک ها",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "بوستان باباطاهر"
+     "target_pageid": 852369,
+     "target_revision_id": 26067613,
+     "target_title": "بوستان باباطاهر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%A8%D8%A7%D8%B7%D8%A7%D9%87%D8%B1"
     },
     {
      "field": "poi_recreation",
@@ -396,7 +459,10 @@
      "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / تله کابین گنجنامه",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "تله‌کابین گنج‌نامه"
+     "target_pageid": 853620,
+     "target_revision_id": 44016176,
+     "target_title": "تله‌کابین گنج‌نامه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86_%DA%AF%D9%86%D8%AC%E2%80%8C%D9%86%D8%A7%D9%85%D9%87"
     },
     {
      "field": "poi_recreation",
@@ -407,7 +473,10 @@
      "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / نگرانی از اثرات زیست محیطی تله کابین گنجنامه",
      "source_title": "همدان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
-     "target_title": "تله‌کابین"
+     "target_pageid": 18187,
+     "target_revision_id": 42324267,
+     "target_title": "تله‌کابین",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%84%D9%87%E2%80%8C%DA%A9%D8%A7%D8%A8%DB%8C%D9%86"
     }
    ],
    "fetched": "2026-10-02",

@@ -10,7 +10,10 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی",
     "source_title": "بجستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "کویر"
+    "target_pageid": 6580,
+    "target_revision_id": 44486505,
+    "target_title": "کویر",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -21,7 +24,10 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی",
     "source_title": "بجستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "منطقه حفاظت‌شده هلن"
+    "target_pageid": 1068874,
+    "target_revision_id": 44352175,
+    "target_title": "منطقه حفاظت‌شده هلن",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D9%87%D9%84%D9%86"
    },
    {
     "field": "poi_nature",
@@ -32,13 +38,17 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی / سیاه کوه هلالی",
     "source_title": "بجستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "اقلیم بیابانی"
+    "target_pageid": 1099961,
+    "target_revision_id": 43802201,
+    "target_title": "اقلیم بیابانی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%82%D9%84%DB%8C%D9%85_%D8%A8%DB%8C%D8%A7%D8%A8%D8%A7%D9%86%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "بجستان",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86"
@@ -50,6 +60,7 @@
   "county": "باخرز",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%AE%D8%B1%D8%B2",
    "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AE%D8%B1%D8%B2"
@@ -61,6 +72,7 @@
   "county": "بردسکن",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D8%AF%D8%B3%DA%A9%D9%86"
   ]
@@ -71,6 +83,7 @@
   "county": "بینالود",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%B1%D9%82%D8%A8%D9%87_%D8%B4%D8%A7%D9%86%D8%AF%DB%8C%D8%B2"
   ]
@@ -81,6 +94,7 @@
   "county": "چناران",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%86%D8%A7%D8%B1%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%DA%86%D9%86%D8%A7%D8%B1%D8%A7%D9%86"
@@ -97,7 +111,10 @@
     "section": "جاذبه های گردشگری و تاریخی درگز",
     "source_title": "درگز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_title": "پل گرد"
+    "target_pageid": 229946,
+    "target_revision_id": 41109893,
+    "target_title": "پل گرد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%DA%AF%D8%B1%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -108,7 +125,10 @@
     "section": "جاذبه های گردشگری و تاریخی درگز",
     "source_title": "درگز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_title": "جنگل پسته"
+    "target_pageid": 395517,
+    "target_revision_id": 41037123,
+    "target_title": "جنگل پسته",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%BE%D8%B3%D8%AA%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -119,7 +139,10 @@
     "section": "جاذبه های گردشگری و تاریخی درگز",
     "source_title": "درگز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_title": "محوطه باستانی بندیان"
+    "target_pageid": 37882,
+    "target_revision_id": 44330728,
+    "target_title": "محوطه باستانی بندیان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C_%D8%A8%D9%86%D8%AF%DB%8C%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -130,7 +153,10 @@
     "section": "جاذبه های گردشگری و تاریخی درگز",
     "source_title": "درگز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_title": "آرامگاه علامه شهرستانی"
+    "target_pageid": 421094,
+    "target_revision_id": 43333555,
+    "target_title": "آرامگاه علامه شهرستانی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D8%A7%D9%85%D9%87_%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -141,24 +167,22 @@
     "section": "جاذبه های گردشگری و تاریخی درگز",
     "source_title": "درگز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_title": "پارک ملی تندوره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده محمد دیباج",
-    "pageid": 418529,
-    "revision_id": 44394078,
-    "section": "جاذبه های گردشگری و تاریخی درگز",
-    "source_title": "درگز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-    "target_title": "امامزاده محمد دیباج"
+    "target_pageid": 201715,
+    "target_revision_id": 44284340,
+    "target_title": "پارک ملی تندوره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%AA%D9%86%D8%AF%D9%88%D8%B1%D9%87"
    }
   ],
   "center_confirmed": true,
   "county": "درگز",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [
+   {
+    "name": "امامزاده محمد دیباج",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%DA%AF%D8%B2",
    "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2"
@@ -169,30 +193,28 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "کوه‌های جغتای",
+    "name": "رشته‌کوه جغتای",
     "pageid": 176901,
     "revision_id": 44466445,
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / قله زر",
     "source_title": "شهرستان داورزن",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86",
-    "target_title": "کوه‌های جغتای"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه‌نوردی",
-    "pageid": 176901,
-    "revision_id": 44466445,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / آبشارهای بفره",
-    "source_title": "شهرستان داورزن",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86",
-    "target_title": "کوه‌نوردی"
+    "target_pageid": 3709331,
+    "target_revision_id": 44404417,
+    "target_title": "رشته‌کوه جغتای",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "داورزن",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [
+   {
+    "name": "کوه‌نوردی",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86"
@@ -204,6 +226,7 @@
   "county": "فریمان",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D9%85%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%DB%8C%D9%85%D8%A7%D9%86"
@@ -215,6 +238,7 @@
   "county": "فیروزه",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D9%87"
   ]
@@ -225,6 +249,7 @@
   "county": "گلبهار",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%84%D8%A8%D9%87%D8%A7%D8%B1",
    "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D8%A8%D9%87%D8%A7%D8%B1"
@@ -236,6 +261,7 @@
   "county": "گناباد",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF",
    "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF"
@@ -247,6 +273,7 @@
   "county": "جغتای",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C",
    "https://fa.wikipedia.org/wiki/%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C"
@@ -257,13 +284,16 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "کوه‌های جغتای",
+    "name": "رشته‌کوه جغتای",
     "pageid": 298448,
     "revision_id": 44260577,
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "شهرستان جوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-    "target_title": "کوه‌های جغتای"
+    "target_pageid": 3709331,
+    "target_revision_id": 44404417,
+    "target_title": "رشته‌کوه جغتای",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%AC%D8%BA%D8%AA%D8%A7%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -274,7 +304,10 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "شهرستان جوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-    "target_title": "شهر آق قلعه"
+    "target_pageid": 657824,
+    "target_revision_id": 44259480,
+    "target_title": "شهر آق قلعه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%A2%D9%82_%D9%82%D9%84%D8%B9%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -285,24 +318,31 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "شهرستان جوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-    "target_title": "آرامگاه هفت معصوم"
+    "target_pageid": 659659,
+    "target_revision_id": 38038441,
+    "target_title": "آرامگاه هفت معصوم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D9%87%D9%81%D8%AA_%D9%85%D8%B9%D8%B5%D9%88%D9%85"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "بقعه خواجه نجم‌الدین",
+    "name": "آرامگاه خواجه نجم‌الدین",
     "pageid": 298448,
     "revision_id": 44260577,
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "شهرستان جوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
-    "target_title": "بقعه خواجه نجم‌الدین"
+    "target_pageid": 657816,
+    "target_revision_id": 41369162,
+    "target_title": "آرامگاه خواجه نجم‌الدین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D9%86%D8%AC%D9%85%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
    }
   ],
   "center_confirmed": false,
   "county": "جوین",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86"
   ]
@@ -313,6 +353,7 @@
   "county": "کلات",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%D8%A7%D8%AA",
    "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D8%A7%D8%AA"
@@ -329,7 +370,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "مسجد جامع کاشمر"
+    "target_pageid": 223150,
+    "target_revision_id": 44325113,
+    "target_title": "مسجد جامع کاشمر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DA%A9%D8%A7%D8%B4%D9%85%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -340,7 +384,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "قلعه ریگ"
+    "target_pageid": 674549,
+    "target_revision_id": 44325157,
+    "target_title": "قلعه ریگ",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B1%DB%8C%DA%AF"
    },
    {
     "field": "poi_heritage",
@@ -351,7 +398,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "امامزاده سید مرتضی"
+    "target_pageid": 657396,
+    "target_revision_id": 44325177,
+    "target_title": "امامزاده سید مرتضی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D9%85%D8%B1%D8%AA%D8%B6%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -362,7 +412,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "قلعه آتشگاه"
+    "target_pageid": 4908639,
+    "target_revision_id": 44325146,
+    "target_title": "قلعه آتشگاه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A2%D8%AA%D8%B4%DA%AF%D8%A7%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -373,7 +426,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "سرو باغ‌مزار"
+    "target_pageid": 6307127,
+    "target_revision_id": 43925211,
+    "target_title": "سرو باغ‌مزار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88_%D8%A8%D8%A7%D8%BA%E2%80%8C%D9%85%D8%B2%D8%A7%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -384,7 +440,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "دره آبگرم"
+    "target_pageid": 6563270,
+    "target_revision_id": 43925174,
+    "target_title": "دره آبگرم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%A2%D8%A8%DA%AF%D8%B1%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -395,7 +454,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "کاروانسرای امین التجار"
+    "target_pageid": 670986,
+    "target_revision_id": 44325112,
+    "target_title": "کاروانسرای امین التجار",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%DB%8C%D9%86_%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -406,7 +468,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "آب‌انبار حاجی نظام"
+    "target_pageid": 5678461,
+    "target_revision_id": 41027787,
+    "target_title": "آب‌انبار حاجی نظام",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%AD%D8%A7%D8%AC%DB%8C_%D9%86%D8%B8%D8%A7%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -417,7 +482,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "امامزاده سید حمزه (کاشمر)"
+    "target_pageid": 220660,
+    "target_revision_id": 44325187,
+    "target_title": "امامزاده سید حمزه (کاشمر)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%AD%D9%85%D8%B2%D9%87_%28%DA%A9%D8%A7%D8%B4%D9%85%D8%B1%29"
    },
    {
     "field": "poi_heritage",
@@ -428,7 +496,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "آرامگاه سید حسن مدرس"
+    "target_pageid": 220662,
+    "target_revision_id": 44325171,
+    "target_title": "آرامگاه سید حسن مدرس",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B3%DB%8C%D8%AF_%D8%AD%D8%B3%D9%86_%D9%85%D8%AF%D8%B1%D8%B3"
    },
    {
     "field": "poi_heritage",
@@ -439,7 +510,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "آرامگاه سید اسماعیل نبوی"
+    "target_pageid": 670972,
+    "target_revision_id": 44325169,
+    "target_title": "آرامگاه سید اسماعیل نبوی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B3%DB%8C%D8%AF_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%D9%86%D8%A8%D9%88%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -450,7 +524,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "مسجد حاجی جلال"
+    "target_pageid": 670977,
+    "target_revision_id": 44325115,
+    "target_title": "مسجد حاجی جلال",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%D8%A7%D8%AC%DB%8C_%D8%AC%D9%84%D8%A7%D9%84"
    },
    {
     "field": "poi_heritage",
@@ -461,7 +538,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "خانه احمد پناه"
+    "target_pageid": 670903,
+    "target_revision_id": 44325129,
+    "target_title": "خانه احمد پناه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%AD%D9%85%D8%AF_%D9%BE%D9%86%D8%A7%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -472,7 +552,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "آرامگاه افتخارالتجار"
+    "target_pageid": 670989,
+    "target_revision_id": 44325167,
+    "target_title": "آرامگاه افتخارالتجار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -483,7 +566,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "آب‌انبار فروتقه"
+    "target_pageid": 5668452,
+    "target_revision_id": 43924884,
+    "target_title": "آب‌انبار فروتقه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D9%81%D8%B1%D9%88%D8%AA%D9%82%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -494,7 +580,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "خانه دانش"
+    "target_pageid": 5678471,
+    "target_revision_id": 44325132,
+    "target_title": "خانه دانش",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AF%D8%A7%D9%86%D8%B4"
    },
    {
     "field": "poi_heritage",
@@ -505,7 +594,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / تپه محوطه ها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "قلعه کهنه (زنده‌جان)"
+    "target_pageid": 5183426,
+    "target_revision_id": 33953017,
+    "target_title": "قلعه کهنه (زنده‌جان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%A9%D9%87%D9%86%D9%87_%28%D8%B2%D9%86%D8%AF%D9%87%E2%80%8C%D8%AC%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -516,7 +608,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / تپه محوطه ها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "محوطه دزد"
+    "target_pageid": 677325,
+    "target_revision_id": 44331148,
+    "target_title": "محوطه دزد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D8%AF%D8%B2%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -527,7 +622,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / تپه محوطه ها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "گورستان دشت طلاآباد"
+    "target_pageid": 5651574,
+    "target_revision_id": 40315875,
+    "target_title": "گورستان دشت طلاآباد",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B4%D8%AA_%D8%B7%D9%84%D8%A7%D8%A2%D8%A8%D8%A7%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -538,7 +636,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "آتشکده کشمر"
+    "target_pageid": 5278358,
+    "target_revision_id": 42822684,
+    "target_title": "آتشکده کشمر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%DA%A9%D8%B4%D9%85%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -549,7 +650,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "غار آتشگاه"
+    "target_pageid": 5547296,
+    "target_revision_id": 44325137,
+    "target_title": "غار آتشگاه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A2%D8%AA%D8%B4%DA%AF%D8%A7%D9%87"
    },
    {
     "field": "poi_nature",
@@ -560,7 +664,10 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "رودخانه قوژد"
+    "target_pageid": 6560227,
+    "target_revision_id": 40590399,
+    "target_title": "رودخانه قوژد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%82%D9%88%DA%98%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -571,10 +678,13 @@
     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "کویر گندم‌بر"
+    "target_pageid": 6531817,
+    "target_revision_id": 43925220,
+    "target_title": "کویر گندم‌بر",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1_%DA%AF%D9%86%D8%AF%D9%85%E2%80%8C%D8%A8%D8%B1"
    },
    {
-    "field": "poi_nature",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بوستان جنگلی سید مرتضی",
     "pageid": 38450,
@@ -582,7 +692,10 @@
     "section": "بوستان ها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "بوستان جنگلی سید مرتضی"
+    "target_pageid": 6526726,
+    "target_revision_id": 43925224,
+    "target_title": "بوستان جنگلی سید مرتضی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%B3%DB%8C%D8%AF_%D9%85%D8%B1%D8%AA%D8%B6%DB%8C"
    },
    {
     "field": "poi_recreation",
@@ -593,58 +706,38 @@
     "section": "بوستان ها",
     "source_title": "کاشمر",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
-    "target_title": "بوستان خطی سید مرتضی"
+    "target_pageid": 6526713,
+    "target_revision_id": 43925227,
+    "target_title": "بوستان خطی سید مرتضی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B7%DB%8C_%D8%B3%DB%8C%D8%AF_%D9%85%D8%B1%D8%AA%D8%B6%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "کاشمر",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
    "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1"
   ]
  },
  "khaf": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رشته کوه هندوکش",
-    "pageid": 123246,
-    "revision_id": 44160268,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی",
-    "source_title": "خواف",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-    "target_title": "رشته کوه هندوکش"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب‌انبار",
-    "pageid": 123246,
-    "revision_id": 44160268,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی",
-    "source_title": "خواف",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-    "target_title": "آب‌انبار"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "محوطه سازی",
-    "pageid": 123246,
-    "revision_id": 44160268,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی",
-    "source_title": "خواف",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-    "target_title": "محوطه سازی"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "خواف",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [
+   {
+    "name": "رشته کوه هندوکش",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "محوطه سازی",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%A7%D9%81",
    "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81"
@@ -656,6 +749,7 @@
   "county": "خلیل‌آباد",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%DB%8C%D9%84%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
   ]
@@ -665,47 +759,52 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "رودخانه",
-    "pageid": 176899,
-    "revision_id": 44260650,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / رودخانه نشیب",
-    "source_title": "شهرستان خوشاب",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-    "target_title": "رودخانه"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "رودسراب",
     "pageid": 176899,
     "revision_id": 44260650,
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / غار اژدهای رودسراب",
     "source_title": "شهرستان خوشاب",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-    "target_title": "رودسراب"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "رشته کوه البرز",
-    "pageid": 176899,
-    "revision_id": 44260650,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / روستا و کوهسار دُرُفک",
-    "source_title": "شهرستان خوشاب",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-    "target_title": "رشته کوه البرز"
+    "target_pageid": 244118,
+    "target_revision_id": 40125587,
+    "target_title": "رودسراب",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%B3%D8%B1%D8%A7%D8%A8"
    }
   ],
   "center_confirmed": false,
   "county": "خوشاب",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [
+   {
+    "name": "رودخانه",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "رشته کوه البرز",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8"
   ]
  },
  "kuhsorkh": {
   "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سد شاهی",
+    "pageid": 51599,
+    "revision_id": 44473588,
+    "section": "اماکن تاریخی، آثار باستانی و گردشگری",
+    "source_title": "شهرستان کوهسرخ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
+    "target_pageid": 4991399,
+    "target_revision_id": 40314174,
+    "target_title": "سد شاهی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B4%D8%A7%D9%87%DB%8C"
+   },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
@@ -715,7 +814,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "گورستان نامق"
+    "target_pageid": 676815,
+    "target_revision_id": 44506636,
+    "target_title": "گورستان نامق",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D9%85%D9%82"
    },
    {
     "field": "poi_heritage",
@@ -726,7 +828,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "حمام بند قراء"
+    "target_pageid": 677134,
+    "target_revision_id": 44150324,
+    "target_title": "حمام بند قراء",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D9%86%D8%AF_%D9%82%D8%B1%D8%A7%D8%A1"
    },
    {
     "field": "poi_nature",
@@ -737,7 +842,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "رودخانه نابای"
+    "target_pageid": 5841419,
+    "target_revision_id": 40408505,
+    "target_title": "رودخانه نابای",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%86%D8%A7%D8%A8%D8%A7%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -748,7 +856,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "آبشار کریز"
+    "target_pageid": 6531801,
+    "target_revision_id": 43312272,
+    "target_title": "آبشار کریز",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%A9%D8%B1%DB%8C%D8%B2"
    },
    {
     "field": "poi_nature",
@@ -759,7 +870,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "آبگرم معدنی کریز"
+    "target_pageid": 6531804,
+    "target_revision_id": 44539523,
+    "target_title": "آبگرم معدنی کریز",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%DA%A9%D8%B1%DB%8C%D8%B2"
    },
    {
     "field": "poi_nature",
@@ -770,7 +884,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "دره آسیاب"
+    "target_pageid": 956511,
+    "target_revision_id": 44175676,
+    "target_title": "دره آسیاب",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%A2%D8%B3%DB%8C%D8%A7%D8%A8"
    },
    {
     "field": "poi_nature",
@@ -781,29 +898,10 @@
     "section": "اماکن تاریخی، آثار باستانی و گردشگری / دیگر آثار",
     "source_title": "شهرستان کوهسرخ",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
-    "target_title": "رشته‌کوه باغدشت"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رودخانه نابای",
-    "pageid": 50929,
-    "revision_id": 44199786,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
-    "source_title": "ریوش",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%88%D8%B4",
-    "target_title": "رودخانه نابای"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک جنگلی",
-    "pageid": 50929,
-    "revision_id": 44199786,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
-    "source_title": "ریوش",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%88%D8%B4",
-    "target_title": "پارک جنگلی"
+    "target_pageid": 4922756,
+    "target_revision_id": 44191104,
+    "target_title": "رشته‌کوه باغدشت",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%D8%A8%D8%A7%D8%BA%D8%AF%D8%B4%D8%AA"
    },
    {
     "field": "poi_nature",
@@ -814,13 +912,17 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "ریوش",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%88%D8%B4",
-    "target_title": "کوه آریا"
+    "target_pageid": 6338334,
+    "target_revision_id": 43925178,
+    "target_title": "کوه آریا",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%A2%D8%B1%DB%8C%D8%A7"
    }
   ],
   "center_confirmed": true,
   "county": "کوهسرخ",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE",
    "https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D9%88%D8%B4"
@@ -832,6 +934,7 @@
   "county": "مه‌ولات",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%E2%80%8C%D9%88%D9%84%D8%A7%D8%AA"
   ]
@@ -842,6 +945,7 @@
   "county": "مشهد",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%D9%87%D8%AF"
   ]
@@ -852,6 +956,7 @@
   "county": "میان‌جلگه",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%86%E2%80%8C%D8%AC%D9%84%DA%AF%D9%87"
   ]
@@ -862,6 +967,7 @@
   "county": "نیشابور",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%D8%B4%D8%A7%D8%A8%D9%88%D8%B1"
   ]
@@ -872,6 +978,7 @@
   "county": "قوچان",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%88%DA%86%D8%A7%D9%86"
   ]
@@ -882,6 +989,7 @@
   "county": "رشتخوار",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B4%D8%AA%D8%AE%D9%88%D8%A7%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D8%AE%D9%88%D8%A7%D8%B1"
@@ -893,6 +1001,7 @@
   "county": "سبزوار",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A8%D8%B2%D9%88%D8%A7%D8%B1"
   ]
@@ -903,6 +1012,7 @@
   "county": "صالح‌آباد",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B5%D8%A7%D9%84%D8%AD%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
   ]
@@ -913,6 +1023,7 @@
   "county": "سرخس",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%AE%D8%B3",
    "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D8%B3"
@@ -921,32 +1032,30 @@
  "sheshtamad": {
   "candidates": [
    {
-    "field": "poi_heritage",
+    "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "قنات",
+    "name": "سد سنگرد سبزوار",
     "pageid": 176903,
     "revision_id": 43808864,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / چنار کیذقان",
+    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / سد سنگرد",
     "source_title": "شهرستان ششتمد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
-    "target_title": "قنات"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "باغ خیرات",
-    "pageid": 176903,
-    "revision_id": 43808864,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / دره های ییلاقی",
-    "source_title": "شهرستان ششتمد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
-    "target_title": "باغ خیرات"
+    "target_pageid": 5982800,
+    "target_revision_id": 41374551,
+    "target_title": "سد سنگرد سبزوار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B3%D9%86%DA%AF%D8%B1%D8%AF_%D8%B3%D8%A8%D8%B2%D9%88%D8%A7%D8%B1"
    }
   ],
   "center_confirmed": true,
   "county": "ششتمد",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [
+   {
+    "name": "باغ خیرات",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
    "https://fa.wikipedia.org/wiki/%D8%B4%D8%B4%D8%AA%D9%85%D8%AF"
@@ -958,6 +1067,7 @@
   "county": "تایباد",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%DB%8C%D8%A8%D8%A7%D8%AF",
    "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%DB%8C%D8%A8%D8%A7%D8%AF"
@@ -974,7 +1084,10 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
     "source_title": "تربت حیدریه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-    "target_title": "رودخانه حصار"
+    "target_pageid": 6409277,
+    "target_revision_id": 38957614,
+    "target_title": "رودخانه حصار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%B5%D8%A7%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -985,24 +1098,17 @@
     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / روستاها",
     "source_title": "تربت حیدریه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-    "target_title": "رشته‌کوه کوهسرخ"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک جنگلی",
-    "pageid": 26651,
-    "revision_id": 44305757,
-    "section": "اماکن تاریخی، آثار باستانی و جهانگردی / آثار ساختگی",
-    "source_title": "تربت حیدریه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
-    "target_title": "پارک جنگلی"
+    "target_pageid": 6346295,
+    "target_revision_id": 44191132,
+    "target_title": "رشته‌کوه کوهسرخ",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%DA%A9%D9%88%D9%87%D8%B3%D8%B1%D8%AE"
    }
   ],
   "center_confirmed": true,
   "county": "تربت حیدریه",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87"
@@ -1014,6 +1120,7 @@
   "county": "تربت جام",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%D8%A8%D8%AA_%D8%AC%D8%A7%D9%85"
   ]
@@ -1024,28 +1131,23 @@
   "county": "زاوه",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A7%D9%88%D9%87"
   ]
  },
  "zebarkhan": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "کاروانسرای قدمگاه",
-    "pageid": 177035,
-    "revision_id": 44454359,
-    "section": "اماکن تاریخی، فرهنگی و گردشگری شهرستان زبرخان / گردشگری تاریخی و مذهبی",
-    "source_title": "شهرستان زبرخان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A8%D8%B1%D8%AE%D8%A7%D9%86",
-    "target_title": "کاروانسرای قدمگاه"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": false,
   "county": "زبرخان",
   "fetched": "2026-10-02",
   "province": "razavi-khorasan",
+  "rejected_candidates": [
+   {
+    "name": "کاروانسرای قدمگاه",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D8%A8%D8%B1%D8%AE%D8%A7%D9%86"
   ]

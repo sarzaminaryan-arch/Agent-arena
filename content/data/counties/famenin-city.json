@@ -136,24 +136,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام قدیمی شهر",
-     "pageid": 92196,
-     "revision_id": 44402033,
-     "section": "جاذبه گردشگری",
-     "source_title": "فامنین",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
-     "target_title": "حمام قدیمی شهر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "پل جهان‌آباد فامنین",
      "pageid": 92196,
      "revision_id": 44402033,
      "section": "جاذبه گردشگری",
      "source_title": "فامنین",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
-     "target_title": "پل جهان‌آباد فامنین"
+     "target_pageid": 658051,
+     "target_revision_id": 32215915,
+     "target_title": "پل جهان‌آباد فامنین",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -161,7 +153,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
-   "value": "حمام قدیمی شهر\nپل جهان‌آباد فامنین"
+   "value": "پل جهان‌آباد فامنین"
   },
   "poi_nature": {
    "entries": [
@@ -174,7 +166,10 @@
      "section": "جاذبه گردشگری",
      "source_title": "فامنین",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
-     "target_title": "غار قلعه‌جوق"
+     "target_pageid": 34641,
+     "target_revision_id": 43929410,
+     "target_title": "غار قلعه‌جوق",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%AC%D9%88%D9%82"
     }
    ],
    "fetched": "2026-10-02",

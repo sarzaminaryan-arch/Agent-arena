@@ -129,40 +129,8 @@
     "margoun"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای دهدشت",
-     "pageid": 141787,
-     "revision_id": 44322132,
-     "section": "گردشگری / کاروانسرای دهدشت",
-     "source_title": "دهدشت",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-     "target_title": "کاروانسرای دهدشت"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-   "value": "کاروانسرای دهدشت"
-  },
   "poi_nature": {
    "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار نزل",
-     "pageid": 141787,
-     "revision_id": 44322132,
-     "section": "گردشگری / غار نزل",
-     "source_title": "دهدشت",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-     "target_title": "غار نزل"
-    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -172,7 +140,10 @@
      "section": "گردشگری / غار نزل",
      "source_title": "دهدشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-     "target_title": "کوه نور"
+     "target_pageid": 167576,
+     "target_revision_id": 44485044,
+     "target_title": "کوه نور",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%86%D9%88%D8%B1"
     },
     {
      "field": "poi_nature",
@@ -183,7 +154,38 @@
      "section": "گردشگری / آبشار کمردوغ",
      "source_title": "دهدشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-     "target_title": "آبشار کمردوغ"
+     "target_pageid": 316387,
+     "target_revision_id": 43928347,
+     "target_title": "آبشار کمردوغ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%A9%D9%85%D8%B1%D8%AF%D9%88%D8%BA"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد مارون",
+     "pageid": 141787,
+     "revision_id": 44322132,
+     "section": "گردشگری / مکان های دیگر",
+     "source_title": "دهدشت",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
+     "target_pageid": 3454351,
+     "target_revision_id": 43925435,
+     "target_title": "سد مارون",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%85%D8%A7%D8%B1%D9%88%D9%86"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد کوثر",
+     "pageid": 141787,
+     "revision_id": 44322132,
+     "section": "گردشگری / مکان های دیگر",
+     "source_title": "دهدشت",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
+     "target_pageid": 445353,
+     "target_revision_id": 41675099,
+     "target_title": "سد کوثر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D9%88%D8%AB%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -191,7 +193,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-   "value": "غار نزل\nکوه نور\nآبشار کمردوغ"
+   "value": "کوه نور\nآبشار کمردوغ\nسد مارون\nسد کوثر"
   },
   "population": {
    "fetched": "2026-10-02",

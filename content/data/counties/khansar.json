@@ -154,13 +154,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ شهر",
+     "name": "طرح باغ‌شهر",
      "pageid": 11931,
      "revision_id": 43815341,
      "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
      "source_title": "خوانسار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "باغ شهر"
+     "target_pageid": 3454817,
+     "target_revision_id": 44613446,
+     "target_title": "طرح باغ‌شهر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%AD_%D8%A8%D8%A7%D8%BA%E2%80%8C%D8%B4%D9%87%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -171,7 +174,10 @@
      "section": "گردشگری / گردشگری تاریخی / خانه ابهری خوانسار",
      "source_title": "خوانسار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "خانه ابهری"
+     "target_pageid": 664221,
+     "target_revision_id": 44154198,
+     "target_title": "خانه ابهری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%A8%D9%87%D8%B1%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -182,7 +188,10 @@
      "section": "گردشگری / گردشگری تاریخی / خانۀ جعفری خوانسار",
      "source_title": "خوانسار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "خانه جعفری خوانسار"
+     "target_pageid": 666870,
+     "target_revision_id": 44154699,
+     "target_title": "خانه جعفری خوانسار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AC%D8%B9%D9%81%D8%B1%DB%8C_%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -193,7 +202,10 @@
      "section": "گردشگری / گردشگری فرهنگی / محرّم",
      "source_title": "خوانسار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "سوگواری محرم"
+     "target_pageid": 729134,
+     "target_revision_id": 44437833,
+     "target_title": "سوگواری محرم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%DA%AF%D9%88%D8%A7%D8%B1%DB%8C_%D9%85%D8%AD%D8%B1%D9%85"
     }
    ],
    "fetched": "2026-10-02",
@@ -201,7 +213,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-   "value": "باغ شهر\nخانه ابهری\nخانه جعفری خوانسار\nسوگواری محرم"
+   "value": "طرح باغ‌شهر\nخانه ابهری\nخانه جعفری خوانسار\nسوگواری محرم"
   },
   "poi_nature": {
    "entries": [
@@ -214,7 +226,10 @@
      "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
      "source_title": "خوانسار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "چشمه"
+     "target_pageid": 16282,
+     "target_revision_id": 42748244,
+     "target_title": "چشمه",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87"
     },
     {
      "field": "poi_nature",
@@ -225,18 +240,10 @@
      "section": "گردشگری / گردشگری طبیعی / پارک ملی سرچشمه",
      "source_title": "خوانسار",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "سرچشمه خوانسار"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رشته کوه‌های زاگرس",
-     "pageid": 11931,
-     "revision_id": 43815341,
-     "section": "گردشگری / گردشگری فرهنگی / هتل و مهمان سرا",
-     "source_title": "خوانسار",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-     "target_title": "رشته کوه‌های زاگرس"
+     "target_pageid": 1274529,
+     "target_revision_id": 44452351,
+     "target_title": "سرچشمه خوانسار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87_%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -244,7 +251,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-   "value": "چشمه\nسرچشمه خوانسار\nرشته کوه‌های زاگرس"
+   "value": "چشمه\nسرچشمه خوانسار"
   },
   "population": {
    "fetched": "2026-10-02",

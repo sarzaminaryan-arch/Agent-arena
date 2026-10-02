@@ -146,18 +146,10 @@
      "section": "هویت فرهنگی / جاذبه های گردشگری",
      "source_title": "اهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
-     "target_title": "آرامگاه شیخ شهاب‌الدین اهری"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه ادب و عرفان",
-     "pageid": 57113,
-     "revision_id": 44574091,
-     "section": "هویت فرهنگی / جاذبه های گردشگری",
-     "source_title": "اهر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
-     "target_title": "موزه ادب و عرفان"
+     "target_pageid": 301600,
+     "target_revision_id": 43922761,
+     "target_title": "آرامگاه شیخ شهاب‌الدین اهری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B4%DB%8C%D8%AE_%D8%B4%D9%87%D8%A7%D8%A8%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%A7%D9%87%D8%B1%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -168,7 +160,10 @@
      "section": "هویت فرهنگی / جاذبه های گردشگری",
      "source_title": "اهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
-     "target_title": "بازار اهر"
+     "target_pageid": 211329,
+     "target_revision_id": 35847927,
+     "target_title": "بازار اهر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D9%87%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -176,7 +171,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
-   "value": "آرامگاه شیخ شهاب‌الدین اهری\nموزه ادب و عرفان\nبازار اهر"
+   "value": "آرامگاه شیخ شهاب‌الدین اهری\nبازار اهر"
   },
   "poi_nature": {
    "entries": [
@@ -189,7 +184,10 @@
      "section": "هویت فرهنگی / جاذبه های گردشگری",
      "source_title": "اهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
-     "target_title": "کوه‌های مریخی زگلیک"
+     "target_pageid": 5382457,
+     "target_revision_id": 43922811,
+     "target_title": "کوه‌های مریخی زگلیک",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D8%B1%DB%8C%D8%AE%DB%8C_%D8%B2%DA%AF%D9%84%DB%8C%DA%A9"
     }
    ],
    "fetched": "2026-10-02",

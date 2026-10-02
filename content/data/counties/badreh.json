@@ -133,27 +133,6 @@
     "malekshahi"
    ]
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تنگه رازیانه",
-     "pageid": 92160,
-     "revision_id": 44354115,
-     "section": "فرهنگ مردم / جاذبه های طبیعی",
-     "source_title": "بدره",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AF%D8%B1%D9%87",
-     "target_title": "تنگه رازیانه"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AF%D8%B1%D9%87",
-   "value": "تنگه رازیانه"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

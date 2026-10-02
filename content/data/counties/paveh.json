@@ -136,27 +136,6 @@
     "salasa-babajani"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "آرامگاه سید عبیدالله",
-     "pageid": 18273,
-     "revision_id": 43695743,
-     "section": "گردشگری / زیارت گاه ها",
-     "source_title": "شهرستان پاوه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-     "target_title": "آرامگاه سید عبیدالله"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-   "value": "آرامگاه سید عبیدالله"
-  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

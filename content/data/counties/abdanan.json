@@ -147,13 +147,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده سید صلاح الدین محمد",
+     "name": "امامزاده سید صلاح‌الدین محمد",
      "pageid": 92157,
      "revision_id": 44344315,
      "section": "گردشگری",
      "source_title": "آبدانان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-     "target_title": "امامزاده سید صلاح الدین محمد"
+     "target_pageid": 663282,
+     "target_revision_id": 44493429,
+     "target_title": "امامزاده سید صلاح‌الدین محمد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%B5%D9%84%D8%A7%D8%AD%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D9%85%D8%AD%D9%85%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -164,7 +167,10 @@
      "section": "گردشگری",
      "source_title": "آبدانان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-     "target_title": "پشت قلعه آبدانان"
+     "target_pageid": 663058,
+     "target_revision_id": 43923870,
+     "target_title": "پشت قلعه آبدانان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B4%D8%AA_%D9%82%D9%84%D8%B9%D9%87_%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -172,7 +178,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-   "value": "امامزاده سید صلاح الدین محمد\nپشت قلعه آبدانان"
+   "value": "امامزاده سید صلاح‌الدین محمد\nپشت قلعه آبدانان"
   },
   "poi_nature": {
    "fetched": "2026-10-02",

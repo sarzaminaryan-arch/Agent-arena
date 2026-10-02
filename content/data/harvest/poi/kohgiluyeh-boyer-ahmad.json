@@ -1,33 +1,16 @@
 {
  "bahmai": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "تالاب",
-    "pageid": 141780,
-    "revision_id": 44039845,
-    "section": "جاذبه های گردشگری / دریاچه برم الوان",
-    "source_title": "شهرستان بهمئی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
-    "target_title": "تالاب"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "بقعه",
-    "pageid": 141780,
-    "revision_id": 44039845,
-    "section": "زیارتگاه / امامزادگان سید اسدالله و سید ابراهیم",
-    "source_title": "شهرستان بهمئی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
-    "target_title": "بقعه"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "بهمئی",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [
+   {
+    "name": "بقعه",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
    "https://fa.wikipedia.org/wiki/%D9%84%DB%8C%DA%A9%DA%A9"
@@ -44,7 +27,10 @@
     "section": "آثار تاریخی",
     "source_title": "باشت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA",
-    "target_title": "آتشکده"
+    "target_pageid": 13362,
+    "target_revision_id": 43859624,
+    "target_title": "آتشکده",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
    },
    {
     "field": "poi_nature",
@@ -55,13 +41,17 @@
     "section": "گردشگری",
     "source_title": "باشت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA",
-    "target_title": "کوه خامی"
+    "target_pageid": 625172,
+    "target_revision_id": 37870940,
+    "target_title": "کوه خامی",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%AE%D8%A7%D9%85%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "باشت",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D8%B4%D8%AA",
    "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA"
@@ -78,7 +68,10 @@
     "section": "گردشگری",
     "source_title": "یاسوج",
     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
-    "target_title": "آبشار یاسوج"
+    "target_pageid": 310379,
+    "target_revision_id": 43928366,
+    "target_title": "آبشار یاسوج",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DB%8C%D8%A7%D8%B3%D9%88%D8%AC"
    },
    {
     "field": "poi_recreation",
@@ -89,24 +82,31 @@
     "section": "گردشگری",
     "source_title": "یاسوج",
     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
-    "target_title": "پیست اسکی کاکان"
+    "target_pageid": 154454,
+    "target_revision_id": 44430687,
+    "target_title": "پیست اسکی کاکان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%DA%A9%D8%A7%DA%A9%D8%A7%D9%86"
    },
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک تفریحی",
+    "name": "شهربازی",
     "pageid": 50156,
     "revision_id": 44511081,
     "section": "گردشگری",
     "source_title": "یاسوج",
     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
-    "target_title": "پارک تفریحی"
+    "target_pageid": 442335,
+    "target_revision_id": 43377222,
+    "target_title": "شهربازی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "بویراحمد",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF",
    "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC"
@@ -123,29 +123,10 @@
     "section": "پیشینه / آثار تاریخی",
     "source_title": "چرام",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-    "target_title": "قلعه شهرک چرام"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ چشمه بلقیس و برج تاریخی",
-    "pageid": 141785,
-    "revision_id": 44435150,
-    "section": "پیشینه / آثار تاریخی",
-    "source_title": "چرام",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-    "target_title": "باغ چشمه بلقیس و برج تاریخی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کتیبه تنگ پیرزال",
-    "pageid": 141785,
-    "revision_id": 44435150,
-    "section": "پیشینه / آثار تاریخی",
-    "source_title": "چرام",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-    "target_title": "کتیبه تنگ پیرزال"
+    "target_pageid": 661602,
+    "target_revision_id": 44304492,
+    "target_title": "قلعه شهرک چرام",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B4%D9%87%D8%B1%DA%A9_%DA%86%D8%B1%D8%A7%D9%85"
    },
    {
     "field": "poi_nature",
@@ -153,16 +134,25 @@
     "name": "چشمه بلقیس چرام",
     "pageid": 141785,
     "revision_id": 44435150,
-    "section": "جاذبه های گردشگری",
+    "section": "پیشینه / آثار تاریخی",
     "source_title": "چرام",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
-    "target_title": "چشمه بلقیس چرام"
+    "target_pageid": 1102282,
+    "target_revision_id": 44435878,
+    "target_title": "چشمه بلقیس چرام",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A8%D9%84%D9%82%DB%8C%D8%B3_%DA%86%D8%B1%D8%A7%D9%85"
    }
   ],
   "center_confirmed": true,
   "county": "چرام",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [
+   {
+    "name": "کتیبه تنگ پیرزال",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%B1%D8%A7%D9%85",
    "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85"
@@ -179,7 +169,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان دنا",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%86%D8%A7",
-    "target_title": "درب کلات امامزاده محمود"
+    "target_pageid": 1606191,
+    "target_revision_id": 41587139,
+    "target_title": "درب کلات امامزاده محمود",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D8%A8_%DA%A9%D9%84%D8%A7%D8%AA_%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%85%D8%AD%D9%85%D9%88%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -190,7 +183,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان دنا",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%86%D8%A7",
-    "target_title": "کوه گل"
+    "target_pageid": 2337,
+    "target_revision_id": 44083173,
+    "target_title": "کوه گل",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%DA%AF%D9%84"
    },
    {
     "field": "poi_nature",
@@ -201,58 +197,42 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان دنا",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%86%D8%A7",
-    "target_title": "پارک ملی و منطقه حفاظت‌شده دنا"
+    "target_pageid": 5536642,
+    "target_revision_id": 44413077,
+    "target_title": "پارک ملی و منطقه حفاظت‌شده دنا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D9%88_%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D9%86%D8%A7"
    }
   ],
   "center_confirmed": true,
   "county": "دنا",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%86%D8%A7",
    "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%E2%80%8C%D8%B3%D8%AE%D8%AA"
   ]
  },
  "gachsaran": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "محوطه پشه کان",
-    "pageid": 35750,
-    "revision_id": 44182445,
-    "section": "گردشگری",
-    "source_title": "دوگنبدان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
-    "target_title": "محوطه پشه کان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه‌های اسماعیلیه",
-    "pageid": 35750,
-    "revision_id": 44182445,
-    "section": "گردشگری",
-    "source_title": "دوگنبدان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
-    "target_title": "قلعه‌های اسماعیلیه"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غارچال امیرخانی",
-    "pageid": 35750,
-    "revision_id": 44182445,
-    "section": "گردشگری",
-    "source_title": "دوگنبدان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
-    "target_title": "غارچال امیرخانی"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "گچساران",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [
+   {
+    "name": "محوطه پشه کان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "قلعه‌های اسماعیلیه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "غار چال امیرخانی",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86"
@@ -263,35 +243,16 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار نزل",
-    "pageid": 141787,
-    "revision_id": 44322132,
-    "section": "گردشگری / غار نزل",
-    "source_title": "دهدشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-    "target_title": "غار نزل"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "کوه نور",
     "pageid": 141787,
     "revision_id": 44322132,
     "section": "گردشگری / غار نزل",
     "source_title": "دهدشت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-    "target_title": "کوه نور"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای دهدشت",
-    "pageid": 141787,
-    "revision_id": 44322132,
-    "section": "گردشگری / کاروانسرای دهدشت",
-    "source_title": "دهدشت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-    "target_title": "کاروانسرای دهدشت"
+    "target_pageid": 167576,
+    "target_revision_id": 44485044,
+    "target_title": "کوه نور",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%86%D9%88%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -302,13 +263,54 @@
     "section": "گردشگری / آبشار کمردوغ",
     "source_title": "دهدشت",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
-    "target_title": "آبشار کمردوغ"
+    "target_pageid": 316387,
+    "target_revision_id": 43928347,
+    "target_title": "آبشار کمردوغ",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%A9%D9%85%D8%B1%D8%AF%D9%88%D8%BA"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سد مارون",
+    "pageid": 141787,
+    "revision_id": 44322132,
+    "section": "گردشگری / مکان های دیگر",
+    "source_title": "دهدشت",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
+    "target_pageid": 3454351,
+    "target_revision_id": 43925435,
+    "target_title": "سد مارون",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%85%D8%A7%D8%B1%D9%88%D9%86"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سد کوثر",
+    "pageid": 141787,
+    "revision_id": 44322132,
+    "section": "گردشگری / مکان های دیگر",
+    "source_title": "دهدشت",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA",
+    "target_pageid": 445353,
+    "target_revision_id": 41675099,
+    "target_title": "سد کوثر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D9%88%D8%AB%D8%B1"
    }
   ],
   "center_confirmed": true,
   "county": "کهگیلویه",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [
+   {
+    "name": "غار نزل",
+    "reason": "target page missing"
+   },
+   {
+    "name": "کاروانسرای دهدشت",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%AF%D8%B4%D8%AA"
@@ -320,6 +322,7 @@
   "county": "لنده",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%D8%AF%D9%87",
    "https://fa.wikipedia.org/wiki/%D9%84%D9%86%D8%AF%D9%87"
@@ -331,6 +334,7 @@
   "county": "مارگون",
   "fetched": "2026-10-02",
   "province": "kohgiluyeh-boyer-ahmad",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D8%B1%DA%AF%D9%88%D9%86"
   ]

@@ -149,7 +149,10 @@
      "section": "مکان های دیدنی / تفرج گاه / کوه ها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "دره غول"
+     "target_pageid": 626749,
+     "target_revision_id": 15281228,
+     "target_title": "دره غول",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%BA%D9%88%D9%84"
     },
     {
      "field": "poi_nature",
@@ -160,7 +163,10 @@
      "section": "مکان های دیدنی / تفرج گاه / کوه ها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "کوه سوره"
+     "target_pageid": 626758,
+     "target_revision_id": 15281240,
+     "target_title": "کوه سوره",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B3%D9%88%D8%B1%D9%87"
     },
     {
      "field": "poi_nature",
@@ -171,7 +177,10 @@
      "section": "مکان های دیدنی / تفرج گاه / کوه ها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "کوه مارک"
+     "target_pageid": 626762,
+     "target_revision_id": 43217414,
+     "target_title": "کوه مارک",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%85%D8%A7%D8%B1%DA%A9"
     },
     {
      "field": "poi_nature",
@@ -182,7 +191,10 @@
      "section": "مکان های دیدنی / تفرج گاه / کوه ها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "کوه هشتاد"
+     "target_pageid": 626763,
+     "target_revision_id": 43923119,
+     "target_title": "کوه هشتاد",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%87%D8%B4%D8%AA%D8%A7%D8%AF"
     },
     {
      "field": "poi_nature",
@@ -193,18 +205,10 @@
      "section": "مکان های دیدنی / تفرج گاه / غارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "غار کبوتران"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "غار کلبیس",
-     "pageid": 21755,
-     "revision_id": 44335078,
-     "section": "مکان های دیدنی / تفرج گاه / غارها",
-     "source_title": "شهرستان فریدون‌شهر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "غار کلبیس"
+     "target_pageid": 627329,
+     "target_revision_id": 29359562,
+     "target_title": "غار کبوتران",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%A9%D8%A8%D9%88%D8%AA%D8%B1%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -215,7 +219,10 @@
      "section": "مکان های دیدنی / تفرج گاه / غارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "غار باووک"
+     "target_pageid": 627332,
+     "target_revision_id": 27467580,
+     "target_title": "غار باووک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A8%D8%A7%D9%88%D9%88%DA%A9"
     },
     {
      "field": "poi_nature",
@@ -226,18 +233,24 @@
      "section": "مکان های دیدنی / تفرج گاه / غارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "غار پیرهشتاد"
+     "target_pageid": 627335,
+     "target_revision_id": 27467633,
+     "target_title": "غار پیرهشتاد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%BE%DB%8C%D8%B1%D9%87%D8%B4%D8%AA%D8%A7%D8%AF"
     },
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "غار چشمه ریسان",
+     "name": "غار چشمه‌ریسان",
      "pageid": 21755,
      "revision_id": 44335078,
      "section": "مکان های دیدنی / تفرج گاه / غارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "غار چشمه ریسان"
+     "target_pageid": 627336,
+     "target_revision_id": 42311417,
+     "target_title": "غار چشمه‌ریسان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B1%DB%8C%D8%B3%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -248,7 +261,10 @@
      "section": "مکان های دیدنی / تفرج گاه / آبشارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "آبشار دورک"
+     "target_pageid": 627069,
+     "target_revision_id": 27303499,
+     "target_title": "آبشار دورک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AF%D9%88%D8%B1%DA%A9"
     },
     {
      "field": "poi_nature",
@@ -259,7 +275,10 @@
      "section": "مکان های دیدنی / تفرج گاه / آبشارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "آبشار طرزه"
+     "target_pageid": 627072,
+     "target_revision_id": 27200946,
+     "target_title": "آبشار طرزه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B7%D8%B1%D8%B2%D9%87"
     },
     {
      "field": "poi_nature",
@@ -270,7 +289,24 @@
      "section": "مکان های دیدنی / تفرج گاه / آبشارها",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "آبشار پشندگان"
+     "target_pageid": 627060,
+     "target_revision_id": 27200972,
+     "target_title": "آبشار پشندگان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%BE%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "آبشار پونه‌زار",
+     "pageid": 21755,
+     "revision_id": 44335078,
+     "section": "مکان های دیدنی / تفرج گاه / آبشارها",
+     "source_title": "شهرستان فریدون‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_pageid": 627068,
+     "target_revision_id": 44539361,
+     "target_title": "آبشار پونه‌زار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%BE%D9%88%D9%86%D9%87%E2%80%8C%D8%B2%D8%A7%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -278,7 +314,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-   "value": "دره غول\nکوه سوره\nکوه مارک\nکوه هشتاد\nغار کبوتران\nغار کلبیس\nغار باووک\nغار پیرهشتاد\nغار چشمه ریسان\nآبشار دورک\nآبشار طرزه\nآبشار پشندگان"
+   "value": "دره غول\nکوه سوره\nکوه مارک\nکوه هشتاد\nغار کبوتران\nغار باووک\nغار پیرهشتاد\nغار چشمه‌ریسان\nآبشار دورک\nآبشار طرزه\nآبشار پشندگان\nآبشار پونه‌زار"
   },
   "poi_recreation": {
    "entries": [
@@ -291,7 +327,10 @@
      "section": "مکان های دیدنی / تفرج گاه / پیست اسکی",
      "source_title": "شهرستان فریدون‌شهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-     "target_title": "پیست اسکی فریدون‌شهر"
+     "target_pageid": 627325,
+     "target_revision_id": 43923125,
+     "target_title": "پیست اسکی فریدون‌شهر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1"
     }
    ],
    "fetched": "2026-10-02",

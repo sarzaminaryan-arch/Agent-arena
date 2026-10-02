@@ -143,18 +143,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "بازار زنجان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد میرزائی",
-     "pageid": 2924,
-     "revision_id": 44401023,
-     "section": "آثار تاریخی",
-     "source_title": "زنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "مسجد میرزائی"
+     "target_pageid": 159922,
+     "target_revision_id": 43372504,
+     "target_title": "بازار زنجان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B2%D9%86%D8%AC%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -165,7 +157,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "مسجد جامع زنجان"
+     "target_pageid": 187427,
+     "target_revision_id": 44343809,
+     "target_title": "مسجد جامع زنجان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B2%D9%86%D8%AC%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -176,7 +171,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه شیخ‌الاسلامی"
+     "target_pageid": 658667,
+     "target_revision_id": 44155504,
+     "target_title": "خانه شیخ‌الاسلامی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B4%DB%8C%D8%AE%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -187,18 +185,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه بهمنی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه مقدم",
-     "pageid": 2924,
-     "revision_id": 44401023,
-     "section": "آثار تاریخی",
-     "source_title": "زنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه مقدم"
+     "target_pageid": 669622,
+     "target_revision_id": 44154597,
+     "target_title": "خانه بهمنی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A8%D9%87%D9%85%D9%86%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -209,18 +199,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه خدیوی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کارخانه کبریت سازی",
-     "pageid": 2924,
-     "revision_id": 44401023,
-     "section": "آثار تاریخی",
-     "source_title": "زنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "کارخانه کبریت سازی"
+     "target_pageid": 658659,
+     "target_revision_id": 44155016,
+     "target_title": "خانه خدیوی (زنجان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AE%D8%AF%DB%8C%D9%88%DB%8C_%28%D8%B2%D9%86%D8%AC%D8%A7%D9%86%29"
     },
     {
      "field": "poi_heritage",
@@ -231,7 +213,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "کاروانسرای سنگی (زنجان)"
+     "target_pageid": 69048,
+     "target_revision_id": 43925524,
+     "target_title": "کاروانسرای سنگی (زنجان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B3%D9%86%DA%AF%DB%8C_%28%D8%B2%D9%86%D8%AC%D8%A7%D9%86%29"
     },
     {
      "field": "poi_heritage",
@@ -242,7 +227,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "کاروانسرای دخان"
+     "target_pageid": 661753,
+     "target_revision_id": 43925569,
+     "target_title": "کاروانسرای دخان",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -253,7 +241,10 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "حمام حاج‌داداش"
+     "target_pageid": 214415,
+     "target_revision_id": 40441676,
+     "target_title": "حمام حاج‌داداش",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%AF%D8%A7%D8%AF%D8%A7%D8%B4"
     },
     {
      "field": "poi_heritage",
@@ -264,7 +255,52 @@
      "section": "آثار تاریخی",
      "source_title": "زنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "پل سردار"
+     "target_pageid": 657374,
+     "target_revision_id": 27316889,
+     "target_title": "پل سردار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل حاج سید محمد",
+     "pageid": 2924,
+     "revision_id": 44401023,
+     "section": "آثار تاریخی",
+     "source_title": "زنجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
+     "target_pageid": 657375,
+     "target_revision_id": 27316387,
+     "target_title": "پل حاج سید محمد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AD%D8%A7%D8%AC_%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل میر بهاءالدین",
+     "pageid": 2924,
+     "revision_id": 44401023,
+     "section": "آثار تاریخی",
+     "source_title": "زنجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
+     "target_pageid": 657373,
+     "target_revision_id": 40406621,
+     "target_title": "پل میر بهاءالدین",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%85%DB%8C%D8%B1_%D8%A8%D9%87%D8%A7%D8%A1%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل آبکار",
+     "pageid": 2924,
+     "revision_id": 44401023,
+     "section": "مراکز تفریحی / مراکز خرید / موزه صنایع دستی",
+     "source_title": "زنجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
+     "target_pageid": 217648,
+     "target_revision_id": 44425460,
+     "target_title": "پل آبکار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A2%D8%A8%DA%A9%D8%A7%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -272,7 +308,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "بازار زنجان\nمسجد میرزائی\nمسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه مقدم\nخانه خدیوی\nکارخانه کبریت سازی\nکاروانسرای سنگی\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار"
+   "value": "بازار زنجان\nمسجد جامع زنجان\nخانه شیخ‌الاسلامی\nخانه بهمنی\nخانه خدیوی\nکاروانسرای سنگی\nکاروانسرای دخان\nحمام حاج‌داداش\nپل سردار\nپل حاج سید محمد\nپل میر بهاءالدین\nپل آبکار"
   },
   "population": {
    "fetched": "2026-10-02",

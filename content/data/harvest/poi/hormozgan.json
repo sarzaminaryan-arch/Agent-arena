@@ -1,22 +1,11 @@
 {
  "abumusa": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کشورهای عربی خلیج فارس",
-    "pageid": 26594,
-    "revision_id": 44400205,
-    "section": "اقتصاد / گردشگری",
-    "source_title": "جزیره ابوموسی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D8%A7%D8%A8%D9%88%D9%85%D9%88%D8%B3%DB%8C",
-    "target_title": "کشورهای عربی خلیج فارس"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "ابوموسی",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%A8%D9%88%D9%85%D9%88%D8%B3%DB%8C",
    "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D8%A7%D8%A8%D9%88%D9%85%D9%88%D8%B3%DB%8C"
@@ -27,13 +16,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "عمارت کلاه فرنگی بندرعباس",
+    "name": "عمارت کلاه‌فرنگی بندرعباس",
     "pageid": 433487,
     "revision_id": 44089826,
     "section": "اماکن تاریخی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "عمارت کلاه فرنگی بندرعباس"
+    "target_pageid": 111415,
+    "target_revision_id": 43929248,
+    "target_title": "عمارت کلاه‌فرنگی بندرعباس",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%DA%A9%D9%84%D8%A7%D9%87%E2%80%8C%D9%81%D8%B1%D9%86%DA%AF%DB%8C_%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3"
    },
    {
     "field": "poi_heritage",
@@ -44,7 +36,10 @@
     "section": "اماکن تاریخی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "حمام گله‌داری"
+    "target_pageid": 111514,
+    "target_revision_id": 43929253,
+    "target_title": "حمام گله‌داری",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%DA%AF%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%B1%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -55,7 +50,10 @@
     "section": "اماکن تاریخی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "خانه احمدی"
+    "target_pageid": 113494,
+    "target_revision_id": 44154256,
+    "target_title": "خانه احمدی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%AD%D9%85%D8%AF%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -66,7 +64,10 @@
     "section": "اماکن تاریخی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "مجموعه آب انبارهای موزه"
+    "target_pageid": 657023,
+    "target_revision_id": 44322701,
+    "target_title": "مجموعه آب انبارهای موزه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%A2%D8%A8_%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D9%85%D9%88%D8%B2%D9%87"
    },
    {
     "field": "poi_nature",
@@ -77,7 +78,10 @@
     "section": "اماکن تاریخی / جاذبه های طبیعی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "کوه گنو"
+    "target_pageid": 157434,
+    "target_revision_id": 44485229,
+    "target_title": "کوه گنو",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%DA%AF%D9%86%D9%88"
    },
    {
     "field": "poi_nature",
@@ -88,7 +92,10 @@
     "section": "اماکن تاریخی / جاذبه های طبیعی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "آب‌گرم گنو"
+    "target_pageid": 111509,
+    "target_revision_id": 29610068,
+    "target_title": "آب‌گرم گنو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%DA%AF%D9%86%D9%88"
    },
    {
     "field": "poi_nature",
@@ -99,7 +106,10 @@
     "section": "اماکن تاریخی / جاذبه های طبیعی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "آبگرم خورگو"
+    "target_pageid": 1608749,
+    "target_revision_id": 40118604,
+    "target_title": "آبگرم خورگو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D8%AE%D9%88%D8%B1%DA%AF%D9%88"
    },
    {
     "field": "poi_heritage",
@@ -110,7 +120,10 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "امامزاده سید مظفر (بندر عباس)"
+    "target_pageid": 115143,
+    "target_revision_id": 43929315,
+    "target_title": "امامزاده سید مظفر (بندر عباس)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D9%85%D8%B8%D9%81%D8%B1_%28%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3%29"
    },
    {
     "field": "poi_heritage",
@@ -121,7 +134,10 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "مسجد جامع بندر عباس"
+    "target_pageid": 118436,
+    "target_revision_id": 43929300,
+    "target_title": "مسجد جامع بندر عباس",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3"
    },
    {
     "field": "poi_heritage",
@@ -132,7 +148,10 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "امامزاده سید کامل"
+    "target_pageid": 118389,
+    "target_revision_id": 40278018,
+    "target_title": "امامزاده سید کامل",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%DA%A9%D8%A7%D9%85%D9%84"
    },
    {
     "field": "poi_heritage",
@@ -143,7 +162,10 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "امامزاده شاه محمد تقی"
+    "target_pageid": 116482,
+    "target_revision_id": 43786873,
+    "target_title": "امامزاده شاه محمد تقی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B4%D8%A7%D9%87_%D9%85%D8%AD%D9%85%D8%AF_%D8%AA%D9%82%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -154,7 +176,10 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "مسجد ناصری (بندر عباس)"
+    "target_pageid": 118438,
+    "target_revision_id": 38509937,
+    "target_title": "مسجد ناصری (بندر عباس)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%86%D8%A7%D8%B5%D8%B1%DB%8C_%28%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3%29"
    },
    {
     "field": "poi_heritage",
@@ -165,10 +190,13 @@
     "section": "اماکن زیارتی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "مسجد گله‌داری"
+    "target_pageid": 111587,
+    "target_revision_id": 43929314,
+    "target_title": "مسجد گله‌داری",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%DA%AF%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%B1%DB%8C"
    },
    {
-    "field": "poi_nature",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بوستان ساحلی سورو",
     "pageid": 433487,
@@ -176,10 +204,13 @@
     "section": "اماکن تفریحی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "بوستان ساحلی سورو"
+    "target_pageid": 6595346,
+    "target_revision_id": 44097059,
+    "target_title": "بوستان ساحلی سورو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%D9%88"
    },
    {
-    "field": "poi_nature",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بوستان ساحلی غدیر",
     "pageid": 433487,
@@ -187,7 +218,10 @@
     "section": "اماکن تفریحی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "بوستان ساحلی غدیر"
+    "target_pageid": 6828292,
+    "target_revision_id": 43142370,
+    "target_title": "بوستان ساحلی غدیر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%BA%D8%AF%DB%8C%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -198,13 +232,17 @@
     "section": "اماکن تفریحی",
     "source_title": "بندرعباس",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-    "target_title": "موزه مردم‌شناسی خلیج فارس"
+    "target_pageid": 1312755,
+    "target_revision_id": 30199098,
+    "target_title": "موزه مردم‌شناسی خلیج فارس",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AE%D9%84%DB%8C%D8%AC_%D9%81%D8%A7%D8%B1%D8%B3"
    }
   ],
   "center_confirmed": true,
   "county": "بندرعباس",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
    "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3"
@@ -216,6 +254,7 @@
   "county": "لنگه",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86%D8%AF%D8%B1_%D9%84%D9%86%DA%AF%D9%87"
   ]
@@ -226,6 +265,7 @@
   "county": "بشاگرد",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF"
   ]
@@ -236,29 +276,24 @@
   "county": "بستک",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B3%D8%AA%DA%A9",
    "https://fa.wikipedia.org/wiki/%D8%A8%D8%B3%D8%AA%DA%A9"
   ]
  },
  "hajiabad": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشارتزرج",
-    "pageid": 57040,
-    "revision_id": 43854810,
-    "section": "جاذبه های طبیعی",
-    "source_title": "شهرستان حاجی‌آباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "آبشارتزرج"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": false,
   "county": "حاجی‌آباد",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [
+   {
+    "name": "آبشارتزرج",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
   ]
@@ -274,13 +309,17 @@
     "section": "جاذبه های تاریخی و گردشگری",
     "source_title": "بندر جاسک",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AC%D8%A7%D8%B3%DA%A9",
-    "target_title": "غار سادرمند"
+    "target_pageid": 661689,
+    "target_revision_id": 44278469,
+    "target_title": "غار سادرمند",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%D8%A7%D8%AF%D8%B1%D9%85%D9%86%D8%AF"
    }
   ],
   "center_confirmed": true,
   "county": "جاسک",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%B3%DA%A9",
    "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AC%D8%A7%D8%B3%DA%A9"
@@ -297,13 +336,17 @@
     "section": "آثار تاریخی",
     "source_title": "بندر خمیر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AE%D9%85%DB%8C%D8%B1",
-    "target_title": "قلعه خمیر (بندر خمیر)"
+    "target_pageid": 114446,
+    "target_revision_id": 35922017,
+    "target_title": "قلعه خمیر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AE%D9%85%DB%8C%D8%B1"
    }
   ],
   "center_confirmed": true,
   "county": "خمیر",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%85%DB%8C%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AE%D9%85%DB%8C%D8%B1"
@@ -314,24 +357,30 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه میناب",
-    "pageid": 57051,
-    "revision_id": 44612197,
-    "section": "جاذبه های گردشگری",
-    "source_title": "میناب",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-    "target_title": "قلعه میناب"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "قلعه هزاره",
     "pageid": 57051,
     "revision_id": 44612197,
     "section": "جاذبه های گردشگری",
     "source_title": "میناب",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-    "target_title": "قلعه هزاره"
+    "target_pageid": 113188,
+    "target_revision_id": 44258652,
+    "target_title": "قلعه هزاره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%87%D8%B2%D8%A7%D8%B1%D9%87"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سد استقلال",
+    "pageid": 57051,
+    "revision_id": 44612197,
+    "section": "جاذبه های گردشگری",
+    "source_title": "میناب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
+    "target_pageid": 254133,
+    "target_revision_id": 43207132,
+    "target_title": "سد استقلال",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84"
    },
    {
     "field": "poi_heritage",
@@ -342,13 +391,17 @@
     "section": "جاذبه های گردشگری",
     "source_title": "میناب",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-    "target_title": "پنجشنبه‌بازار میناب"
+    "target_pageid": 111392,
+    "target_revision_id": 44423700,
+    "target_title": "پنجشنبه‌بازار میناب",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87%E2%80%8C%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%DB%8C%D9%86%D8%A7%D8%A8"
    }
   ],
   "center_confirmed": true,
   "county": "میناب",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
    "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8"
@@ -360,6 +413,7 @@
   "county": "پارسیان",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86"
   ]
@@ -369,35 +423,16 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "ژئو پارک قشم",
-    "pageid": 18109,
-    "revision_id": 44319196,
-    "section": "جاذبه های گردشگری / دره چاه کوه",
-    "source_title": "جزیره قشم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_title": "ژئو پارک قشم"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "ژئوپارک قشم",
     "pageid": 18109,
     "revision_id": 44319196,
     "section": "جاذبه های گردشگری / دره چاه کوه",
     "source_title": "جزیره قشم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_title": "ژئوپارک قشم"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار خربس",
-    "pageid": 18109,
-    "revision_id": 44319196,
-    "section": "جاذبه های گردشگری / غار خربس",
-    "source_title": "جزیره قشم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_title": "غار خربس"
+    "target_pageid": 4311234,
+    "target_revision_id": 44455424,
+    "target_title": "ژئوپارک قشم",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9_%D9%82%D8%B4%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -408,7 +443,10 @@
     "section": "جاذبه های گردشگری / دژ پرتغالی ها",
     "source_title": "جزیره قشم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_title": "قلعه لافت"
+    "target_pageid": 113184,
+    "target_revision_id": 43929197,
+    "target_title": "قلعه لافت",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%84%D8%A7%D9%81%D8%AA"
    },
    {
     "field": "poi_heritage",
@@ -419,7 +457,10 @@
     "section": "جاذبه های گردشگری / دژ پرتغالی ها",
     "source_title": "جزیره قشم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_title": "قلعه هرمز"
+    "target_pageid": 114454,
+    "target_revision_id": 43929202,
+    "target_title": "قلعه هرمز",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%87%D8%B1%D9%85%D8%B2"
    },
    {
     "field": "poi_recreation",
@@ -430,13 +471,26 @@
     "section": "جاذبه های گردشگری / ژئوپارک قشم",
     "source_title": "جزیره قشم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-    "target_title": "ژئوپارک"
+    "target_pageid": 342293,
+    "target_revision_id": 44439821,
+    "target_title": "ژئوپارک",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9"
    }
   ],
   "center_confirmed": true,
   "county": "قشم",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [
+   {
+    "name": "ژئو پارک قشم",
+    "reason": "target page missing"
+   },
+   {
+    "name": "غار خربس",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B4%D9%85",
    "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85"
@@ -453,13 +507,17 @@
     "section": "آثار تاریخی و جاذبه های گردشگری",
     "source_title": "شهرستان رودان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
-    "target_title": "امامزاده سید سلطان محمد"
+    "target_pageid": 118449,
+    "target_revision_id": 29104413,
+    "target_title": "امامزاده سید سلطان محمد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D8%AF"
    }
   ],
   "center_confirmed": true,
   "county": "رودان",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A7%D9%86_%28%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86%29"
@@ -470,30 +528,23 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "تالاب",
-    "pageid": 1747185,
-    "revision_id": 44374745,
-    "section": "جاذبه های گردشگری / جاذبه های طبیعی",
-    "source_title": "شهرستان سیریک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9",
-    "target_title": "تالاب"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "تالاب دلتای رود گز و حرا",
     "pageid": 1747185,
     "revision_id": 44374745,
     "section": "جاذبه های گردشگری / جاذبه های طبیعی",
     "source_title": "شهرستان سیریک",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9",
-    "target_title": "تالاب دلتای رود گز و حرا"
+    "target_pageid": 4899713,
+    "target_revision_id": 43164160,
+    "target_title": "تالاب دلتای رود گز و حرا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%AF%D9%84%D8%AA%D8%A7%DB%8C_%D8%B1%D9%88%D8%AF_%DA%AF%D8%B2_%D9%88_%D8%AD%D8%B1%D8%A7"
    }
   ],
   "center_confirmed": true,
   "county": "سیریک",
   "fetched": "2026-10-02",
   "province": "hormozgan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9",
    "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9"

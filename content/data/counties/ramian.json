@@ -135,29 +135,24 @@
      "section": "جاذبه های گردشگری",
      "source_title": "رامیان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "پاقلعه (رامیان)"
+     "target_pageid": 1581960,
+     "target_revision_id": 44144754,
+     "target_title": "پاقلعه (رامیان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%82%D9%84%D8%B9%D9%87_%28%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86%29"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده بی بی حلیمه خاتون",
+     "name": "موزه مردم‌شناسی تهران",
      "pageid": 141815,
      "revision_id": 43775753,
      "section": "جاذبه های گردشگری",
      "source_title": "رامیان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "امامزاده بی بی حلیمه خاتون"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه مردم‌شناسی",
-     "pageid": 141815,
-     "revision_id": 43775753,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامیان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "موزه مردم‌شناسی"
+     "target_pageid": 259007,
+     "target_revision_id": 43924400,
+     "target_title": "موزه مردم‌شناسی تهران",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -165,43 +160,10 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-   "value": "پاقلعه\nامامزاده بی بی حلیمه خاتون\nموزه مردم‌شناسی"
+   "value": "پاقلعه\nموزه مردم‌شناسی تهران"
   },
   "poi_nature": {
    "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک جنگلی",
-     "pageid": 141815,
-     "revision_id": 43775753,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامیان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "پارک جنگلی"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "گرم چشمه",
-     "pageid": 141815,
-     "revision_id": 43775753,
-     "section": "جاذبه های گردشگری",
-     "source_title": "رامیان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "گرم چشمه"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چشمه ساران",
-     "pageid": 141815,
-     "revision_id": 43775753,
-     "section": "جاذبه های گردشگری / قلعه موران (قلعه میران)",
-     "source_title": "رامیان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "چشمه ساران"
-    },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -211,7 +173,10 @@
      "section": "جاذبه های گردشگری / قلعه موران (قلعه میران)",
      "source_title": "رامیان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-     "target_title": "جنگل‌های هیرکانی"
+     "target_pageid": 1317542,
+     "target_revision_id": 44415077,
+     "target_title": "جنگل‌های هیرکانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -219,7 +184,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
-   "value": "پارک جنگلی\nگرم چشمه\nچشمه ساران\nجنگل‌های هیرکانی"
+   "value": "جنگل‌های هیرکانی"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

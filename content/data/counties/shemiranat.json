@@ -156,6 +156,30 @@
    "url": "",
    "value": "امامه\nدربندسر\nمهرچال\nاسون\nمنظریه\nتوچال\nشمشک\nدیزین"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "بوستان جنگلی لویزان",
+     "pageid": 2085,
+     "revision_id": 44081541,
+     "section": "جاذبه های گردشگری",
+     "source_title": "شهرستان شمیرانات",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
+     "target_pageid": 113297,
+     "target_revision_id": 44285092,
+     "target_title": "بوستان جنگلی لویزان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%84%D9%88%DB%8C%D8%B2%D8%A7%D9%86"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%85%DB%8C%D8%B1%D8%A7%D9%86%D8%A7%D8%AA",
+   "value": "بوستان جنگلی لویزان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

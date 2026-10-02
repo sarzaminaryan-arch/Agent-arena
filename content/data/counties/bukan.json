@@ -172,18 +172,24 @@
      "section": "مکان های تفریحی و گردشگری",
      "source_title": "بوکان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%DA%A9%D8%A7%D9%86",
-     "target_title": "شهربازی"
+     "target_pageid": 442335,
+     "target_revision_id": 43377222,
+     "target_title": "شهربازی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C"
     },
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پیست اسکی",
+     "name": "سینما",
      "pageid": 2320436,
      "revision_id": 44604815,
      "section": "مکان های تفریحی و گردشگری",
      "source_title": "بوکان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%DA%A9%D8%A7%D9%86",
-     "target_title": "پیست اسکی"
+     "target_pageid": 54221,
+     "target_revision_id": 43284874,
+     "target_title": "سینما",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7"
     }
    ],
    "fetched": "2026-10-02",
@@ -191,7 +197,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%DA%A9%D8%A7%D9%86",
-   "value": "شهربازی\nپیست اسکی"
+   "value": "شهربازی\nسینما"
   },
   "population": {
    "fetched": "2026-10-02",

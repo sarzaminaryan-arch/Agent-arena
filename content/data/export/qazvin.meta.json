@@ -13,7 +13,6 @@
   "sa_cty_language": "فارسی با گویش قزوینی؛ در بخش‌هایی ترکی آذربایجانی و تاتی",
   "sa_cty_livelihood": "کشاورزی (گندم و انگور)، صنایع بزرگ و حمل‌ونقل",
   "sa_cty_neighbors": "nazarabad - جنوب‌شرق\nalborz-qazvin - غرب\ntaleghan - شرق\nrudsar - شمال",
-  "sa_cty_poi_heritage": "امامزاده زکریا",
   "sa_cty_population": 94536,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.1,50.35"
  },
@@ -51,7 +50,7 @@
   "sa_cty_language": "فارسی با گویش قزوینی؛ در بخش‌هایی ترکی آذربایجانی و تاتی",
   "sa_cty_livelihood": "کشاورزی (گندم و انگور)، صنایع بزرگ و حمل‌ونقل",
   "sa_cty_neighbors": "razan-city - جنوب‌غرب\ndargazin - جنوب\nbuin-zahra - شرق\ntakestan - شمال‌شرق\nabhar - شمال\nkhodabandeh - شمال‌غرب",
-  "sa_cty_poi_heritage": "کاروانسرا\nآرامگاه\nمحراب مسجد",
+  "sa_cty_poi_heritage": "محراب مسجد",
   "sa_cty_population": 43798,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.57685,49.22241"
@@ -92,9 +91,8 @@
   "sa_cty_language": "فارسی با گویش قزوینی؛ در بخش‌هایی ترکی آذربایجانی و تاتی",
   "sa_cty_livelihood": "کشاورزی (گندم و انگور)، صنایع بزرگ و حمل‌ونقل",
   "sa_cty_neighbors": "alborz-qazvin - جنوب‌شرق\nrudbar - شمال‌غرب\nrudsar - شمال‌شرق\ntakestan - جنوب‌غرب\nsiahkal - شمال\nkharadere - غرب",
-  "sa_cty_poi_heritage": "قلعه سحر آمیز\nعمارت شهربانی\nکاخ چهل‌ستون قزوین\nموزه قزوین\nعمارت شهرداری قزوین\nعمارت باغ سپهدار\nعمارت سردار مفخم قزوین\nمیمون‌قلعه\nخانه بهروزی\nخانه عارف قزوینی\nخانه یزدی‌ها\nخانه جلیل آرازی",
-  "sa_cty_poi_nature": "قله مردمی\nقله شجاع الدین\nقله سلطان ویس",
-  "sa_cty_poi_recreation": "شهربازی دالفک\nشهربازی پارک ملت\nشهربازی پارک دهخدا",
+  "sa_cty_poi_heritage": "کاخ چهل‌ستون قزوین\nموزه قزوین\nعمارت شهرداری قزوین\nعمارت باغ سپهدار\nعمارت سردار مفخم قزوین\nمیمون‌قلعه\nخانه بهروزی\nخانه عارف قزوینی\nخانه یزدی‌ها\nخانه دائی\nخانه دربندی\nخانه رئوفی",
+  "sa_cty_poi_nature": "قله مردمی\nقله شجاع الدین",
   "sa_cty_population": 596932,
   "sa_cty_rural_districts": 14,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.43333,49.81667"

@@ -10,7 +10,10 @@
     "section": "زیارتگاه ها و مساجد",
     "source_title": "آران و بیدگل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-    "target_title": "امامزاده هلال بن علی"
+    "target_pageid": 657882,
+    "target_revision_id": 44214736,
+    "target_title": "امامزاده هلال بن علی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%87%D9%84%D8%A7%D9%84_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -21,7 +24,10 @@
     "section": "جاذبه های طبیعی",
     "source_title": "آران و بیدگل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-    "target_title": "کویر مرنجاب"
+    "target_pageid": 31978,
+    "target_revision_id": 44486588,
+    "target_title": "کویر مرنجاب",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%DB%8C%D8%B1_%D9%85%D8%B1%D9%86%D8%AC%D8%A7%D8%A8"
    },
    {
     "field": "poi_nature",
@@ -32,7 +38,10 @@
     "section": "جاذبه های طبیعی",
     "source_title": "آران و بیدگل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-    "target_title": "دریاچه نمک"
+    "target_pageid": 18582,
+    "target_revision_id": 44365656,
+    "target_title": "دریاچه نمک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%86%D9%85%DA%A9"
    },
    {
     "field": "poi_nature",
@@ -43,13 +52,17 @@
     "section": "جاذبه های طبیعی",
     "source_title": "آران و بیدگل",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
-    "target_title": "دشت کویر"
+    "target_pageid": 43243,
+    "target_revision_id": 44451480,
+    "target_title": "دشت کویر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B4%D8%AA_%DA%A9%D9%88%DB%8C%D8%B1"
    }
   ],
   "center_confirmed": true,
   "county": "آران و بیدگل",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
    "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84"
@@ -60,68 +73,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد جامع اردستان",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد جامع اردستان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد ملا یعقوب محله کبودان",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد ملا یعقوب محله کبودان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "قنات مون",
     "pageid": 28593,
     "revision_id": 43367942,
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "قنات مون"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قنات ارونه",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "قنات ارونه (محال)"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مقبره سلطان سید حسین",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مقبره سلطان سید حسین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آتشکده مهر اردشیر",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آتشکده مهر اردشیر"
+    "target_pageid": 411220,
+    "target_revision_id": 44466548,
+    "target_title": "قنات مون",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%AA_%D9%85%D9%88%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -132,51 +93,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آرامگاه امیر اویس"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد امام حسن محله بازار",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد امام حسن محله بازار"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مقبره سلطان بیگ اردستان",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مقبره سلطان بیگ اردستان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آب‌انبار مون اردستان",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آب‌انبار مون اردستان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آب‌انبار مسجد خسرو",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آب‌انبار مسجد خسرو"
+    "target_pageid": 657537,
+    "target_revision_id": 41786758,
+    "target_title": "آرامگاه امیر اویس",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D9%85%DB%8C%D8%B1_%D8%A7%D9%88%DB%8C%D8%B3"
    },
    {
     "field": "poi_heritage",
@@ -187,139 +107,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد خسرو"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آب انبار تاریخی مهاباد",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آب انبار تاریخی مهاباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مقبره پیر اویس / پیربرحق مهاباد",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مقبره پیر اویس / پیربرحق مهاباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه تاریخی ارباب حسین مهابادی",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "خانه تاریخی ارباب حسین مهابادی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه تاریخی ایلخانی مهابادی",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "خانه تاریخی ایلخانی مهابادی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد جامع مهاباد",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد جامع مهاباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "حسینیه مرکزی مهاباد",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "حسینیه مرکزی مهاباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مقبره هفت سیدبزرگوار مهاباد",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مقبره هفت سیدبزرگوار مهاباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آتشکده و خندق مهاباد",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آتشکده و خندق مهاباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آب‌انبار باغ بازان زواره",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آب‌انبار باغ بازان زواره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آب‌انبار نو زواره",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آب‌انبار نو زواره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آب‌انبار پامنار زواره",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آب‌انبار پامنار زواره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "کاروانسرای بغم",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "کاروانسرای بغم"
+    "target_pageid": 657552,
+    "target_revision_id": 44344048,
+    "target_title": "مسجد خسرو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AE%D8%B3%D8%B1%D9%88"
    },
    {
     "field": "poi_heritage",
@@ -330,7 +121,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "کاروانسرای ظفرقند"
+    "target_pageid": 671776,
+    "target_revision_id": 43086716,
+    "target_title": "کاروانسرای ظفرقند",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B8%D9%81%D8%B1%D9%82%D9%86%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -341,7 +135,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "حسینیه بزرگ زواره"
+    "target_pageid": 664166,
+    "target_revision_id": 44148746,
+    "target_title": "حسینیه بزرگ زواره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86%DB%8C%D9%87_%D8%A8%D8%B2%D8%B1%DA%AF_%D8%B2%D9%88%D8%A7%D8%B1%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -352,18 +149,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "حسینیه کوچک زواره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد سام‌الدین زواره",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد سام‌الدین زواره"
+    "target_pageid": 664167,
+    "target_revision_id": 44148885,
+    "target_title": "حسینیه کوچک زواره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86%DB%8C%D9%87_%DA%A9%D9%88%DA%86%DA%A9_%D8%B2%D9%88%D8%A7%D8%B1%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -374,73 +163,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد جامع زواره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مسجد جامع اونج",
-    "pageid": 28593,
-    "revision_id": 43367942,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد جامع اونج"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد جامع اردستان",
-    "pageid": 18804,
-    "revision_id": 44610067,
-    "section": "آثار تاریخی / مسجد جامع اردستان",
-    "source_title": "اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد جامع اردستان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قنات دو طبقه مون",
-    "pageid": 18804,
-    "revision_id": 44610067,
-    "section": "آثار تاریخی / قنات دو طبقه",
-    "source_title": "اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "قنات دو طبقه مون"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قنات",
-    "pageid": 18804,
-    "revision_id": 44610067,
-    "section": "آثار تاریخی / قنات دو طبقه",
-    "source_title": "اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "قنات"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد خسرو",
-    "pageid": 18804,
-    "revision_id": 44610067,
-    "section": "دیگر آثار تاریخی شهر اردستان",
-    "source_title": "اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد خسرو"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه امیر اویس",
-    "pageid": 18804,
-    "revision_id": 44610067,
-    "section": "دیگر آثار تاریخی شهر اردستان",
-    "source_title": "اردستان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "آرامگاه امیر اویس"
+    "target_pageid": 882033,
+    "target_revision_id": 44343810,
+    "target_title": "مسجد جامع زواره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B2%D9%88%D8%A7%D8%B1%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -451,7 +177,10 @@
     "section": "دیگر آثار تاریخی شهر اردستان",
     "source_title": "اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مناره مسجد امام حسن"
+    "target_pageid": 656319,
+    "target_revision_id": 44350966,
+    "target_title": "مناره مسجد امام حسن",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%85%D8%A7%D9%85_%D8%AD%D8%B3%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -462,7 +191,10 @@
     "section": "دیگر آثار تاریخی شهر اردستان",
     "source_title": "اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "مسجد دربند"
+    "target_pageid": 671624,
+    "target_revision_id": 44344083,
+    "target_title": "مسجد دربند",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AF%D8%B1%D8%A8%D9%86%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -473,13 +205,114 @@
     "section": "دیگر آثار تاریخی شهر اردستان",
     "source_title": "اردستان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
-    "target_title": "خانه امیران"
+    "target_pageid": 669741,
+    "target_revision_id": 44154405,
+    "target_title": "خانه امیران",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D9%85%DB%8C%D8%B1%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "اردستان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "مسجد جامع اردستان",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "مسجد ملا یعقوب محله کبودان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "قنات ارونه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مقبره سلطان سید حسین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آتشکده مهر اردشیر",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد امام حسن محله بازار",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مقبره سلطان بیگ اردستان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب‌انبار مون اردستان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب‌انبار مسجد خسرو",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب انبار تاریخی مهاباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مقبره پیر اویس / پیربرحق مهاباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه تاریخی ارباب حسین مهابادی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه تاریخی ایلخانی مهابادی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد جامع مهاباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حسینیه مرکزی مهاباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مقبره هفت سیدبزرگوار مهاباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آتشکده و خندق مهاباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب‌انبار باغ بازان زواره",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب‌انبار نو زواره",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب‌انبار پامنار زواره",
+    "reason": "target page missing"
+   },
+   {
+    "name": "کاروانسرای بغم",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد سام‌الدین زواره",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد جامع اونج",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد جامع اردستان",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86"
@@ -491,6 +324,7 @@
   "county": "برخوار",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D8%AE%D9%88%D8%A7%D8%B1"
   ]
@@ -501,6 +335,7 @@
   "county": "بوئین و میاندشت",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A6%DB%8C%D9%86_%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D8%B4%D8%AA"
   ]
@@ -511,6 +346,7 @@
   "county": "چادگان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%AF%DA%AF%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%AF%DA%AF%D8%A7%D9%86"
@@ -522,6 +358,7 @@
   "county": "دهاقان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%87%D8%A7%D9%82%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%A7%D9%82%D8%A7%D9%86"
@@ -538,13 +375,17 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان فلاورجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86",
-    "target_title": "پل بابا محمود"
+    "target_pageid": 656651,
+    "target_revision_id": 42714151,
+    "target_title": "پل بابا محمود",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A8%D8%A7%D8%A8%D8%A7_%D9%85%D8%AD%D9%85%D9%88%D8%AF"
    }
   ],
   "center_confirmed": true,
   "county": "فلاورجان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86"
@@ -556,6 +397,7 @@
   "county": "فریدن",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%D8%A7%D9%86"
@@ -572,7 +414,10 @@
     "section": "مکان های دیدنی / تفرج گاه / پیست اسکی",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "پیست اسکی فریدون‌شهر"
+    "target_pageid": 627325,
+    "target_revision_id": 43923125,
+    "target_title": "پیست اسکی فریدون‌شهر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -583,7 +428,10 @@
     "section": "مکان های دیدنی / تفرج گاه / کوه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "دره غول"
+    "target_pageid": 626749,
+    "target_revision_id": 15281228,
+    "target_title": "دره غول",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D8%BA%D9%88%D9%84"
    },
    {
     "field": "poi_nature",
@@ -594,7 +442,10 @@
     "section": "مکان های دیدنی / تفرج گاه / کوه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "کوه سوره"
+    "target_pageid": 626758,
+    "target_revision_id": 15281240,
+    "target_title": "کوه سوره",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B3%D9%88%D8%B1%D9%87"
    },
    {
     "field": "poi_nature",
@@ -605,7 +456,10 @@
     "section": "مکان های دیدنی / تفرج گاه / کوه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "کوه مارک"
+    "target_pageid": 626762,
+    "target_revision_id": 43217414,
+    "target_title": "کوه مارک",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%85%D8%A7%D8%B1%DA%A9"
    },
    {
     "field": "poi_nature",
@@ -616,7 +470,10 @@
     "section": "مکان های دیدنی / تفرج گاه / کوه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "کوه هشتاد"
+    "target_pageid": 626763,
+    "target_revision_id": 43923119,
+    "target_title": "کوه هشتاد",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%87%D8%B4%D8%AA%D8%A7%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -627,18 +484,10 @@
     "section": "مکان های دیدنی / تفرج گاه / غارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "غار کبوتران"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "غار کلبیس",
-    "pageid": 21755,
-    "revision_id": 44335078,
-    "section": "مکان های دیدنی / تفرج گاه / غارها",
-    "source_title": "شهرستان فریدون‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "غار کلبیس"
+    "target_pageid": 627329,
+    "target_revision_id": 29359562,
+    "target_title": "غار کبوتران",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%A9%D8%A8%D9%88%D8%AA%D8%B1%D8%A7%D9%86"
    },
    {
     "field": "poi_nature",
@@ -649,7 +498,10 @@
     "section": "مکان های دیدنی / تفرج گاه / غارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "غار باووک"
+    "target_pageid": 627332,
+    "target_revision_id": 27467580,
+    "target_title": "غار باووک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A8%D8%A7%D9%88%D9%88%DA%A9"
    },
    {
     "field": "poi_nature",
@@ -660,18 +512,24 @@
     "section": "مکان های دیدنی / تفرج گاه / غارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "غار پیرهشتاد"
+    "target_pageid": 627335,
+    "target_revision_id": 27467633,
+    "target_title": "غار پیرهشتاد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%BE%DB%8C%D8%B1%D9%87%D8%B4%D8%AA%D8%A7%D8%AF"
    },
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "غار چشمه ریسان",
+    "name": "غار چشمه‌ریسان",
     "pageid": 21755,
     "revision_id": 44335078,
     "section": "مکان های دیدنی / تفرج گاه / غارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "غار چشمه ریسان"
+    "target_pageid": 627336,
+    "target_revision_id": 42311417,
+    "target_title": "غار چشمه‌ریسان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B1%DB%8C%D8%B3%D8%A7%D9%86"
    },
    {
     "field": "poi_nature",
@@ -682,7 +540,10 @@
     "section": "مکان های دیدنی / تفرج گاه / آبشارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "آبشار دورک"
+    "target_pageid": 627069,
+    "target_revision_id": 27303499,
+    "target_title": "آبشار دورک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AF%D9%88%D8%B1%DA%A9"
    },
    {
     "field": "poi_nature",
@@ -693,7 +554,10 @@
     "section": "مکان های دیدنی / تفرج گاه / آبشارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "آبشار طرزه"
+    "target_pageid": 627072,
+    "target_revision_id": 27200946,
+    "target_title": "آبشار طرزه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B7%D8%B1%D8%B2%D9%87"
    },
    {
     "field": "poi_nature",
@@ -704,62 +568,38 @@
     "section": "مکان های دیدنی / تفرج گاه / آبشارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "آبشار پشندگان"
+    "target_pageid": 627060,
+    "target_revision_id": 27200972,
+    "target_title": "آبشار پشندگان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%BE%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86"
    },
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "آبشار پونه زار",
+    "name": "آبشار پونه‌زار",
     "pageid": 21755,
     "revision_id": 44335078,
     "section": "مکان های دیدنی / تفرج گاه / آبشارها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "آبشار پونه زار"
+    "target_pageid": 627068,
+    "target_revision_id": 44539361,
+    "target_title": "آبشار پونه‌زار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%BE%D9%88%D9%86%D9%87%E2%80%8C%D8%B2%D8%A7%D8%B1"
    },
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "چشمه آب لت",
+    "name": "چشمه بابااحمد",
     "pageid": 21755,
     "revision_id": 44335078,
     "section": "مکان های دیدنی / تفرج گاه / چشمه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "چشمه آب لت"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه بابا احمد",
-    "pageid": 21755,
-    "revision_id": 44335078,
-    "section": "مکان های دیدنی / تفرج گاه / چشمه ها",
-    "source_title": "شهرستان فریدون‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "چشمه بابا احمد"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه تنگوله",
-    "pageid": 21755,
-    "revision_id": 44335078,
-    "section": "مکان های دیدنی / تفرج گاه / چشمه ها",
-    "source_title": "شهرستان فریدون‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "چشمه تنگوله"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه دره سپستان",
-    "pageid": 21755,
-    "revision_id": 44335078,
-    "section": "مکان های دیدنی / تفرج گاه / چشمه ها",
-    "source_title": "شهرستان فریدون‌شهر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "چشمه دره سپستان"
+    "target_pageid": 627346,
+    "target_revision_id": 27181239,
+    "target_title": "چشمه بابااحمد",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A8%D8%A7%D8%A8%D8%A7%D8%A7%D8%AD%D9%85%D8%AF"
    },
    {
     "field": "poi_nature",
@@ -770,7 +610,10 @@
     "section": "مکان های دیدنی / تفرج گاه / چشمه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "چشمه سراب"
+    "target_pageid": 627350,
+    "target_revision_id": 40882102,
+    "target_title": "چشمه سراب",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%B3%D8%B1%D8%A7%D8%A8"
    },
    {
     "field": "poi_nature",
@@ -781,13 +624,34 @@
     "section": "مکان های دیدنی / تفرج گاه / چشمه ها",
     "source_title": "شهرستان فریدون‌شهر",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
-    "target_title": "چشمه لنگان"
+    "target_pageid": 627351,
+    "target_revision_id": 34110734,
+    "target_title": "چشمه لنگان",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D9%84%D9%86%DA%AF%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "فریدونشهر",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "غار کلبیس",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "چشمه آب لت",
+    "reason": "target page missing"
+   },
+   {
+    "name": "چشمه تنگوله",
+    "reason": "target page missing"
+   },
+   {
+    "name": "چشمه دره سپستان",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
    "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1"
@@ -798,13 +662,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سنگ نگاره",
+    "name": "سنگ‌نگاره",
     "pageid": 16085,
     "revision_id": 44504233,
     "section": "آثار تاریخی گلپایگان",
     "source_title": "گلپایگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "سنگ نگاره"
+    "target_pageid": 1728420,
+    "target_revision_id": 41248595,
+    "target_title": "سنگ‌نگاره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -815,7 +682,10 @@
     "section": "آثار تاریخی گلپایگان",
     "source_title": "گلپایگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "مسجد جامع گلپایگان"
+    "target_pageid": 398630,
+    "target_revision_id": 44453810,
+    "target_title": "مسجد جامع گلپایگان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -826,7 +696,10 @@
     "section": "آثار تاریخی گلپایگان",
     "source_title": "گلپایگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "بازار چهارسوق"
+    "target_pageid": 398629,
+    "target_revision_id": 42437427,
+    "target_title": "بازار چهارسوق",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%DA%86%D9%87%D8%A7%D8%B1%D8%B3%D9%88%D9%82"
    },
    {
     "field": "poi_heritage",
@@ -837,7 +710,10 @@
     "section": "آثار تاریخی گلپایگان",
     "source_title": "گلپایگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "مناره گلپایگان"
+    "target_pageid": 398631,
+    "target_revision_id": 44454340,
+    "target_title": "مناره گلپایگان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%B1%D9%87_%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -848,7 +724,10 @@
     "section": "آثار تاریخی گلپایگان",
     "source_title": "گلپایگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "ارگ گوگد"
+    "target_pageid": 363743,
+    "target_revision_id": 43527353,
+    "target_title": "ارگ گوگد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%DA%AF%D9%88%DA%AF%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -859,46 +738,30 @@
     "section": "آثار تاریخی گلپایگان",
     "source_title": "گلپایگان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "امامزاده هفده تن"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه باقرخان",
-    "pageid": 16085,
-    "revision_id": 44504233,
-    "section": "آثار تاریخی گلپایگان",
-    "source_title": "گلپایگان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "قلعه باقرخان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کبوتر خانه‌ها",
-    "pageid": 16085,
-    "revision_id": 44504233,
-    "section": "آثار تاریخی گلپایگان",
-    "source_title": "گلپایگان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "کبوتر خانه‌ها"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "سنگ‌نگاره‌های غرقاب و کوچری",
-    "pageid": 16085,
-    "revision_id": 44504233,
-    "section": "آثار تاریخی گلپایگان",
-    "source_title": "گلپایگان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-    "target_title": "سنگ‌نگاره‌های غرقاب و کوچری"
+    "target_pageid": 656353,
+    "target_revision_id": 31505703,
+    "target_title": "امامزاده هفده تن",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%87%D9%81%D8%AF%D9%87_%D8%AA%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "گلپایگان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "قلعه باقرخان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "کبوتر خانه‌ها",
+    "reason": "target page missing"
+   },
+   {
+    "name": "سنگ‌نگاره‌های غرقاب و کوچری",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86"
@@ -910,6 +773,7 @@
   "county": "هرند",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D9%86%D8%AF",
    "https://fa.wikipedia.org/wiki/%D9%87%D8%B1%D9%86%D8%AF"
@@ -926,7 +790,10 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد شاه (اصفهان)"
+    "target_pageid": 110073,
+    "target_revision_id": 43862674,
+    "target_title": "مسجد شاه (اصفهان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B4%D8%A7%D9%87_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -937,7 +804,10 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "پل خواجو"
+    "target_pageid": 186082,
+    "target_revision_id": 44596149,
+    "target_title": "پل خواجو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AE%D9%88%D8%A7%D8%AC%D9%88"
    },
    {
     "field": "poi_heritage",
@@ -948,7 +818,10 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "پل مارنان"
+    "target_pageid": 2171,
+    "target_revision_id": 41742289,
+    "target_title": "پل مارنان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%85%D8%A7%D8%B1%D9%86%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -959,18 +832,24 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد جامع اصفهان"
+    "target_pageid": 4320801,
+    "target_revision_id": 44343716,
+    "target_title": "مسجد جامع اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد سیّد",
+    "name": "مسجد سید",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد سیّد"
+    "target_pageid": 427252,
+    "target_revision_id": 44506471,
+    "target_title": "مسجد سید",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%DB%8C%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -981,29 +860,10 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد شیخ لطف‌الله"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "برج کبوترخانه",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / جاذبه های تاریخی",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "برج کبوترخانه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خیابان چهارباغ اصفهان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / جاذبه های تاریخی",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خیابان چهارباغ اصفهان"
+    "target_pageid": 30644,
+    "target_revision_id": 44482883,
+    "target_title": "مسجد شیخ لطف‌الله",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B4%DB%8C%D8%AE_%D9%84%D8%B7%D9%81%E2%80%8C%D8%A7%D9%84%D9%84%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -1014,7 +874,10 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "کلیسای وانک"
+    "target_pageid": 37778,
+    "target_revision_id": 44285706,
+    "target_title": "کلیسای وانک",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D9%88%D8%A7%D9%86%DA%A9"
    },
    {
     "field": "poi_heritage",
@@ -1025,7 +888,10 @@
     "section": "گردشگری و تفریح / جاذبه های تاریخی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "حمام علی‌قلی‌آقا"
+    "target_pageid": 632517,
+    "target_revision_id": 44150604,
+    "target_title": "حمام علی‌قلی‌آقا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B9%D9%84%DB%8C%E2%80%8C%D9%82%D9%84%DB%8C%E2%80%8C%D8%A2%D9%82%D8%A7"
    },
    {
     "field": "poi_nature",
@@ -1036,18 +902,10 @@
     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "کوه صفه"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک جنگلی ناژوان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "پارک جنگلی ناژوان"
+    "target_pageid": 31899,
+    "target_revision_id": 44484832,
+    "target_title": "کوه صفه",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B5%D9%81%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -1058,7 +916,10 @@
     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "باغ پرندگان اصفهان"
+    "target_pageid": 2491686,
+    "target_revision_id": 42847330,
+    "target_title": "باغ پرندگان اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1069,21 +930,27 @@
     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "باغ فدک اصفهان"
+    "target_pageid": 3240457,
+    "target_revision_id": 43815620,
+    "target_title": "باغ فدک اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%81%D8%AF%DA%A9_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
    },
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان",
+    "name": "پردیس سینمایی چهارباغ",
     "pageid": 2169,
     "revision_id": 44613583,
-    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "بوستان (پارک)"
+    "target_pageid": 3947989,
+    "target_revision_id": 44172398,
+    "target_title": "پردیس سینمایی چهارباغ",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%A7%D8%BA"
    },
    {
-    "field": "poi_nature",
+    "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پردیس سینمایی ساحل اصفهان",
     "pageid": 2169,
@@ -1091,7 +958,108 @@
     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "پردیس سینمایی ساحل اصفهان"
+    "target_pageid": 3962748,
+    "target_revision_id": 44452097,
+    "target_title": "پردیس سینمایی ساحل اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%B3%D8%A7%D8%AD%D9%84_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پردیس سینمایی سیتی سنتر اصفهان",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 4646491,
+    "target_revision_id": 43962091,
+    "target_title": "پردیس سینمایی سیتی سنتر اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%B3%DB%8C%D8%AA%DB%8C_%D8%B3%D9%86%D8%AA%D8%B1_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سینما بهمن خوراسگان",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 4785924,
+    "target_revision_id": 41696071,
+    "target_title": "سینما بهمن خوراسگان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%A8%D9%87%D9%85%D9%86_%D8%AE%D9%88%D8%B1%D8%A7%D8%B3%DA%AF%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سینما سپاهان",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 941984,
+    "target_revision_id": 43081950,
+    "target_title": "سینما سپاهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سینما سوره",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 3962775,
+    "target_revision_id": 23894715,
+    "target_title": "سینما سوره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B3%D9%88%D8%B1%D9%87"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سینما فرهنگیان اصفهان",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 4649060,
+    "target_revision_id": 44251283,
+    "target_title": "سینما فرهنگیان اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C%D8%A7%D9%86_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سینما فلسطین",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 3962773,
+    "target_revision_id": 35812060,
+    "target_title": "سینما فلسطین (اصفهان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سینما قدس",
+    "pageid": 2169,
+    "revision_id": 44613583,
+    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+    "source_title": "اصفهان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+    "target_pageid": 3962781,
+    "target_revision_id": 40828987,
+    "target_title": "سینما قدس (اصفهان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%82%D8%AF%D8%B3_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -1102,7 +1070,10 @@
     "section": "گردشگری و تفریح / ورزش ها / گرمابه ها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "حمام جارچی"
+    "target_pageid": 668908,
+    "target_revision_id": 44014486,
+    "target_title": "حمام جارچی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AC%D8%A7%D8%B1%DA%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1113,18 +1084,10 @@
     "section": "گردشگری و تفریح / ورزش ها / پل ها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "پل شهرستان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پل الله وردیخان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / پل ها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "پل الله وردیخان"
+    "target_pageid": 281012,
+    "target_revision_id": 44422622,
+    "target_title": "پل شهرستان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1135,18 +1098,10 @@
     "section": "گردشگری و تفریح / ورزش ها / بازارها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "بازار اصفهان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار قیصریه اصفهان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / بازارها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "بازار قیصریه اصفهان"
+    "target_pageid": 366893,
+    "target_revision_id": 44018622,
+    "target_title": "بازار اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1157,29 +1112,38 @@
     "section": "گردشگری و تفریح / ورزش ها / بازارها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "بازار مسگرها (اصفهان)"
+    "target_pageid": 640599,
+    "target_revision_id": 35204901,
+    "target_title": "بازار مسگرها (اصفهان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%D8%B3%DA%AF%D8%B1%D9%87%D8%A7_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بازار هنر",
+    "name": "بازار هنر اصفهان",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / بازارها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "بازار هنر"
+    "target_pageid": 2107934,
+    "target_revision_id": 35204856,
+    "target_title": "بازار هنر اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%87%D9%86%D8%B1_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد علی",
+    "name": "مسجد و مناره علی",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد علی (اصفهان)"
+    "target_pageid": 93554,
+    "target_revision_id": 43617726,
+    "target_title": "مسجد و مناره علی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%88_%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D8%B9%D9%84%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1190,7 +1154,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد حکیم"
+    "target_pageid": 2178,
+    "target_revision_id": 43617672,
+    "target_title": "مسجد حکیم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%DA%A9%DB%8C%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -1201,7 +1168,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد جامع"
+    "target_pageid": 139544,
+    "target_revision_id": 44336507,
+    "target_title": "مسجد جامع",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9"
    },
    {
     "field": "poi_heritage",
@@ -1212,18 +1182,24 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد حاج محمد جعفرآباده‌ای"
+    "target_pageid": 657496,
+    "target_revision_id": 44343996,
+    "target_title": "مسجد حاج محمد جعفرآباده‌ای",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF_%D8%AC%D8%B9%D9%81%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF%D9%87%E2%80%8C%D8%A7%DB%8C"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد علیقلی‌آقا",
+    "name": "مسجد علی‌قلی‌آقا",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد علیقلی‌آقا"
+    "target_pageid": 391169,
+    "target_revision_id": 43532445,
+    "target_title": "مسجد علی‌قلی‌آقا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B9%D9%84%DB%8C%E2%80%8C%D9%82%D9%84%DB%8C%E2%80%8C%D8%A2%D9%82%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -1234,7 +1210,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد قطبیه"
+    "target_pageid": 665446,
+    "target_revision_id": 44344360,
+    "target_title": "مسجد قطبیه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%82%D8%B7%D8%A8%DB%8C%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -1245,7 +1224,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد آقانور"
+    "target_pageid": 657785,
+    "target_revision_id": 44343528,
+    "target_title": "مسجد آقانور",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A2%D9%82%D8%A7%D9%86%D9%88%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -1256,7 +1238,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد مقصودبیک"
+    "target_pageid": 1833479,
+    "target_revision_id": 43723266,
+    "target_title": "مسجد مقصودبیک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D9%82%D8%B5%D9%88%D8%AF%D8%A8%DB%8C%DA%A9"
    },
    {
     "field": "poi_heritage",
@@ -1267,51 +1252,38 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد ایلچی"
+    "target_pageid": 656335,
+    "target_revision_id": 44343622,
+    "target_title": "مسجد ایلچی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%DB%8C%D9%84%DA%86%DB%8C"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد آقا نور",
+    "name": "مسجد رکن‌الملک",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد آقا نور"
+    "target_pageid": 657473,
+    "target_revision_id": 44469533,
+    "target_title": "مسجد رکن‌الملک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B1%DA%A9%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%DA%A9"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد رکن الملک",
+    "name": "مسجد رحیم‌خان",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد رکن الملک"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد سید",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / مسجدها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد سید"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد رحیم خان",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / مسجدها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد رحیم خان"
+    "target_pageid": 657912,
+    "target_revision_id": 44344114,
+    "target_title": "مسجد رحیم‌خان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B1%D8%AD%DB%8C%D9%85%E2%80%8C%D8%AE%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1322,7 +1294,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد صفا"
+    "target_pageid": 657597,
+    "target_revision_id": 44344269,
+    "target_title": "مسجد صفا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B5%D9%81%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -1333,7 +1308,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد دروازه نو"
+    "target_pageid": 657711,
+    "target_revision_id": 44344087,
+    "target_title": "مسجد دروازه نو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%D9%86%D9%88"
    },
    {
     "field": "poi_heritage",
@@ -1344,7 +1322,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد مصری"
+    "target_pageid": 656337,
+    "target_revision_id": 44344401,
+    "target_title": "مسجد مصری",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%B5%D8%B1%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1355,7 +1336,10 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد ساروتقی"
+    "target_pageid": 656222,
+    "target_revision_id": 43923090,
+    "target_title": "مسجد ساروتقی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D8%A7%D8%B1%D9%88%D8%AA%D9%82%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1366,18 +1350,24 @@
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مسجد لنبان"
+    "target_pageid": 656350,
+    "target_revision_id": 44344381,
+    "target_title": "مسجد لنبان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%84%D9%86%D8%A8%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مدرسه صدر پا قلعه",
+    "name": "مدرسه صدر پاقلعه",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / مسجدها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "مدرسه صدر پا قلعه (سید العراقین)"
+    "target_pageid": 663113,
+    "target_revision_id": 44333552,
+    "target_title": "مدرسه صدر پاقلعه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D8%B5%D8%AF%D8%B1_%D9%BE%D8%A7%D9%82%D9%84%D8%B9%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -1388,18 +1378,24 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "موزه تاریخ طبیعی (اصفهان)"
+    "target_pageid": 2462767,
+    "target_revision_id": 44356682,
+    "target_title": "موزه تاریخ طبیعی (اصفهان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه هنرهای معاصر اصفهان",
+    "name": "موزه هنرهای تزئینی و معاصر اصفهان",
     "pageid": 2169,
     "revision_id": 44613583,
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "موزه هنرهای معاصر اصفهان"
+    "target_pageid": 17084,
+    "target_revision_id": 43141612,
+    "target_title": "موزه هنرهای تزئینی و معاصر اصفهان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%87%D9%86%D8%B1%D9%87%D8%A7%DB%8C_%D8%AA%D8%B2%D8%A6%DB%8C%D9%86%DB%8C_%D9%88_%D9%85%D8%B9%D8%A7%D8%B5%D8%B1_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1410,7 +1406,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه شیخ الاسلام"
+    "target_pageid": 656961,
+    "target_revision_id": 44155494,
+    "target_title": "خانه شیخ الاسلام",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B4%DB%8C%D8%AE_%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -1421,7 +1420,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه مشروطه (اصفهان)"
+    "target_pageid": 291959,
+    "target_revision_id": 43693452,
+    "target_title": "خانه مشروطه (اصفهان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%B4%D8%B1%D9%88%D8%B7%D9%87_%28%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -1432,7 +1434,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه حاج مصورالملکی"
+    "target_pageid": 656956,
+    "target_revision_id": 44154828,
+    "target_title": "خانه حاج مصورالملکی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%A7%D8%AC_%D9%85%D8%B5%D9%88%D8%B1%D8%A7%D9%84%D9%85%D9%84%DA%A9%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1443,7 +1448,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه رحیم یداللهی"
+    "target_pageid": 657318,
+    "target_revision_id": 44155144,
+    "target_title": "خانه رحیم یداللهی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D8%AD%DB%8C%D9%85_%DB%8C%D8%AF%D8%A7%D9%84%D9%84%D9%87%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1454,7 +1462,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه مرتضی عاصمی"
+    "target_pageid": 657048,
+    "target_revision_id": 44156055,
+    "target_title": "خانه مرتضی عاصمی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%D8%B9%D8%A7%D8%B5%D9%85%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1465,18 +1476,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه محمدباقر نیلفروشان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه حقیقی",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه حقیقی"
+    "target_pageid": 656963,
+    "target_revision_id": 44156001,
+    "target_title": "خانه محمدباقر نیلفروشان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%AD%D9%85%D8%AF%D8%A8%D8%A7%D9%82%D8%B1_%D9%86%DB%8C%D9%84%D9%81%D8%B1%D9%88%D8%B4%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1487,7 +1490,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه داوید"
+    "target_pageid": 660149,
+    "target_revision_id": 44155061,
+    "target_title": "خانه داوید",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AF%D8%A7%D9%88%DB%8C%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -1498,7 +1504,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه مارتا پیترز"
+    "target_pageid": 656955,
+    "target_revision_id": 44155928,
+    "target_title": "خانه مارتا پیترز",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%A7%D8%B1%D8%AA%D8%A7_%D9%BE%DB%8C%D8%AA%D8%B1%D8%B2"
    },
    {
     "field": "poi_heritage",
@@ -1509,7 +1518,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه اعلم"
+    "target_pageid": 657596,
+    "target_revision_id": 44154351,
+    "target_title": "خانه اعلم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%B9%D9%84%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -1520,7 +1532,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "خانه قزوینی‌ها"
+    "target_pageid": 2341148,
+    "target_revision_id": 42844050,
+    "target_title": "خانه قزوینی‌ها",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%82%D8%B2%D9%88%DB%8C%D9%86%DB%8C%E2%80%8C%D9%87%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -1531,51 +1546,10 @@
     "section": "گردشگری و تفریح / ورزش ها / خانه های قدیمی",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "حمام شیخ بهایی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای مریم و هاکوپ",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / جاذبه های مذهبی / کلیساها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "کلیسای مریم و هاکوپ"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای گئورگ",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / جاذبه های مذهبی / کلیساها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "کلیسای گئورگ"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای نرسس",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / جاذبه های مذهبی / کلیساها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "کلیسای نرسس"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای هاکوپ",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / جاذبه های مذهبی / کلیساها",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "کلیسای هاکوپ"
+    "target_pageid": 657853,
+    "target_revision_id": 44150564,
+    "target_title": "حمام شیخ بهایی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B4%DB%8C%D8%AE_%D8%A8%D9%87%D8%A7%DB%8C%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1586,13 +1560,54 @@
     "section": "گردشگری و تفریح / جاذبه های مذهبی / گورستان ها",
     "source_title": "اصفهان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_title": "باغ رضوان"
+    "target_pageid": 303071,
+    "target_revision_id": 43923128,
+    "target_title": "باغ رضوان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B1%D8%B6%D9%88%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "اصفهان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "برج کبوترخانه",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "خیابان چهارباغ اصفهان",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "پارک جنگلی ناژوان",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "پل الله وردیخان",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "خانه حقیقی",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کلیسای مریم و هاکوپ",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کلیسای گئورگ مقدس",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کلیسای نرسس مقدس",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کلیسای مریم و هاکوپ",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
@@ -1603,35 +1618,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد جامع رامشه",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "مسجد جامع رامشه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "مسجد جامع محمدآباد جرقویه",
     "pageid": 5758510,
     "revision_id": 44300926,
     "section": "آثار و مناطق دیدنی",
     "source_title": "شهرستان جرقویه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "مسجد جامع محمدآباد جرقویه"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه محمد نوجوان",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "کوه محمد نوجوان"
+    "target_pageid": 669412,
+    "target_revision_id": 44343871,
+    "target_title": "مسجد جامع محمدآباد جرقویه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%85%D8%AD%D9%85%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87"
    },
    {
     "field": "poi_nature",
@@ -1642,90 +1638,54 @@
     "section": "آثار و مناطق دیدنی",
     "source_title": "شهرستان جرقویه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "کوه کلاه قاضی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه احمد رخشا",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "خانه احمد رخشا"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه ایلخانی",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "خانه ایلخانی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه داستانی",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "خانه داستانی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "حسینیه رامشه",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "حسینیه رامشه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "حمام پای تالار رامشه",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "حمام پای تالار رامشه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "مجموعه مناره و مسجد قدیمی",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "مجموعه مناره و مسجد قدیمی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه حاج حسین حسینی",
-    "pageid": 5758510,
-    "revision_id": 44300926,
-    "section": "آثار و مناطق دیدنی",
-    "source_title": "شهرستان جرقویه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87",
-    "target_title": "خانه حاج حسین حسینی"
+    "target_pageid": 2772599,
+    "target_revision_id": 42967645,
+    "target_title": "کوه کلاه قاضی",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%DA%A9%D9%84%D8%A7%D9%87_%D9%82%D8%A7%D8%B6%DB%8C"
    }
   ],
   "center_confirmed": false,
   "county": "جرقویه",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "مسجد جامع رامشه",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کوه محمد نوجوان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه احمد رخشا",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "خانه ایلخانی",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "خانه داستانی",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "حسینیه رامشه",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "حمام پای تالار",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "مجموعه مناره و مسجد قدیمی رامشه",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "خانه حاج حسین حسینی",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B1%D9%82%D9%88%DB%8C%D9%87"
   ]
@@ -1741,18 +1701,24 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "باغ فین"
+    "target_pageid": 52870,
+    "target_revision_id": 44135846,
+    "target_title": "باغ فین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%81%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "خانه طباطبایی ها",
+    "name": "خانه طباطبایی‌ها",
     "pageid": 44534,
     "revision_id": 44534478,
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "خانه طباطبایی ها"
+    "target_pageid": 155090,
+    "target_revision_id": 43001335,
+    "target_title": "خانه طباطبایی‌ها",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B7%D8%A8%D8%A7%D8%B7%D8%A8%D8%A7%DB%8C%DB%8C%E2%80%8C%D9%87%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -1763,7 +1729,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "خانه بروجردی‌ها"
+    "target_pageid": 155217,
+    "target_revision_id": 44382625,
+    "target_title": "خانه بروجردی‌ها",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF%DB%8C%E2%80%8C%D9%87%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -1774,7 +1743,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "خانه عباسیان"
+    "target_pageid": 161230,
+    "target_revision_id": 44155614,
+    "target_title": "خانه عباسیان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1785,7 +1757,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "خانه عامری‌ها"
+    "target_pageid": 155092,
+    "target_revision_id": 41218093,
+    "target_title": "خانه عامری‌ها",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B9%D8%A7%D9%85%D8%B1%DB%8C%E2%80%8C%D9%87%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -1796,7 +1771,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "حمام سلطان امیر احمد"
+    "target_pageid": 657268,
+    "target_revision_id": 44150516,
+    "target_title": "حمام سلطان امیر احمد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%85%DB%8C%D8%B1_%D8%A7%D8%AD%D9%85%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -1807,18 +1785,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "حمام خان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه ی وکیل",
-    "pageid": 44534,
-    "revision_id": 44534478,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان کاشان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "خانه ی وکیل"
+    "target_pageid": 753834,
+    "target_revision_id": 26980617,
+    "target_title": "حمام خان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AE%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -1829,62 +1799,38 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "خانه منوچهری"
+    "target_pageid": 3827941,
+    "target_revision_id": 39304455,
+    "target_title": "خانه منوچهری",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D9%86%D9%88%DA%86%D9%87%D8%B1%DB%8C"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد میرعماد",
+    "name": "تیمچه و سرای بخشی",
     "pageid": 44534,
     "revision_id": 44534478,
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "مسجد میرعماد"
+    "target_pageid": 5365055,
+    "target_revision_id": 43763899,
+    "target_title": "تیمچه و سرای بخشی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85%DA%86%D9%87_%D9%88_%D8%B3%D8%B1%D8%A7%DB%8C_%D8%A8%D8%AE%D8%B4%DB%8C"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "کاروانسرای بخشی",
+    "name": "تیمچه امین‌الدوله",
     "pageid": 44534,
     "revision_id": 44534478,
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "کاروانسرای بخشی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "کاروانسرای امین‌الدوله",
-    "pageid": 44534,
-    "revision_id": 44534478,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان کاشان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "کاروانسرای امین‌الدوله"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ فین",
-    "pageid": 32332,
-    "revision_id": 44604551,
-    "section": "معماری / بوستان ها و فضای سبز",
-    "source_title": "کاشان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "باغ فین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاخ چهلستون",
-    "pageid": 32332,
-    "revision_id": 44604551,
-    "section": "معماری / بوستان ها و فضای سبز",
-    "source_title": "کاشان",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "کاخ چهلستون"
+    "target_pageid": 656983,
+    "target_revision_id": 44125873,
+    "target_title": "تیمچه امین‌الدوله",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85%DA%86%D9%87_%D8%A7%D9%85%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -1895,13 +1841,30 @@
     "section": "معماری / بوستان ها و فضای سبز",
     "source_title": "کاشان",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
-    "target_title": "حمام فین"
+    "target_pageid": 319354,
+    "target_revision_id": 43923003,
+    "target_title": "حمام فین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%81%DB%8C%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "کاشان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "خانه ی وکیل",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد میرعماد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "کاخ چهلستون",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7%D8%B4%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D8%A7%D9%86"
@@ -1912,13 +1875,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ شهر",
+    "name": "طرح باغ‌شهر",
     "pageid": 11931,
     "revision_id": 43815341,
     "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
     "source_title": "خوانسار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "باغ شهر"
+    "target_pageid": 3454817,
+    "target_revision_id": 44613446,
+    "target_title": "طرح باغ‌شهر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%AD_%D8%A8%D8%A7%D8%BA%E2%80%8C%D8%B4%D9%87%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -1929,7 +1895,10 @@
     "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
     "source_title": "خوانسار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "چشمه"
+    "target_pageid": 16282,
+    "target_revision_id": 42748244,
+    "target_title": "چشمه",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87"
    },
    {
     "field": "poi_nature",
@@ -1940,7 +1909,10 @@
     "section": "گردشگری / گردشگری طبیعی / پارک ملی سرچشمه",
     "source_title": "خوانسار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "سرچشمه خوانسار"
+    "target_pageid": 1274529,
+    "target_revision_id": 44452351,
+    "target_title": "سرچشمه خوانسار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87_%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -1951,7 +1923,10 @@
     "section": "گردشگری / گردشگری تاریخی / خانه ابهری خوانسار",
     "source_title": "خوانسار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "خانه ابهری"
+    "target_pageid": 664221,
+    "target_revision_id": 44154198,
+    "target_title": "خانه ابهری",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%A8%D9%87%D8%B1%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -1962,7 +1937,10 @@
     "section": "گردشگری / گردشگری تاریخی / خانۀ جعفری خوانسار",
     "source_title": "خوانسار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "خانه جعفری خوانسار"
+    "target_pageid": 666870,
+    "target_revision_id": 44154699,
+    "target_title": "خانه جعفری خوانسار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AC%D8%B9%D9%81%D8%B1%DB%8C_%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -1973,24 +1951,22 @@
     "section": "گردشگری / گردشگری فرهنگی / محرّم",
     "source_title": "خوانسار",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "سوگواری محرم"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "رشته کوه‌های زاگرس",
-    "pageid": 11931,
-    "revision_id": 43815341,
-    "section": "گردشگری / گردشگری فرهنگی / هتل و مهمان سرا",
-    "source_title": "خوانسار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
-    "target_title": "رشته کوه‌های زاگرس"
+    "target_pageid": 729134,
+    "target_revision_id": 44437833,
+    "target_title": "سوگواری محرم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%DA%AF%D9%88%D8%A7%D8%B1%DB%8C_%D9%85%D8%AD%D8%B1%D9%85"
    }
   ],
   "center_confirmed": true,
   "county": "خوانسار",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "رشته کوه‌های زاگرس",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1"
@@ -2002,6 +1978,7 @@
   "county": "خمینی‌شهر",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%85%DB%8C%D9%86%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1"
   ]
@@ -2012,6 +1989,7 @@
   "county": "خور و بیابانک",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B1_%D9%88_%D8%A8%DB%8C%D8%A7%D8%A8%D8%A7%D9%86%DA%A9",
    "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1"
@@ -2023,6 +2001,7 @@
   "county": "کوهپایه",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D9%BE%D8%A7%DB%8C%D9%87"
   ]
@@ -2032,13 +2011,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "مسجد جامع زرین شهر",
+    "name": "مسجد جامع زرین‌شهر",
     "pageid": 20792,
     "revision_id": 44277015,
     "section": "مراکز گردشگری",
     "source_title": "شهرستان لنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "مسجد جامع زرین شهر"
+    "target_pageid": 6064973,
+    "target_revision_id": 43005281,
+    "target_title": "مسجد جامع زرین‌شهر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B2%D8%B1%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -2049,35 +2031,26 @@
     "section": "مراکز گردشگری",
     "source_title": "شهرستان لنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "آبشار شاه‌لولاک"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "رودخانه زاینده رود",
-    "pageid": 20792,
-    "revision_id": 44277015,
-    "section": "مراکز گردشگری",
-    "source_title": "شهرستان لنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "رودخانه زاینده رود"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "امامزاده شاهزاده ابراهیم",
-    "pageid": 20792,
-    "revision_id": 44277015,
-    "section": "مراکز گردشگری",
-    "source_title": "شهرستان لنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "امامزاده شاهزاده ابراهیم"
+    "target_pageid": 210644,
+    "target_revision_id": 40724212,
+    "target_title": "آبشار شاه‌لولاک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B4%D8%A7%D9%87%E2%80%8C%D9%84%D9%88%D9%84%D8%A7%DA%A9"
    }
   ],
   "center_confirmed": false,
   "county": "لنجان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "رودخانه زاینده رود",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "امامزاده شاهزاده ابراهیم",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%86%D8%AC%D8%A7%D9%86"
   ]
@@ -2088,6 +2061,7 @@
   "county": "میمه و وزوان",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": []
  },
  "mobarakeh": {
@@ -2096,6 +2070,7 @@
   "county": "مبارکه",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9%D9%87",
    "https://fa.wikipedia.org/wiki/%D9%85%D8%A8%D8%A7%D8%B1%DA%A9%D9%87"
@@ -2106,35 +2081,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "کاروانسرا",
-    "pageid": 44523,
-    "revision_id": 44016493,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان نائین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D8%A6%DB%8C%D9%86",
-    "target_title": "کاروانسرا"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "نارین قلعه",
-    "pageid": 44523,
-    "revision_id": 44016493,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان نائین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D8%A6%DB%8C%D9%86",
-    "target_title": "نارین قلعه (نائین)"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "قلعه عاشوراگاه",
     "pageid": 44523,
     "revision_id": 44016493,
     "section": "آثار تاریخی",
     "source_title": "شهرستان نائین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D8%A6%DB%8C%D9%86",
-    "target_title": "قلعه عاشوراگاه (آشورگاه)"
+    "target_pageid": 182505,
+    "target_revision_id": 37883090,
+    "target_title": "قلعه عاشوراگاه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B9%D8%A7%D8%B4%D9%88%D8%B1%D8%A7%DA%AF%D8%A7%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -2145,24 +2101,26 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان نائین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D8%A6%DB%8C%D9%86",
-    "target_title": "قلعه یابرزو"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آتشکده سپرو",
-    "pageid": 44523,
-    "revision_id": 44016493,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان نائین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D8%A6%DB%8C%D9%86",
-    "target_title": "آتشکده سپرو"
+    "target_pageid": 182420,
+    "target_revision_id": 44453472,
+    "target_title": "قلعه یابرزو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DB%8C%D8%A7%D8%A8%D8%B1%D8%B2%D9%88"
    }
   ],
   "center_confirmed": false,
   "county": "نایین",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "نارین قلعه",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "آتشکده سپرو",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%A7%D8%A6%DB%8C%D9%86"
   ]
@@ -2172,13 +2130,16 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "برج کبوترخانه‌های جوی خارون",
+    "name": "ارگ شیخ بهایی",
     "pageid": 126502,
     "revision_id": 44040408,
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نجف‌آباد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "برج کبوترخانه‌های جوی خارون"
+    "target_pageid": 153756,
+    "target_revision_id": 43922967,
+    "target_title": "ارگ شیخ بهایی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%D8%B4%DB%8C%D8%AE_%D8%A8%D9%87%D8%A7%DB%8C%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -2189,18 +2150,24 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نجف‌آباد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "برج کبوترخانه‌های صفا"
+    "target_pageid": 659262,
+    "target_revision_id": 44076975,
+    "target_title": "برج کبوترخانه‌های صفا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%DA%A9%D8%A8%D9%88%D8%AA%D8%B1%D8%AE%D8%A7%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B5%D9%81%D8%A7"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "عصارخانه بزرگ",
+    "name": "عصارخانه آقا",
     "pageid": 126502,
     "revision_id": 44040408,
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نجف‌آباد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "عصارخانه بزرگ (عصارخانه آقا)"
+    "target_pageid": 661270,
+    "target_revision_id": 44273604,
+    "target_title": "عصارخانه آقا",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%A2%D9%82%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -2211,7 +2178,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نجف‌آباد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "عصارخانه زمانیان"
+    "target_pageid": 671950,
+    "target_revision_id": 44273608,
+    "target_title": "عصارخانه زمانیان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%B5%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%B2%D9%85%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -2222,7 +2192,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نجف‌آباد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "کاروانسرای حاج حیدر جانی"
+    "target_pageid": 669700,
+    "target_revision_id": 40715304,
+    "target_title": "کاروانسرای حاج حیدر جانی",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AD%D8%A7%D8%AC_%D8%AD%DB%8C%D8%AF%D8%B1_%D8%AC%D8%A7%D9%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -2233,68 +2206,38 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان نجف‌آباد",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "حمام اخوت"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "زورخانه بهرام",
-    "pageid": 126502,
-    "revision_id": 44040408,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان نجف‌آباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "زورخانه بهرام"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "قلقله علی‌آباد",
-    "pageid": 126502,
-    "revision_id": 44040408,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان نجف‌آباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "قلقله علی‌آباد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه تاریخی مهر پرور",
-    "pageid": 126502,
-    "revision_id": 44040408,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان نجف‌آباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "خانه تاریخی مهر پرور"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه تاریخی لطفی",
-    "pageid": 126502,
-    "revision_id": 44040408,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان نجف‌آباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "خانه تاریخی لطفی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "خانه تاریخی حمله داری",
-    "pageid": 126502,
-    "revision_id": 44040408,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان نجف‌آباد",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
-    "target_title": "خانه تاریخی حمله داری"
+    "target_pageid": 665418,
+    "target_revision_id": 33288749,
+    "target_title": "حمام اخوت",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A7%D8%AE%D9%88%D8%AA"
    }
   ],
   "center_confirmed": false,
   "county": "نجف‌آباد",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "زورخانه بهرام",
+    "reason": "target page missing"
+   },
+   {
+    "name": "قلقله علی‌آباد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه تاریخی مهر پرور",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه تاریخی لطفی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه تاریخی حمله داری",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%AC%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
   ]
@@ -2310,7 +2253,10 @@
     "section": "جاذبه های تاریخی و گردشگری",
     "source_title": "شهرستان نطنز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B7%D9%86%D8%B2",
-    "target_title": "آتشکده"
+    "target_pageid": 13362,
+    "target_revision_id": 43859624,
+    "target_title": "آتشکده",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -2321,7 +2267,10 @@
     "section": "جاذبه های تاریخی و گردشگری",
     "source_title": "شهرستان نطنز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B7%D9%86%D8%B2",
-    "target_title": "امامزاده سلطان حسین"
+    "target_pageid": 3973404,
+    "target_revision_id": 42969549,
+    "target_title": "امامزاده سلطان حسین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -2332,7 +2281,10 @@
     "section": "جاذبه های تاریخی و گردشگری",
     "source_title": "شهرستان نطنز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B7%D9%86%D8%B2",
-    "target_title": "مسجد جامع"
+    "target_pageid": 139544,
+    "target_revision_id": 44336507,
+    "target_title": "مسجد جامع",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9"
    },
    {
     "field": "poi_heritage",
@@ -2343,7 +2295,10 @@
     "section": "جاذبه های تاریخی و گردشگری",
     "source_title": "شهرستان نطنز",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B7%D9%86%D8%B2",
-    "target_title": "قلعه طرق"
+    "target_pageid": 658678,
+    "target_revision_id": 44304523,
+    "target_title": "قلعه طرق",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B7%D8%B1%D9%82"
    },
    {
     "field": "poi_nature",
@@ -2354,7 +2309,10 @@
     "section": "جاذبه های تاریخی / مسجد جمعه (جامع)",
     "source_title": "نطنز",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D8%B7%D9%86%D8%B2",
-    "target_title": "آندره گدار"
+    "target_pageid": 76962,
+    "target_revision_id": 44385036,
+    "target_title": "آندره گدار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AF%D8%B1%D9%87_%DA%AF%D8%AF%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -2365,13 +2323,17 @@
     "section": "جاذبه های تاریخی / بقعه شیخ عبدالصمد نطنزی",
     "source_title": "نطنز",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D8%B7%D9%86%D8%B2",
-    "target_title": "موزه ویکتوریا و آلبرت"
+    "target_pageid": 212664,
+    "target_revision_id": 44237060,
+    "target_title": "موزه ویکتوریا و آلبرت",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%88%DB%8C%DA%A9%D8%AA%D9%88%D8%B1%DB%8C%D8%A7_%D9%88_%D8%A2%D9%84%D8%A8%D8%B1%D8%AA"
    }
   ],
   "center_confirmed": true,
   "county": "نطنز",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B7%D9%86%D8%B2",
    "https://fa.wikipedia.org/wiki/%D9%86%D8%B7%D9%86%D8%B2"
@@ -2388,7 +2350,10 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "سمیرم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
-    "target_title": "آبشار سمیرم"
+    "target_pageid": 394535,
+    "target_revision_id": 43931664,
+    "target_title": "آبشار سمیرم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%D9%85%DB%8C%D8%B1%D9%85"
    },
    {
     "field": "poi_nature",
@@ -2399,7 +2364,10 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "سمیرم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
-    "target_title": "آبشار آب ملخ"
+    "target_pageid": 1485064,
+    "target_revision_id": 43226674,
+    "target_title": "آبشار آب ملخ",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A2%D8%A8_%D9%85%D9%84%D8%AE"
    },
    {
     "field": "poi_heritage",
@@ -2410,13 +2378,17 @@
     "section": "گردشگری / صنایع دستی",
     "source_title": "سمیرم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
-    "target_title": "کارگاه"
+    "target_pageid": 235440,
+    "target_revision_id": 44445623,
+    "target_title": "کارگاه",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87"
    }
   ],
   "center_confirmed": true,
   "county": "سمیرم",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
    "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85"
@@ -2428,28 +2400,18 @@
   "county": "شاهین‌شهر",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A7%D9%87%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1_%D9%88_%D9%85%DB%8C%D9%85%D9%87"
   ]
  },
  "shahreza": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرا",
-    "pageid": 12065,
-    "revision_id": 44509760,
-    "section": "آثار تاریخی شهرضا",
-    "source_title": "شهرضا",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B6%D8%A7",
-    "target_title": "کاروانسرا"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "شهرضا",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%D8%B6%D8%A7",
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B6%D8%A7"
@@ -2466,29 +2428,10 @@
     "section": "گردشگری",
     "source_title": "شهرستان تیران و کرون",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%DA%A9%D8%B1%D9%88%D9%86",
-    "target_title": "پارک ملی و پناهگاه حیات وحش قمیشلو"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه مرغاب",
-    "pageid": 139837,
-    "revision_id": 44452903,
-    "section": "گردشگری",
-    "source_title": "شهرستان تیران و کرون",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%DA%A9%D8%B1%D9%88%D9%86",
-    "target_title": "چشمه مرغاب"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک ملی و پناهگاه حیات وحش قمیشلو اصفهان",
-    "pageid": 32378,
-    "revision_id": 44140359,
-    "section": "جاذبه های طبیعی",
-    "source_title": "تیران",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86",
-    "target_title": "پارک ملی و پناهگاه حیات وحش قمیشلو اصفهان"
+    "target_pageid": 3685068,
+    "target_revision_id": 44413090,
+    "target_title": "پارک ملی و پناهگاه حیات وحش قمیشلو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D9%88_%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D9%82%D9%85%DB%8C%D8%B4%D9%84%D9%88"
    },
    {
     "field": "poi_nature",
@@ -2499,13 +2442,22 @@
     "section": "جاذبه های طبیعی",
     "source_title": "تیران",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86",
-    "target_title": "منطقه حفاظت‌شده"
+    "target_pageid": 457177,
+    "target_revision_id": 41813235,
+    "target_title": "منطقه حفاظت‌شده",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87"
    }
   ],
   "center_confirmed": true,
   "county": "تیران و کرون",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [
+   {
+    "name": "چشمه مرغاب",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%DA%A9%D8%B1%D9%88%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86"
@@ -2516,19 +2468,23 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "تالاب بین‌المللی گاوخونی",
+    "name": "تالاب گاوخونی",
     "pageid": 173494,
     "revision_id": 44300918,
     "section": "اماکن دیدنی و تاریخی",
     "source_title": "شهرستان ورزنه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%B1%D8%B2%D9%86%D9%87",
-    "target_title": "تالاب بین‌المللی گاوخونی"
+    "target_pageid": 53523,
+    "target_revision_id": 43278756,
+    "target_title": "تالاب گاوخونی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%DA%AF%D8%A7%D9%88%D8%AE%D9%88%D9%86%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "ورزنه",
   "fetched": "2026-10-02",
   "province": "isfahan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%B1%D8%B2%D9%86%D9%87",
    "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%B2%D9%86%D9%87"

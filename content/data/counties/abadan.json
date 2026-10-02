@@ -147,29 +147,24 @@
      "section": "اماکن تفریحی، تاریخی و زیارتی / [[مسجد رنگونی ها]]",
      "source_title": "آبادان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-     "target_title": "مسجد رنگونی‌های آبادان"
+     "target_pageid": 1448915,
+     "target_revision_id": 43925453,
+     "target_title": "مسجد رنگونی‌های آبادان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B1%D9%86%DA%AF%D9%88%D9%86%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزهٔ اسناد تاریخی و خطی",
+     "name": "موزه اسناد تاریخی و خطی",
      "pageid": 13944,
      "revision_id": 44007051,
      "section": "اماکن تفریحی، تاریخی و زیارتی / موزهٔ اسناد تاریخی و خطی",
      "source_title": "آبادان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-     "target_title": "موزهٔ اسناد تاریخی و خطی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد رنگونی‌ها",
-     "pageid": 13944,
-     "revision_id": 44007051,
-     "section": "اماکن تفریحی، تاریخی و زیارتی / موزهٔ اسناد تاریخی و خطی",
-     "source_title": "آبادان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-     "target_title": "مسجد رنگونی‌ها"
+     "target_pageid": 3343100,
+     "target_revision_id": 39153727,
+     "target_title": "موزه اسناد تاریخی و خطی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%A7%D8%B3%D9%86%D8%A7%D8%AF_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C_%D9%88_%D8%AE%D8%B7%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -180,7 +175,10 @@
      "section": "اماکن تفریحی، تاریخی و زیارتی / موزهٔ آبادان",
      "source_title": "آبادان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-     "target_title": "موزه آبادان"
+     "target_pageid": 204969,
+     "target_revision_id": 42718783,
+     "target_title": "موزه آبادان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -188,7 +186,31 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-   "value": "مسجد رنگونی‌های آبادان\nموزهٔ اسناد تاریخی و خطی\nمسجد رنگونی‌ها\nموزه آبادان"
+   "value": "مسجد رنگونی‌های آبادان\nموزه اسناد تاریخی و خطی\nموزه آبادان"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سینما شیرین آبادان",
+     "pageid": 13944,
+     "revision_id": 44007051,
+     "section": "اماکن تفریحی، تاریخی و زیارتی / سینما شیرین",
+     "source_title": "آبادان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+     "target_pageid": 1445462,
+     "target_revision_id": 42836852,
+     "target_title": "سینما شیرین آبادان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+   "value": "سینما شیرین آبادان"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -127,13 +127,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "حمام سنگی شهر گیوی",
+     "name": "حمام سنگی",
      "pageid": 8956,
      "revision_id": 43558379,
      "section": "آثار تاریخی و طبیعی",
      "source_title": "شهرستان کوثر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AB%D8%B1",
-     "target_title": "حمام سنگی شهر گیوی"
+     "target_pageid": 2312974,
+     "target_revision_id": 36441463,
+     "target_title": "حمام سنگی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%B3%D9%86%DA%AF%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -141,7 +144,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AB%D8%B1",
-   "value": "حمام سنگی شهر گیوی"
+   "value": "حمام سنگی"
   },
   "poi_nature": {
    "entries": [
@@ -154,7 +157,10 @@
      "section": "آثار تاریخی و طبیعی",
      "source_title": "شهرستان کوثر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AB%D8%B1",
-     "target_title": "آبگرم گیوی"
+     "target_pageid": 2313001,
+     "target_revision_id": 40523441,
+     "target_title": "آبگرم گیوی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%DA%AF%DB%8C%D9%88%DB%8C"
     }
    ],
    "fetched": "2026-10-02",

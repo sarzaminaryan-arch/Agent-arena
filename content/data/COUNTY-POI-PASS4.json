@@ -1,4 +1,19 @@
 {
+ "after": {
+  "poi_heritage": 238,
+  "poi_nature": 213,
+  "poi_offbeat": 182,
+  "poi_recreation": 50
+ },
+ "baseline_coverage": {
+  "poi_heritage": 130,
+  "poi_nature": 116,
+  "poi_offbeat": 182,
+  "poi_recreation": 17
+ },
+ "changed_counties": 159,
+ "fetched": "2026-10-02",
+ "rejected_targets": 811,
  "scope": [
   "abadan",
   "abadeh",
@@ -483,12 +498,5 @@
   "zebarkhan",
   "zehak",
   "zirkuh"
- ],
- "baseline_commit": "7219b27c150b39f70e7377824a7a69f865fd5839",
- "baseline_coverage": {
-  "poi_nature": 116,
-  "poi_offbeat": 182,
-  "poi_recreation": 17,
-  "poi_heritage": 130
- }
+ ]
 }

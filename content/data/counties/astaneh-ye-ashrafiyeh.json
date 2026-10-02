@@ -144,27 +144,6 @@
     "khomam"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بقعه آقا سید محمد",
-     "pageid": 18802,
-     "revision_id": 44023732,
-     "section": "اماکن برجسته / آثار تاریخی",
-     "source_title": "آستانه اشرفیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87_%D8%A7%D8%B4%D8%B1%D9%81%DB%8C%D9%87",
-     "target_title": "بقعه آقا سید محمد"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87_%D8%A7%D8%B4%D8%B1%D9%81%DB%8C%D9%87",
-   "value": "بقعه آقا سید محمد"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

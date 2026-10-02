@@ -145,35 +145,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه گبری",
-     "pageid": 50049,
-     "revision_id": 44401660,
-     "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
-     "source_title": "شهر ری",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "قلعه گبری"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "کارخانه سیمان ری",
      "pageid": 50049,
      "revision_id": 44401660,
      "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "کارخانه سیمان ری"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار ری",
-     "pageid": 50049,
-     "revision_id": 44401660,
-     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
-     "source_title": "شهر ری",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "بازار ری"
+     "target_pageid": 6775272,
+     "target_revision_id": 43057418,
+     "target_title": "کارخانه سیمان ری",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%DB%8C%D9%85%D8%A7%D9%86_%D8%B1%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -184,7 +165,10 @@
      "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "کاروانسرای شاه‌عباسی (شهر ری)"
+     "target_pageid": 263270,
+     "target_revision_id": 40714935,
+     "target_title": "کاروانسرای شاه‌عباسی (شهر ری)",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B4%D8%A7%D9%87%E2%80%8C%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C_%28%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C%29"
     },
     {
      "field": "poi_heritage",
@@ -195,7 +179,10 @@
      "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "برج طغرل"
+     "target_pageid": 93551,
+     "target_revision_id": 43503809,
+     "target_title": "برج طغرل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%B7%D8%BA%D8%B1%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -206,18 +193,10 @@
      "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "کاروانسرای کنارگرد"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه کاسنی ری",
-     "pageid": 50049,
-     "revision_id": 44401660,
-     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
-     "source_title": "شهر ری",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "قلعه کاسنی ری"
+     "target_pageid": 263269,
+     "target_revision_id": 40714967,
+     "target_title": "کاروانسرای کنارگرد",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%DA%A9%D9%86%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -225,7 +204,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-   "value": "قلعه گبری\nکارخانه سیمان ری\nبازار ری\nکاروانسرای شاه‌عباسی\nبرج طغرل\nکاروانسرای کنارگرد\nقلعه کاسنی ری"
+   "value": "کارخانه سیمان ری\nکاروانسرای شاه‌عباسی\nبرج طغرل\nکاروانسرای کنارگرد"
   },
   "poi_nature": {
    "entries": [
@@ -238,29 +217,38 @@
      "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "تپه چشمه‌علی"
+     "target_pageid": 6656537,
+     "target_revision_id": 43931944,
+     "target_title": "تپه چشمه‌علی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B9%D9%84%DB%8C"
     },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چشمه علی",
+     "name": "چشمه‌علی",
      "pageid": 50049,
      "revision_id": 44401660,
      "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "چشمه علی"
+     "target_pageid": 26744,
+     "target_revision_id": 33670056,
+     "target_title": "چشمه‌علی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%D8%B9%D9%84%DB%8C"
     },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کوه نقاره‌خانه",
+     "name": "کوه نقارخانه",
      "pageid": 50049,
      "revision_id": 44401660,
      "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
      "source_title": "شهر ری",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-     "target_title": "کوه نقاره‌خانه"
+     "target_pageid": 656287,
+     "target_revision_id": 43570803,
+     "target_title": "کوه نقارخانه",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%86%D9%82%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -268,7 +256,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
-   "value": "تپه چشمه‌علی\nچشمه علی\nکوه نقاره‌خانه"
+   "value": "تپه چشمه‌علی\nچشمه‌علی\nکوه نقارخانه"
   },
   "population": {
    "fetched": "2026-10-02",

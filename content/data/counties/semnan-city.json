@@ -129,27 +129,6 @@
    "url": "",
    "value": "مسجد جامع سمنان\nمنار سلجوقی مسجد جامع\nمسجد امام سمنان\nدروازه ارگ سمنان\nبازار سمنان\nبازار شیخ علاءالدوله\nبرج چهل‌دختران\nقلعه‌های سارو\nقلعه پاچنار\nقلعه کوشمغان\nقلعه زاوغان\nقلعه کهن‌دژ"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "گورستان سنادره",
-     "pageid": 19801,
-     "revision_id": 44426855,
-     "section": "گردشگری / جاذبه های تاریخی و باستانی",
-     "source_title": "سمنان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-     "target_title": "گورستان سنادره"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-   "value": "گورستان سنادره"
-  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
@@ -157,27 +136,6 @@
    "status": "auto",
    "url": "",
    "value": "گرمابه پهنه سمنان\nبنای دارالحکومه\nمحله ملحی\nدژ چرمینه\nکاروان سرای شاه سلیمانی\nمعدن نمک ملحه\nدلفین‌های نمکی"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک موزه دفاع مقدس سمنان",
-     "pageid": 19801,
-     "revision_id": 44426855,
-     "section": "گردشگری / موزه ها",
-     "source_title": "سمنان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-     "target_title": "پارک موزه دفاع مقدس سمنان"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-   "value": "پارک موزه دفاع مقدس سمنان"
   },
   "population": {
    "fetched": "2026-10-02",

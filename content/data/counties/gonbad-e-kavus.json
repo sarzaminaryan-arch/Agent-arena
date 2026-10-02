@@ -143,24 +143,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "برج گنبد کاووس",
+     "name": "برج گنبد قابوس",
      "pageid": 8236,
      "revision_id": 44505392,
      "section": "مناطق دیدنی",
      "source_title": "گنبد کاووس",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "برج گنبد کاووس"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار بزرگ روس‌ها",
-     "pageid": 8236,
-     "revision_id": 44505392,
-     "section": "مناطق دیدنی",
-     "source_title": "گنبد کاووس",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "بازار بزرگ روس‌ها"
+     "target_pageid": 18236,
+     "target_revision_id": 44509578,
+     "target_title": "برج گنبد قابوس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%DA%AF%D9%86%D8%A8%D8%AF_%D9%82%D8%A7%D8%A8%D9%88%D8%B3"
     }
    ],
    "fetched": "2026-10-02",
@@ -168,7 +160,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-   "value": "برج گنبد کاووس\nبازار بزرگ روس‌ها"
+   "value": "برج گنبد قابوس"
   },
   "poi_nature": {
    "entries": [
@@ -181,7 +173,10 @@
      "section": "مناطق دیدنی",
      "source_title": "گنبد کاووس",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "دریاچه مصنوعی گنبد کاووس"
+     "target_pageid": 515449,
+     "target_revision_id": 43928374,
+     "target_title": "دریاچه مصنوعی گنبد کاووس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3"
     },
     {
      "field": "poi_nature",
@@ -192,7 +187,10 @@
      "section": "مناطق دیدنی",
      "source_title": "گنبد کاووس",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "تالاب آلماگل"
+     "target_pageid": 429111,
+     "target_revision_id": 44105096,
+     "target_title": "تالاب آلماگل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A2%D9%84%D9%85%D8%A7%DA%AF%D9%84"
     },
     {
      "field": "poi_nature",
@@ -203,7 +201,10 @@
      "section": "مناطق دیدنی",
      "source_title": "گنبد کاووس",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "تالاب آجی‌گل"
+     "target_pageid": 33114,
+     "target_revision_id": 33759265,
+     "target_title": "تالاب آجی‌گل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A2%D8%AC%DB%8C%E2%80%8C%DA%AF%D9%84"
     },
     {
      "field": "poi_nature",
@@ -214,7 +215,10 @@
      "section": "مناطق دیدنی",
      "source_title": "گنبد کاووس",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "تالاب آلاگل"
+     "target_pageid": 226922,
+     "target_revision_id": 37201897,
+     "target_title": "تالاب آلاگل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8_%D8%A2%D9%84%D8%A7%DA%AF%D9%84"
     }
    ],
    "fetched": "2026-10-02",
@@ -223,27 +227,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
    "value": "دریاچه مصنوعی گنبد کاووس\nتالاب آلماگل\nتالاب آجی‌گل\nتالاب آلاگل"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک توریستی الغدیر",
-     "pageid": 8236,
-     "revision_id": 44505392,
-     "section": "مناطق دیدنی",
-     "source_title": "گنبد کاووس",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-     "target_title": "پارک توریستی الغدیر"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
-   "value": "پارک توریستی الغدیر"
   },
   "population": {
    "fetched": "2026-10-02",

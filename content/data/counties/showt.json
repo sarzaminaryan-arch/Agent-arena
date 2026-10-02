@@ -158,7 +158,10 @@
      "section": "مراکز گردشگری / جاذبه های طبیعی",
      "source_title": "شوط",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-     "target_title": "آبگرم معدنی شوط"
+     "target_pageid": 5023862,
+     "target_revision_id": 36236415,
+     "target_title": "آبگرم معدنی شوط",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D9%85%D8%B9%D8%AF%D9%86%DB%8C_%D8%B4%D9%88%D8%B7"
     },
     {
      "field": "poi_nature",
@@ -169,7 +172,10 @@
      "section": "مراکز گردشگری / جاذبه های تاریخی",
      "source_title": "شوط",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
-     "target_title": "غار چهل پله خضرلو"
+     "target_pageid": 718294,
+     "target_revision_id": 43351325,
+     "target_title": "غار چهل پله خضرلو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%86%D9%87%D9%84_%D9%BE%D9%84%D9%87_%D8%AE%D8%B6%D8%B1%D9%84%D9%88"
     }
    ],
    "fetched": "2026-10-02",

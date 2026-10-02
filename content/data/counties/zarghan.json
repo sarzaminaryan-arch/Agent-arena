@@ -153,7 +153,10 @@
      "section": "جاذبه ها / مکان دیدنی و تفریحی",
      "source_title": "زرقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%B1%D9%82%D8%A7%D9%86",
-     "target_title": "زورخانه زرقان"
+     "target_pageid": 670961,
+     "target_revision_id": 44208617,
+     "target_title": "زورخانه زرقان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%88%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%B2%D8%B1%D9%82%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -164,7 +167,10 @@
      "section": "جاذبه ها / مکان دیدنی و تفریحی",
      "source_title": "زرقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%B1%D9%82%D8%A7%D9%86",
-     "target_title": "خانه حسن واقفی"
+     "target_pageid": 670959,
+     "target_revision_id": 44154905,
+     "target_title": "خانه حسن واقفی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%B3%D9%86_%D9%88%D8%A7%D9%82%D9%81%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -175,18 +181,10 @@
      "section": "جاذبه ها / مکان دیدنی و تفریحی",
      "source_title": "زرقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%B1%D9%82%D8%A7%D9%86",
-     "target_title": "قنات حوض ماهی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خرفخانه شاهزاده قاسم",
-     "pageid": 91755,
-     "revision_id": 44589804,
-     "section": "جاذبه ها / مکان دیدنی و تفریحی",
-     "source_title": "زرقان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%B1%D9%82%D8%A7%D9%86",
-     "target_title": "خرفخانه شاهزاده قاسم"
+     "target_pageid": 671224,
+     "target_revision_id": 44305441,
+     "target_title": "قنات حوض ماهی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%AA_%D8%AD%D9%88%D8%B6_%D9%85%D8%A7%D9%87%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -194,7 +192,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%B1%D9%82%D8%A7%D9%86",
-   "value": "زورخانه زرقان\nخانه حسن واقفی\nقنات حوض ماهی\nخرفخانه شاهزاده قاسم"
+   "value": "زورخانه زرقان\nخانه حسن واقفی\nقنات حوض ماهی"
   },
   "poi_nature": {
    "entries": [
@@ -207,7 +205,10 @@
      "section": "جاذبه ها / مکان دیدنی و تفریحی",
      "source_title": "زرقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%B1%D9%82%D8%A7%D9%86",
-     "target_title": "پارک ملی بمو"
+     "target_pageid": 249795,
+     "target_revision_id": 44429169,
+     "target_title": "پارک ملی بمو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A8%D9%85%D9%88"
     }
    ],
    "fetched": "2026-10-02",

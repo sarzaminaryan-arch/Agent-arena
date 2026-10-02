@@ -172,13 +172,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کوه گرین",
+     "name": "رشته‌کوه گرین",
      "pageid": 6289,
      "revision_id": 44573388,
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "بروجرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_title": "کوه گرین"
+     "target_pageid": 6357,
+     "target_revision_id": 44191141,
+     "target_title": "رشته‌کوه گرین",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%DA%A9%D9%88%D9%87_%DA%AF%D8%B1%DB%8C%D9%86"
     },
     {
      "field": "poi_nature",
@@ -189,18 +192,10 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "بروجرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_title": "قله ولاش"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سراب کرتول",
-     "pageid": 6289,
-     "revision_id": 44573388,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "بروجرد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_title": "سراب کرتول"
+     "target_pageid": 367212,
+     "target_revision_id": 43003662,
+     "target_title": "قله ولاش",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D9%88%D9%84%D8%A7%D8%B4"
     },
     {
      "field": "poi_nature",
@@ -211,18 +206,10 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "بروجرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_title": "تنگه کپرگه"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک جنگلی شهید بهشتی بروجرد",
-     "pageid": 6289,
-     "revision_id": 44573388,
-     "section": "گردشگری / پارکها و فضای سبز",
-     "source_title": "بروجرد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_title": "پارک جنگلی شهید بهشتی بروجرد"
+     "target_pageid": 217106,
+     "target_revision_id": 27055417,
+     "target_title": "تنگه کپرگه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DA%AF%D9%87_%DA%A9%D9%BE%D8%B1%DA%AF%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -230,7 +217,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-   "value": "کوه گرین\nقله ولاش\nسراب کرتول\nتنگه کپرگه\nپارک جنگلی شهید بهشتی بروجرد"
+   "value": "رشته‌کوه گرین\nقله ولاش\nتنگه کپرگه"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",
@@ -251,7 +238,24 @@
      "section": "گردشگری / پارکها و فضای سبز",
      "source_title": "بروجرد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-     "target_title": "بوستان فدک بروجرد"
+     "target_pageid": 2014226,
+     "target_revision_id": 43844840,
+     "target_title": "بوستان فدک بروجرد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%AF%DA%A9_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان جنگلی شهید بهشتی بروجرد",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / پارکها و فضای سبز",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_pageid": 2014708,
+     "target_revision_id": 43844832,
+     "target_title": "بوستان جنگلی شهید بهشتی بروجرد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D8%B4%D9%87%DB%8C%D8%AF_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -259,7 +263,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
-   "value": "بوستان فدک بروجرد"
+   "value": "بوستان فدک بروجرد\nبوستان جنگلی شهید بهشتی بروجرد"
   },
   "population": {
    "fetched": "2026-10-02",

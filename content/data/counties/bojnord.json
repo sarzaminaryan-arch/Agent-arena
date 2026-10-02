@@ -130,7 +130,10 @@
      "section": "اماکن دیدنی / عمارت جاجرمی",
      "source_title": "بجنورد",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
-     "target_title": "عمارت جاجرمی"
+     "target_pageid": 6162150,
+     "target_revision_id": 41414646,
+     "target_title": "عمارت جاجرمی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -139,27 +142,6 @@
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
    "value": "عمارت جاجرمی"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رودخانه اترک",
-     "pageid": 9904,
-     "revision_id": 44405152,
-     "section": "اماکن دیدنی / گردشگاه باباامان",
-     "source_title": "بجنورد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
-     "target_title": "رودخانه اترک"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
-   "value": "رودخانه اترک"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

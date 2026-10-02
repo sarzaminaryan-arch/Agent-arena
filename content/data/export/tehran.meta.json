@@ -15,7 +15,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "eslamshahr - شمال‌شرق\nrobat-karim - غرب\nshahriar - شمال‌غرب\nrey - جنوب‌شرق",
-  "sa_cty_poi_heritage": "تپه قلعه وجه‌آباد\nامامزاده حسن\nامام زاده باقر",
+  "sa_cty_poi_heritage": "تپه قلعه وجه‌آباد\nامامزاده حسن\nامامزاده باقر",
   "sa_cty_population": 536329,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.52528,51.16278"
  },
@@ -59,7 +59,6 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "baharestan - جنوب‌غرب\nshahriar - شمال‌غرب\ntehran-city - شمال‌شرق\nrey - جنوب‌شرق",
-  "sa_cty_poi_heritage": "آتشکده ضیا آباد",
   "sa_cty_population": 548620,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.56667,51.23333"
  },
@@ -208,8 +207,8 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "qarchak - شرق\nbaharestan - شمال‌غرب\neslamshahr - شمال‌غرب\nqom-city - جنوب",
-  "sa_cty_poi_heritage": "قلعه گبری\nکارخانه سیمان ری\nبازار ری\nکاروانسرای شاه‌عباسی\nبرج طغرل\nکاروانسرای کنارگرد\nقلعه کاسنی ری",
-  "sa_cty_poi_nature": "تپه چشمه‌علی\nچشمه علی\nکوه نقاره‌خانه",
+  "sa_cty_poi_heritage": "کارخانه سیمان ری\nکاروانسرای شاه‌عباسی\nبرج طغرل\nکاروانسرای کنارگرد",
+  "sa_cty_poi_nature": "تپه چشمه‌علی\nچشمه‌علی\nکوه نقارخانه",
   "sa_cty_population": 349700,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.38333,51.33333"
  },
@@ -227,7 +226,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "baharestan - شرق\nshahriar - شمال\nmalard - غرب\njafarabady - جنوب‌غرب",
-  "sa_cty_poi_heritage": "بقعه پیغمبر لوط\nتپه قلعه روستای حسن\nپل بازارک\nکاروانسرای حاج کمال\nامامزاده عمادالدین\nامامزاده محمد تقی شهر\nامامزاده علی اصغر\nامامزاده عین و غین\nامامزاده ابوطالب\nکاروانسرای قلعه سنگی\nکاروانسرای فتحعلیشاهی",
+  "sa_cty_poi_heritage": "بقعه پیغمبر لوط\nتپه قلعه روستای حسن\nپل بازارک\nکاروانسرای فتحعلیشاهی\nکاروانسرای قلعه سنگی",
   "sa_cty_population": 291516,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,51.05"
  },
@@ -270,6 +269,7 @@
   "sa_cty_poi_heritage": "امامزاده قاسم",
   "sa_cty_poi_nature": "سد لتیان\nپارک جنگلی لویزان\nآبشار دوقلو\nبوستان جنگلی لویزان",
   "sa_cty_poi_offbeat": "امامه\nدربندسر\nمهرچال\nاسون\nمنظریه\nتوچال\nشمشک\nدیزین",
+  "sa_cty_poi_recreation": "بوستان جنگلی لویزان",
   "sa_cty_population": 47279,
   "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.93333,51.58333"
@@ -308,7 +308,7 @@
   "sa_cty_language": "فارسی؛ گویش‌های محلی و زبان‌های مهاجران در کنار آن",
   "sa_cty_livelihood": "خدمات، صنعت و بازرگانی؛ کشاورزی در حاشیهٔ شهرستان‌ها",
   "sa_cty_neighbors": "pishva - شمال\ngarmsar - شرق\nqom-city - جنوب‌غرب",
-  "sa_cty_poi_heritage": "امامزاده شاه حسین\nمسجد جامع ورامین\nبرج آرامگاه علاءالدین\nامامزاده یحیی\nآرامگاه امامزاده حسین رضا\nامامزاده بی‌بی سکینه\nبقعه کوکب الدین\nآرامگاه سید فتح‌الله\nامامزاده زید ابوالحسن الحسینی\nامامزاده حسین رضا",
+  "sa_cty_poi_heritage": "امامزاده شاه حسین\nمسجد جامع ورامین\nبرج آرامگاه علاءالدین\nامامزاده یحیی\nامامزاده حسین رضا\nامامزاده بی‌بی سکینه\nامامزاده کوکب‌الدین\nآرامگاه سید فتح‌الله\nامامزاده زید ابوالحسن الحسینی",
   "sa_cty_population": 283742,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.2,51.7"
  }

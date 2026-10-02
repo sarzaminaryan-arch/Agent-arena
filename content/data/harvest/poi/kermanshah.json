@@ -1,33 +1,20 @@
 {
  "dalahu": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سراب کرند",
-    "pageid": 20142,
-    "revision_id": 44609365,
-    "section": "جاذبه های گردشگری / جاذبه های طبیعی",
-    "source_title": "شهرستان دالاهو",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%84%D8%A7%D9%87%D9%88",
-    "target_title": "سراب کرند"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه قلعه قاضی",
-    "pageid": 20142,
-    "revision_id": 44609365,
-    "section": "جاذبه های گردشگری / جاذبه های طبیعی",
-    "source_title": "شهرستان دالاهو",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%84%D8%A7%D9%87%D9%88",
-    "target_title": "کوه قلعه قاضی"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "دالاهو",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "سراب کرند",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "کوه قلعه قاضی",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%84%D8%A7%D9%87%D9%88",
    "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%86%D8%AF_%D8%BA%D8%B1%D8%A8"
@@ -39,6 +26,7 @@
   "county": "اسلام‌آباد غرب",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_%D8%BA%D8%B1%D8%A8"
   ]
@@ -49,6 +37,7 @@
   "county": "گیلانغرب",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8",
    "https://fa.wikipedia.org/wiki/%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8"
@@ -59,24 +48,16 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "تپه گنج‌دره",
+    "name": "گنج‌دره",
     "pageid": 19933,
     "revision_id": 44411169,
     "section": "اماکن دیدنی و آثار باستانی شهرستان",
     "source_title": "شهرستان هرسین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "تپه گنج‌دره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "کتیبه بیستون",
-    "pageid": 19933,
-    "revision_id": 44411169,
-    "section": "اماکن دیدنی و آثار باستانی شهرستان",
-    "source_title": "شهرستان هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "کتیبه بیستون"
+    "target_pageid": 659969,
+    "target_revision_id": 43974209,
+    "target_title": "گنج‌دره",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%AC%E2%80%8C%D8%AF%D8%B1%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -87,18 +68,24 @@
     "section": "اماکن دیدنی و آثار باستانی شهرستان",
     "source_title": "شهرستان هرسین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "قلعه هرسین"
+    "target_pageid": 670809,
+    "target_revision_id": 44304753,
+    "target_title": "قلعه هرسین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%87%D8%B1%D8%B3%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "تپه قلعه دزد بر هرسین",
+    "name": "تپه قلعه دزدبر هرسین",
     "pageid": 19933,
     "revision_id": 44411169,
     "section": "اماکن دیدنی و آثار باستانی شهرستان",
     "source_title": "شهرستان هرسین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "تپه قلعه دزد بر هرسین"
+    "target_pageid": 663615,
+    "target_revision_id": 44120495,
+    "target_title": "تپه قلعه دزدبر هرسین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%B2%D8%AF%D8%A8%D8%B1_%D9%87%D8%B1%D8%B3%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -109,18 +96,10 @@
     "section": "اماکن دیدنی و آثار باستانی شهرستان",
     "source_title": "شهرستان هرسین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "پل خسرو"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سراب بیستون",
-    "pageid": 19933,
-    "revision_id": 44411169,
-    "section": "اماکن دیدنی و آثار باستانی شهرستان",
-    "source_title": "شهرستان هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "سراب بیستون"
+    "target_pageid": 660444,
+    "target_revision_id": 43928123,
+    "target_title": "پل خسرو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AE%D8%B3%D8%B1%D9%88"
    },
    {
     "field": "poi_nature",
@@ -131,79 +110,42 @@
     "section": "اماکن دیدنی و آثار باستانی شهرستان",
     "source_title": "شهرستان هرسین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "غار شکارچیان"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "غار مرآفتاب",
-    "pageid": 19933,
-    "revision_id": 44411169,
-    "section": "اماکن دیدنی و آثار باستانی شهرستان",
-    "source_title": "شهرستان هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "غار مرآفتاب"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "غار چشمه‌سراب",
-    "pageid": 19933,
-    "revision_id": 44411169,
-    "section": "اماکن دیدنی و آثار باستانی شهرستان",
-    "source_title": "شهرستان هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "غار چشمه‌سراب"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سراب هرسین",
-    "pageid": 19933,
-    "revision_id": 44411169,
-    "section": "اماکن دیدنی و آثار باستانی شهرستان",
-    "source_title": "شهرستان هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "سراب هرسین"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "چشمه گرماب هرسین",
-    "pageid": 19933,
-    "revision_id": 44411169,
-    "section": "اماکن دیدنی و آثار باستانی شهرستان",
-    "source_title": "شهرستان هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "چشمه گرماب هرسین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه هرسین",
-    "pageid": 29149,
-    "revision_id": 44384336,
-    "section": "آثار تاریخی",
-    "source_title": "هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "قلعه هرسین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تپه قلعه دزدبر هرسین",
-    "pageid": 29149,
-    "revision_id": 44384336,
-    "section": "آثار تاریخی",
-    "source_title": "هرسین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
-    "target_title": "تپه قلعه دزدبر هرسین"
+    "target_pageid": 177063,
+    "target_revision_id": 44278503,
+    "target_title": "غار شکارچیان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B4%DA%A9%D8%A7%D8%B1%DA%86%DB%8C%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "هرسین",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "کتیبه بیستون",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "سراب بیستون",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "غار مرآفتاب",
+    "reason": "target page missing"
+   },
+   {
+    "name": "غار چشمه‌سراب",
+    "reason": "target page missing"
+   },
+   {
+    "name": "سراب هرسین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "چشمه گرماب هرسین",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%D8%B3%DB%8C%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%87%D8%B1%D8%B3%DB%8C%D9%86"
@@ -220,13 +162,17 @@
     "section": "اماکن دیدنی و تاریخی / غار کاوات",
     "source_title": "جوانرود",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF",
-    "target_title": "غار کاوات"
+    "target_pageid": 32490,
+    "target_revision_id": 40492462,
+    "target_title": "غار کاوات",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%DA%A9%D8%A7%D9%88%D8%A7%D8%AA"
    }
   ],
   "center_confirmed": true,
   "county": "جوانرود",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF",
    "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D9%86%D8%B1%D9%88%D8%AF"
@@ -243,18 +189,24 @@
     "section": "آثار تاریخی / تپه گودین",
     "source_title": "شهرستان کنگاور",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-    "target_title": "خانه ساری‌اصلانی"
+    "target_pageid": 5206289,
+    "target_revision_id": 44155250,
+    "target_title": "خانه ساری‌اصلانی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D8%A7%D8%B1%DB%8C%E2%80%8C%D8%A7%D8%B5%D9%84%D8%A7%D9%86%DB%8C"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام قدیمی توکل",
+    "name": "حمام توکل",
     "pageid": 15097,
     "revision_id": 44479505,
     "section": "آثار تاریخی",
     "source_title": "کنگاور",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-    "target_title": "حمام قدیمی توکل"
+    "target_pageid": 658564,
+    "target_revision_id": 44160059,
+    "target_title": "حمام توکل",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AA%D9%88%DA%A9%D9%84"
    },
    {
     "field": "poi_heritage",
@@ -265,18 +217,10 @@
     "section": "آثار تاریخی",
     "source_title": "کنگاور",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-    "target_title": "حمام بزرگ"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه ساری‌اصلانی",
-    "pageid": 15097,
-    "revision_id": 44479505,
-    "section": "آثار تاریخی",
-    "source_title": "کنگاور",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-    "target_title": "خانه ساری‌اصلانی"
+    "target_pageid": 670905,
+    "target_revision_id": 44476183,
+    "target_title": "حمام بزرگ",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D8%B2%D8%B1%DA%AF"
    },
    {
     "field": "poi_heritage",
@@ -287,13 +231,17 @@
     "section": "آثار تاریخی",
     "source_title": "کنگاور",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-    "target_title": "پل کوچه"
+    "target_pageid": 662172,
+    "target_revision_id": 39477127,
+    "target_title": "پل کوچه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%DA%A9%D9%88%DA%86%D9%87"
    }
   ],
   "center_confirmed": true,
   "county": "کنگاور",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
    "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1"
@@ -310,7 +258,10 @@
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "طاق‌بستان"
+    "target_pageid": 113042,
+    "target_revision_id": 44452992,
+    "target_title": "طاق‌بستان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%E2%80%8C%D8%A8%D8%B3%D8%AA%D8%A7%D9%86"
    },
    {
     "field": "poi_recreation",
@@ -321,62 +272,66 @@
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "پارک کوهستان"
+    "target_pageid": 5612189,
+    "target_revision_id": 31805851,
+    "target_title": "پارک کوهستان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%DA%A9%D9%88%D9%87%D8%B3%D8%AA%D8%A7%D9%86"
    },
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک شاهد کرمانشاه",
+    "name": "بوستان شاهد",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "پارک شاهد کرمانشاه"
+    "target_pageid": 3733463,
+    "target_revision_id": 44351608,
+    "target_title": "بوستان شاهد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A7%D9%87%D8%AF"
    },
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک شیرین کرمانشاه",
+    "name": "پارک شیرین",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "پارک شیرین کرمانشاه"
+    "target_pageid": 3739086,
+    "target_revision_id": 44412853,
+    "target_title": "پارک شیرین (کرمانشاه)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87%29"
    },
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک لاله کرمانشاه",
+    "name": "بوستان لاله",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "پارک لاله کرمانشاه"
+    "target_pageid": 3734186,
+    "target_revision_id": 44166216,
+    "target_title": "بوستان لاله (کرمانشاه)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D9%84%D9%87_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87%29"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "شکارگاه خسروپرویز",
+    "name": "شکارگاه خسرو پرویز",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / معماری و آثار تاریخی",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "شکارگاه خسروپرویز"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه بیستون",
-    "pageid": 7878,
-    "revision_id": 44458955,
-    "section": "چشم انداز شهری / معماری و آثار تاریخی",
-    "source_title": "کرمانشاه",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "کوه بیستون"
+    "target_pageid": 441806,
+    "target_revision_id": 44134690,
+    "target_title": "شکارگاه خسرو پرویز",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D8%AE%D8%B3%D8%B1%D9%88_%D9%BE%D8%B1%D9%88%DB%8C%D8%B2"
    },
    {
     "field": "poi_heritage",
@@ -387,7 +342,10 @@
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "بازار کرمانشاه"
+    "target_pageid": 169643,
+    "target_revision_id": 44170347,
+    "target_title": "بازار کرمانشاه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -398,18 +356,10 @@
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "مسجد عمادالدوله"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد جامع کرمانشاه",
-    "pageid": 7878,
-    "revision_id": 44458955,
-    "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
-    "source_title": "کرمانشاه",
-    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "مسجد جامع کرمانشاه"
+    "target_pageid": 41225,
+    "target_revision_id": 44133584,
+    "target_title": "مسجد عمادالدوله",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B9%D9%85%D8%A7%D8%AF%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -420,18 +370,24 @@
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "مسجد جامع شافعی"
+    "target_pageid": 447335,
+    "target_revision_id": 44133545,
+    "target_title": "مسجد جامع شافعی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B4%D8%A7%D9%81%D8%B9%DB%8C"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد حاج شهباز خان",
+    "name": "مسجد حاج شهبازخان",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "مسجد حاج شهباز خان"
+    "target_pageid": 41228,
+    "target_revision_id": 44133516,
+    "target_title": "مسجد حاج شهبازخان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%D8%A7%D8%AC_%D8%B4%D9%87%D8%A8%D8%A7%D8%B2%D8%AE%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -442,7 +398,10 @@
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "مسجد شاهزاده (کرمانشاه)"
+    "target_pageid": 41230,
+    "target_revision_id": 44133523,
+    "target_title": "مسجد شاهزاده (کرمانشاه)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87%29"
    },
    {
     "field": "poi_heritage",
@@ -453,24 +412,40 @@
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "مسجد دولتشاه"
+    "target_pageid": 41226,
+    "target_revision_id": 44133595,
+    "target_title": "مسجد دولتشاه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AF%D9%88%D9%84%D8%AA%D8%B4%D8%A7%D9%87"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه خواجه باروخ",
+    "name": "خانه رنده‌کش",
     "pageid": 7878,
     "revision_id": 44458955,
     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
     "source_title": "کرمانشاه",
     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "target_title": "خانه خواجه باروخ"
+    "target_pageid": 657787,
+    "target_revision_id": 44155195,
+    "target_title": "خانه رنده‌کش",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D9%86%D8%AF%D9%87%E2%80%8C%DA%A9%D8%B4"
    }
   ],
   "center_confirmed": true,
   "county": "کرمانشاه",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "کوه بیستون",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "مسجد جامع کرمانشاه",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
    "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87"
@@ -481,13 +456,30 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
+    "name": "سد داریان",
+    "pageid": 18273,
+    "revision_id": 43695743,
+    "section": "گردشگری",
+    "source_title": "شهرستان پاوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
+    "target_pageid": 2660008,
+    "target_revision_id": 44144719,
+    "target_title": "سد داریان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AF%D8%A7%D8%B1%DB%8C%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
     "name": "غار سنگی حسین کوهکن",
     "pageid": 18273,
     "revision_id": 43695743,
     "section": "گردشگری",
     "source_title": "شهرستان پاوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_title": "غار سنگی حسین کوهکن"
+    "target_pageid": 2673685,
+    "target_revision_id": 44453146,
+    "target_title": "غار سنگی حسین کوهکن",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%D9%86%DA%AF%DB%8C_%D8%AD%D8%B3%DB%8C%D9%86_%DA%A9%D9%88%D9%87%DA%A9%D9%86"
    },
    {
     "field": "poi_nature",
@@ -498,7 +490,10 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "شهرستان پاوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_title": "کوه شاهو"
+    "target_pageid": 2000769,
+    "target_revision_id": 43170953,
+    "target_title": "کوه شاهو",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%B4%D8%A7%D9%87%D9%88"
    },
    {
     "field": "poi_nature",
@@ -509,35 +504,22 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "شهرستان پاوه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_title": "غار قوری‌قلعه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آرامگاه سید عبیدالله",
-    "pageid": 18273,
-    "revision_id": 43695743,
-    "section": "گردشگری / زیارت گاه ها",
-    "source_title": "شهرستان پاوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
-    "target_title": "آرامگاه سید عبیدالله"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه شاهو",
-    "pageid": 1629,
-    "revision_id": 44544736,
-    "section": "جاذبه های گردشگری",
-    "source_title": "پاوه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%88%D9%87",
-    "target_title": "کوه شاهو"
+    "target_pageid": 179512,
+    "target_revision_id": 44453484,
+    "target_title": "غار قوری‌قلعه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%82%D9%88%D8%B1%DB%8C%E2%80%8C%D9%82%D9%84%D8%B9%D9%87"
    }
   ],
   "center_confirmed": true,
   "county": "پاوه",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "آرامگاه سید عبیدالله",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%D9%87",
    "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%88%D9%87"
@@ -554,7 +536,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان قصر شیرین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "کاخ خسرو"
+    "target_pageid": 2663747,
+    "target_revision_id": 44442454,
+    "target_title": "کاخ خسرو",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%D8%AE%D8%B3%D8%B1%D9%88"
    },
    {
     "field": "poi_heritage",
@@ -565,7 +550,10 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان قصر شیرین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "کاروانسرای عباسی قصر شیرین"
+    "target_pageid": 661440,
+    "target_revision_id": 39689734,
+    "target_title": "کاروانسرای عباسی قصر شیرین",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C_%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -576,102 +564,47 @@
     "section": "آثار تاریخی",
     "source_title": "شهرستان قصر شیرین",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "بان‌قلعه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بان قلعه",
-    "pageid": 77984,
-    "revision_id": 43825642,
-    "section": "آثار تاریخی",
-    "source_title": "قصر شیرین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "بان قلعه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاخ خسرو",
-    "pageid": 77984,
-    "revision_id": 43825642,
-    "section": "آثار تاریخی",
-    "source_title": "قصر شیرین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "کاخ خسرو"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای عباسی قصر شیرین",
-    "pageid": 77984,
-    "revision_id": 43825642,
-    "section": "آثار تاریخی",
-    "source_title": "قصر شیرین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "کاروانسرای عباسی قصر شیرین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه جوانمیر",
-    "pageid": 77984,
-    "revision_id": 43825642,
-    "section": "آثار تاریخی",
-    "source_title": "قصر شیرین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "قلعه جوانمیر"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حاجی قلعه سی",
-    "pageid": 77984,
-    "revision_id": 43825642,
-    "section": "آثار تاریخی",
-    "source_title": "قصر شیرین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
-    "target_title": "حاجی قلعه سی"
+    "target_pageid": 4975814,
+    "target_revision_id": 33563292,
+    "target_title": "بان‌قلعه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%E2%80%8C%D9%82%D9%84%D8%B9%D9%87"
    }
   ],
   "center_confirmed": true,
   "county": "قصر شیرین",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "قلعه جوانمیر",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حاجی قلعه سی",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B4%DB%8C%D8%B1%DB%8C%D9%86"
   ]
  },
  "ravansar": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سراب روانسر",
-    "pageid": 110074,
-    "revision_id": 44475279,
-    "section": "آثار باستانی و جاذبه های توریستی",
-    "source_title": "شهرستان روانسر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1",
-    "target_title": "سراب روانسر"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "سراب جاوری",
-    "pageid": 110074,
-    "revision_id": 44475279,
-    "section": "آثار باستانی و جاذبه های توریستی",
-    "source_title": "شهرستان روانسر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1",
-    "target_title": "سراب جاوری"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "روانسر",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "سراب روانسر",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "سراب جاوری",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1"
@@ -683,6 +616,7 @@
   "county": "صحنه",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B5%D8%AD%D9%86%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%B5%D8%AD%D9%86%D9%87"
@@ -694,6 +628,7 @@
   "county": "ثلاث باباجانی",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AB%D9%84%D8%A7%D8%AB_%D8%A8%D8%A7%D8%A8%D8%A7%D8%AC%D8%A7%D9%86%DB%8C"
   ]
@@ -709,58 +644,42 @@
     "section": "آثار دیدنی",
     "source_title": "سرپل ذهاب",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%BE%D9%84_%D8%B0%D9%87%D8%A7%D8%A8",
-    "target_title": "آرامگاه احمد بن اسحاق"
+    "target_pageid": 122896,
+    "target_revision_id": 44553202,
+    "target_title": "آرامگاه احمد بن اسحاق",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%A7%D8%B3%D8%AD%D8%A7%D9%82"
    }
   ],
   "center_confirmed": true,
   "county": "سرپل ذهاب",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D9%BE%D9%84_%D8%B0%D9%87%D8%A7%D8%A8",
    "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%BE%D9%84_%D8%B0%D9%87%D8%A7%D8%A8"
   ]
  },
  "sonqor": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "کوه دالاخانی",
-    "pageid": 19932,
-    "revision_id": 44582835,
-    "section": "مناطق دیدنی و تفریحی / چشم انداز طبیعی",
-    "source_title": "شهرستان سنقر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%86%D9%82%D8%B1",
-    "target_title": "کوه دالاخانی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آرامگاه مالک",
-    "pageid": 19932,
-    "revision_id": 44582835,
-    "section": "مناطق دیدنی و تفریحی / آثار تاریخی",
-    "source_title": "شهرستان سنقر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%86%D9%82%D8%B1",
-    "target_title": "آرامگاه مالک"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه مالک",
-    "pageid": 19918,
-    "revision_id": 44582831,
-    "section": "جاذبه های گردشگری",
-    "source_title": "سنقر",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%82%D8%B1",
-    "target_title": "آرامگاه مالک"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "سنقر",
   "fetched": "2026-10-02",
   "province": "kermanshah",
+  "rejected_candidates": [
+   {
+    "name": "کوه دالاخانی",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "آرامگاه مالک",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "آرامگاه مالک",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%86%D9%82%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%82%D8%B1"

@@ -137,13 +137,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت کلاه فرنگی بندرعباس",
+     "name": "عمارت کلاه‌فرنگی بندرعباس",
      "pageid": 433487,
      "revision_id": 44089826,
      "section": "اماکن تاریخی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "عمارت کلاه فرنگی بندرعباس"
+     "target_pageid": 111415,
+     "target_revision_id": 43929248,
+     "target_title": "عمارت کلاه‌فرنگی بندرعباس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%DA%A9%D9%84%D8%A7%D9%87%E2%80%8C%D9%81%D8%B1%D9%86%DA%AF%DB%8C_%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3"
     },
     {
      "field": "poi_heritage",
@@ -154,7 +157,10 @@
      "section": "اماکن تاریخی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "حمام گله‌داری"
+     "target_pageid": 111514,
+     "target_revision_id": 43929253,
+     "target_title": "حمام گله‌داری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%DA%AF%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%B1%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -165,7 +171,10 @@
      "section": "اماکن تاریخی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "خانه احمدی"
+     "target_pageid": 113494,
+     "target_revision_id": 44154256,
+     "target_title": "خانه احمدی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%AD%D9%85%D8%AF%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -176,7 +185,10 @@
      "section": "اماکن تاریخی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "مجموعه آب انبارهای موزه"
+     "target_pageid": 657023,
+     "target_revision_id": 44322701,
+     "target_title": "مجموعه آب انبارهای موزه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%A2%D8%A8_%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D9%85%D9%88%D8%B2%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -187,7 +199,10 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "امامزاده سید مظفر (بندر عباس)"
+     "target_pageid": 115143,
+     "target_revision_id": 43929315,
+     "target_title": "امامزاده سید مظفر (بندر عباس)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D9%85%D8%B8%D9%81%D8%B1_%28%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3%29"
     },
     {
      "field": "poi_heritage",
@@ -198,7 +213,10 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "مسجد جامع بندر عباس"
+     "target_pageid": 118436,
+     "target_revision_id": 43929300,
+     "target_title": "مسجد جامع بندر عباس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3"
     },
     {
      "field": "poi_heritage",
@@ -209,7 +227,10 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "امامزاده سید کامل"
+     "target_pageid": 118389,
+     "target_revision_id": 40278018,
+     "target_title": "امامزاده سید کامل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%DA%A9%D8%A7%D9%85%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -220,7 +241,10 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "امامزاده شاه محمد تقی"
+     "target_pageid": 116482,
+     "target_revision_id": 43786873,
+     "target_title": "امامزاده شاه محمد تقی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B4%D8%A7%D9%87_%D9%85%D8%AD%D9%85%D8%AF_%D8%AA%D9%82%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -231,7 +255,10 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "مسجد ناصری (بندر عباس)"
+     "target_pageid": 118438,
+     "target_revision_id": 38509937,
+     "target_title": "مسجد ناصری (بندر عباس)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%86%D8%A7%D8%B5%D8%B1%DB%8C_%28%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%A8%D8%A7%D8%B3%29"
     },
     {
      "field": "poi_heritage",
@@ -242,7 +269,10 @@
      "section": "اماکن زیارتی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "مسجد گله‌داری"
+     "target_pageid": 111587,
+     "target_revision_id": 43929314,
+     "target_title": "مسجد گله‌داری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%DA%AF%D9%84%D9%87%E2%80%8C%D8%AF%D8%A7%D8%B1%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -250,7 +280,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-   "value": "عمارت کلاه فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری\nمسجد گله‌داری"
+   "value": "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری\nمسجد گله‌داری"
   },
   "poi_nature": {
    "entries": [
@@ -263,7 +293,10 @@
      "section": "اماکن تاریخی / جاذبه های طبیعی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "کوه گنو"
+     "target_pageid": 157434,
+     "target_revision_id": 44485229,
+     "target_title": "کوه گنو",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%DA%AF%D9%86%D9%88"
     },
     {
      "field": "poi_nature",
@@ -274,7 +307,10 @@
      "section": "اماکن تاریخی / جاذبه های طبیعی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "آب‌گرم گنو"
+     "target_pageid": 111509,
+     "target_revision_id": 29610068,
+     "target_title": "آب‌گرم گنو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%DA%AF%D9%86%D9%88"
     },
     {
      "field": "poi_nature",
@@ -285,29 +321,10 @@
      "section": "اماکن تاریخی / جاذبه های طبیعی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "آبگرم خورگو"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ساحلی سورو",
-     "pageid": 433487,
-     "revision_id": 44089826,
-     "section": "اماکن تفریحی",
-     "source_title": "بندرعباس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "بوستان ساحلی سورو"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان ساحلی غدیر",
-     "pageid": 433487,
-     "revision_id": 44089826,
-     "section": "اماکن تفریحی",
-     "source_title": "بندرعباس",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "بوستان ساحلی غدیر"
+     "target_pageid": 1608749,
+     "target_revision_id": 40118604,
+     "target_title": "آبگرم خورگو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DA%AF%D8%B1%D9%85_%D8%AE%D9%88%D8%B1%DA%AF%D9%88"
     },
     {
      "field": "poi_nature",
@@ -318,7 +335,10 @@
      "section": "اماکن تفریحی",
      "source_title": "بندرعباس",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-     "target_title": "موزه مردم‌شناسی خلیج فارس"
+     "target_pageid": 1312755,
+     "target_revision_id": 30199098,
+     "target_title": "موزه مردم‌شناسی خلیج فارس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AE%D9%84%DB%8C%D8%AC_%D9%81%D8%A7%D8%B1%D8%B3"
     }
    ],
    "fetched": "2026-10-02",
@@ -326,7 +346,45 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
-   "value": "کوه گنو\nآب‌گرم گنو\nآبگرم خورگو\nبوستان ساحلی سورو\nبوستان ساحلی غدیر\nموزه مردم‌شناسی خلیج فارس"
+   "value": "کوه گنو\nآب‌گرم گنو\nآبگرم خورگو\nموزه مردم‌شناسی خلیج فارس"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان ساحلی سورو",
+     "pageid": 433487,
+     "revision_id": 44089826,
+     "section": "اماکن تفریحی",
+     "source_title": "بندرعباس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
+     "target_pageid": 6595346,
+     "target_revision_id": 44097059,
+     "target_title": "بوستان ساحلی سورو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%D9%88"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان ساحلی غدیر",
+     "pageid": 433487,
+     "revision_id": 44089826,
+     "section": "اماکن تفریحی",
+     "source_title": "بندرعباس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
+     "target_pageid": 6828292,
+     "target_revision_id": 43142370,
+     "target_title": "بوستان ساحلی غدیر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C_%D8%BA%D8%AF%DB%8C%D8%B1"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
+   "value": "بوستان ساحلی سورو\nبوستان ساحلی غدیر"
   },
   "population": {
    "fetched": "2026-10-02",

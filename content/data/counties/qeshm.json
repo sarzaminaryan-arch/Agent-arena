@@ -168,7 +168,10 @@
      "section": "جاذبه های گردشگری / دژ پرتغالی ها",
      "source_title": "جزیره قشم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_title": "قلعه لافت"
+     "target_pageid": 113184,
+     "target_revision_id": 43929197,
+     "target_title": "قلعه لافت",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%84%D8%A7%D9%81%D8%AA"
     },
     {
      "field": "poi_heritage",
@@ -179,7 +182,10 @@
      "section": "جاذبه های گردشگری / دژ پرتغالی ها",
      "source_title": "جزیره قشم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_title": "قلعه هرمز"
+     "target_pageid": 114454,
+     "target_revision_id": 43929202,
+     "target_title": "قلعه هرمز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%87%D8%B1%D9%85%D8%B2"
     }
    ],
    "fetched": "2026-10-02",
@@ -189,40 +195,8 @@
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
    "value": "قلعه لافت\nقلعه هرمز"
   },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار خربس",
-     "pageid": 18109,
-     "revision_id": 44319196,
-     "section": "جاذبه های گردشگری / غار خربس",
-     "source_title": "جزیره قشم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_title": "غار خربس"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-   "value": "غار خربس"
-  },
   "poi_recreation": {
    "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "ژئو پارک قشم",
-     "pageid": 18109,
-     "revision_id": 44319196,
-     "section": "جاذبه های گردشگری / دره چاه کوه",
-     "source_title": "جزیره قشم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_title": "ژئو پارک قشم"
-    },
     {
      "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
@@ -232,7 +206,10 @@
      "section": "جاذبه های گردشگری / دره چاه کوه",
      "source_title": "جزیره قشم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_title": "ژئوپارک قشم"
+     "target_pageid": 4311234,
+     "target_revision_id": 44455424,
+     "target_title": "ژئوپارک قشم",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9_%D9%82%D8%B4%D9%85"
     },
     {
      "field": "poi_recreation",
@@ -243,7 +220,10 @@
      "section": "جاذبه های گردشگری / ژئوپارک قشم",
      "source_title": "جزیره قشم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-     "target_title": "ژئوپارک"
+     "target_pageid": 342293,
+     "target_revision_id": 44439821,
+     "target_title": "ژئوپارک",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9"
     }
    ],
    "fetched": "2026-10-02",
@@ -251,7 +231,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%82%D8%B4%D9%85",
-   "value": "ژئو پارک قشم\nژئوپارک قشم\nژئوپارک"
+   "value": "ژئوپارک قشم\nژئوپارک"
   },
   "population": {
    "fetched": "2026-10-02",

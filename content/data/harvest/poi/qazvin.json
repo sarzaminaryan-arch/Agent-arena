@@ -1,22 +1,16 @@
 {
  "abyek": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده زکریا",
-    "pageid": 91867,
-    "revision_id": 44497162,
-    "section": "اماکن دیدنی",
-    "source_title": "آبیک",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DB%8C%DA%A9",
-    "target_title": "امامزاده زکریا"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "آبیک",
   "fetched": "2026-10-02",
   "province": "qazvin",
+  "rejected_candidates": [
+   {
+    "name": "امامزاده زکریا",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%A8%DB%8C%DA%A9",
    "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DB%8C%DA%A9"
@@ -28,6 +22,7 @@
   "county": "البرز",
   "fetched": "2026-10-02",
   "province": "qazvin",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%D8%A8%D8%B1%D8%B2"
   ]
@@ -37,41 +32,23 @@
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
-    "name": "کاروانسرا",
-    "pageid": 1103990,
-    "revision_id": 44082236,
-    "section": "اماکن گردشگری / کاروانسرای شاه عباسی آوج",
-    "source_title": "شهرستان آوج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-    "target_title": "کاروانسرا"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آرامگاه",
-    "pageid": 1103990,
-    "revision_id": 44082236,
-    "section": "اماکن گردشگری / برج های دوگانه خرقان",
-    "source_title": "شهرستان آوج",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-    "target_title": "آرامگاه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
     "name": "محراب مسجد",
     "pageid": 1103990,
     "revision_id": 44082236,
     "section": "اماکن گردشگری / برج های دوگانه خرقان",
     "source_title": "شهرستان آوج",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-    "target_title": "محراب مسجد"
+    "target_pageid": 25546,
+    "target_revision_id": 43878574,
+    "target_title": "محراب مسجد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D8%A7%D8%A8_%D9%85%D8%B3%D8%AC%D8%AF"
    }
   ],
   "center_confirmed": true,
   "county": "آوج",
   "fetched": "2026-10-02",
   "province": "qazvin",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
    "https://fa.wikipedia.org/wiki/%D8%A2%D9%88%D8%AC"
@@ -88,7 +65,10 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بوئین‌زهرا",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A6%DB%8C%D9%86%E2%80%8C%D8%B2%D9%87%D8%B1%D8%A7",
-    "target_title": "کاروانسرای محمدآباد (قزوین)"
+    "target_pageid": 657923,
+    "target_revision_id": 43926242,
+    "target_title": "کاروانسرای محمدآباد (قزوین)",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%85%D8%AD%D9%85%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF_%28%D9%82%D8%B2%D9%88%DB%8C%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -99,74 +79,23 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان بوئین‌زهرا",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A6%DB%8C%D9%86%E2%80%8C%D8%B2%D9%87%D8%B1%D8%A7",
-    "target_title": "کاروانسرای هجیب"
+    "target_pageid": 3190461,
+    "target_revision_id": 44326776,
+    "target_title": "کاروانسرای هجیب",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%87%D8%AC%DB%8C%D8%A8"
    }
   ],
   "center_confirmed": false,
   "county": "بوئین‌زهرا",
   "fetched": "2026-10-02",
   "province": "qazvin",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%A6%DB%8C%D9%86%E2%80%8C%D8%B2%D9%87%D8%B1%D8%A7"
   ]
  },
  "qazvin-city": {
   "candidates": [
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "شهربازی دالفک",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "ساختار شهری / مراکز تفریحی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "شهربازی دالفک"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قلعه سحر آمیز",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "ساختار شهری / مراکز تفریحی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "قلعه سحر آمیز"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "شهربازی پارک ملت",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "ساختار شهری / مراکز تفریحی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "شهربازی پارک ملت"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "شهربازی پارک دهخدا",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "ساختار شهری / مراکز تفریحی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "شهربازی پارک دهخدا"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "عمارت شهربانی",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / مجموعه باغ صفوی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "عمارت شهربانی"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
@@ -176,7 +105,10 @@
     "section": "گردشگری / جاذبه های تاریخی / مجموعه باغ صفوی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "کاخ چهل‌ستون قزوین"
+    "target_pageid": 173882,
+    "target_revision_id": 44438339,
+    "target_title": "کاخ چهل‌ستون قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%DA%86%D9%87%D9%84%E2%80%8C%D8%B3%D8%AA%D9%88%D9%86_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -187,7 +119,10 @@
     "section": "گردشگری / جاذبه های تاریخی / مجموعه باغ صفوی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "موزه قزوین"
+    "target_pageid": 1102275,
+    "target_revision_id": 43926354,
+    "target_title": "موزه قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -198,7 +133,10 @@
     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "عمارت شهرداری قزوین"
+    "target_pageid": 2102653,
+    "target_revision_id": 41049453,
+    "target_title": "عمارت شهرداری قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -209,7 +147,10 @@
     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "عمارت باغ سپهدار"
+    "target_pageid": 658035,
+    "target_revision_id": 44276789,
+    "target_title": "عمارت باغ سپهدار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%A8%D8%A7%D8%BA_%D8%B3%D9%BE%D9%87%D8%AF%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -220,7 +161,10 @@
     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "عمارت سردار مفخم قزوین"
+    "target_pageid": 479392,
+    "target_revision_id": 44276840,
+    "target_title": "عمارت سردار مفخم قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1_%D9%85%D9%81%D8%AE%D9%85_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -231,7 +175,10 @@
     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "میمون‌قلعه"
+    "target_pageid": 657621,
+    "target_revision_id": 44365110,
+    "target_title": "میمون‌قلعه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%85%D9%88%D9%86%E2%80%8C%D9%82%D9%84%D8%B9%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -242,7 +189,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه بهروزی"
+    "target_pageid": 673661,
+    "target_revision_id": 44154592,
+    "target_title": "خانه بهروزی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A8%D9%87%D8%B1%D9%88%D8%B2%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -253,7 +203,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه عارف قزوینی"
+    "target_pageid": 675001,
+    "target_revision_id": 44155587,
+    "target_title": "خانه عارف قزوینی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B9%D8%A7%D8%B1%D9%81_%D9%82%D8%B2%D9%88%DB%8C%D9%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -264,18 +217,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه یزدی‌ها"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه جلیل آرازی",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه جلیل آرازی"
+    "target_pageid": 2208819,
+    "target_revision_id": 44156636,
+    "target_title": "خانه یزدی‌ها",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%DB%8C%D8%B2%D8%AF%DB%8C%E2%80%8C%D9%87%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -286,7 +231,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه دائی"
+    "target_pageid": 659251,
+    "target_revision_id": 44155047,
+    "target_title": "خانه دائی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AF%D8%A7%D8%A6%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -297,7 +245,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه دربندی"
+    "target_pageid": 659095,
+    "target_revision_id": 44155071,
+    "target_title": "خانه دربندی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AF%D8%B1%D8%A8%D9%86%D8%AF%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -308,7 +259,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه رئوفی"
+    "target_pageid": 658199,
+    "target_revision_id": 44155123,
+    "target_title": "خانه رئوفی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D8%A6%D9%88%D9%81%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -319,7 +273,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه زنجانچی"
+    "target_pageid": 663182,
+    "target_revision_id": 44155224,
+    "target_title": "خانه زنجانچی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B2%D9%86%D8%AC%D8%A7%D9%86%DA%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -330,7 +287,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه ساروخانی"
+    "target_pageid": 674723,
+    "target_revision_id": 44155245,
+    "target_title": "خانه ساروخانی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D8%A7%D8%B1%D9%88%D8%AE%D8%A7%D9%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -341,7 +301,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه قائمی"
+    "target_pageid": 673577,
+    "target_revision_id": 44155839,
+    "target_title": "خانه قائمی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%82%D8%A7%D8%A6%D9%85%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -352,7 +315,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه موینی"
+    "target_pageid": 663181,
+    "target_revision_id": 44156231,
+    "target_title": "خانه موینی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D9%88%DB%8C%D9%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -363,7 +329,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه محصص"
+    "target_pageid": 657809,
+    "target_revision_id": 44155955,
+    "target_title": "خانه محصص",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%AD%D8%B5%D8%B5"
    },
    {
     "field": "poi_heritage",
@@ -374,29 +343,24 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه سعدالسلطان"
+    "target_pageid": 673685,
+    "target_revision_id": 44155304,
+    "target_title": "خانه سعدالسلطان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D8%B9%D8%AF%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه تاریخی زعیم",
+    "name": "خانه امینی‌ها",
     "pageid": 2925,
     "revision_id": 44303211,
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه تاریخی زعیم"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حسینیه امینی ها",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حسینیه امینی ها"
+    "target_pageid": 479891,
+    "target_revision_id": 43926229,
+    "target_title": "خانه امینی‌ها",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D9%85%DB%8C%D9%86%DB%8C%E2%80%8C%D9%87%D8%A7"
    },
    {
     "field": "poi_heritage",
@@ -407,7 +371,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه سید حسین بهشتی"
+    "target_pageid": 659097,
+    "target_revision_id": 44155359,
+    "target_title": "خانه سید حسین بهشتی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%DB%8C%D8%AF_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -418,40 +385,10 @@
     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "خانه سید محمود بهشتی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دروازه باغ‌شاه",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / دروازه های شهر",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "دروازه باغ‌شاه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دروازه امام‌زاده حسین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / دروازه های شهر",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "دروازه امام‌زاده حسین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام رضوی",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام رضوی"
+    "target_pageid": 673618,
+    "target_revision_id": 44155383,
+    "target_title": "خانه سید محمود بهشتی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -462,29 +399,10 @@
     "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام قجر"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام دودر",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام دودر"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام سیدیان",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام سیدیان"
+    "target_pageid": 426580,
+    "target_revision_id": 44150629,
+    "target_title": "حمام قجر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%82%D8%AC%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -495,18 +413,10 @@
     "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام میرزا کریم"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام حاجی محمد رحیم صفا",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام حاجی محمد رحیم صفا"
+    "target_pageid": 657791,
+    "target_revision_id": 44150753,
+    "target_title": "حمام میرزا کریم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7_%DA%A9%D8%B1%DB%8C%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -517,172 +427,80 @@
     "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام بلور"
+    "target_pageid": 426600,
+    "target_revision_id": 44150322,
+    "target_title": "حمام بلور",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D9%84%D9%88%D8%B1"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام راه ری",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام راه ری"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام داروغه",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام داروغه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام آخوند قزوین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام آخوند قزوین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام پیر حصار",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام پیر حصار"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام بایندر کوچه",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام بایندر کوچه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام قوشه",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام قوشه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام سعدیه",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام سعدیه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "حمام حاج بیگلر",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / گرمابه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "حمام حاج بیگلر"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب انبار حکیم",
+    "name": "آب‌انبار حکیم",
     "pageid": 2925,
     "revision_id": 44303211,
     "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آب انبار حکیم"
+    "target_pageid": 479890,
+    "target_revision_id": 33739349,
+    "target_title": "آب‌انبار حکیم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%AD%DA%A9%DB%8C%D9%85"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب انبار زنانه بازار",
+    "name": "آب‌انبار زنانه بازار",
     "pageid": 2925,
     "revision_id": 44303211,
     "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آب انبار زنانه بازار"
+    "target_pageid": 479889,
+    "target_revision_id": 31311808,
+    "target_title": "آب‌انبار زنانه بازار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%B2%D9%86%D8%A7%D9%86%D9%87_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب انبار سردار کوچک",
+    "name": "آب‌انبار سردار کوچک",
     "pageid": 2925,
     "revision_id": 44303211,
     "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آب انبار سردار کوچک"
+    "target_pageid": 479861,
+    "target_revision_id": 38633186,
+    "target_title": "آب‌انبار سردار کوچک",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1_%DA%A9%D9%88%DA%86%DA%A9"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب انبار سردار بزرگ",
+    "name": "آب‌انبار حاج کاظم",
     "pageid": 2925,
     "revision_id": 44303211,
     "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آب انبار سردار بزرگ"
+    "target_pageid": 461673,
+    "target_revision_id": 43926312,
+    "target_title": "آب‌انبار حاج کاظم",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%AD%D8%A7%D8%AC_%DA%A9%D8%A7%D8%B8%D9%85"
    },
    {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب انبار حاج کاظم",
+    "name": "آب‌انبار مسجد جامع قزوین",
     "pageid": 2925,
     "revision_id": 44303211,
     "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آب انبار حاج کاظم"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آب انبار مسجد جامع",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / آب انبارها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آب انبار مسجد جامع"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کاروانسرای محمدآباد",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / بازارها و کاروان سراها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "کاروانسرای محمدآباد"
+    "target_pageid": 479892,
+    "target_revision_id": 41326699,
+    "target_title": "آب‌انبار مسجد جامع قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -693,7 +511,10 @@
     "section": "گردشگری / جاذبه های تاریخی / بازارها و کاروان سراها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "بازار قزوین"
+    "target_pageid": 428106,
+    "target_revision_id": 40950279,
+    "target_title": "بازار قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -704,7 +525,10 @@
     "section": "گردشگری / جاذبه های تاریخی / مدرسه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد و مدرسه صالحیه"
+    "target_pageid": 426607,
+    "target_revision_id": 41072918,
+    "target_title": "مسجد و مدرسه صالحیه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%88_%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D8%B5%D8%A7%D9%84%D8%AD%DB%8C%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -715,7 +539,10 @@
     "section": "گردشگری / جاذبه های تاریخی / مدرسه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد شیخ الاسلام"
+    "target_pageid": 3191984,
+    "target_revision_id": 43698224,
+    "target_title": "مسجد شیخ الاسلام",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B4%DB%8C%D8%AE_%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
    },
    {
     "field": "poi_heritage",
@@ -726,7 +553,10 @@
     "section": "گردشگری / جاذبه های تاریخی / آرامگاه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آرامگاه حمدالله مستوفی"
+    "target_pageid": 656379,
+    "target_revision_id": 43842311,
+    "target_title": "آرامگاه حمدالله مستوفی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AD%D9%85%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D9%85%D8%B3%D8%AA%D9%88%D9%81%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -737,18 +567,10 @@
     "section": "گردشگری / جاذبه های تاریخی / آرامگاه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "آرامگاه شهید ثالث"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "برج باراجین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / آرامگاه ها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "برج باراجین"
+    "target_pageid": 657988,
+    "target_revision_id": 42990356,
+    "target_title": "آرامگاه شهید ثالث",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF_%D8%AB%D8%A7%D9%84%D8%AB"
    },
    {
     "field": "poi_heritage",
@@ -759,7 +581,10 @@
     "section": "گردشگری / جاذبه های تاریخی / آرامگاه ها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مقبره سلطان ویس"
+    "target_pageid": 1447016,
+    "target_revision_id": 44349606,
+    "target_title": "مقبره سلطان ویس",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%A8%D8%B1%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%88%DB%8C%D8%B3"
    },
    {
     "field": "poi_heritage",
@@ -770,18 +595,10 @@
     "section": "گردشگری / جاذبه های تاریخی / کلیساها",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "کلیسای کانتور"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کلیسای رفیع",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های تاریخی / کلیساها",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "کلیسای رفیع"
+    "target_pageid": 155722,
+    "target_revision_id": 43926355,
+    "target_title": "کلیسای کانتور",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%DA%A9%D8%A7%D9%86%D8%AA%D9%88%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -792,7 +609,10 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "قله مردمی"
+    "target_pageid": 1794052,
+    "target_revision_id": 44453475,
+    "target_title": "قله مردمی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D9%85%D8%B1%D8%AF%D9%85%DB%8C"
    },
    {
     "field": "poi_nature",
@@ -803,29 +623,10 @@
     "section": "گردشگری / جاذبه های طبیعی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "قله شجاع الدین"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "قله سلطان ویس",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های طبیعی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "قله سلطان ویس"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده شاهزاده حسین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "امامزاده شاهزاده حسین"
+    "target_pageid": 1869514,
+    "target_revision_id": 40574975,
+    "target_title": "قله شجاع الدین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%87_%D8%B4%D8%AC%D8%A7%D8%B9_%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -836,7 +637,10 @@
     "section": "گردشگری / جاذبه های مذهبی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "امامزاده اباذر"
+    "target_pageid": 535423,
+    "target_revision_id": 41031198,
+    "target_title": "امامزاده اباذر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A7%D8%A8%D8%A7%D8%B0%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -847,18 +651,10 @@
     "section": "گردشگری / جاذبه های مذهبی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "امامزاده اسماعیل"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده علی قزوین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "امامزاده علی قزوین"
+    "target_pageid": 3666971,
+    "target_revision_id": 34431258,
+    "target_title": "امامزاده اسماعیل",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84"
    },
    {
     "field": "poi_heritage",
@@ -869,18 +665,10 @@
     "section": "گردشگری / جاذبه های مذهبی",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "امامزاده سلطان سید محمد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده باراچین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "امامزاده باراچین"
+    "target_pageid": 1101552,
+    "target_revision_id": 44389482,
+    "target_title": "امامزاده سلطان سید محمد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -891,7 +679,10 @@
     "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد جامع قزوین"
+    "target_pageid": 173874,
+    "target_revision_id": 44343863,
+    "target_title": "مسجد جامع قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -902,7 +693,10 @@
     "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد النبی قزوین"
+    "target_pageid": 173877,
+    "target_revision_id": 44347787,
+    "target_title": "مسجد النبی قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%86%D8%A8%DB%8C_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -913,7 +707,10 @@
     "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد حیدریه قزوین"
+    "target_pageid": 173881,
+    "target_revision_id": 43926340,
+    "target_title": "مسجد حیدریه قزوین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%D9%87_%D9%82%D8%B2%D9%88%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -924,7 +721,10 @@
     "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد پنجه علی"
+    "target_pageid": 480286,
+    "target_revision_id": 38083909,
+    "target_title": "مسجد پنجه علی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%BE%D9%86%D8%AC%D9%87_%D8%B9%D9%84%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -935,101 +735,166 @@
     "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
     "source_title": "قزوین",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "سنجیده مسجد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد سوخته چنار",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد سوخته چنار"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد آقامیرعبدالصمد",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد آقامیرعبدالصمد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد آقا معصوم",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد آقا معصوم"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد شهید",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد شهید"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجدلله",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجدلله"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد راه چمن",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد راه چمن"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد احمدیه قزوین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد احمدیه قزوین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد مقبره قزوین",
-    "pageid": 2925,
-    "revision_id": 44303211,
-    "section": "گردشگری / جاذبه های مذهبی / مسجدهای تاریخی قزوین",
-    "source_title": "قزوین",
-    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "target_title": "مسجد مقبره قزوین"
+    "target_pageid": 657084,
+    "target_revision_id": 44226203,
+    "target_title": "سنجیده مسجد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D8%AC%DB%8C%D8%AF%D9%87_%D9%85%D8%B3%D8%AC%D8%AF"
    }
   ],
   "center_confirmed": true,
   "county": "قزوین",
   "fetched": "2026-10-02",
   "province": "qazvin",
+  "rejected_candidates": [
+   {
+    "name": "شهربازی دالفک",
+    "reason": "target page missing"
+   },
+   {
+    "name": "قلعه سحر آمیز",
+    "reason": "target page missing"
+   },
+   {
+    "name": "شهربازی پارک ملت",
+    "reason": "target page missing"
+   },
+   {
+    "name": "شهربازی پارک دهخدا",
+    "reason": "target page missing"
+   },
+   {
+    "name": "عمارت شهربانی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه جلیل آرازی",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "خانه تاریخی زعیم",
+    "reason": "target page missing"
+   },
+   {
+    "name": "دروازه باغ‌شاه",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "دروازه امام‌زاده حسین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام رضوی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام دودر",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام سیدیان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام حاجی محمد رحیم صفا",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام راه ری",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام داروغه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام آخوند قزوین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام پیر حصار",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام بایندر کوچه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام قوشه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام سعدیه",
+    "reason": "target page missing"
+   },
+   {
+    "name": "حمام حاج بیگلر",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آب‌انبار سردار بزرگ",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کاروانسرای سنگی محمدآباد",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "برج باراجین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "کلیسای رفیع",
+    "reason": "target page missing"
+   },
+   {
+    "name": "قله سلطان ویس",
+    "reason": "target page missing"
+   },
+   {
+    "name": "امامزاده شاهزاده حسین",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "امامزاده علی قزوین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "امامزاده باراچین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد سوخته چنار",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد آقامیرعبدالصمد",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد آقا معصوم",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد شهید",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجدلله",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد راه چمن",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد احمدیه قزوین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "مسجد مقبره قزوین",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%B2%D9%88%DB%8C%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86"
@@ -1041,6 +906,7 @@
   "county": "تاکستان",
   "fetched": "2026-10-02",
   "province": "qazvin",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86"
   ]

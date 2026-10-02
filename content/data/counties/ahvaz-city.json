@@ -130,57 +130,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار عبدالحمید",
-     "pageid": 13904,
-     "revision_id": 44408088,
-     "section": "اماکن تفریحی / بازار",
-     "source_title": "اهواز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_title": "بازار عبدالحمید"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرا",
-     "pageid": 13904,
-     "revision_id": 44408088,
-     "section": "آثار تاریخی اهواز / سرای عجم",
-     "source_title": "اهواز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_title": "کاروانسرا"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار",
-     "pageid": 13904,
-     "revision_id": 44408088,
-     "section": "آثار تاریخی اهواز / سرای عجم",
-     "source_title": "اهواز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_title": "بازار"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه دادرس",
-     "pageid": 13904,
-     "revision_id": 44408088,
-     "section": "آثار تاریخی اهواز / خانه دادرس",
-     "source_title": "اهواز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_title": "خانه دادرس"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "کارخانه ریسندگی و بافندگی",
      "pageid": 13904,
      "revision_id": 44408088,
      "section": "آثار تاریخی اهواز / کارخانه ریسندگی و بافندگی",
      "source_title": "اهواز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_title": "کارخانه ریسندگی و بافندگی"
+     "target_pageid": 658626,
+     "target_revision_id": 42892939,
+     "target_title": "کارخانه ریسندگی و بافندگی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%DB%8C_%D9%88_%D8%A8%D8%A7%D9%81%D9%86%D8%AF%DA%AF%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -188,12 +147,36 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-   "value": "بازار عبدالحمید\nکاروانسرا\nبازار\nخانه دادرس\nکارخانه ریسندگی و بافندگی"
+   "value": "کارخانه ریسندگی و بافندگی"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد اهواز",
+     "pageid": 13904,
+     "revision_id": 44408088,
+     "section": "آثار تاریخی اهواز / [[سد اهواز|سد خداآفرید]]",
+     "source_title": "اهواز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+     "target_pageid": 6745348,
+     "target_revision_id": 44219641,
+     "target_title": "سد اهواز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D9%87%D9%88%D8%A7%D8%B2"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+   "value": "سد اهواز"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
      "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "سینما ساحل اهواز",
      "pageid": 13904,
@@ -201,7 +184,52 @@
      "section": "اماکن تفریحی / سینما",
      "source_title": "اهواز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-     "target_title": "سینما ساحل اهواز"
+     "target_pageid": 2070193,
+     "target_revision_id": 42973390,
+     "target_title": "سینما ساحل اهواز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B3%D8%A7%D8%AD%D9%84_%D8%A7%D9%87%D9%88%D8%A7%D8%B2"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سینما هلال",
+     "pageid": 13904,
+     "revision_id": 44408088,
+     "section": "اماکن تفریحی / سینما",
+     "source_title": "اهواز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+     "target_pageid": 2061142,
+     "target_revision_id": 43508988,
+     "target_title": "سینما هلال (اهواز)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%87%D9%84%D8%A7%D9%84_%28%D8%A7%D9%87%D9%88%D8%A7%D8%B2%29"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سینما قدس",
+     "pageid": 13904,
+     "revision_id": 44408088,
+     "section": "اماکن تفریحی / سینما",
+     "source_title": "اهواز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+     "target_pageid": 4068520,
+     "target_revision_id": 35330239,
+     "target_title": "سینما قدس (اهواز)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D9%82%D8%AF%D8%B3_%28%D8%A7%D9%87%D9%88%D8%A7%D8%B2%29"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سینما",
+     "pageid": 13904,
+     "revision_id": 44408088,
+     "section": "اماکن تفریحی / فرهنگسراها",
+     "source_title": "اهواز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
+     "target_pageid": 54221,
+     "target_revision_id": 43284874,
+     "target_title": "سینما",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%85%D8%A7"
     }
    ],
    "fetched": "2026-10-02",
@@ -209,7 +237,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D9%88%D8%A7%D8%B2",
-   "value": "سینما ساحل اهواز"
+   "value": "سینما ساحل اهواز\nسینما هلال\nسینما قدس\nسینما"
   },
   "population": {
    "fetched": "2026-10-02",

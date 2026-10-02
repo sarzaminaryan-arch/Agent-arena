@@ -152,7 +152,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "باغ دولت‌آباد"
+     "target_pageid": 26239,
+     "target_revision_id": 44147516,
+     "target_title": "باغ دولت‌آباد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%AF%D9%88%D9%84%D8%AA%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -163,7 +166,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "مجموعه باغ خان"
+     "target_pageid": 659409,
+     "target_revision_id": 44322756,
+     "target_title": "مجموعه باغ خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%A8%D8%A7%D8%BA_%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -174,7 +180,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار خان"
+     "target_pageid": 663924,
+     "target_revision_id": 44018719,
+     "target_title": "بازار خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -185,7 +194,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازارچه پنجه علی"
+     "target_pageid": 663235,
+     "target_revision_id": 44018963,
+     "target_title": "بازارچه پنجه علی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%DA%86%D9%87_%D9%BE%D9%86%D8%AC%D9%87_%D8%B9%D9%84%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -196,18 +208,24 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار علاقبندی"
+     "target_pageid": 663258,
+     "target_revision_id": 44018821,
+     "target_title": "بازار علاقبندی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B9%D9%84%D8%A7%D9%82%D8%A8%D9%86%D8%AF%DB%8C"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار چیت سازی",
+     "name": "بازار چیت‌سازی",
      "pageid": 19818,
      "revision_id": 44613507,
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار چیت سازی"
+     "target_pageid": 663202,
+     "target_revision_id": 44018895,
+     "target_title": "بازار چیت‌سازی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%DA%86%DB%8C%D8%AA%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -218,18 +236,24 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار افشار"
+     "target_pageid": 663896,
+     "target_revision_id": 44018625,
+     "target_title": "بازار افشار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D9%81%D8%B4%D8%A7%D8%B1"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار محمد علی خان",
+     "name": "بازار محمدعلی خان",
      "pageid": 19818,
      "revision_id": 44613507,
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار محمد علی خان"
+     "target_pageid": 663267,
+     "target_revision_id": 44018841,
+     "target_title": "بازار محمدعلی خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D9%84%DB%8C_%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -240,7 +264,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار صدری"
+     "target_pageid": 663944,
+     "target_revision_id": 44018807,
+     "target_title": "بازار صدری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B5%D8%AF%D8%B1%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -251,7 +278,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بازار دروازه مهریز"
+     "target_pageid": 663923,
+     "target_revision_id": 44018741,
+     "target_title": "بازار دروازه مهریز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%D9%85%D9%87%D8%B1%DB%8C%D8%B2"
     },
     {
      "field": "poi_heritage",
@@ -262,7 +292,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "میدان خان و بازارهای اطراف"
+     "target_pageid": 657565,
+     "target_revision_id": 44362824,
+     "target_title": "میدان خان و بازارهای اطراف",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%AE%D8%A7%D9%86_%D9%88_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A7%D8%B7%D8%B1%D8%A7%D9%81"
     },
     {
      "field": "poi_heritage",
@@ -273,7 +306,10 @@
      "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
      "source_title": "یزد",
      "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "مسجد جامع یزد"
+     "target_pageid": 187536,
+     "target_revision_id": 44343947,
+     "target_title": "مسجد جامع یزد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DB%8C%D8%B2%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -281,28 +317,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-   "value": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت سازی\nبازار افشار\nبازار محمد علی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان",
-     "pageid": 19818,
-     "revision_id": 44613507,
-     "section": "بوستان ها و فضای سبز",
-     "source_title": "یزد",
-     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-     "target_title": "بوستان"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
-   "value": "بوستان"
+   "value": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت‌سازی\nبازار افشار\nبازار محمدعلی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد"
   },
   "population": {
    "fetched": "2026-10-02",

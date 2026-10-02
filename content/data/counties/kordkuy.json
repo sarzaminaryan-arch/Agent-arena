@@ -131,35 +131,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک جنگلی",
-     "pageid": 141818,
-     "revision_id": 42879198,
-     "section": "جاذبه های گردشگری",
-     "source_title": "کردکوی",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
-     "target_title": "پارک جنگلی"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "میان‌دره",
      "pageid": 141818,
      "revision_id": 42879198,
      "section": "جاذبه های گردشگری",
      "source_title": "کردکوی",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
-     "target_title": "میان‌دره (کردکوی)"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آبشار دوآب",
-     "pageid": 141818,
-     "revision_id": 42879198,
-     "section": "جاذبه های گردشگری",
-     "source_title": "کردکوی",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
-     "target_title": "آبشار دوآب"
+     "target_pageid": 494489,
+     "target_revision_id": 40215434,
+     "target_title": "میان‌دره (کردکوی)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A7%D9%86%E2%80%8C%D8%AF%D8%B1%D9%87_%28%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -167,7 +148,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
-   "value": "پارک جنگلی\nمیان‌دره\nآبشار دوآب"
+   "value": "میان‌دره"
   },
   "population": {
    "fetched": "2026-10-02",

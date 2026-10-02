@@ -162,24 +162,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "ساحل",
-     "pageid": 56977,
-     "revision_id": 44436788,
-     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / سواحل",
-     "source_title": "شهرستان رودسر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
-     "target_title": "ساحل"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
      "name": "والیبال ساحلی",
      "pageid": 56977,
      "revision_id": 44436788,
      "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / سواحل",
      "source_title": "شهرستان رودسر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
-     "target_title": "والیبال ساحلی"
+     "target_pageid": 207359,
+     "target_revision_id": 40375142,
+     "target_title": "والیبال ساحلی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -190,7 +182,10 @@
      "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / سواحل",
      "source_title": "شهرستان رودسر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
-     "target_title": "فوتبال ساحلی"
+     "target_pageid": 265113,
+     "target_revision_id": 41915387,
+     "target_title": "فوتبال ساحلی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%B3%D8%A7%D8%AD%D9%84%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -201,7 +196,10 @@
      "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / عمارت شهرداری رودسر",
      "source_title": "شهرستان رودسر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
-     "target_title": "غار سجیران"
+     "target_pageid": 666108,
+     "target_revision_id": 44278470,
+     "target_title": "غار سجیران",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%D8%AC%DB%8C%D8%B1%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -212,7 +210,10 @@
      "section": "جاذبه های گردشگری و تاریخی",
      "source_title": "رودسر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
-     "target_title": "چشمه آب‌معدنی"
+     "target_pageid": 1105977,
+     "target_revision_id": 42875578,
+     "target_title": "چشمه آب‌معدنی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A2%D8%A8%E2%80%8C%D9%85%D8%B9%D8%AF%D9%86%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -220,7 +221,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
-   "value": "ساحل\nوالیبال ساحلی\nفوتبال ساحلی\nغار سجیران\nچشمه آب‌معدنی"
+   "value": "والیبال ساحلی\nفوتبال ساحلی\nغار سجیران\nچشمه آب‌معدنی"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

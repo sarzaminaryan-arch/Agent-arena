@@ -136,13 +136,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سنگ نگاره‌های یازیلی چای",
+     "name": "سنگ‌نگاره‌های یازیلی چای",
      "pageid": 3761,
      "revision_id": 44596164,
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "سنگ نگاره‌های یازیلی چای"
+     "target_pageid": 676005,
+     "target_revision_id": 43141806,
+     "target_title": "سنگ‌نگاره‌های یازیلی چای",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DB%8C%D8%A7%D8%B2%DB%8C%D9%84%DB%8C_%DA%86%D8%A7%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -153,7 +156,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "قلعه توس"
+     "target_pageid": 675826,
+     "target_revision_id": 44304146,
+     "target_title": "قلعه توس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AA%D9%88%D8%B3"
     },
     {
      "field": "poi_heritage",
@@ -164,7 +170,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "قلعه سلطان محمود"
+     "target_pageid": 675820,
+     "target_revision_id": 44304431,
+     "target_title": "قلعه سلطان محمود",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -175,18 +184,24 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "امامزاده احمد (تفرش)"
+     "target_pageid": 3786855,
+     "target_revision_id": 43929053,
+     "target_title": "امامزاده احمد (تفرش)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A7%D8%AD%D9%85%D8%AF_%28%D8%AA%D9%81%D8%B1%D8%B4%29"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد جامع شش ناو",
+     "name": "مسجد جامع شش‌ناو",
      "pageid": 3761,
      "revision_id": 44596164,
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "مسجد جامع شش ناو"
+     "target_pageid": 1249342,
+     "target_revision_id": 44407263,
+     "target_title": "مسجد جامع شش‌ناو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B4%D8%B4%E2%80%8C%D9%86%D8%A7%D9%88"
     },
     {
      "field": "poi_heritage",
@@ -197,7 +212,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "آرامگاه امامزاده مهدی"
+     "target_pageid": 657456,
+     "target_revision_id": 43828316,
+     "target_title": "آرامگاه امامزاده مهدی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%85%D9%87%D8%AF%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -208,7 +226,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "بقعه شاهزاده محمد"
+     "target_pageid": 656464,
+     "target_revision_id": 44084863,
+     "target_title": "بقعه شاهزاده محمد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%82%D8%B9%D9%87_%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D9%85%D8%AD%D9%85%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -219,7 +240,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "کاروانسرای خانک"
+     "target_pageid": 673140,
+     "target_revision_id": 27324987,
+     "target_title": "کاروانسرای خانک",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AE%D8%A7%D9%86%DA%A9"
     },
     {
      "field": "poi_heritage",
@@ -230,29 +254,38 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "آرامگاه امامزاده قاسم (شاهوارق)"
+     "target_pageid": 657470,
+     "target_revision_id": 42778002,
+     "target_title": "آرامگاه امامزاده قاسم (شاهوارق)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%82%D8%A7%D8%B3%D9%85_%28%D8%B4%D8%A7%D9%87%D9%88%D8%A7%D8%B1%D9%82%29"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آب انبار بلور",
+     "name": "آب‌انبار بلور",
      "pageid": 3761,
      "revision_id": 44596164,
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "آب انبار بلور"
+     "target_pageid": 658142,
+     "target_revision_id": 43929121,
+     "target_title": "آب‌انبار بلور",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%A8%D9%84%D9%88%D8%B1"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه میر فخرایی",
+     "name": "خانه میرفخرایی",
      "pageid": 3761,
      "revision_id": 44596164,
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "خانه میر فخرایی"
+     "target_pageid": 660467,
+     "target_revision_id": 44156256,
+     "target_title": "خانه میرفخرایی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%DB%8C%D8%B1%D9%81%D8%AE%D8%B1%D8%A7%DB%8C%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -263,7 +296,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "خانه عباسقلی خان میرپنج"
+     "target_pageid": 665473,
+     "target_revision_id": 44155611,
+     "target_title": "خانه عباسقلی خان میرپنج",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B9%D8%A8%D8%A7%D8%B3%D9%82%D9%84%DB%8C_%D8%AE%D8%A7%D9%86_%D9%85%DB%8C%D8%B1%D9%BE%D9%86%D8%AC"
     }
    ],
    "fetched": "2026-10-02",
@@ -271,7 +307,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-   "value": "سنگ نگاره‌های یازیلی چای\nقلعه توس\nقلعه سلطان محمود\nامامزاده احمد\nمسجد جامع شش ناو\nآرامگاه امامزاده مهدی\nبقعه شاهزاده محمد\nکاروانسرای خانک\nآرامگاه امامزاده قاسم\nآب انبار بلور\nخانه میر فخرایی\nخانه عباسقلی خان میرپنج"
+   "value": "سنگ‌نگاره‌های یازیلی چای\nقلعه توس\nقلعه سلطان محمود\nامامزاده احمد\nمسجد جامع شش‌ناو\nآرامگاه امامزاده مهدی\nبقعه شاهزاده محمد\nکاروانسرای خانک\nآرامگاه امامزاده قاسم\nآب‌انبار بلور\nخانه میرفخرایی\nخانه عباسقلی خان میرپنج"
   },
   "poi_nature": {
    "entries": [
@@ -284,7 +320,10 @@
      "section": "گردشگری",
      "source_title": "تفرش",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
-     "target_title": "غار امجک"
+     "target_pageid": 356694,
+     "target_revision_id": 43929188,
+     "target_title": "غار امجک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A7%D9%85%D8%AC%DA%A9"
     }
    ],
    "fetched": "2026-10-02",

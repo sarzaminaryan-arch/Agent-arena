@@ -135,24 +135,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت شهربانی ارومیه",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "گردشگری / بناها",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "عمارت شهربانی ارومیه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "موزه ارومیه",
      "pageid": 2326737,
      "revision_id": 44612504,
      "section": "گردشگری / بناها",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "موزه ارومیه"
+     "target_pageid": 400836,
+     "target_revision_id": 22205430,
+     "target_title": "موزه ارومیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -163,7 +155,10 @@
      "section": "گردشگری / بناها",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "بازار ارومیه"
+     "target_pageid": 657498,
+     "target_revision_id": 44018605,
+     "target_title": "بازار ارومیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -174,7 +169,10 @@
      "section": "گردشگری / مساجد",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "مسجد جامع ارومیه"
+     "target_pageid": 400835,
+     "target_revision_id": 44343706,
+     "target_title": "مسجد جامع ارومیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -185,7 +183,10 @@
      "section": "گردشگری / مساجد",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "آتشکده"
+     "target_pageid": 13362,
+     "target_revision_id": 43859624,
+     "target_title": "آتشکده",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -196,7 +197,10 @@
      "section": "گردشگری / مساجد",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "مسجد سردار"
+     "target_pageid": 400837,
+     "target_revision_id": 43929932,
+     "target_title": "مسجد سردار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -207,51 +211,38 @@
      "section": "گردشگری / مساجد",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "مسجد مناره"
+     "target_pageid": 2212598,
+     "target_revision_id": 44344433,
+     "target_title": "مسجد مناره",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D9%86%D8%A7%D8%B1%D9%87"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد سیدالشهدا",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "گردشگری / مساجد",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "مسجد سیدالشهدا"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کلیسای ننه مریم",
+     "name": "کلیسای ننه‌مریم",
      "pageid": 2326737,
      "revision_id": 44612504,
      "section": "گردشگری / کلیساها",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "کلیسای ننه مریم"
+     "target_pageid": 627382,
+     "target_revision_id": 43722955,
+     "target_title": "کلیسای ننه‌مریم",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D9%86%D9%86%D9%87%E2%80%8C%D9%85%D8%B1%DB%8C%D9%85"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کلیسای ماریوخنه",
+     "name": "کلیسای جامع حضرت مریم",
      "pageid": 2326737,
      "revision_id": 44612504,
      "section": "گردشگری / کلیساها",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "کلیسای ماریوخنه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کلیسای حضرت مریم",
-     "pageid": 2326737,
-     "revision_id": 44612504,
-     "section": "گردشگری / کلیساها",
-     "source_title": "ارومیه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "کلیسای حضرت مریم (ارومیه)"
+     "target_pageid": 2212618,
+     "target_revision_id": 43922881,
+     "target_title": "کلیسای جامع حضرت مریم (ارومیه)",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%B3%D8%A7%DB%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AD%D8%B6%D8%B1%D8%AA_%D9%85%D8%B1%DB%8C%D9%85_%28%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87%29"
     },
     {
      "field": "poi_heritage",
@@ -262,7 +253,52 @@
      "section": "گردشگری / خانه ها",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "خانه‌های جنرال"
+     "target_pageid": 2432116,
+     "target_revision_id": 29520563,
+     "target_title": "خانه‌های جنرال",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AC%D9%86%D8%B1%D8%A7%D9%84"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه انصاری",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / خانه ها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_pageid": 2212625,
+     "target_revision_id": 41592966,
+     "target_title": "خانه انصاری (ارومیه)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C_%28%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87%29"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه اتحادیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / خانه ها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_pageid": 2326277,
+     "target_revision_id": 11814935,
+     "target_title": "خانه اتحادیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه دیزج سیاوش",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / خانه ها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_pageid": 673839,
+     "target_revision_id": 44155116,
+     "target_title": "خانه دیزج سیاوش",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AF%DB%8C%D8%B2%D8%AC_%D8%B3%DB%8C%D8%A7%D9%88%D8%B4"
     }
    ],
    "fetched": "2026-10-02",
@@ -270,7 +306,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-   "value": "عمارت شهربانی ارومیه\nموزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nآتشکده\nمسجد سردار\nمسجد مناره\nمسجد سیدالشهدا\nکلیسای ننه مریم\nکلیسای ماریوخنه\nکلیسای حضرت مریم\nخانه‌های جنرال"
+   "value": "موزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nآتشکده\nمسجد سردار\nمسجد مناره\nکلیسای ننه‌مریم\nکلیسای جامع حضرت مریم\nخانه‌های جنرال\nخانه انصاری\nخانه اتحادیه\nخانه دیزج سیاوش"
   },
   "poi_nature": {
    "entries": [
@@ -283,7 +319,10 @@
      "section": "مکان های تفریحی / دریاچه ارومیه",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "دریاچه ارومیه"
+     "target_pageid": 2323,
+     "target_revision_id": 44274132,
+     "target_title": "دریاچه ارومیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
     },
     {
      "field": "poi_nature",
@@ -294,7 +333,10 @@
      "section": "مکان های تفریحی / دریاچه ارومیه",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "دریاچه آب شور"
+     "target_pageid": 2231430,
+     "target_revision_id": 43856421,
+     "target_title": "دریاچه آب شور",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A2%D8%A8_%D8%B4%D9%88%D8%B1"
     },
     {
      "field": "poi_nature",
@@ -305,7 +347,10 @@
      "section": "مکان های تفریحی / پارک ملی دریاچه ارومیه",
      "source_title": "ارومیه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-     "target_title": "پارک ملی دریاچه ارومیه"
+     "target_pageid": 917000,
+     "target_revision_id": 44412995,
+     "target_title": "پارک ملی دریاچه ارومیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
     }
    ],
    "fetched": "2026-10-02",

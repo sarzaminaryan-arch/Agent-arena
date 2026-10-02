@@ -130,38 +130,6 @@
     "urmia"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده سید ابوالقاسم",
-     "pageid": 29515,
-     "revision_id": 44613663,
-     "section": "مکان های دیدنی و گردشگری",
-     "source_title": "عجب‌شیر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
-     "target_title": "امامزاده سید ابوالقاسم"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سد قلعه چای",
-     "pageid": 29515,
-     "revision_id": 44613663,
-     "section": "مکان های دیدنی و گردشگری",
-     "source_title": "عجب‌شیر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
-     "target_title": "سد قلعه چای"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
-   "value": "امامزاده سید ابوالقاسم\nسد قلعه چای"
-  },
   "poi_nature": {
    "entries": [
     {
@@ -173,7 +141,10 @@
      "section": "مکان های دیدنی و گردشگری",
      "source_title": "عجب‌شیر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
-     "target_title": "دریاچه ارومیه"
+     "target_pageid": 2323,
+     "target_revision_id": 44274132,
+     "target_title": "دریاچه ارومیه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87"
     }
    ],
    "fetched": "2026-10-02",

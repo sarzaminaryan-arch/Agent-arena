@@ -117,27 +117,6 @@
     "taleghan"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه ایران باستان",
-     "pageid": 31033,
-     "revision_id": 44603497,
-     "section": "آثار تاریخی",
-     "source_title": "کلاردشت",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D8%A7%D8%B1%D8%AF%D8%B4%D8%AA",
-     "target_title": "موزه ایران باستان"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D8%A7%D8%B1%D8%AF%D8%B4%D8%AA",
-   "value": "موزه ایران باستان"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

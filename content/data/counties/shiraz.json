@@ -178,24 +178,58 @@
     {
      "field": "poi_recreation",
      "location_evidence": "county tourism section",
-     "name": "پارک کوهستانی دراک",
+     "name": "بوستان کوهستانی دراک",
      "pageid": 57867,
      "revision_id": 44349954,
      "section": "جاذبه های تاریخی و گردشگری",
      "source_title": "شهرستان شیراز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "پارک کوهستانی دراک"
+     "target_pageid": 4515386,
+     "target_revision_id": 43844623,
+     "target_title": "بوستان کوهستانی دراک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B3%D8%AA%D8%A7%D9%86%DB%8C_%D8%AF%D8%B1%D8%A7%DA%A9"
     },
     {
      "field": "poi_recreation",
      "location_evidence": "county tourism section",
-     "name": "پارک آزادی",
+     "name": "پردیس سینمایی شهر آفتاب",
      "pageid": 57867,
      "revision_id": 44349954,
      "section": "جاذبه های تاریخی و گردشگری",
      "source_title": "شهرستان شیراز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "پارک آزادی"
+     "target_pageid": 4893597,
+     "target_revision_id": 44321259,
+     "target_title": "پردیس سینمایی شهر آفتاب",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%B4%D9%87%D8%B1_%D8%A2%D9%81%D8%AA%D8%A7%D8%A8"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "پردیس سینمایی گلستان",
+     "pageid": 57867,
+     "revision_id": 44349954,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "شهرستان شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_pageid": 3973167,
+     "target_revision_id": 41152413,
+     "target_title": "پردیس سینمایی گلستان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "پردیس سینمایی شیراز مال",
+     "pageid": 57867,
+     "revision_id": 44349954,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "شهرستان شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_pageid": 6238491,
+     "target_revision_id": 41234432,
+     "target_title": "پردیس سینمایی شیراز مال",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2_%D9%85%D8%A7%D9%84"
     },
     {
      "field": "poi_recreation",
@@ -206,7 +240,10 @@
      "section": "جاذبه های تاریخی و گردشگری",
      "source_title": "شهرستان شیراز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "لونا پارک"
+     "target_pageid": 365448,
+     "target_revision_id": 35578990,
+     "target_title": "لونا پارک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%84%D9%88%D9%86%D8%A7_%D9%BE%D8%A7%D8%B1%DA%A9"
     },
     {
      "field": "poi_recreation",
@@ -217,7 +254,10 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "شیراز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "باغ‌وحش شیراز"
+     "target_pageid": 6302723,
+     "target_revision_id": 42268666,
+     "target_title": "باغ‌وحش شیراز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA%E2%80%8C%D9%88%D8%AD%D8%B4_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2"
     },
     {
      "field": "poi_recreation",
@@ -228,18 +268,10 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "شیراز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "پارک قلعه‌بندر"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بوستان آزادی شیراز",
-     "pageid": 5509,
-     "revision_id": 44401722,
-     "section": "گردشگری / فضای سبز",
-     "source_title": "شیراز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "بوستان آزادی شیراز"
+     "target_pageid": 329154,
+     "target_revision_id": 27174820,
+     "target_title": "پارک قلعه‌بندر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%82%D9%84%D8%B9%D9%87%E2%80%8C%D8%A8%D9%86%D8%AF%D8%B1"
     },
     {
      "field": "poi_recreation",
@@ -250,7 +282,10 @@
      "section": "گردشگری / فضای سبز",
      "source_title": "شیراز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-     "target_title": "بوستان آزادی (شیراز)"
+     "target_pageid": 347548,
+     "target_revision_id": 43844628,
+     "target_title": "بوستان آزادی (شیراز)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C_%28%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -258,7 +293,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-   "value": "پارک کوهستانی دراک\nپارک آزادی\nلونا پارک\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nبوستان آزادی شیراز\nبوستان آزادی"
+   "value": "بوستان کوهستانی دراک\nپردیس سینمایی شهر آفتاب\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nلونا پارک\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nبوستان آزادی"
   },
   "population": {
    "fetched": "2026-10-02",

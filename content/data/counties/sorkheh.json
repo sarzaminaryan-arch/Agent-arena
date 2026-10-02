@@ -152,13 +152,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد چهل ستون سرخه",
+     "name": "مسجد چهل‌ستون سمنان",
      "pageid": 59178,
      "revision_id": 43115825,
      "section": "مکان های تاریخی",
      "source_title": "سرخه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "مسجد چهل ستون سرخه"
+     "target_pageid": 658093,
+     "target_revision_id": 44344637,
+     "target_title": "مسجد چهل‌ستون سمنان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%DA%86%D9%87%D9%84%E2%80%8C%D8%B3%D8%AA%D9%88%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -169,18 +172,24 @@
      "section": "مکان های تاریخی",
      "source_title": "سرخه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "آب‌انبار سرخه"
+     "target_pageid": 659958,
+     "target_revision_id": 43925844,
+     "target_title": "آب‌انبار سرخه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%B3%D8%B1%D8%AE%D9%87"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بقعه پیر غریب",
+     "name": "آرامگاه پیر غریب",
      "pageid": 59178,
      "revision_id": 43115825,
      "section": "مکان های تاریخی",
      "source_title": "سرخه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "بقعه پیر غریب"
+     "target_pageid": 661304,
+     "target_revision_id": 42810050,
+     "target_title": "آرامگاه پیر غریب",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1_%D8%BA%D8%B1%DB%8C%D8%A8"
     },
     {
      "field": "poi_heritage",
@@ -191,7 +200,10 @@
      "section": "مکان های تاریخی",
      "source_title": "سرخه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "کاروانسرای لاسجرد"
+     "target_pageid": 657782,
+     "target_revision_id": 43925831,
+     "target_title": "کاروانسرای لاسجرد",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%84%D8%A7%D8%B3%D8%AC%D8%B1%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -202,40 +214,10 @@
      "section": "مکان های تاریخی",
      "source_title": "سرخه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "مسجد امام حسین (سرخه)"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای شاه",
-     "pageid": 59178,
-     "revision_id": 43115825,
-     "section": "آثار تاریخی",
-     "source_title": "سرخه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "کاروانسرای شاه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده سیدمحمد",
-     "pageid": 59178,
-     "revision_id": 43115825,
-     "section": "آثار تاریخی",
-     "source_title": "سرخه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "امامزاده سیدمحمد"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده محمد بن زید سرخه",
-     "pageid": 59178,
-     "revision_id": 43115825,
-     "section": "جاذبه های طبیعی",
-     "source_title": "سرخه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "امامزاده محمد بن زید سرخه"
+     "target_pageid": 660935,
+     "target_revision_id": 44343600,
+     "target_title": "مسجد امام حسین (سرخه)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%85%D8%A7%D9%85_%D8%AD%D8%B3%DB%8C%D9%86_%28%D8%B3%D8%B1%D8%AE%D9%87%29"
     },
     {
      "field": "poi_heritage",
@@ -246,7 +228,10 @@
      "section": "جاذبه های طبیعی",
      "source_title": "سرخه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-     "target_title": "امامزاده عبدالله (سرخه)"
+     "target_pageid": 5893412,
+     "target_revision_id": 40137011,
+     "target_title": "امامزاده عبدالله (سرخه)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%28%D8%B3%D8%B1%D8%AE%D9%87%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -254,7 +239,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
-   "value": "مسجد چهل ستون سرخه\nآب‌انبار سرخه\nبقعه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین\nکاروانسرای شاه\nامامزاده سیدمحمد\nامامزاده محمد بن زید سرخه\nامامزاده عبدالله"
+   "value": "مسجد چهل‌ستون سمنان\nآب‌انبار سرخه\nآرامگاه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین\nامامزاده عبدالله"
   },
   "population": {
    "fetched": "2026-10-02",

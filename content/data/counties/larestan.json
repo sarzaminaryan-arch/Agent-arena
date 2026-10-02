@@ -152,35 +152,30 @@
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "قلعه اژدها پیکر",
+     "name": "قلعه اژدهاپیکر",
      "pageid": 2043,
      "revision_id": 44352402,
      "section": "تاریخ / بناهای تاریخی",
      "source_title": "شهرستان لارستان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
-     "target_title": "قلعه اژدها پیکر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "قلعه جبرئیل",
-     "pageid": 2043,
-     "revision_id": 44352402,
-     "section": "تاریخ / بناهای تاریخی",
-     "source_title": "شهرستان لارستان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
-     "target_title": "قلعه جبرئیل"
+     "target_pageid": 55814,
+     "target_revision_id": 39458906,
+     "target_title": "قلعه اژدهاپیکر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A7%DA%98%D8%AF%D9%87%D8%A7%D9%BE%DB%8C%DA%A9%D8%B1"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار قیصریه لار",
+     "name": "بازار قیصریه",
      "pageid": 12689,
      "revision_id": 44418878,
      "section": "تاریخ / بناهای تاریخی",
      "source_title": "لار",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1",
-     "target_title": "بازار قیصریه لار"
+     "target_pageid": 171682,
+     "target_revision_id": 43195636,
+     "target_title": "بازار قیصریه (لار)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%82%DB%8C%D8%B5%D8%B1%DB%8C%D9%87_%28%D9%84%D8%A7%D8%B1%29"
     },
     {
      "field": "poi_heritage",
@@ -191,7 +186,10 @@
      "section": "تاریخ / بناهای تاریخی",
      "source_title": "لار",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1",
-     "target_title": "برج ننه نادر"
+     "target_pageid": 172880,
+     "target_revision_id": 34733224,
+     "target_title": "برج ننه نادر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D9%86%D9%86%D9%87_%D9%86%D8%A7%D8%AF%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -199,7 +197,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
-   "value": "قلعه اژدها پیکر\nقلعه جبرئیل\nبازار قیصریه لار\nبرج ننه نادر"
+   "value": "قلعه اژدهاپیکر\nبازار قیصریه\nبرج ننه نادر"
   },
   "population": {
    "fetched": "2026-10-02",

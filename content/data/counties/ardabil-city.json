@@ -126,24 +126,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بقعه",
-     "pageid": 16047,
-     "revision_id": 44610050,
-     "section": "اماکن تاریخی / مجموعهٔ بقعه و مزار شیخ امین الدّین جبرئیل",
-     "source_title": "اردبیل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "بقعه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل نادری",
+     "name": "پل کرخه",
      "pageid": 16047,
      "revision_id": 44610050,
      "section": "اماکن تاریخی / پل های تاریخی اردبیل",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "پل نادری"
+     "target_pageid": 111317,
+     "target_revision_id": 24871607,
+     "target_title": "پل کرخه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%DA%A9%D8%B1%D8%AE%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -154,7 +146,10 @@
      "section": "اماکن تاریخی / پل های تاریخی اردبیل",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "پل ابراهیم‌آباد"
+     "target_pageid": 661697,
+     "target_revision_id": 31506351,
+     "target_title": "پل ابراهیم‌آباد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -165,7 +160,10 @@
      "section": "اماکن تاریخی / گرمابه های تاریخی / گرمابه های دورهٔ صفویه",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه مردم‌شناسی اردبیل"
+     "target_pageid": 364089,
+     "target_revision_id": 43922948,
+     "target_title": "موزه مردم‌شناسی اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D8%B1%D8%AF%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -176,7 +174,10 @@
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه تاریخ طبیعی اردبیل"
+     "target_pageid": 5167805,
+     "target_revision_id": 41074118,
+     "target_title": "موزه تاریخ طبیعی اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -187,7 +188,10 @@
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه صنایع دستی اردبیل"
+     "target_pageid": 5168317,
+     "target_revision_id": 39018018,
+     "target_title": "موزه صنایع دستی اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B5%D9%86%D8%A7%DB%8C%D8%B9_%D8%AF%D8%B3%D8%AA%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -198,7 +202,10 @@
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه شیخ صفی الدین اردبیلی"
+     "target_pageid": 5169458,
+     "target_revision_id": 36196061,
+     "target_title": "موزه شیخ صفی الدین اردبیلی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B4%DB%8C%D8%AE_%D8%B5%D9%81%DB%8C_%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -209,18 +216,24 @@
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه مفاخر اردبیل"
+     "target_pageid": 5168465,
+     "target_revision_id": 39018045,
+     "target_title": "موزه مفاخر اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D9%85%D9%81%D8%A7%D8%AE%D8%B1_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه تخصصی باستان‌شناسی",
+     "name": "موزه باستان شناسی اردبیل",
      "pageid": 16047,
      "revision_id": 44610050,
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه تخصصی باستان‌شناسی"
+     "target_pageid": 5168961,
+     "target_revision_id": 41074112,
+     "target_title": "موزه باستان شناسی اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -231,18 +244,24 @@
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی"
+     "target_pageid": 5169016,
+     "target_revision_id": 44044416,
+     "target_title": "موزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B3%D9%86%DA%AF_%D9%88_%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87_%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C_%D8%A8%D9%82%D8%B9%D9%87_%D8%B4%DB%8C%D8%AE_%D8%B5%D9%81%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84%DB%8C"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه چینی خانه",
+     "name": "موزه چینی‌خانه",
      "pageid": 16047,
      "revision_id": 44610050,
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه چینی خانه"
+     "target_pageid": 5169025,
+     "target_revision_id": 35580439,
+     "target_title": "موزه چینی‌خانه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%DA%86%DB%8C%D9%86%DB%8C%E2%80%8C%D8%AE%D8%A7%D9%86%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -253,7 +272,24 @@
      "section": "اماکن تاریخی / موزه ها",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "موزه تاریخ علوم اردبیل"
+     "target_pageid": 5168968,
+     "target_revision_id": 39017996,
+     "target_title": "موزه تاریخ علوم اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه عمارت شهرداری اردبیل",
+     "pageid": 16047,
+     "revision_id": 44610050,
+     "section": "اماکن تاریخی / موزه ها",
+     "source_title": "اردبیل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+     "target_pageid": 6191978,
+     "target_revision_id": 43828055,
+     "target_title": "موزه عمارت شهرداری اردبیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
     }
    ],
    "fetched": "2026-10-02",
@@ -261,20 +297,23 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-   "value": "بقعه\nپل نادری\nپل ابراهیم‌آباد\nموزه مردم‌شناسی اردبیل\nموزه تاریخ طبیعی اردبیل\nموزه صنایع دستی اردبیل\nموزه شیخ صفی الدین اردبیلی\nموزه مفاخر اردبیل\nموزه تخصصی باستان‌شناسی\nموزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی\nموزه چینی خانه\nموزه تاریخ علوم اردبیل"
+   "value": "پل کرخه\nپل ابراهیم‌آباد\nموزه مردم‌شناسی اردبیل\nموزه تاریخ طبیعی اردبیل\nموزه صنایع دستی اردبیل\nموزه شیخ صفی الدین اردبیلی\nموزه مفاخر اردبیل\nموزه باستان شناسی اردبیل\nموزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی\nموزه چینی‌خانه\nموزه تاریخ علوم اردبیل\nموزه عمارت شهرداری اردبیل"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل هفت چشمه",
+     "name": "پل هفت‌چشمه",
      "pageid": 16047,
      "revision_id": 44610050,
      "section": "اماکن تاریخی / پل های تاریخی اردبیل",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "پل هفت چشمه"
+     "target_pageid": 656866,
+     "target_revision_id": 31506388,
+     "target_title": "پل هفت‌چشمه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%87%D9%81%D8%AA%E2%80%8C%DA%86%D8%B4%D9%85%D9%87"
     },
     {
      "field": "poi_nature",
@@ -285,7 +324,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "جنگل فندقلو"
+     "target_pageid": 37154,
+     "target_revision_id": 43492593,
+     "target_title": "جنگل فندقلو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%81%D9%86%D8%AF%D9%82%D9%84%D9%88"
     },
     {
      "field": "poi_nature",
@@ -296,7 +338,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "جنگل‌های هیرکانی"
+     "target_pageid": 1317542,
+     "target_revision_id": 44415077,
+     "target_title": "جنگل‌های هیرکانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -307,40 +352,24 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "دریاچه شورابیل"
+     "target_pageid": 116803,
+     "target_revision_id": 41582034,
+     "target_title": "دریاچه شورابیل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B4%D9%88%D8%B1%D8%A7%D8%A8%DB%8C%D9%84"
     },
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آبشار آق‌بلاغ",
+     "name": "چشمه آبشار سیبیه خانی",
      "pageid": 16047,
      "revision_id": 44610050,
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "آبشار آق‌بلاغ"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "جنگل فندق‌لو",
-     "pageid": 16047,
-     "revision_id": 44610050,
-     "section": "جاذبه های گردشگری",
-     "source_title": "اردبیل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "جنگل فندق‌لو"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پیست اسکی روی چمن جنگل فندقلوی نمین",
-     "pageid": 16047,
-     "revision_id": 44610050,
-     "section": "جاذبه های گردشگری",
-     "source_title": "اردبیل",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "پیست اسکی روی چمن جنگل فندقلوی نمین(اردبیل)"
+     "target_pageid": 5630356,
+     "target_revision_id": 44435854,
+     "target_title": "چشمه آبشار سیبیه خانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B4%D9%85%D9%87_%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%DB%8C%D8%A8%DB%8C%D9%87_%D8%AE%D8%A7%D9%86%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -351,7 +380,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "دریاچه نئور"
+     "target_pageid": 20381,
+     "target_revision_id": 44329806,
+     "target_title": "دریاچه نئور",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D9%86%D8%A6%D9%88%D8%B1"
     },
     {
      "field": "poi_nature",
@@ -362,7 +394,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "دریاچه سوها"
+     "target_pageid": 5569858,
+     "target_revision_id": 43823803,
+     "target_title": "دریاچه سوها",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B3%D9%88%D9%87%D8%A7"
     },
     {
      "field": "poi_nature",
@@ -373,7 +408,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "منطقه حفاظت‌شده آق‌داغ"
+     "target_pageid": 2313473,
+     "target_revision_id": 44352012,
+     "target_title": "منطقه حفاظت‌شده آق‌داغ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%A2%D9%82%E2%80%8C%D8%AF%D8%A7%D8%BA"
     },
     {
      "field": "poi_nature",
@@ -384,7 +422,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "آبشار سردابه"
+     "target_pageid": 213082,
+     "target_revision_id": 43931659,
+     "target_title": "آبشار سردابه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%B3%D8%B1%D8%AF%D8%A7%D8%A8%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -392,7 +433,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-   "value": "پل هفت چشمه\nجنگل فندقلو\nجنگل‌های هیرکانی\nدریاچه شورابیل\nآبشار آق‌بلاغ\nجنگل فندق‌لو\nپیست اسکی روی چمن جنگل فندقلوی نمین\nدریاچه نئور\nدریاچه سوها\nمنطقه حفاظت‌شده آق‌داغ\nآبشار سردابه"
+   "value": "پل هفت‌چشمه\nجنگل فندقلو\nجنگل‌های هیرکانی\nدریاچه شورابیل\nچشمه آبشار سیبیه خانی\nدریاچه نئور\nدریاچه سوها\nمنطقه حفاظت‌شده آق‌داغ\nآبشار سردابه"
   },
   "poi_recreation": {
    "entries": [
@@ -405,7 +446,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "اردبیل",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
-     "target_title": "پیست اسکی آلوارس"
+     "target_pageid": 221232,
+     "target_revision_id": 39579426,
+     "target_title": "پیست اسکی آلوارس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%A2%D9%84%D9%88%D8%A7%D8%B1%D8%B3"
     }
    ],
    "fetched": "2026-10-02",

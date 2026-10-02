@@ -145,24 +145,30 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل قدیم",
+     "name": "پل قدیم دزفول",
      "pageid": 5619,
      "revision_id": 44393795,
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "پل قدیم (دزفول)"
+     "target_pageid": 49904,
+     "target_revision_id": 43528862,
+     "target_title": "پل قدیم دزفول",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%82%D8%AF%DB%8C%D9%85_%D8%AF%D8%B2%D9%81%D9%88%D9%84"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد جامع",
+     "name": "مسجد جامع دزفول",
      "pageid": 5619,
      "revision_id": 44393795,
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "مسجد جامع (درزفول)"
+     "target_pageid": 1100040,
+     "target_revision_id": 44265333,
+     "target_title": "مسجد جامع دزفول",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AF%D8%B2%D9%81%D9%88%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -173,7 +179,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "بازار کهنه (دزفول)"
+     "target_pageid": 1100000,
+     "target_revision_id": 43925348,
+     "target_title": "بازار کهنه (دزفول)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%DA%A9%D9%87%D9%86%D9%87_%28%D8%AF%D8%B2%D9%81%D9%88%D9%84%29"
     },
     {
      "field": "poi_heritage",
@@ -184,7 +193,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "آرامگاه یعقوب لیث"
+     "target_pageid": 1675,
+     "target_revision_id": 44399458,
+     "target_title": "آرامگاه یعقوب لیث",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%DB%8C%D8%B9%D9%82%D9%88%D8%A8_%D9%84%DB%8C%D8%AB"
     },
     {
      "field": "poi_heritage",
@@ -195,7 +207,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "خانه تیزنو"
+     "target_pageid": 322944,
+     "target_revision_id": 44596102,
+     "target_title": "خانه تیزنو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AA%DB%8C%D8%B2%D9%86%D9%88"
     },
     {
      "field": "poi_heritage",
@@ -206,7 +221,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "خانه سوزنگر"
+     "target_pageid": 658386,
+     "target_revision_id": 44155341,
+     "target_title": "خانه سوزنگر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D9%88%D8%B2%D9%86%DA%AF%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -217,40 +235,24 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "خانه قلمبر"
+     "target_pageid": 322942,
+     "target_revision_id": 43821329,
+     "target_title": "خانه قلمبر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%82%D9%84%D9%85%D8%A8%D8%B1"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بقعه مقام علی",
+     "name": "آرامگاه مقام علی",
      "pageid": 5619,
      "revision_id": 44393795,
      "section": "گردشگری / اماکن مذهبی",
      "source_title": "دزفول",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "بقعه مقام علی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آرامگاه سوار غیب",
-     "pageid": 5619,
-     "revision_id": 44393795,
-     "section": "گردشگری / اماکن مذهبی",
-     "source_title": "دزفول",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "آرامگاه سوار غیب"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بقعه پیر اسحاق",
-     "pageid": 5619,
-     "revision_id": 44393795,
-     "section": "گردشگری / اماکن مذهبی",
-     "source_title": "دزفول",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-     "target_title": "بقعه پیر اسحاق"
+     "target_pageid": 663838,
+     "target_revision_id": 31449641,
+     "target_title": "آرامگاه مقام علی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D9%85%D9%82%D8%A7%D9%85_%D8%B9%D9%84%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -258,7 +260,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
-   "value": "پل قدیم\nمسجد جامع\nبازار کهنه\nآرامگاه یعقوب لیث\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nبقعه مقام علی\nآرامگاه سوار غیب\nبقعه پیر اسحاق"
+   "value": "پل قدیم دزفول\nمسجد جامع دزفول\nبازار کهنه\nآرامگاه یعقوب لیث\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nآرامگاه مقام علی"
   },
   "poi_nature": {
    "fetched": "2026-10-02",

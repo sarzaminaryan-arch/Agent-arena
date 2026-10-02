@@ -168,18 +168,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "رفسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه حاج‌آقاعلی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار و آب انبار حاج‌آقاعلی",
-     "pageid": 6477,
-     "revision_id": 43956883,
-     "section": "گردشگری / جاذبه های تاریخی",
-     "source_title": "رفسنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "بازار و آب انبار حاج‌آقاعلی"
+     "target_pageid": 420715,
+     "target_revision_id": 43927855,
+     "target_title": "خانه حاج‌آقاعلی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%A2%D9%82%D8%A7%D8%B9%D9%84%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -190,7 +182,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "رفسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه باقری (رفسنجان)"
+     "target_pageid": 661809,
+     "target_revision_id": 44154505,
+     "target_title": "خانه باقری (رفسنجان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A8%D8%A7%D9%82%D8%B1%DB%8C_%28%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86%29"
     },
     {
      "field": "poi_heritage",
@@ -201,7 +196,10 @@
      "section": "گردشگری / جاذبه های تاریخی",
      "source_title": "رفسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "عمارت کلاه‌فرنگی رفسنجان"
+     "target_pageid": 677121,
+     "target_revision_id": 44276949,
+     "target_title": "عمارت کلاه‌فرنگی رفسنجان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%DA%A9%D9%84%D8%A7%D9%87%E2%80%8C%D9%81%D8%B1%D9%86%DA%AF%DB%8C_%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -209,20 +207,23 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "خانه حاج‌آقاعلی\nبازار و آب انبار حاج‌آقاعلی\nخانه باقری\nعمارت کلاه‌فرنگی رفسنجان"
+   "value": "خانه حاج‌آقاعلی\nخانه باقری\nعمارت کلاه‌فرنگی رفسنجان"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "نودرهنگ",
+     "name": "منطقه شکارممنوع كوه نودرهنگ",
      "pageid": 6477,
      "revision_id": 43956883,
      "section": "طبیعت رفسنجان",
      "source_title": "رفسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "نودرهنگ"
+     "target_pageid": 943923,
+     "target_revision_id": 41918389,
+     "target_title": "منطقه شکارممنوع كوه نودرهنگ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D9%87_%D8%B4%DA%A9%D8%A7%D8%B1%D9%85%D9%85%D9%86%D9%88%D8%B9_%D9%83%D9%88%D9%87_%D9%86%D9%88%D8%AF%D8%B1%D9%87%D9%86%DA%AF"
     },
     {
      "field": "poi_nature",
@@ -233,40 +234,10 @@
      "section": "گردشگری / جاذبه های طبیعی",
      "source_title": "رفسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "مس سرچشمه"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سرچشمه",
-     "pageid": 6477,
-     "revision_id": 43956883,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "رفسنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "سرچشمه (جیرفت)"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دره در",
-     "pageid": 6477,
-     "revision_id": 43956883,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "رفسنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "دره در"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دره راگه",
-     "pageid": 6477,
-     "revision_id": 43956883,
-     "section": "گردشگری / جاذبه های طبیعی",
-     "source_title": "رفسنجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "دره راگه"
+     "target_pageid": 141773,
+     "target_revision_id": 43204696,
+     "target_title": "مس سرچشمه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3_%D8%B3%D8%B1%DA%86%D8%B4%D9%85%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -274,7 +245,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-   "value": "نودرهنگ\nمس سرچشمه\nسرچشمه\nدره در\nدره راگه"
+   "value": "منطقه شکارممنوع كوه نودرهنگ\nمس سرچشمه"
   },
   "population": {
    "fetched": "2026-10-02",

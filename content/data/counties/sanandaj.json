@@ -123,13 +123,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه سنندج",
+     "name": "عمارت سالار سعید",
      "pageid": 3690,
      "revision_id": 44576330,
      "section": "مراکز گردشگری و تاریخی / موزه ها",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "موزه سنندج"
+     "target_pageid": 388035,
+     "target_revision_id": 44276834,
+     "target_title": "عمارت سالار سعید",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1_%D8%B3%D8%B9%DB%8C%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -140,18 +143,10 @@
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت خسروآباد"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت سالار سعید",
-     "pageid": 3690,
-     "revision_id": 44576330,
-     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
-     "source_title": "سنندج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت سالار سعید (موزه سنندج)"
+     "target_pageid": 387126,
+     "target_revision_id": 44276812,
+     "target_title": "عمارت خسروآباد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%AE%D8%B3%D8%B1%D9%88%D8%A2%D8%A8%D8%A7%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -162,7 +157,10 @@
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت مشیر دیوان"
+     "target_pageid": 387327,
+     "target_revision_id": 28523388,
+     "target_title": "عمارت مشیر دیوان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%85%D8%B4%DB%8C%D8%B1_%D8%AF%DB%8C%D9%88%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -173,18 +171,24 @@
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت امجدالاشراف"
+     "target_pageid": 388737,
+     "target_revision_id": 44276771,
+     "target_title": "عمارت امجدالاشراف",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%A7%D9%85%D8%AC%D8%AF%D8%A7%D9%84%D8%A7%D8%B4%D8%B1%D8%A7%D9%81"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت وکیل الملک",
+     "name": "عمارت وکیل‌الملک",
      "pageid": 3690,
      "revision_id": 44576330,
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت وکیل الملک"
+     "target_pageid": 387489,
+     "target_revision_id": 40679131,
+     "target_title": "عمارت وکیل‌الملک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%88%DA%A9%DB%8C%D9%84%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%DA%A9"
     },
     {
      "field": "poi_heritage",
@@ -195,18 +199,10 @@
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "خانه احمدزاده (سنندج)"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت فهیمی",
-     "pageid": 3690,
-     "revision_id": 44576330,
-     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
-     "source_title": "سنندج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت فهیمی"
+     "target_pageid": 658561,
+     "target_revision_id": 44154255,
+     "target_title": "خانه احمدزاده (سنندج)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A7%D8%AD%D9%85%D8%AF%D8%B2%D8%A7%D8%AF%D9%87_%28%D8%B3%D9%86%D9%86%D8%AF%D8%AC%29"
     },
     {
      "field": "poi_heritage",
@@ -217,7 +213,10 @@
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت سرهنگ آزموده اردلان"
+     "target_pageid": 387490,
+     "target_revision_id": 44276841,
+     "target_title": "عمارت سرهنگ آزموده اردلان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%B3%D8%B1%D9%87%D9%86%DA%AF_%D8%A2%D8%B2%D9%85%D9%88%D8%AF%D9%87_%D8%A7%D8%B1%D8%AF%D9%84%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -228,29 +227,66 @@
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت ملا لطف‌الله شیخ‌الاسلام"
+     "target_pageid": 387491,
+     "target_revision_id": 44276901,
+     "target_title": "عمارت ملا لطف‌الله شیخ‌الاسلام",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%85%D9%84%D8%A7_%D9%84%D8%B7%D9%81%E2%80%8C%D8%A7%D9%84%D9%84%D9%87_%D8%B4%DB%8C%D8%AE%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت ملک التجار",
+     "name": "عمارت ملک‌التجار",
      "pageid": 3690,
      "revision_id": 44576330,
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "عمارت ملک التجار"
+     "target_pageid": 387988,
+     "target_revision_id": 43277633,
+     "target_title": "عمارت ملک‌التجار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%85%D9%84%DA%A9%E2%80%8C%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مجموعه عمارت شیخ محمد باقر غیاثی",
+     "name": "عمارت آصف وزیری",
      "pageid": 3690,
      "revision_id": 44576330,
      "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
      "source_title": "سنندج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-     "target_title": "مجموعه عمارت شیخ محمد باقر غیاثی"
+     "target_pageid": 388735,
+     "target_revision_id": 44276763,
+     "target_title": "عمارت آصف وزیری",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D8%A2%D8%B5%D9%81_%D9%88%D8%B2%DB%8C%D8%B1%DB%8C"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه پیرمرادی",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_pageid": 387987,
+     "target_revision_id": 44156479,
+     "target_title": "خانه پیرمرادی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%BE%DB%8C%D8%B1%D9%85%D8%B1%D8%A7%D8%AF%DB%8C"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه معمارباشی",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_pageid": 387985,
+     "target_revision_id": 44156117,
+     "target_title": "خانه معمارباشی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D8%A8%D8%A7%D8%B4%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -258,7 +294,31 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
-   "value": "موزه سنندج\nعمارت خسروآباد\nعمارت سالار سعید\nعمارت مشیر دیوان\nعمارت امجدالاشراف\nعمارت وکیل الملک\nخانه احمدزاده\nعمارت فهیمی\nعمارت سرهنگ آزموده اردلان\nعمارت ملا لطف‌الله شیخ‌الاسلام\nعمارت ملک التجار\nمجموعه عمارت شیخ محمد باقر غیاثی"
+   "value": "عمارت سالار سعید\nعمارت خسروآباد\nعمارت مشیر دیوان\nعمارت امجدالاشراف\nعمارت وکیل‌الملک\nخانه احمدزاده\nعمارت سرهنگ آزموده اردلان\nعمارت ملا لطف‌الله شیخ‌الاسلام\nعمارت ملک‌التجار\nعمارت آصف وزیری\nخانه پیرمرادی\nخانه معمارباشی"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد قشلاق",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / اماکن تفریحی / سد وحدت",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_pageid": 20379,
+     "target_revision_id": 44219810,
+     "target_title": "سد قشلاق",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D9%82%D8%B4%D9%84%D8%A7%D9%82"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+   "value": "سد قشلاق"
   },
   "population": {
    "fetched": "2026-10-02",

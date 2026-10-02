@@ -148,7 +148,10 @@
      "section": "جاذبه های گردشگری و تاریخی درگز",
      "source_title": "درگز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_title": "پل گرد"
+     "target_pageid": 229946,
+     "target_revision_id": 41109893,
+     "target_title": "پل گرد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%DA%AF%D8%B1%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -159,7 +162,10 @@
      "section": "جاذبه های گردشگری و تاریخی درگز",
      "source_title": "درگز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_title": "محوطه باستانی بندیان"
+     "target_pageid": 37882,
+     "target_revision_id": 44330728,
+     "target_title": "محوطه باستانی بندیان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C_%D8%A8%D9%86%D8%AF%DB%8C%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -170,18 +176,10 @@
      "section": "جاذبه های گردشگری و تاریخی درگز",
      "source_title": "درگز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_title": "آرامگاه علامه شهرستانی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده محمد دیباج",
-     "pageid": 418529,
-     "revision_id": 44394078,
-     "section": "جاذبه های گردشگری و تاریخی درگز",
-     "source_title": "درگز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_title": "امامزاده محمد دیباج"
+     "target_pageid": 421094,
+     "target_revision_id": 43333555,
+     "target_title": "آرامگاه علامه شهرستانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D8%A7%D9%85%D9%87_%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -189,7 +187,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-   "value": "پل گرد\nمحوطه باستانی بندیان\nآرامگاه علامه شهرستانی\nامامزاده محمد دیباج"
+   "value": "پل گرد\nمحوطه باستانی بندیان\nآرامگاه علامه شهرستانی"
   },
   "poi_nature": {
    "entries": [
@@ -202,7 +200,10 @@
      "section": "جاذبه های گردشگری و تاریخی درگز",
      "source_title": "درگز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_title": "جنگل پسته"
+     "target_pageid": 395517,
+     "target_revision_id": 41037123,
+     "target_title": "جنگل پسته",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%D9%BE%D8%B3%D8%AA%D9%87"
     },
     {
      "field": "poi_nature",
@@ -213,7 +214,10 @@
      "section": "جاذبه های گردشگری و تاریخی درگز",
      "source_title": "درگز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%B2",
-     "target_title": "پارک ملی تندوره"
+     "target_pageid": 201715,
+     "target_revision_id": 44284340,
+     "target_title": "پارک ملی تندوره",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%AA%D9%86%D8%AF%D9%88%D8%B1%D9%87"
     }
    ],
    "fetched": "2026-10-02",

@@ -150,7 +150,10 @@
      "section": "آثار ملی و دیدنی ها / تپه ها",
      "source_title": "شهرستان طالقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-     "target_title": "تپه دره میر آش"
+     "target_pageid": 662734,
+     "target_revision_id": 44117893,
+     "target_title": "تپه دره میر آش",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D8%AF%D8%B1%D9%87_%D9%85%DB%8C%D8%B1_%D8%A2%D8%B4"
     },
     {
      "field": "poi_nature",
@@ -161,7 +164,10 @@
      "section": "آثار ملی و دیدنی ها / غارها",
      "source_title": "شهرستان طالقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-     "target_title": "غار پنجعلی"
+     "target_pageid": 662749,
+     "target_revision_id": 44278608,
+     "target_title": "غار پنجعلی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%BE%D9%86%D8%AC%D8%B9%D9%84%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -172,7 +178,10 @@
      "section": "آثار ملی و دیدنی ها / غارها",
      "source_title": "شهرستان طالقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-     "target_title": "غار وی یا"
+     "target_pageid": 662692,
+     "target_revision_id": 44278596,
+     "target_title": "غار وی یا",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%88%DB%8C_%DB%8C%D8%A7"
     },
     {
      "field": "poi_nature",
@@ -183,7 +192,10 @@
      "section": "آثار ملی و دیدنی ها / غارها",
      "source_title": "شهرستان طالقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-     "target_title": "غار زالن گاه"
+     "target_pageid": 662510,
+     "target_revision_id": 44278464,
+     "target_title": "غار زالن گاه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B2%D8%A7%D9%84%D9%86_%DA%AF%D8%A7%D9%87"
     },
     {
      "field": "poi_nature",
@@ -194,7 +206,24 @@
      "section": "آثار ملی و دیدنی ها / غارها",
      "source_title": "شهرستان طالقان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-     "target_title": "غار بادامستان"
+     "target_pageid": 662404,
+     "target_revision_id": 44278376,
+     "target_title": "غار بادامستان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A8%D8%A7%D8%AF%D8%A7%D9%85%D8%B3%D8%AA%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد طالقان",
+     "pageid": 441814,
+     "revision_id": 44596529,
+     "section": "جاذبه های فرهنگی، تاریخی",
+     "source_title": "طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_pageid": 757870,
+     "target_revision_id": 43334870,
+     "target_title": "سد طالقان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -202,7 +231,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
-   "value": "تپه دره میر آش\nغار پنجعلی\nغار وی یا\nغار زالن گاه\nغار بادامستان"
+   "value": "تپه دره میر آش\nغار پنجعلی\nغار وی یا\nغار زالن گاه\nغار بادامستان\nسد طالقان"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

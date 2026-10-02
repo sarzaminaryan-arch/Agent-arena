@@ -140,48 +140,6 @@
     "ramhormoz"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "بقعه",
-     "pageid": 141780,
-     "revision_id": 44039845,
-     "section": "زیارتگاه / امامزادگان سید اسدالله و سید ابراهیم",
-     "source_title": "شهرستان بهمئی",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
-     "target_title": "بقعه"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
-   "value": "بقعه"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "تالاب",
-     "pageid": 141780,
-     "revision_id": 44039845,
-     "section": "جاذبه های گردشگری / دریاچه برم الوان",
-     "source_title": "شهرستان بهمئی",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
-     "target_title": "تالاب"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D9%85%D8%A6%DB%8C",
-   "value": "تالاب"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

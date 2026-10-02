@@ -139,7 +139,10 @@
      "section": "آثار تاریخی",
      "source_title": "ارسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "مسجد جامع ارسنجان"
+     "target_pageid": 668867,
+     "target_revision_id": 44343705,
+     "target_title": "مسجد جامع ارسنجان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -160,7 +163,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "ارسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "دریاچه طشک"
+     "target_pageid": 716998,
+     "target_revision_id": 44176722,
+     "target_title": "دریاچه طشک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B7%D8%B4%DA%A9"
     },
     {
      "field": "poi_nature",
@@ -171,7 +177,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "ارسنجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
-     "target_title": "غار سیده خاتون"
+     "target_pageid": 1784243,
+     "target_revision_id": 40695643,
+     "target_title": "غار سیده خاتون",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%DB%8C%D8%AF%D9%87_%D8%AE%D8%A7%D8%AA%D9%88%D9%86"
     }
    ],
    "fetched": "2026-10-02",

@@ -143,13 +143,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "تخت‌جمشید",
+     "name": "تخت جمشید",
      "pageid": 10847,
      "revision_id": 44412122,
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های تاریخی و فرهنگی",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "تخت‌جمشید"
+     "target_pageid": 3197,
+     "target_revision_id": 44505260,
+     "target_title": "تخت جمشید",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -160,7 +163,10 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های تاریخی و فرهنگی",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "کاخ تچر"
+     "target_pageid": 759245,
+     "target_revision_id": 44442425,
+     "target_title": "کاخ تچر",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%D8%AA%DA%86%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -171,7 +177,10 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های تاریخی و فرهنگی",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "نقش رستم"
+     "target_pageid": 929350,
+     "target_revision_id": 44409392,
+     "target_title": "نقش رستم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%B4_%D8%B1%D8%B3%D8%AA%D9%85"
     },
     {
      "field": "poi_heritage",
@@ -182,7 +191,10 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های تاریخی و فرهنگی",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "پل بند امیر"
+     "target_pageid": 2508615,
+     "target_revision_id": 44422405,
+     "target_title": "پل بند امیر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A8%D9%86%D8%AF_%D8%A7%D9%85%DB%8C%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -193,7 +205,10 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های تاریخی و فرهنگی",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "پل خان"
+     "target_pageid": 656912,
+     "target_revision_id": 43241170,
+     "target_title": "پل خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -204,7 +219,10 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های تاریخی و فرهنگی / سه گنبدان",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "قلعه استخر"
+     "target_pageid": 670876,
+     "target_revision_id": 44303979,
+     "target_title": "قلعه استخر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -212,7 +230,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-   "value": "تخت‌جمشید\nکاخ تچر\nنقش رستم\nپل بند امیر\nپل خان\nقلعه استخر"
+   "value": "تخت جمشید\nکاخ تچر\nنقش رستم\nپل بند امیر\nپل خان\nقلعه استخر"
   },
   "poi_nature": {
    "entries": [
@@ -225,7 +243,24 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های طبیعی",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "دریاچه بختگان"
+     "target_pageid": 157670,
+     "target_revision_id": 42994058,
+     "target_title": "دریاچه بختگان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد درودزن",
+     "pageid": 10847,
+     "revision_id": 44412122,
+     "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های طبیعی",
+     "source_title": "مرودشت",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
+     "target_pageid": 398705,
+     "target_revision_id": 44219705,
+     "target_title": "سد درودزن",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AF%D8%B1%D9%88%D8%AF%D8%B2%D9%86"
     },
     {
      "field": "poi_nature",
@@ -236,7 +271,10 @@
      "section": "جاذبه های تاریخی، فرهنگی و طبیعی / جاذبه های طبیعی / آبشار دشتک ابرج",
      "source_title": "مرودشت",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-     "target_title": "آبشار دشتک ابرج"
+     "target_pageid": 753121,
+     "target_revision_id": 44432136,
+     "target_title": "آبشار دشتک ابرج",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D8%AF%D8%B4%D8%AA%DA%A9_%D8%A7%D8%A8%D8%B1%D8%AC"
     }
    ],
    "fetched": "2026-10-02",
@@ -244,7 +282,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
-   "value": "دریاچه بختگان\nآبشار دشتک ابرج"
+   "value": "دریاچه بختگان\nسد درودزن\nآبشار دشتک ابرج"
   },
   "population": {
    "fetched": "2026-10-02",

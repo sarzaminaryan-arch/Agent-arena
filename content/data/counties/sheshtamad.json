@@ -132,38 +132,6 @@
     "davarzan"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "قنات",
-     "pageid": 176903,
-     "revision_id": 43808864,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / چنار کیذقان",
-     "source_title": "شهرستان ششتمد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
-     "target_title": "قنات"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "باغ خیرات",
-     "pageid": 176903,
-     "revision_id": 43808864,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / دره های ییلاقی",
-     "source_title": "شهرستان ششتمد",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
-     "target_title": "باغ خیرات"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%B4%D8%AA%D9%85%D8%AF",
-   "value": "قنات\nباغ خیرات"
-  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

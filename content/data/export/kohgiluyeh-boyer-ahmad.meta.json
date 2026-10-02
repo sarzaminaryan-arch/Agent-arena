@@ -15,8 +15,6 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "landeh - شرق\naghajari - جنوب‌غرب\nbagh-e-malek - شمال\nbehbahan - جنوب\nramhormoz - شمال‌غرب",
-  "sa_cty_poi_heritage": "بقعه",
-  "sa_cty_poi_nature": "تالاب",
   "sa_cty_population": 38136,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.05,50.08333"
@@ -59,7 +57,7 @@
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "dena - شرق\nchoram - جنوب‌غرب\nmargoun - شمال‌غرب\nbasht - جنوب",
   "sa_cty_poi_nature": "آبشار یاسوج",
-  "sa_cty_poi_recreation": "پیست اسکی کاکان\nپارک تفریحی",
+  "sa_cty_poi_recreation": "پیست اسکی کاکان\nشهربازی",
   "sa_cty_population": 299885,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.9,51.11667"
@@ -79,8 +77,8 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "boyer-ahmad - شمال‌شرق\nkohgiluyeh - شمال‌غرب\nmargoun - شمال\nbasht - جنوب‌شرق\ngachsaran - جنوب\nbehbahan - غرب",
-  "sa_cty_poi_heritage": "قلعه شهرک چرام\nکتیبه تنگ پیرزال",
-  "sa_cty_poi_nature": "باغ چشمه بلقیس و برج تاریخی\nچشمه بلقیس چرام",
+  "sa_cty_poi_heritage": "قلعه شهرک چرام",
+  "sa_cty_poi_nature": "چشمه بلقیس چرام",
   "sa_cty_population": 33543,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.76667,50.85"
@@ -124,8 +122,6 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "basht - شرق\nchoram - شمال\ndeylam - جنوب‌غرب\nbehbahan - شمال‌غرب",
-  "sa_cty_poi_heritage": "محوطه پشه کان\nقلعه‌های اسماعیلیه",
-  "sa_cty_poi_nature": "غارچال امیرخانی",
   "sa_cty_population": 124096,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.33333,50.75"
@@ -145,8 +141,7 @@
   "sa_cty_language": "لری (بویراحمدی، بهمئی و طیبی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "دامداری و کشاورزی، نفت و گاز، عسل و گردشگری طبیعت",
   "sa_cty_neighbors": "landeh - غرب\nchoram - جنوب‌شرق\nmargoun - شمال‌شرق",
-  "sa_cty_poi_heritage": "کاروانسرای دهدشت",
-  "sa_cty_poi_nature": "غار نزل\nکوه نور\nآبشار کمردوغ",
+  "sa_cty_poi_nature": "کوه نور\nآبشار کمردوغ\nسد مارون\nسد کوثر",
   "sa_cty_population": 131351,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.96667,50.55"

@@ -162,7 +162,10 @@
      "section": "جاذبه ها",
      "source_title": "ملایر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "برج ایفل"
+     "target_pageid": 29006,
+     "target_revision_id": 43483277,
+     "target_title": "برج ایفل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%A7%DB%8C%D9%81%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -173,7 +176,10 @@
      "section": "جاذبه ها",
      "source_title": "ملایر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "تخت جمشید"
+     "target_pageid": 3197,
+     "target_revision_id": 44505260,
+     "target_title": "تخت جمشید",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -184,18 +190,10 @@
      "section": "جاذبه ها",
      "source_title": "ملایر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "برج آزادی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آرامگاه باباطاهر",
-     "pageid": 13070,
-     "revision_id": 44466677,
-     "section": "جاذبه ها",
-     "source_title": "ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "آرامگاه باباطاهر (همدان)"
+     "target_pageid": 38848,
+     "target_revision_id": 44416307,
+     "target_title": "برج آزادی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC_%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -203,20 +201,23 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "برج ایفل\nتخت جمشید\nبرج آزادی\nآرامگاه باباطاهر"
+   "value": "برج ایفل\nتخت جمشید\nبرج آزادی"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "شبه جزیره اسکاندیناوی",
+     "name": "شبه‌جزیره اسکاندیناوی",
      "pageid": 12564,
      "revision_id": 44263476,
      "section": "جاذبه های دیدنی / تالاب فصلی آق گل",
      "source_title": "شهرستان ملایر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "شبه جزیره اسکاندیناوی"
+     "target_pageid": 204544,
+     "target_revision_id": 44059234,
+     "target_title": "شبه‌جزیره اسکاندیناوی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87%E2%80%8C%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D8%A7%D8%B3%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D9%86%D8%A7%D9%88%DB%8C"
     },
     {
      "field": "poi_nature",
@@ -227,7 +228,10 @@
      "section": "ساختار شهری / پارک ها",
      "source_title": "ملایر",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "کوه گرمه"
+     "target_pageid": 2322415,
+     "target_revision_id": 40746071,
+     "target_title": "کوه گرمه",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%DA%AF%D8%B1%D9%85%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -235,28 +239,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "شبه جزیره اسکاندیناوی\nکوه گرمه"
-  },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک سیفیه",
-     "pageid": 13070,
-     "revision_id": 44466677,
-     "section": "ساختار شهری / پارک ها",
-     "source_title": "ملایر",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-     "target_title": "پارک سیفیه"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
-   "value": "پارک سیفیه"
+   "value": "شبه‌جزیره اسکاندیناوی\nکوه گرمه"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -147,35 +147,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "کاروانسرا",
-     "pageid": 1103990,
-     "revision_id": 44082236,
-     "section": "اماکن گردشگری / کاروانسرای شاه عباسی آوج",
-     "source_title": "شهرستان آوج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-     "target_title": "کاروانسرا"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
-     "name": "آرامگاه",
-     "pageid": 1103990,
-     "revision_id": 44082236,
-     "section": "اماکن گردشگری / برج های دوگانه خرقان",
-     "source_title": "شهرستان آوج",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-     "target_title": "آرامگاه"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
      "name": "محراب مسجد",
      "pageid": 1103990,
      "revision_id": 44082236,
      "section": "اماکن گردشگری / برج های دوگانه خرقان",
      "source_title": "شهرستان آوج",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-     "target_title": "محراب مسجد"
+     "target_pageid": 25546,
+     "target_revision_id": 43878574,
+     "target_title": "محراب مسجد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D8%A7%D8%A8_%D9%85%D8%B3%D8%AC%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -183,7 +164,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
-   "value": "کاروانسرا\nآرامگاه\nمحراب مسجد"
+   "value": "محراب مسجد"
   },
   "population": {
    "fetched": "2026-10-02",

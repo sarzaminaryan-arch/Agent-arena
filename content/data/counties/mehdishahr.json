@@ -157,6 +157,30 @@
    "url": "",
    "value": "چاشم\nچهل تن\nدرجزین\nرودبارک\nدیواره صخره‌نوردی سنگسر سل\nملاده\nمنطقه ملی گردشگری رودبارک\nمنطقه حفاظت شده پرور"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک آبشار مهدی‌شهر",
+     "pageid": 24239,
+     "revision_id": 44469554,
+     "section": "اماکن گردشگری",
+     "source_title": "مهدی‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_pageid": 765206,
+     "target_revision_id": 44432430,
+     "target_title": "پارک آبشار مهدی‌شهر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": "پارک آبشار مهدی‌شهر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

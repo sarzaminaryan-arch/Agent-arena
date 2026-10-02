@@ -154,24 +154,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه میناب",
-     "pageid": 57051,
-     "revision_id": 44612197,
-     "section": "جاذبه های گردشگری",
-     "source_title": "میناب",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-     "target_title": "قلعه میناب"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "قلعه هزاره",
      "pageid": 57051,
      "revision_id": 44612197,
      "section": "جاذبه های گردشگری",
      "source_title": "میناب",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-     "target_title": "قلعه هزاره"
+     "target_pageid": 113188,
+     "target_revision_id": 44258652,
+     "target_title": "قلعه هزاره",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D9%87%D8%B2%D8%A7%D8%B1%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -182,7 +174,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "میناب",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-     "target_title": "پنجشنبه‌بازار میناب"
+     "target_pageid": 111392,
+     "target_revision_id": 44423700,
+     "target_title": "پنجشنبه‌بازار میناب",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87%E2%80%8C%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%85%DB%8C%D9%86%D8%A7%D8%A8"
     }
    ],
    "fetched": "2026-10-02",
@@ -190,7 +185,31 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
-   "value": "قلعه میناب\nقلعه هزاره\nپنجشنبه‌بازار میناب"
+   "value": "قلعه هزاره\nپنجشنبه‌بازار میناب"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد استقلال",
+     "pageid": 57051,
+     "revision_id": 44612197,
+     "section": "جاذبه های گردشگری",
+     "source_title": "میناب",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
+     "target_pageid": 254133,
+     "target_revision_id": 43207132,
+     "target_title": "سد استقلال",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8",
+   "value": "سد استقلال"
   },
   "population": {
    "fetched": "2026-10-02",

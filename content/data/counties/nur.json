@@ -155,6 +155,30 @@
    "url": "",
    "value": "کرسی\nخاور میانه\nناتل\nنیما یوشیج\nپیمد\nلُوس\nهلوپشته\nسوردار\nکالج"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "بوستان جنگلی نور",
+     "pageid": 19951,
+     "revision_id": 44410573,
+     "section": "گردشگری",
+     "source_title": "شهرستان نور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B1",
+     "target_pageid": 3587190,
+     "target_revision_id": 44379612,
+     "target_title": "بوستان جنگلی نور",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%86%DA%AF%D9%84%DB%8C_%D9%86%D9%88%D8%B1"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%88%D8%B1",
+   "value": "بوستان جنگلی نور"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -140,13 +140,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "پارک ملی بختگان",
+     "name": "پارک ملی و پناهگاه حیات وحش بختگان",
      "pageid": 5055922,
      "revision_id": 44147106,
      "section": "جاذبه های گردشگری / پارک ملی بختگان",
      "source_title": "شهرستان بختگان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
-     "target_title": "پارک ملی بختگان"
+     "target_pageid": 444431,
+     "target_revision_id": 44413086,
+     "target_title": "پارک ملی و پناهگاه حیات وحش بختگان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D9%88_%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87_%D8%AD%DB%8C%D8%A7%D8%AA_%D9%88%D8%AD%D8%B4_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -157,7 +160,10 @@
      "section": "جاذبه های گردشگری / پارک ملی بختگان",
      "source_title": "شهرستان بختگان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
-     "target_title": "دریاچه بختگان"
+     "target_pageid": 157670,
+     "target_revision_id": 42994058,
+     "target_title": "دریاچه بختگان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -168,7 +174,10 @@
      "section": "جاذبه های گردشگری / پارک ملی بختگان",
      "source_title": "شهرستان بختگان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
-     "target_title": "جزیره نرگس"
+     "target_pageid": 5782299,
+     "target_revision_id": 43158134,
+     "target_title": "جزیره نرگس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D9%86%D8%B1%DA%AF%D8%B3"
     },
     {
      "field": "poi_nature",
@@ -179,18 +188,10 @@
      "section": "جاذبه های گردشگری / پارک ملی بختگان",
      "source_title": "شهرستان بختگان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
-     "target_title": "دریاچه طشک"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "تنگه جزین",
-     "pageid": 5055922,
-     "revision_id": 44147106,
-     "section": "جاذبه های گردشگری / پارک ملی بختگان",
-     "source_title": "شهرستان بختگان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
-     "target_title": "تنگه جزین"
+     "target_pageid": 716998,
+     "target_revision_id": 44176722,
+     "target_title": "دریاچه طشک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B7%D8%B4%DA%A9"
     }
    ],
    "fetched": "2026-10-02",
@@ -198,7 +199,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
-   "value": "پارک ملی بختگان\nدریاچه بختگان\nجزیره نرگس\nدریاچه طشک\nتنگه جزین"
+   "value": "پارک ملی و پناهگاه حیات وحش بختگان\nدریاچه بختگان\nجزیره نرگس\nدریاچه طشک"
   },
   "population": {
    "fetched": "2026-10-02",

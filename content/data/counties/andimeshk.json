@@ -137,18 +137,10 @@
      "section": "گردشگری",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "قلعه رزه (بنا)"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امام زاده",
-     "pageid": 6487,
-     "revision_id": 44399141,
-     "section": "گردشگری / امامزاده احمد بن موسی (معروف به شاهزاده احمد)",
-     "source_title": "اندیمشک",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "امام زاده"
+     "target_pageid": 662584,
+     "target_revision_id": 44304333,
+     "target_title": "قلعه رزه (بنا)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B1%D8%B2%D9%87_%28%D8%A8%D9%86%D8%A7%29"
     },
     {
      "field": "poi_heritage",
@@ -159,7 +151,10 @@
      "section": "گردشگری / امامزاده بابا لَنگ",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "امامزاده بابالنگ"
+     "target_pageid": 1560544,
+     "target_revision_id": 40136952,
+     "target_title": "امامزاده بابالنگ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%A8%D8%A7%D8%A8%D8%A7%D9%84%D9%86%DA%AF"
     },
     {
      "field": "poi_heritage",
@@ -170,40 +165,10 @@
      "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "پل بالارود"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل خشتی",
-     "pageid": 6487,
-     "revision_id": 44399141,
-     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
-     "source_title": "اندیمشک",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "پل خشتی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل پدر",
-     "pageid": 6487,
-     "revision_id": 44399141,
-     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
-     "source_title": "اندیمشک",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "پل پدر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل پسر",
-     "pageid": 6487,
-     "revision_id": 44399141,
-     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
-     "source_title": "اندیمشک",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "پل پسر"
+     "target_pageid": 665420,
+     "target_revision_id": 32870183,
+     "target_title": "پل بالارود",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A8%D8%A7%D9%84%D8%A7%D8%B1%D9%88%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -211,20 +176,37 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-   "value": "قلعه رزه\nامام زاده\nامامزاده بابالنگ\nپل بالارود\nپل خشتی\nپل پدر\nپل پسر"
+   "value": "قلعه رزه\nامامزاده بابالنگ\nپل بالارود"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دریاچه سد",
+     "name": "سد کرخه",
      "pageid": 6487,
      "revision_id": 44399141,
-     "section": "گردشگری / پلاژ دریاچه دز اندیمشک",
+     "section": "گردشگری",
      "source_title": "اندیمشک",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-     "target_title": "دریاچه سد"
+     "target_pageid": 540553,
+     "target_revision_id": 43569477,
+     "target_title": "سد کرخه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%A9%D8%B1%D8%AE%D9%87"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سد دز",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_pageid": 49903,
+     "target_revision_id": 44219707,
+     "target_title": "سد دز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AF%D8%B2"
     }
    ],
    "fetched": "2026-10-02",
@@ -232,7 +214,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
-   "value": "دریاچه سد"
+   "value": "سد کرخه\nسد دز"
   },
   "population": {
    "fetched": "2026-10-02",

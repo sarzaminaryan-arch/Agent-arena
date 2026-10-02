@@ -152,24 +152,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "قلعه خان بیدخون",
-     "pageid": 1558911,
-     "revision_id": 44452907,
-     "section": "بناهای تاریخی",
-     "source_title": "شهرستان عسلویه",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
-     "target_title": "قلعه خان بیدخون"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "county tourism section",
      "name": "آب‌انبار بندو",
      "pageid": 1558911,
      "revision_id": 44452907,
      "section": "بناهای تاریخی",
      "source_title": "شهرستان عسلویه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
-     "target_title": "آب‌انبار بندو"
+     "target_pageid": 668044,
+     "target_revision_id": 34461601,
+     "target_title": "آب‌انبار بندو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%A8%D9%86%D8%AF%D9%88"
     },
     {
      "field": "poi_heritage",
@@ -180,7 +172,10 @@
      "section": "بناهای تاریخی",
      "source_title": "شهرستان عسلویه",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
-     "target_title": "قلعه شیخ کنعانی"
+     "target_pageid": 667728,
+     "target_revision_id": 44304506,
+     "target_title": "قلعه شیخ کنعانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B4%DB%8C%D8%AE_%DA%A9%D9%86%D8%B9%D8%A7%D9%86%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -188,7 +183,31 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
-   "value": "قلعه خان بیدخون\nآب‌انبار بندو\nقلعه شیخ کنعانی"
+   "value": "آب‌انبار بندو\nقلعه شیخ کنعانی"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "سد بندو",
+     "pageid": 1558911,
+     "revision_id": 44452907,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان عسلویه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+     "target_pageid": 667934,
+     "target_revision_id": 44219664,
+     "target_title": "سد بندو",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A8%D9%86%D8%AF%D9%88"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+   "value": "سد بندو"
   },
   "population": {
    "fetched": "2026-10-02",

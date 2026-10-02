@@ -152,13 +152,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاخ کوروش",
+     "name": "کاخ چرخاب",
      "pageid": 28620,
      "revision_id": 44574187,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "برازجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D8%AC%D8%A7%D9%86",
-     "target_title": "کاخ کوروش"
+     "target_pageid": 2079644,
+     "target_revision_id": 43973462,
+     "target_title": "کاخ چرخاب",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AE_%DA%86%D8%B1%D8%AE%D8%A7%D8%A8"
     }
    ],
    "fetched": "2026-10-02",
@@ -166,7 +169,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D8%AC%D8%A7%D9%86",
-   "value": "کاخ کوروش"
+   "value": "کاخ چرخاب"
   },
   "population": {
    "fetched": "2026-10-02",

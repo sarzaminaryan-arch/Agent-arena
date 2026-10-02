@@ -2,26 +2,18 @@
  "abdanan": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "دریاچه دوقلو آبدانان",
-    "pageid": 137912,
-    "revision_id": 44446908,
-    "section": "گردشگری",
-    "source_title": "شهرستان آبدانان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-    "target_title": "دریاچه دوقلو آبدانان"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده سید صلاح الدین محمد",
+    "name": "امامزاده سید صلاح‌الدین محمد",
     "pageid": 92157,
     "revision_id": 44344315,
     "section": "گردشگری",
     "source_title": "آبدانان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-    "target_title": "امامزاده سید صلاح الدین محمد"
+    "target_pageid": 663282,
+    "target_revision_id": 44493429,
+    "target_title": "امامزاده سید صلاح‌الدین محمد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%DB%8C%D8%AF_%D8%B5%D9%84%D8%A7%D8%AD%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D9%85%D8%AD%D9%85%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -32,7 +24,10 @@
     "section": "گردشگری",
     "source_title": "آبدانان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-    "target_title": "پشت قلعه آبدانان"
+    "target_pageid": 663058,
+    "target_revision_id": 43923870,
+    "target_title": "پشت قلعه آبدانان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B4%D8%AA_%D9%82%D9%84%D8%B9%D9%87_%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86"
    },
    {
     "field": "poi_nature",
@@ -43,36 +38,39 @@
     "section": "گردشگری",
     "source_title": "آبدانان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
-    "target_title": "دریاچه دوقلو سیاه گاو"
+    "target_pageid": 3276950,
+    "target_revision_id": 43439592,
+    "target_title": "دریاچه دوقلو سیاه گاو",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%AF%D9%88%D9%82%D9%84%D9%88_%D8%B3%DB%8C%D8%A7%D9%87_%DA%AF%D8%A7%D9%88"
    }
   ],
   "center_confirmed": true,
   "county": "آبدانان",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [
+   {
+    "name": "دریاچه دوقلو آبدانان",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86"
   ]
  },
  "badreh": {
-  "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تنگه رازیانه",
-    "pageid": 92160,
-    "revision_id": 44354115,
-    "section": "فرهنگ مردم / جاذبه های طبیعی",
-    "source_title": "بدره",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AF%D8%B1%D9%87",
-    "target_title": "تنگه رازیانه"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "بدره",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [
+   {
+    "name": "تنگه رازیانه",
+    "reason": "generic or untyped target"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AF%D8%B1%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%A8%D8%AF%D8%B1%D9%87"
@@ -84,6 +82,7 @@
   "county": "چرداول",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%B1%D8%AF%D8%A7%D9%88%D9%84",
    "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D8%A8%D9%84%D9%87"
@@ -95,6 +94,7 @@
   "county": "چوار",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%88%D8%A7%D8%B1",
    "https://fa.wikipedia.org/wiki/%DA%86%D9%88%D8%A7%D8%B1"
@@ -106,6 +106,7 @@
   "county": "دره‌شهر",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%D9%87%E2%80%8C%D8%B4%D9%87%D8%B1"
   ]
@@ -116,6 +117,7 @@
   "county": "دهلران",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%87%D9%84%D8%B1%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D9%84%D8%B1%D8%A7%D9%86"
@@ -132,52 +134,28 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان ایوان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
-    "target_title": "آتشکده سیاهگل"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آبشار هفت قلوی پلیه",
-    "pageid": 36956,
-    "revision_id": 44260284,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان ایوان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86",
-    "target_title": "آبشار هفت قلوی پلیه"
+    "target_pageid": 4759593,
+    "target_revision_id": 41542890,
+    "target_title": "آتشکده سیاهگل",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%D8%B3%DB%8C%D8%A7%D9%87%DA%AF%D9%84"
    }
   ],
   "center_confirmed": false,
   "county": "ایوان",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [
+   {
+    "name": "آبشار هفت قلوی پلیه",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%88%D8%A7%D9%86"
   ]
  },
  "halilan": {
   "candidates": [
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "رودخانه سیمره",
-    "pageid": 170517,
-    "revision_id": 43738008,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان هلیلان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86",
-    "target_title": "رودخانه سیمره"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "پل‌دختر",
-    "pageid": 170517,
-    "revision_id": 43738008,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان هلیلان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86",
-    "target_title": "پل‌دختر (پل)"
-   },
    {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
@@ -187,13 +165,26 @@
     "section": "جاذبه های گردشگری",
     "source_title": "شهرستان هلیلان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86",
-    "target_title": "گورستان"
+    "target_pageid": 166257,
+    "target_revision_id": 43722548,
+    "target_title": "گورستان",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%B1%D8%B3%D8%AA%D8%A7%D9%86"
    }
   ],
   "center_confirmed": false,
   "county": "هلیلان",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [
+   {
+    "name": "رودخانه سیمره",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "پل دختر",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%84%DB%8C%D9%84%D8%A7%D9%86"
   ]
@@ -203,145 +194,16 @@
    {
     "field": "poi_nature",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تنگه رازیانه",
+    "name": "سد ایلام",
     "pageid": 1516167,
     "revision_id": 44466154,
     "section": "جاذبه های گردشگری",
     "source_title": "ایلام",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "تنگه رازیانه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "گورستان چنار",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "گورستان چنار"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تالاب سیاب",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "تالاب سیاب"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "غار خفاش",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "غار خفاش"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دریاچه دوقلو",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "دریاچه دوقلو"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پل عصر ساسانی",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "پل عصر ساسانی"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کوه قلاقیران",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "کوه قلاقیران"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "پارک جنگلی چغا سبز",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "پارک جنگلی چغا سبز"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آتشکده موشکان",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "آتشکده موشکان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده پیرحسین",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "امامزاده پیرحسین"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آتشکده سیاهگل",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "آتشکده سیاهگل"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "امامزاده علی صالح",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "امامزاده علی صالح"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تنگه کافرین",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "تنگه کافرین"
+    "target_pageid": 3855676,
+    "target_revision_id": 42940734,
+    "target_title": "سد ایلام",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%A7%DB%8C%D9%84%D8%A7%D9%85"
    },
    {
     "field": "poi_nature",
@@ -352,58 +214,95 @@
     "section": "جاذبه های گردشگری",
     "source_title": "ایلام",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "غار زینگان"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "دربند بدره",
-    "pageid": 1516167,
-    "revision_id": 44466154,
-    "section": "جاذبه های گردشگری",
-    "source_title": "ایلام",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
-    "target_title": "دربند بدره"
+    "target_pageid": 5380492,
+    "target_revision_id": 29953446,
+    "target_title": "غار زینگان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B2%DB%8C%D9%86%DA%AF%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "ایلام",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [
+   {
+    "name": "تنگه رازیانه",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "گورستان چنار",
+    "reason": "target page missing"
+   },
+   {
+    "name": "تالاب سیاب",
+    "reason": "target page missing"
+   },
+   {
+    "name": "غار خفاش",
+    "reason": "target page missing"
+   },
+   {
+    "name": "دریاچه دوقلو",
+    "reason": "target page missing"
+   },
+   {
+    "name": "پل عصر ساسانی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "کوه قلاقیران",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "پارک جنگلی چغا سبز",
+    "reason": "target page missing"
+   },
+   {
+    "name": "آتشکده موشکان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "امامزاده پیرحسین",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "آتشکده سیاهگل",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "امامزاده علی صالح",
+    "reason": "target page missing"
+   },
+   {
+    "name": "تنگه کافرین",
+    "reason": "target page missing"
+   },
+   {
+    "name": "دربند بدره",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
    "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D9%85"
   ]
  },
  "malekshahi": {
-  "candidates": [
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "آرامگاه سید محمد",
-    "pageid": 328786,
-    "revision_id": 44452910,
-    "section": "آثار تاریخی",
-    "source_title": "شهرستان ملکشاهی",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%B4%D8%A7%D9%87%DB%8C",
-    "target_title": "آرامگاه سید محمد"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "آرامگاه سید محمد",
-    "pageid": 92158,
-    "revision_id": 44427050,
-    "section": "مکان های تفریحی / آرامگاه سید محمد عابد",
-    "source_title": "ارکواز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%A9%D9%88%D8%A7%D8%B2",
-    "target_title": "آرامگاه سید محمد"
-   }
-  ],
+  "candidates": [],
   "center_confirmed": true,
   "county": "ملکشاهی",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [
+   {
+    "name": "بقعه آقا سید محمد",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "بقعه آقا سید محمد",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%B4%D8%A7%D9%87%DB%8C",
    "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%A9%D9%88%D8%A7%D8%B2"
@@ -415,6 +314,7 @@
   "county": "مهران",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%B1%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%D8%A7%D9%86"
@@ -426,6 +326,7 @@
   "county": "سیروان",
   "fetched": "2026-10-02",
   "province": "ilam",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%84%D9%88%D9%85%D8%A7%D8%B1"

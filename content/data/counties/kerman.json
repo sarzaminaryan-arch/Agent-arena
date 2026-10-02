@@ -152,7 +152,10 @@
      "section": "تاریخ / قدمت بناهای تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "قلعه دختر (کرمان)"
+     "target_pageid": 138052,
+     "target_revision_id": 43584844,
+     "target_title": "قلعه دختر (کرمان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%29"
     },
     {
      "field": "poi_heritage",
@@ -163,7 +166,10 @@
      "section": "تاریخ / قدمت بناهای تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "قلعه اردشیر"
+     "target_pageid": 249049,
+     "target_revision_id": 43927830,
+     "target_title": "قلعه اردشیر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A7%D8%B1%D8%AF%D8%B4%DB%8C%D8%B1"
     },
     {
      "field": "poi_heritage",
@@ -174,29 +180,10 @@
      "section": "تاریخ / قدمت بناهای تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "خودمختارگرایی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "نقش رستم",
-     "pageid": 115389,
-     "revision_id": 44458927,
-     "section": "تاریخ / قدمت بناهای تاریخی",
-     "source_title": "کرمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "نقش رستم"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "از قلعه دختر تا دقیانوس",
-     "pageid": 115389,
-     "revision_id": 44458927,
-     "section": "تاریخ / قدمت بناهای تاریخی",
-     "source_title": "کرمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "از قلعه دختر تا دقیانوس"
+     "target_pageid": 5433038,
+     "target_revision_id": 43851828,
+     "target_title": "خودمختارگرایی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%AF%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -207,18 +194,10 @@
      "section": "تاریخ / قدمت بناهای تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "آتشکده"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار",
-     "pageid": 115389,
-     "revision_id": 44458927,
-     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
-     "source_title": "کرمان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "بازار"
+     "target_pageid": 13362,
+     "target_revision_id": 43859624,
+     "target_title": "آتشکده",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -229,51 +208,108 @@
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "حمام"
+     "target_pageid": 22606,
+     "target_revision_id": 44432887,
+     "target_title": "حمام",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرا",
+     "name": "حمام گنجعلی خان",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "کاروانسرا"
+     "target_pageid": 168975,
+     "target_revision_id": 42844690,
+     "target_title": "حمام گنجعلی خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%DA%AF%D9%86%D8%AC%D8%B9%D9%84%DB%8C_%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آب‌انبار",
+     "name": "مسجد ملک",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "آب‌انبار"
+     "target_pageid": 177176,
+     "target_revision_id": 44344428,
+     "target_title": "مسجد ملک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D9%84%DA%A9"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام گنجعلیخان",
+     "name": "بازار کرمان",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "حمام گنجعلیخان"
+     "target_pageid": 239516,
+     "target_revision_id": 41165946,
+     "target_title": "بازار کرمان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%DA%A9%D8%B1%D9%85%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مسجد جامع مظفری",
+     "name": "بازار وکیل",
      "pageid": 115389,
      "revision_id": 44458927,
      "section": "جاذبه های گردشگری / جاذبه های تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "مسجد جامع مظفری"
+     "target_pageid": 514648,
+     "target_revision_id": 40493367,
+     "target_title": "بازار وکیل (کرمان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%88%DA%A9%DB%8C%D9%84_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%29"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام وکیل",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_pageid": 4733983,
+     "target_revision_id": 43927877,
+     "target_title": "حمام وکیل (کرمان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%88%DA%A9%DB%8C%D9%84_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%29"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای وکیل",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_pageid": 515451,
+     "target_revision_id": 44445060,
+     "target_title": "کاروانسرای وکیل (کرمان)",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%88%DA%A9%DB%8C%D9%84_%28%DA%A9%D8%B1%D9%85%D8%A7%D9%86%29"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه خواجه اتابک",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_pageid": 138062,
+     "target_revision_id": 43859030,
+     "target_title": "آرامگاه خواجه اتابک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D8%AE%D9%88%D8%A7%D8%AC%D9%87_%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9"
     }
    ],
    "fetched": "2026-10-02",
@@ -281,7 +317,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-   "value": "قلعه دختر\nقلعه اردشیر\nخودمختارگرایی\nنقش رستم\nاز قلعه دختر تا دقیانوس\nآتشکده\nبازار\nحمام\nکاروانسرا\nآب‌انبار\nحمام گنجعلیخان\nمسجد جامع مظفری"
+   "value": "قلعه دختر\nقلعه اردشیر\nخودمختارگرایی\nآتشکده\nحمام\nحمام گنجعلی خان\nمسجد ملک\nبازار کرمان\nبازار وکیل\nحمام وکیل\nکاروانسرای وکیل\nآرامگاه خواجه اتابک"
   },
   "poi_nature": {
    "entries": [
@@ -294,7 +330,10 @@
      "section": "تاریخ / قدمت بناهای تاریخی",
      "source_title": "کرمان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-     "target_title": "غارتگران (ابهام‌زدایی)"
+     "target_pageid": 3960774,
+     "target_revision_id": 19583226,
+     "target_title": "غارتگران (ابهام‌زدایی)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1%D8%AA%DA%AF%D8%B1%D8%A7%D9%86_%28%D8%A7%D8%A8%D9%87%D8%A7%D9%85%E2%80%8C%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C%29"
     }
    ],
    "fetched": "2026-10-02",

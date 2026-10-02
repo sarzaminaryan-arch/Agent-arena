@@ -153,18 +153,24 @@
      "section": "آثار تاریخی / تپه گودین",
      "source_title": "شهرستان کنگاور",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-     "target_title": "خانه ساری‌اصلانی"
+     "target_pageid": 5206289,
+     "target_revision_id": 44155250,
+     "target_title": "خانه ساری‌اصلانی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D8%A7%D8%B1%DB%8C%E2%80%8C%D8%A7%D8%B5%D9%84%D8%A7%D9%86%DB%8C"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حمام قدیمی توکل",
+     "name": "حمام توکل",
      "pageid": 15097,
      "revision_id": 44479505,
      "section": "آثار تاریخی",
      "source_title": "کنگاور",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-     "target_title": "حمام قدیمی توکل"
+     "target_pageid": 658564,
+     "target_revision_id": 44160059,
+     "target_title": "حمام توکل",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AA%D9%88%DA%A9%D9%84"
     },
     {
      "field": "poi_heritage",
@@ -175,7 +181,10 @@
      "section": "آثار تاریخی",
      "source_title": "کنگاور",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-     "target_title": "حمام بزرگ"
+     "target_pageid": 670905,
+     "target_revision_id": 44476183,
+     "target_title": "حمام بزرگ",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D8%B2%D8%B1%DA%AF"
     },
     {
      "field": "poi_heritage",
@@ -186,7 +195,10 @@
      "section": "آثار تاریخی",
      "source_title": "کنگاور",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-     "target_title": "پل کوچه"
+     "target_pageid": 662172,
+     "target_revision_id": 39477127,
+     "target_title": "پل کوچه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%DA%A9%D9%88%DA%86%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -194,7 +206,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
-   "value": "خانه ساری‌اصلانی\nحمام قدیمی توکل\nحمام بزرگ\nپل کوچه"
+   "value": "خانه ساری‌اصلانی\nحمام توکل\nحمام بزرگ\nپل کوچه"
   },
   "population": {
    "fetched": "2026-10-02",

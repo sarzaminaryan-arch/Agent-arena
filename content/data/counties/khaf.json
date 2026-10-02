@@ -141,59 +141,6 @@
     "qayenat"
    ]
   },
-  "poi_heritage": {
-   "entries": [
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آب‌انبار",
-     "pageid": 123246,
-     "revision_id": 44160268,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی",
-     "source_title": "خواف",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-     "target_title": "آب‌انبار"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "محوطه سازی",
-     "pageid": 123246,
-     "revision_id": 44160268,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی",
-     "source_title": "خواف",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-     "target_title": "محوطه سازی"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-   "value": "آب‌انبار\nمحوطه سازی"
-  },
-  "poi_nature": {
-   "entries": [
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رشته کوه هندوکش",
-     "pageid": 123246,
-     "revision_id": 44160268,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی",
-     "source_title": "خواف",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-     "target_title": "رشته کوه هندوکش"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%81",
-   "value": "رشته کوه هندوکش"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

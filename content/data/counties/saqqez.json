@@ -144,7 +144,10 @@
      "section": "اماکن تفریحی",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-     "target_title": "قلعه زیویه"
+     "target_pageid": 1443109,
+     "target_revision_id": 43783861,
+     "target_title": "قلعه زیویه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%B2%DB%8C%D9%88%DB%8C%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -159,13 +162,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "دریاچه لَگزی",
+     "name": "سد چراغ ویس",
      "pageid": 4337,
      "revision_id": 44466402,
      "section": "اماکن تفریحی",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-     "target_title": "دریاچه لَگزی"
+     "target_pageid": 1595120,
+     "target_revision_id": 41630697,
+     "target_title": "سد چراغ ویس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%DA%86%D8%B1%D8%A7%D8%BA_%D9%88%DB%8C%D8%B3"
     },
     {
      "field": "poi_nature",
@@ -176,18 +182,10 @@
      "section": "اماکن تفریحی",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-     "target_title": "کوه وزنه"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار کرفتو",
-     "pageid": 4337,
-     "revision_id": 44466402,
-     "section": "اماکن تفریحی",
-     "source_title": "سقز",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-     "target_title": "غار کرفتو"
+     "target_pageid": 5582006,
+     "target_revision_id": 38505875,
+     "target_title": "کوه وزنه",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%88%D8%B2%D9%86%D9%87"
     },
     {
      "field": "poi_nature",
@@ -198,7 +196,10 @@
      "section": "اماکن تفریحی / پارک ها",
      "source_title": "سقز",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-     "target_title": "رودخانه سقز"
+     "target_pageid": 5583234,
+     "target_revision_id": 40176640,
+     "target_title": "رودخانه سقز",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D9%82%D8%B2"
     }
    ],
    "fetched": "2026-10-02",
@@ -206,7 +207,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
-   "value": "دریاچه لَگزی\nکوه وزنه\nغار کرفتو\nرودخانه سقز"
+   "value": "سد چراغ ویس\nکوه وزنه\nرودخانه سقز"
   },
   "population": {
    "fetched": "2026-10-02",

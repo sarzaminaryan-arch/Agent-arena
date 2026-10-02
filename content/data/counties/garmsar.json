@@ -149,29 +149,24 @@
      "section": "جاذبه های گردشگری",
      "source_title": "گرمسار",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
-     "target_title": "کاروانسرای قصر بهرام"
+     "target_pageid": 657010,
+     "target_revision_id": 43925657,
+     "target_title": "کاروانسرای قصر بهرام",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%82%D8%B5%D8%B1_%D8%A8%D9%87%D8%B1%D8%A7%D9%85"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای عین‌الرشید",
+     "name": "حرم‌سرا",
      "pageid": 11471,
      "revision_id": 44497842,
      "section": "جاذبه های گردشگری",
      "source_title": "گرمسار",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
-     "target_title": "کاروانسرای عین‌الرشید"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "حرمسرا",
-     "pageid": 11471,
-     "revision_id": 44497842,
-     "section": "جاذبه های گردشگری",
-     "source_title": "گرمسار",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
-     "target_title": "حرمسرا"
+     "target_pageid": 156962,
+     "target_revision_id": 44487390,
+     "target_title": "حرم‌سرا",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D8%B1%D9%85%E2%80%8C%D8%B3%D8%B1%D8%A7"
     },
     {
      "field": "poi_heritage",
@@ -182,7 +177,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "گرمسار",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
-     "target_title": "قلعه استاناوند ناروهه"
+     "target_pageid": 661261,
+     "target_revision_id": 44303975,
+     "target_title": "قلعه استاناوند ناروهه",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A7%D9%88%D9%86%D8%AF_%D9%86%D8%A7%D8%B1%D9%88%D9%87%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -193,7 +191,10 @@
      "section": "جاذبه های گردشگری",
      "source_title": "گرمسار",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
-     "target_title": "آب‌انبار بزرگ گرمسار"
+     "target_pageid": 659506,
+     "target_revision_id": 43925835,
+     "target_title": "آب‌انبار بزرگ گرمسار",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%A8%D8%B2%D8%B1%DA%AF_%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1"
     }
    ],
    "fetched": "2026-10-02",
@@ -201,7 +202,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
-   "value": "کاروانسرای قصر بهرام\nکاروانسرای عین‌الرشید\nحرمسرا\nقلعه استاناوند ناروهه\nآب‌انبار بزرگ گرمسار"
+   "value": "کاروانسرای قصر بهرام\nحرم‌سرا\nقلعه استاناوند ناروهه\nآب‌انبار بزرگ گرمسار"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -14,7 +14,6 @@
   "sa_cty_language": "فارسی با گویش‌های بندری؛ در بخش‌هایی عربی و بلوچی",
   "sa_cty_livelihood": "شیلات و صیادی، بنادر و تجارت، نفت و گاز و گردشگری ساحلی",
   "sa_cty_neighbors": "bandar-lengeh - شمال‌غرب\nqeshm - شمال‌شرق",
-  "sa_cty_poi_nature": "کشورهای عربی خلیج فارس",
   "sa_cty_population": 7402,
   "sa_cty_rural_districts": 2,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=26.05474,55.16243"
@@ -33,8 +32,9 @@
   "sa_cty_language": "فارسی با گویش‌های بندری؛ در بخش‌هایی عربی و بلوچی",
   "sa_cty_livelihood": "شیلات و صیادی، بنادر و تجارت، نفت و گاز و گردشگری ساحلی",
   "sa_cty_neighbors": "khamir - غرب\nqeshm - جنوب‌غرب\nrudan - شرق\nhajiabad - شمال‌غرب",
-  "sa_cty_poi_heritage": "عمارت کلاه فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری\nمسجد گله‌داری",
-  "sa_cty_poi_nature": "کوه گنو\nآب‌گرم گنو\nآبگرم خورگو\nبوستان ساحلی سورو\nبوستان ساحلی غدیر\nموزه مردم‌شناسی خلیج فارس",
+  "sa_cty_poi_heritage": "عمارت کلاه‌فرنگی بندرعباس\nحمام گله‌داری\nخانه احمدی\nمجموعه آب انبارهای موزه\nامامزاده سید مظفر\nمسجد جامع بندر عباس\nامامزاده سید کامل\nامامزاده شاه محمد تقی\nمسجد ناصری\nمسجد گله‌داری",
+  "sa_cty_poi_nature": "کوه گنو\nآب‌گرم گنو\nآبگرم خورگو\nموزه مردم‌شناسی خلیج فارس",
+  "sa_cty_poi_recreation": "بوستان ساحلی سورو\nبوستان ساحلی غدیر",
   "sa_cty_population": 680366,
   "sa_cty_rural_districts": 13,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.53722,56.22417"
@@ -175,7 +175,8 @@
   "sa_cty_language": "فارسی با گویش‌های بندری؛ در بخش‌هایی عربی و بلوچی",
   "sa_cty_livelihood": "شیلات و صیادی، بنادر و تجارت، نفت و گاز و گردشگری ساحلی",
   "sa_cty_neighbors": "sirik - جنوب\nmanujan - شمال\nrudan - شمال\nbashagard - جنوب‌شرق\nqeshm - غرب",
-  "sa_cty_poi_heritage": "قلعه میناب\nقلعه هزاره\nپنجشنبه‌بازار میناب",
+  "sa_cty_poi_heritage": "قلعه هزاره\nپنجشنبه‌بازار میناب",
+  "sa_cty_poi_nature": "سد استقلال",
   "sa_cty_population": 259221,
   "sa_cty_rural_districts": 13,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=26.94152,57.32685"
@@ -218,8 +219,7 @@
   "sa_cty_livelihood": "شیلات و صیادی، بنادر و تجارت، نفت و گاز و گردشگری ساحلی",
   "sa_cty_neighbors": "khamir - شمال‌غرب\nbandar-abbas - شمال‌شرق\nabumusa - جنوب‌غرب\nsirik - شرق\nminab - شرق",
   "sa_cty_poi_heritage": "قلعه لافت\nقلعه هرمز",
-  "sa_cty_poi_nature": "غار خربس",
-  "sa_cty_poi_recreation": "ژئو پارک قشم\nژئوپارک قشم\nژئوپارک",
+  "sa_cty_poi_recreation": "ژئوپارک قشم\nژئوپارک",
   "sa_cty_population": 148993,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=26.81167,55.87778"

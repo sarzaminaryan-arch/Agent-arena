@@ -135,35 +135,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "county tourism section",
-     "name": "رودخانه",
-     "pageid": 176899,
-     "revision_id": 44260650,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / رودخانه نشیب",
-     "source_title": "شهرستان خوشاب",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-     "target_title": "رودخانه"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
      "name": "رودسراب",
      "pageid": 176899,
      "revision_id": 44260650,
      "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / غار اژدهای رودسراب",
      "source_title": "شهرستان خوشاب",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-     "target_title": "رودسراب"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "county tourism section",
-     "name": "رشته کوه البرز",
-     "pageid": 176899,
-     "revision_id": 44260650,
-     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / روستا و کوهسار دُرُفک",
-     "source_title": "شهرستان خوشاب",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-     "target_title": "رشته کوه البرز"
+     "target_pageid": 244118,
+     "target_revision_id": 40125587,
+     "target_title": "رودسراب",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%B3%D8%B1%D8%A7%D8%A8"
     }
    ],
    "fetched": "2026-10-02",
@@ -171,7 +152,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B4%D8%A7%D8%A8",
-   "value": "رودخانه\nرودسراب\nرشته کوه البرز"
+   "value": "رودسراب"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

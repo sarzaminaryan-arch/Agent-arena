@@ -36,7 +36,8 @@
   "sa_cty_language": "فارسی با گویش بوشهری و دشتستانی؛ در بخش‌هایی عربی",
   "sa_cty_livelihood": "نفت و گاز (پارس جنوبی)، شیلات، نخلستان و بنادر بازرگانی",
   "sa_cty_neighbors": "kangan - شمال‌غرب\nlamerd - شرق\nparsian - جنوب‌شرق\nkhonj - شمال‌شرق",
-  "sa_cty_poi_heritage": "قلعه خان بیدخون\nآب‌انبار بندو\nقلعه شیخ کنعانی",
+  "sa_cty_poi_heritage": "آب‌انبار بندو\nقلعه شیخ کنعانی",
+  "sa_cty_poi_nature": "سد بندو",
   "sa_cty_population": 73958,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.43333,52.73333"
@@ -57,7 +58,7 @@
   "sa_cty_language": "فارسی با گویش بوشهری و دشتستانی؛ در بخش‌هایی عربی",
   "sa_cty_livelihood": "نفت و گاز (پارس جنوبی)، شیلات، نخلستان و بنادر بازرگانی",
   "sa_cty_neighbors": "bushehr-city - جنوب‌غرب\nahram - جنوب\nkazerun - شمال‌شرق\nganaveh - شمال‌غرب",
-  "sa_cty_poi_heritage": "کاخ کوروش",
+  "sa_cty_poi_heritage": "کاخ چرخاب",
   "sa_cty_population": 252047,
   "sa_cty_rural_districts": 12,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.28333,51.25"
@@ -195,9 +196,8 @@
   "sa_cty_language": "فارسی با گویش بوشهری و دشتستانی؛ در بخش‌هایی عربی",
   "sa_cty_livelihood": "نفت و گاز (پارس جنوبی)، شیلات، نخلستان و بنادر بازرگانی",
   "sa_cty_neighbors": "deyr - جنوب\nahram - شمال‌غرب\nfarashband - شمال‌شرق",
-  "sa_cty_poi_heritage": "مسجد جامع خورموج\nبرج قلعه خورموج\nآتشکده خورموج\nقلعه دختر\nعمارت شیرینه\nموزه محمد خان دشتی",
+  "sa_cty_poi_heritage": "قلعه خورموج\nقلعه دختر\nعمارت شیرینه",
   "sa_cty_poi_offbeat": "دیالیز\nهیدرات",
-  "sa_cty_poi_recreation": "بوستان بزرگ مفتون",
   "sa_cty_population": 86319,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.48333,51.55"
  }

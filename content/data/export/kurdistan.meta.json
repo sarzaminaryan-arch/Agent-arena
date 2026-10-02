@@ -64,7 +64,7 @@
   "sa_cty_language": "کردی سورانی و هورامی؛ در بخش‌هایی کردی جنوبی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، تجارت مرزی و صنایع دستی",
   "sa_cty_neighbors": "bijar - شرق\nsaqqez - شمال‌غرب\nsanandaj - جنوب\ntakab - شمال\ndehgolan - جنوب‌شرق\nmarivan - جنوب‌غرب",
-  "sa_cty_poi_nature": "چهل چشمه\nغارکرفتو",
+  "sa_cty_poi_nature": "چهل‌چشمه\nغار کرفتو",
   "sa_cty_population": 80040,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.91667,47.0"
  },
@@ -139,7 +139,8 @@
   "sa_cty_language": "کردی سورانی و هورامی؛ در بخش‌هایی کردی جنوبی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، تجارت مرزی و صنایع دستی",
   "sa_cty_neighbors": "sarvabad - غرب\ndehgolan - شرق\nkamyaran - جنوب\nmarivan - شمال‌غرب\ndivandarreh - شمال",
-  "sa_cty_poi_heritage": "موزه سنندج\nعمارت خسروآباد\nعمارت سالار سعید\nعمارت مشیر دیوان\nعمارت امجدالاشراف\nعمارت وکیل الملک\nخانه احمدزاده\nعمارت فهیمی\nعمارت سرهنگ آزموده اردلان\nعمارت ملا لطف‌الله شیخ‌الاسلام\nعمارت ملک التجار\nمجموعه عمارت شیخ محمد باقر غیاثی",
+  "sa_cty_poi_heritage": "عمارت سالار سعید\nعمارت خسروآباد\nعمارت مشیر دیوان\nعمارت امجدالاشراف\nعمارت وکیل‌الملک\nخانه احمدزاده\nعمارت سرهنگ آزموده اردلان\nعمارت ملا لطف‌الله شیخ‌الاسلام\nعمارت ملک‌التجار\nعمارت آصف وزیری\nخانه پیرمرادی\nخانه معمارباشی",
+  "sa_cty_poi_nature": "سد قشلاق",
   "sa_cty_population": 501402,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.33333,46.83333"
  },
@@ -159,7 +160,7 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، تجارت مرزی و صنایع دستی",
   "sa_cty_neighbors": "bukan - شمال\nbaneh - جنوب‌غرب\nmarivan - جنوب\ndivandarreh - جنوب‌شرق\ntakab - شمال‌شرق",
   "sa_cty_poi_heritage": "قلعه زیویه",
-  "sa_cty_poi_nature": "دریاچه لَگزی\nکوه وزنه\nغار کرفتو\nرودخانه سقز",
+  "sa_cty_poi_nature": "سد چراغ ویس\nکوه وزنه\nرودخانه سقز",
   "sa_cty_population": 226451,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.16667,46.33333"
  },

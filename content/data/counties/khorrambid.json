@@ -124,13 +124,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار دیو",
+     "name": "سد خرم‌بید",
      "pageid": 91771,
      "revision_id": 44266535,
      "section": "تفریحگاه ها",
      "source_title": "صفاشهر",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%A7%D8%B4%D9%87%D8%B1",
-     "target_title": "غار دیو"
+     "target_pageid": 319918,
+     "target_revision_id": 41632793,
+     "target_title": "سد خرم‌بید",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A8%DB%8C%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -138,7 +141,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%A7%D8%B4%D9%87%D8%B1",
-   "value": "غار دیو"
+   "value": "سد خرم‌بید"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -162,18 +162,10 @@
      "section": "گردشگری",
      "source_title": "نهاوند",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF",
-     "target_title": "حمام حاج آقا تراب"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پل زرامین",
-     "pageid": 889,
-     "revision_id": 44376002,
-     "section": "گردشگری",
-     "source_title": "نهاوند",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF",
-     "target_title": "پل زرامین"
+     "target_pageid": 657241,
+     "target_revision_id": 44150364,
+     "target_title": "حمام حاج آقا تراب",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AD%D8%A7%D8%AC_%D8%A2%D9%82%D8%A7_%D8%AA%D8%B1%D8%A7%D8%A8"
     }
    ],
    "fetched": "2026-10-02",
@@ -181,7 +173,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF",
-   "value": "حمام حاج آقا تراب\nپل زرامین"
+   "value": "حمام حاج آقا تراب"
   },
   "population": {
    "fetched": "2026-10-02",

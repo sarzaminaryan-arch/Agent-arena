@@ -157,24 +157,16 @@
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پارک جنگلی",
-     "pageid": 59721,
-     "revision_id": 44273086,
-     "section": "اماکن گردشگری",
-     "source_title": "پل سفید",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-     "target_title": "پارک جنگلی"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "دریاچه شورمست",
      "pageid": 59721,
      "revision_id": 44273086,
      "section": "اماکن گردشگری",
      "source_title": "پل سفید",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-     "target_title": "دریاچه شورمست"
+     "target_pageid": 60870,
+     "target_revision_id": 43442456,
+     "target_title": "دریاچه شورمست",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B4%D9%88%D8%B1%D9%85%D8%B3%D8%AA"
     },
     {
      "field": "poi_nature",
@@ -185,18 +177,10 @@
      "section": "اماکن گردشگری",
      "source_title": "پل سفید",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-     "target_title": "غار اسپهبد خورشید"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آبشار شورآب",
-     "pageid": 59721,
-     "revision_id": 44273086,
-     "section": "اماکن گردشگری",
-     "source_title": "پل سفید",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-     "target_title": "آبشار شورآب"
+     "target_pageid": 281246,
+     "target_revision_id": 44278364,
+     "target_title": "غار اسپهبد خورشید",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%A7%D8%B3%D9%BE%D9%87%D8%A8%D8%AF_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -204,7 +188,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D9%81%DB%8C%D8%AF",
-   "value": "پارک جنگلی\nدریاچه شورمست\nغار اسپهبد خورشید\nآبشار شورآب"
+   "value": "دریاچه شورمست\nغار اسپهبد خورشید"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

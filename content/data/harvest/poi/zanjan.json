@@ -5,6 +5,7 @@
   "county": "ابهر",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%A8%D9%87%D8%B1",
    "https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%87%D8%B1"
@@ -16,6 +17,7 @@
   "county": "ایجرود",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D8%AC%D8%B1%D9%88%D8%AF"
   ]
@@ -31,13 +33,31 @@
     "section": "اماکن دیدنی و تاریخی",
     "source_title": "شهرستان خرم‌دره",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%AF%D8%B1%D9%87",
-    "target_title": "سد خلیفه لو خرم دره"
+    "target_pageid": 6460871,
+    "target_revision_id": 41043399,
+    "target_title": "سد خلیفه لو خرم دره",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AE%D9%84%DB%8C%D9%81%D9%87_%D9%84%D9%88_%D8%AE%D8%B1%D9%85_%D8%AF%D8%B1%D9%87"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سد خلیفه‌لوی زنجان",
+    "pageid": 16883,
+    "revision_id": 44498738,
+    "section": "گردشگری",
+    "source_title": "خرمدره",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87",
+    "target_pageid": 2454838,
+    "target_revision_id": 41043401,
+    "target_title": "سد خلیفه‌لوی زنجان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%AE%D9%84%DB%8C%D9%81%D9%87%E2%80%8C%D9%84%D9%88%DB%8C_%D8%B2%D9%86%D8%AC%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "خرمدره",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%AF%D8%B1%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87"
@@ -49,6 +69,7 @@
   "county": "خدابنده",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%AF%D8%A7%D8%A8%D9%86%D8%AF%D9%87"
   ]
@@ -64,13 +85,17 @@
     "section": "اماکن تاریخی",
     "source_title": "ماه‌نشان",
     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87%E2%80%8C%D9%86%D8%B4%D8%A7%D9%86",
-    "target_title": "قلعه بهستان"
+    "target_pageid": 309941,
+    "target_revision_id": 44304112,
+    "target_title": "قلعه بهستان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%D8%A8%D9%87%D8%B3%D8%AA%D8%A7%D9%86"
    }
   ],
   "center_confirmed": true,
   "county": "ماهنشان",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%87%E2%80%8C%D9%86%D8%B4%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87%E2%80%8C%D9%86%D8%B4%D8%A7%D9%86"
@@ -87,18 +112,10 @@
     "section": "آثار تاریخی",
     "source_title": "سلطانیه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C%D9%87",
-    "target_title": "تپه قلعه سلطانیه"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "تپه کاروانسرا گل تپه",
-    "pageid": 419326,
-    "revision_id": 44436747,
-    "section": "آثار تاریخی",
-    "source_title": "سلطانیه",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C%D9%87",
-    "target_title": "تپه کاروانسرا گل تپه"
+    "target_pageid": 656974,
+    "target_revision_id": 44120536,
+    "target_title": "تپه قلعه سلطانیه",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D9%82%D9%84%D8%B9%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C%D9%87"
    },
    {
     "field": "poi_heritage",
@@ -109,13 +126,22 @@
     "section": "آثار تاریخی",
     "source_title": "سلطانیه",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C%D9%87",
-    "target_title": "آرامگاه ملاحسن کاشی"
+    "target_pageid": 1840731,
+    "target_revision_id": 43925552,
+    "target_title": "آرامگاه ملاحسن کاشی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87_%D9%85%D9%84%D8%A7%D8%AD%D8%B3%D9%86_%DA%A9%D8%A7%D8%B4%DB%8C"
    }
   ],
   "center_confirmed": true,
   "county": "سلطانیه",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [
+   {
+    "name": "تپه کاروانسرا گل تپه",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C%D9%87",
    "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C%D9%87"
@@ -132,18 +158,10 @@
     "section": "دیدنی های طارم / آتشکده ها",
     "source_title": "شهرستان طارم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-    "target_title": "آتشکده تشویر"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "county tourism section",
-    "name": "قلعه سانسیز",
-    "pageid": 14926,
-    "revision_id": 43155190,
-    "section": "دیدنی های طارم / قلعه های باستانی",
-    "source_title": "شهرستان طارم",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-    "target_title": "قلعه سانسیز (گور قلعه)"
+    "target_pageid": 656965,
+    "target_revision_id": 43925572,
+    "target_title": "آتشکده تشویر",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%D8%AA%D8%B4%D9%88%DB%8C%D8%B1"
    },
    {
     "field": "poi_nature",
@@ -154,13 +172,36 @@
     "section": "دیدنی های طارم / آبشارها",
     "source_title": "شهرستان طارم",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
-    "target_title": "آبشار هشترخان"
+    "target_pageid": 2457508,
+    "target_revision_id": 33577940,
+    "target_title": "آبشار هشترخان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%D9%87%D8%B4%D8%AA%D8%B1%D8%AE%D8%A7%D9%86"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سد سفیدرود",
+    "pageid": 14926,
+    "revision_id": 43155190,
+    "section": "دیدنی های طارم / رودها",
+    "source_title": "شهرستان طارم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85",
+    "target_pageid": 294494,
+    "target_revision_id": 44272363,
+    "target_title": "سد سفیدرود",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%AF_%D8%B3%D9%81%DB%8C%D8%AF%D8%B1%D9%88%D8%AF"
    }
   ],
   "center_confirmed": false,
   "county": "طارم",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [
+   {
+    "name": "قلعه سانسیز",
+    "reason": "explicitly different county"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D8%B1%D9%85"
   ]
@@ -176,18 +217,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "بازار زنجان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "مسجد میرزائی",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "آثار تاریخی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "مسجد میرزائی"
+    "target_pageid": 159922,
+    "target_revision_id": 43372504,
+    "target_title": "بازار زنجان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B2%D9%86%D8%AC%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -198,7 +231,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "مسجد جامع زنجان"
+    "target_pageid": 187427,
+    "target_revision_id": 44343809,
+    "target_title": "مسجد جامع زنجان",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B2%D9%86%D8%AC%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -209,7 +245,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "خانه شیخ‌الاسلامی"
+    "target_pageid": 658667,
+    "target_revision_id": 44155504,
+    "target_title": "خانه شیخ‌الاسلامی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B4%DB%8C%D8%AE%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -220,18 +259,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "خانه بهمنی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "خانه مقدم",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "آثار تاریخی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "خانه مقدم"
+    "target_pageid": 669622,
+    "target_revision_id": 44154597,
+    "target_title": "خانه بهمنی",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%A8%D9%87%D9%85%D9%86%DB%8C"
    },
    {
     "field": "poi_heritage",
@@ -242,18 +273,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "خانه خدیوی"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "کارخانه کبریت سازی",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "آثار تاریخی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "کارخانه کبریت سازی"
+    "target_pageid": 658659,
+    "target_revision_id": 44155016,
+    "target_title": "خانه خدیوی (زنجان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%AE%D8%AF%DB%8C%D9%88%DB%8C_%28%D8%B2%D9%86%D8%AC%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -264,7 +287,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "کاروانسرای سنگی (زنجان)"
+    "target_pageid": 69048,
+    "target_revision_id": 43925524,
+    "target_title": "کاروانسرای سنگی (زنجان)",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%B3%D9%86%DA%AF%DB%8C_%28%D8%B2%D9%86%D8%AC%D8%A7%D9%86%29"
    },
    {
     "field": "poi_heritage",
@@ -275,7 +301,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "کاروانسرای دخان"
+    "target_pageid": 661753,
+    "target_revision_id": 43925569,
+    "target_title": "کاروانسرای دخان",
+    "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%D8%AE%D8%A7%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -286,7 +315,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "حمام حاج‌داداش"
+    "target_pageid": 214415,
+    "target_revision_id": 40441676,
+    "target_title": "حمام حاج‌داداش",
+    "target_url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AD%D8%A7%D8%AC%E2%80%8C%D8%AF%D8%A7%D8%AF%D8%A7%D8%B4"
    },
    {
     "field": "poi_heritage",
@@ -297,7 +329,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "پل سردار"
+    "target_pageid": 657374,
+    "target_revision_id": 27316889,
+    "target_title": "پل سردار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1"
    },
    {
     "field": "poi_heritage",
@@ -308,7 +343,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "پل حاج سید محمد"
+    "target_pageid": 657375,
+    "target_revision_id": 27316387,
+    "target_title": "پل حاج سید محمد",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%AD%D8%A7%D8%AC_%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF"
    },
    {
     "field": "poi_heritage",
@@ -319,7 +357,10 @@
     "section": "آثار تاریخی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "پل میر بهاءالدین"
+    "target_pageid": 657373,
+    "target_revision_id": 40406621,
+    "target_title": "پل میر بهاءالدین",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%85%DB%8C%D8%B1_%D8%A8%D9%87%D8%A7%D8%A1%D8%A7%D9%84%D8%AF%DB%8C%D9%86"
    },
    {
     "field": "poi_heritage",
@@ -330,57 +371,46 @@
     "section": "مراکز تفریحی / مراکز خرید / موزه صنایع دستی",
     "source_title": "زنجان",
     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "پل آبکار"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه غله در ساختمان قدیم بوجاری",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "مراکز تفریحی / مراکز خرید / موزهٔ نسخ خطی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "موزه غله در ساختمان قدیم بوجاری"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه سنگ نوشته‌ها",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "مراکز تفریحی / مراکز خرید / موزهٔ نسخ خطی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "موزه سنگ نوشته‌ها"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه تعزیه حمام حسینیه اعظم زنجان",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "مراکز تفریحی / مراکز خرید / موزهٔ نسخ خطی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "موزه تعزیه حمام حسینیه اعظم زنجان"
-   },
-   {
-    "field": "poi_heritage",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "موزه خصوصی",
-    "pageid": 2924,
-    "revision_id": 44401023,
-    "section": "مراکز تفریحی / مراکز خرید / موزهٔ نسخ خطی",
-    "source_title": "زنجان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "target_title": "موزه خصوصی"
+    "target_pageid": 217648,
+    "target_revision_id": 44425460,
+    "target_title": "پل آبکار",
+    "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A2%D8%A8%DA%A9%D8%A7%D8%B1"
    }
   ],
   "center_confirmed": true,
   "county": "زنجان",
   "fetched": "2026-10-02",
   "province": "zanjan",
+  "rejected_candidates": [
+   {
+    "name": "مسجد میرزائی",
+    "reason": "target page missing"
+   },
+   {
+    "name": "خانه مقدم",
+    "reason": "explicitly different county"
+   },
+   {
+    "name": "کارخانه کبریت سازی",
+    "reason": "generic or untyped target"
+   },
+   {
+    "name": "موزه غله در ساختمان قدیم بوجاری",
+    "reason": "target page missing"
+   },
+   {
+    "name": "موزه سنگ نوشته‌ها",
+    "reason": "target page missing"
+   },
+   {
+    "name": "موزه تعزیه حمام حسینیه اعظم زنجان",
+    "reason": "target page missing"
+   },
+   {
+    "name": "موزه خصوصی",
+    "reason": "target page missing"
+   }
+  ],
   "sources": [
    "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
    "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AC%D8%A7%D9%86"

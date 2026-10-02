@@ -146,7 +146,10 @@
      "section": "جاهای دیدنی",
      "source_title": "بوانات",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
-     "target_title": "آتشکده"
+     "target_pageid": 13362,
+     "target_revision_id": 43859624,
+     "target_title": "آتشکده",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -157,18 +160,10 @@
      "section": "آثار تاریخی",
      "source_title": "بوانات",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
-     "target_title": "مسجد جامع سوریان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "موزه ایران باستان",
-     "pageid": 63313,
-     "revision_id": 44012652,
-     "section": "آثار تاریخی",
-     "source_title": "بوانات",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
-     "target_title": "موزه ایران باستان"
+     "target_pageid": 656341,
+     "target_revision_id": 44343831,
+     "target_title": "مسجد جامع سوریان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B3%D9%88%D8%B1%DB%8C%D8%A7%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -176,7 +171,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
-   "value": "آتشکده\nمسجد جامع سوریان\nموزه ایران باستان"
+   "value": "آتشکده\nمسجد جامع سوریان"
   },
   "poi_offbeat": {
    "fetched": "2026-10-02",

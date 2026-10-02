@@ -144,7 +144,10 @@
      "section": "بناهای تاریخی",
      "source_title": "شهرستان رباط‌کریم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "بقعه پیغمبر لوط"
+     "target_pageid": 666176,
+     "target_revision_id": 44084910,
+     "target_title": "بقعه پیغمبر لوط",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%82%D8%B9%D9%87_%D9%BE%DB%8C%D8%BA%D9%85%D8%A8%D8%B1_%D9%84%D9%88%D8%B7"
     },
     {
      "field": "poi_heritage",
@@ -155,7 +158,10 @@
      "section": "بناهای تاریخی",
      "source_title": "شهرستان رباط‌کریم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "تپه قلعه روستای حسن"
+     "target_pageid": 666805,
+     "target_revision_id": 44120519,
+     "target_title": "تپه قلعه روستای حسن",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%D9%87_%D9%82%D9%84%D8%B9%D9%87_%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C_%D8%AD%D8%B3%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -166,73 +172,24 @@
      "section": "بناهای تاریخی",
      "source_title": "شهرستان رباط‌کریم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "پل بازارک"
+     "target_pageid": 666165,
+     "target_revision_id": 37981597,
+     "target_title": "پل بازارک",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%DA%A9"
     },
     {
      "field": "poi_heritage",
      "location_evidence": "county tourism section",
-     "name": "کاروانسرای حاج کمال",
+     "name": "کاروانسرای فتحعلیشاهی",
      "pageid": 54890,
      "revision_id": 44306237,
      "section": "بناهای تاریخی",
      "source_title": "شهرستان رباط‌کریم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "کاروانسرای حاج کمال"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده عمادالدین",
-     "pageid": 90164,
-     "revision_id": 44400827,
-     "section": "جاذبه های تاریخی و مذهبی / بقاع متبرکه",
-     "source_title": "رباط‌کریم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "امامزاده عمادالدین"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده محمد تقی شهر",
-     "pageid": 90164,
-     "revision_id": 44400827,
-     "section": "جاذبه های تاریخی و مذهبی / بقاع متبرکه",
-     "source_title": "رباط‌کریم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "امامزاده محمد تقی شهر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده علی اصغر",
-     "pageid": 90164,
-     "revision_id": 44400827,
-     "section": "جاذبه های تاریخی و مذهبی / بقاع متبرکه",
-     "source_title": "رباط‌کریم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "امامزاده علی اصغر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده عین و غین",
-     "pageid": 90164,
-     "revision_id": 44400827,
-     "section": "جاذبه های تاریخی و مذهبی / بقاع متبرکه",
-     "source_title": "رباط‌کریم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "امامزاده عین و غین"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "امامزاده ابوطالب",
-     "pageid": 90164,
-     "revision_id": 44400827,
-     "section": "جاذبه های تاریخی و مذهبی / بقاع متبرکه",
-     "source_title": "رباط‌کریم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "امامزاده ابوطالب"
+     "target_pageid": 657423,
+     "target_revision_id": 43764891,
+     "target_title": "کاروانسرای فتحعلیشاهی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%81%D8%AA%D8%AD%D8%B9%D9%84%DB%8C%D8%B4%D8%A7%D9%87%DB%8C"
     },
     {
      "field": "poi_heritage",
@@ -243,18 +200,10 @@
      "section": "جاذبه های تاریخی و مذهبی / اماکن و بناهای تاریخی",
      "source_title": "رباط‌کریم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "کاروانسرای قلعه سنگی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای فتحعلیشاهی",
-     "pageid": 90164,
-     "revision_id": 44400827,
-     "section": "جاذبه های تاریخی و مذهبی / اماکن و بناهای تاریخی",
-     "source_title": "رباط‌کریم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-     "target_title": "کاروانسرای فتحعلیشاهی"
+     "target_pageid": 6340460,
+     "target_revision_id": 40930754,
+     "target_title": "کاروانسرای قلعه سنگی",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%82%D9%84%D8%B9%D9%87_%D8%B3%D9%86%DA%AF%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -262,7 +211,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A8%D8%A7%D8%B7%E2%80%8C%DA%A9%D8%B1%DB%8C%D9%85",
-   "value": "بقعه پیغمبر لوط\nتپه قلعه روستای حسن\nپل بازارک\nکاروانسرای حاج کمال\nامامزاده عمادالدین\nامامزاده محمد تقی شهر\nامامزاده علی اصغر\nامامزاده عین و غین\nامامزاده ابوطالب\nکاروانسرای قلعه سنگی\nکاروانسرای فتحعلیشاهی"
+   "value": "بقعه پیغمبر لوط\nتپه قلعه روستای حسن\nپل بازارک\nکاروانسرای فتحعلیشاهی\nکاروانسرای قلعه سنگی"
   },
   "population": {
    "fetched": "2026-10-02",

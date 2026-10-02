@@ -152,13 +152,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سنگ نگاره",
+     "name": "سنگ‌نگاره",
      "pageid": 16085,
      "revision_id": 44504233,
      "section": "آثار تاریخی گلپایگان",
      "source_title": "گلپایگان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "سنگ نگاره"
+     "target_pageid": 1728420,
+     "target_revision_id": 41248595,
+     "target_title": "سنگ‌نگاره",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1%D9%87"
     },
     {
      "field": "poi_heritage",
@@ -169,7 +172,10 @@
      "section": "آثار تاریخی گلپایگان",
      "source_title": "گلپایگان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "مسجد جامع گلپایگان"
+     "target_pageid": 398630,
+     "target_revision_id": 44453810,
+     "target_title": "مسجد جامع گلپایگان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -180,7 +186,10 @@
      "section": "آثار تاریخی گلپایگان",
      "source_title": "گلپایگان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "بازار چهارسوق"
+     "target_pageid": 398629,
+     "target_revision_id": 42437427,
+     "target_title": "بازار چهارسوق",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%DA%86%D9%87%D8%A7%D8%B1%D8%B3%D9%88%D9%82"
     },
     {
      "field": "poi_heritage",
@@ -191,7 +200,10 @@
      "section": "آثار تاریخی گلپایگان",
      "source_title": "گلپایگان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "مناره گلپایگان"
+     "target_pageid": 398631,
+     "target_revision_id": 44454340,
+     "target_title": "مناره گلپایگان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%B1%D9%87_%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -202,7 +214,10 @@
      "section": "آثار تاریخی گلپایگان",
      "source_title": "گلپایگان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "ارگ گوگد"
+     "target_pageid": 363743,
+     "target_revision_id": 43527353,
+     "target_title": "ارگ گوگد",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%DA%AF_%DA%AF%D9%88%DA%AF%D8%AF"
     },
     {
      "field": "poi_heritage",
@@ -213,40 +228,10 @@
      "section": "آثار تاریخی گلپایگان",
      "source_title": "گلپایگان",
      "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "امامزاده هفده تن"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه باقرخان",
-     "pageid": 16085,
-     "revision_id": 44504233,
-     "section": "آثار تاریخی گلپایگان",
-     "source_title": "گلپایگان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "قلعه باقرخان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کبوتر خانه‌ها",
-     "pageid": 16085,
-     "revision_id": 44504233,
-     "section": "آثار تاریخی گلپایگان",
-     "source_title": "گلپایگان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "کبوتر خانه‌ها"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "سنگ‌نگاره‌های غرقاب و کوچری",
-     "pageid": 16085,
-     "revision_id": 44504233,
-     "section": "آثار تاریخی گلپایگان",
-     "source_title": "گلپایگان",
-     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-     "target_title": "سنگ‌نگاره‌های غرقاب و کوچری"
+     "target_pageid": 656353,
+     "target_revision_id": 31505703,
+     "target_title": "امامزاده هفده تن",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%87%D9%81%D8%AF%D9%87_%D8%AA%D9%86"
     }
    ],
    "fetched": "2026-10-02",
@@ -254,7 +239,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
-   "value": "سنگ نگاره\nمسجد جامع گلپایگان\nبازار چهارسوق\nمناره گلپایگان\nارگ گوگد\nامامزاده هفده تن\nقلعه باقرخان\nکبوتر خانه‌ها\nسنگ‌نگاره‌های غرقاب و کوچری"
+   "value": "سنگ‌نگاره\nمسجد جامع گلپایگان\nبازار چهارسوق\nمناره گلپایگان\nارگ گوگد\nامامزاده هفده تن"
   },
   "population": {
    "fetched": "2026-10-02",

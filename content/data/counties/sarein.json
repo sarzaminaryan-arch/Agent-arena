@@ -135,7 +135,10 @@
      "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
      "source_title": "سرعین",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
-     "target_title": "آبشار گورگور آلوارس"
+     "target_pageid": 2327801,
+     "target_revision_id": 43931675,
+     "target_title": "آبشار گورگور آلوارس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1_%DA%AF%D9%88%D8%B1%DA%AF%D9%88%D8%B1_%D8%A2%D9%84%D9%88%D8%A7%D8%B1%D8%B3"
     }
    ],
    "fetched": "2026-10-02",
@@ -156,18 +159,10 @@
      "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
      "source_title": "سرعین",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
-     "target_title": "پیست اسکی آلوارس"
-    },
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "پیست اسکی",
-     "pageid": 41906,
-     "revision_id": 44276692,
-     "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
-     "source_title": "سرعین",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
-     "target_title": "پیست اسکی"
+     "target_pageid": 221232,
+     "target_revision_id": 39579426,
+     "target_title": "پیست اسکی آلوارس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D8%A2%D9%84%D9%88%D8%A7%D8%B1%D8%B3"
     }
    ],
    "fetched": "2026-10-02",
@@ -175,7 +170,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
-   "value": "پیست اسکی آلوارس\nپیست اسکی"
+   "value": "پیست اسکی آلوارس"
   },
   "population": {
    "fetched": "2026-10-02",

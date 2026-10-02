@@ -152,24 +152,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه گبری",
-     "pageid": 16944,
-     "revision_id": 44138036,
-     "section": "ساختار شهری / جاذبه ها",
-     "source_title": "جهرم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "قلعه گبری (جهرم)"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "بازار جهرم",
      "pageid": 16944,
      "revision_id": 44138036,
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "بازار جهرم"
+     "target_pageid": 440921,
+     "target_revision_id": 43718441,
+     "target_title": "بازار جهرم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%AC%D9%87%D8%B1%D9%85"
     },
     {
      "field": "poi_heritage",
@@ -180,7 +172,10 @@
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "مسجد و مدرسه خان"
+     "target_pageid": 440916,
+     "target_revision_id": 44344522,
+     "target_title": "مسجد و مدرسه خان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%88_%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D8%AE%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -191,40 +186,10 @@
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "مسجد جامع جهرم"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "مقبره شاهزاده فضل بن موسی بن جعفر",
-     "pageid": 16944,
-     "revision_id": 44138036,
-     "section": "ساختار شهری / جاذبه ها",
-     "source_title": "جهرم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "مقبره شاهزاده فضل بن موسی بن جعفر (ع)"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "کاروانسرای مخک",
-     "pageid": 16944,
-     "revision_id": 44138036,
-     "section": "ساختار شهری / جاذبه ها",
-     "source_title": "جهرم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "کاروانسرای مخک"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه طوفان",
-     "pageid": 16944,
-     "revision_id": 44138036,
-     "section": "ساختار شهری / جاذبه ها",
-     "source_title": "جهرم",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "خانه طوفان"
+     "target_pageid": 656973,
+     "target_revision_id": 44343763,
+     "target_title": "مسجد جامع جهرم",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AC%D9%87%D8%B1%D9%85"
     },
     {
      "field": "poi_heritage",
@@ -235,7 +200,38 @@
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "امامزاده فضل بن موسی بن جعفر"
+     "target_pageid": 5212680,
+     "target_revision_id": 43926038,
+     "target_title": "امامزاده فضل بن موسی بن جعفر",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%81%D8%B6%D9%84_%D8%A8%D9%86_%D9%85%D9%88%D8%B3%DB%8C_%D8%A8%D9%86_%D8%AC%D8%B9%D9%81%D8%B1"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای مخک",
+     "pageid": 16944,
+     "revision_id": 44138036,
+     "section": "ساختار شهری / جاذبه ها",
+     "source_title": "جهرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
+     "target_pageid": 440919,
+     "target_revision_id": 44445002,
+     "target_title": "کاروانسرای مخک",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%85%D8%AE%DA%A9"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه طوفان",
+     "pageid": 16944,
+     "revision_id": 44138036,
+     "section": "ساختار شهری / جاذبه ها",
+     "source_title": "جهرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
+     "target_pageid": 656069,
+     "target_revision_id": 41038777,
+     "target_title": "خانه طوفان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B7%D9%88%D9%81%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -246,7 +242,10 @@
      "section": "ساختار شهری / پارک ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "باغ ملی (جهرم)"
+     "target_pageid": 5275807,
+     "target_revision_id": 43844612,
+     "target_title": "باغ ملی (جهرم)",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D9%85%D9%84%DB%8C_%28%D8%AC%D9%87%D8%B1%D9%85%29"
     }
    ],
    "fetched": "2026-10-02",
@@ -254,20 +253,23 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-   "value": "قلعه گبری\nبازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nمقبره شاهزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان\nامامزاده فضل بن موسی بن جعفر\nباغ ملی"
+   "value": "بازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nامامزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان\nباغ ملی"
   },
   "poi_nature": {
    "entries": [
     {
      "field": "poi_nature",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "غار سنگتراشان",
+     "name": "غار سنگ‌تراشان",
      "pageid": 16944,
      "revision_id": 44138036,
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "غار سنگتراشان"
+     "target_pageid": 163303,
+     "target_revision_id": 44278480,
+     "target_title": "غار سنگ‌تراشان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D8%B3%D9%86%DA%AF%E2%80%8C%D8%AA%D8%B1%D8%A7%D8%B4%D8%A7%D9%86"
     },
     {
      "field": "poi_nature",
@@ -278,7 +280,10 @@
      "section": "ساختار شهری / جاذبه ها",
      "source_title": "جهرم",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-     "target_title": "غار ورا"
+     "target_pageid": 443321,
+     "target_revision_id": 29098929,
+     "target_title": "غار ورا",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1_%D9%88%D8%B1%D8%A7"
     }
    ],
    "fetched": "2026-10-02",
@@ -286,7 +291,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85",
-   "value": "غار سنگتراشان\nغار ورا"
+   "value": "غار سنگ‌تراشان\nغار ورا"
   },
   "population": {
    "fetched": "2026-10-02",

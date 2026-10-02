@@ -138,35 +138,16 @@
     {
      "field": "poi_heritage",
      "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه مانداگارانا",
-     "pageid": 8710,
-     "revision_id": 44536392,
-     "section": "اماکن تاریخی، دیدنی و گردشگری",
-     "source_title": "مرند",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-     "target_title": "قلعه مانداگارانا"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
      "name": "مسجد جامع مرند",
      "pageid": 8710,
      "revision_id": 44536392,
      "section": "اماکن تاریخی، دیدنی و گردشگری",
      "source_title": "مرند",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-     "target_title": "مسجد جامع مرند"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "بازار کوزه‌فروشان مرند",
-     "pageid": 8710,
-     "revision_id": 44536392,
-     "section": "اماکن تاریخی، دیدنی و گردشگری",
-     "source_title": "مرند",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-     "target_title": "بازار کوزه‌فروشان مرند"
+     "target_pageid": 226792,
+     "target_revision_id": 43922756,
+     "target_title": "مسجد جامع مرند",
+     "target_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%85%D8%B1%D9%86%D8%AF"
     }
    ],
    "fetched": "2026-10-02",
@@ -174,7 +155,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-   "value": "قلعه مانداگارانا\nمسجد جامع مرند\nبازار کوزه‌فروشان مرند"
+   "value": "مسجد جامع مرند"
   },
   "poi_nature": {
    "entries": [
@@ -187,18 +168,10 @@
      "section": "اماکن تاریخی، دیدنی و گردشگری / روستاهای پلکانی زنوزق",
      "source_title": "مرند",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-     "target_title": "کوه قلعه"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رشته‌کوه میشو",
-     "pageid": 8710,
-     "revision_id": 44536392,
-     "section": "اماکن تاریخی، دیدنی و گردشگری / پیست اسکی پیام",
-     "source_title": "مرند",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-     "target_title": "رشته‌کوه میشو"
+     "target_pageid": 306670,
+     "target_revision_id": 26508375,
+     "target_title": "کوه قلعه",
+     "target_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D9%82%D9%84%D8%B9%D9%87"
     }
    ],
    "fetched": "2026-10-02",
@@ -206,7 +179,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
-   "value": "کوه قلعه\nرشته‌کوه میشو"
+   "value": "کوه قلعه"
   },
   "population": {
    "fetched": "2026-10-02",

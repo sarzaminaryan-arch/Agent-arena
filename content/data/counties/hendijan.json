@@ -135,18 +135,10 @@
      "section": "تفریحگاه ها",
      "source_title": "هندیجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%DB%8C%D8%AC%D8%A7%D9%86",
-     "target_title": "خلیج فارس"
-    },
-    {
-     "field": "poi_nature",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "رودخانه زهره",
-     "pageid": 91080,
-     "revision_id": 44459518,
-     "section": "تفریحگاه ها",
-     "source_title": "هندیجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%DB%8C%D8%AC%D8%A7%D9%86",
-     "target_title": "رودخانه زهره (هندیجان)"
+     "target_pageid": 1796,
+     "target_revision_id": 44573637,
+     "target_title": "خلیج فارس",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%84%DB%8C%D8%AC_%D9%81%D8%A7%D8%B1%D8%B3"
     }
    ],
    "fetched": "2026-10-02",
@@ -154,7 +146,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%DB%8C%D8%AC%D8%A7%D9%86",
-   "value": "خلیج فارس\nرودخانه زهره"
+   "value": "خلیج فارس"
   },
   "population": {
    "fetched": "2026-10-02",

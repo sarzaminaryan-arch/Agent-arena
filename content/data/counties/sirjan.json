@@ -148,18 +148,10 @@
      "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
      "source_title": "سیرجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "بازار سیرجان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "خانه علی اکبر شوکت سعیدی",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "خانه علی اکبر شوکت سعیدی"
+     "target_pageid": 5852510,
+     "target_revision_id": 43872798,
+     "target_title": "بازار سیرجان",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86"
     },
     {
      "field": "poi_heritage",
@@ -170,62 +162,10 @@
      "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
      "source_title": "سیرجان",
      "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "باغ سنگی"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "آرامگاه میر زبیر",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "آرامگاه میر زبیر"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "قلعه سنگ سیرجان",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "قلعه سنگ سیرجان"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "عمارت صدرزاده",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های تاریخی و فرهنگی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "عمارت صدرزاده"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "چهارگنبد",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های طبیعی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "چهارگنبد"
-    },
-    {
-     "field": "poi_heritage",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "گدارخانه سرخ",
-     "pageid": 3954,
-     "revision_id": 44482714,
-     "section": "گردشگری / دیدنی های طبیعی",
-     "source_title": "سیرجان",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-     "target_title": "گدارخانه سرخ"
+     "target_pageid": 950378,
+     "target_revision_id": 43371597,
+     "target_title": "باغ سنگی",
+     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%B3%D9%86%DA%AF%DB%8C"
     }
    ],
    "fetched": "2026-10-02",
@@ -233,7 +173,7 @@
    "source": "wikipedia-poi",
    "status": "draft",
    "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86",
-   "value": "بازار سیرجان\nخانه علی اکبر شوکت سعیدی\nباغ سنگی\nآرامگاه میر زبیر\nقلعه سنگ سیرجان\nعمارت صدرزاده\nچهارگنبد\nگدارخانه سرخ"
+   "value": "بازار سیرجان\nباغ سنگی"
   },
   "population": {
    "fetched": "2026-10-02",
