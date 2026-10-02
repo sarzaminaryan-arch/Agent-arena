@@ -1,0 +1,910 @@
+{
+ "ardal": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار زردلیمه",
+    "pageid": 16900,
+    "revision_id": 44353676,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان اردل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_title": "آبشار زردلیمه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت‌شده هلن",
+    "pageid": 16900,
+    "revision_id": 44353676,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان اردل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_title": "منطقه حفاظت‌شده هلن"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای شلیل",
+    "pageid": 16900,
+    "revision_id": 44353676,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان اردل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_title": "کاروانسرای شلیل"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار کردی اردل",
+    "pageid": 16888,
+    "revision_id": 44353675,
+    "section": "جاذبه گردشگری اردل",
+    "source_title": "اردل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%84",
+    "target_title": "آبشار کردی اردل"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "اردل",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D9%84",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%84"
+  ]
+ },
+ "ben": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "یان‌چشمه",
+    "pageid": 1665215,
+    "revision_id": 44109202,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان بن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_title": "یان‌چشمه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سیدمحمد بارده",
+    "pageid": 1665215,
+    "revision_id": 44109202,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان بن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_title": "امامزاده سیدمحمد بارده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سید بهاءالدین محمد",
+    "pageid": 1665215,
+    "revision_id": 44109202,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان بن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_title": "امامزاده سید بهاءالدین محمد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده باباپیر احمدبن",
+    "pageid": 1665215,
+    "revision_id": 44109202,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان بن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_title": "امامزاده باباپیر احمدبن"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بارده",
+    "pageid": 1665215,
+    "revision_id": 44109202,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان بن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86",
+    "target_title": "قلعه بارده"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "بن",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86"
+  ]
+ },
+ "borujen": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب چغاخور",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "تالاب چغاخور"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب گندمان",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "تالاب گندمان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب سولقان",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "تالاب سولقان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه کلار",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "کوه کلار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده حمزه علی",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "امامزاده حمزه علی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه سیاسرد",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "کوه سیاسرد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت‌شده سبزکوه",
+    "pageid": 16897,
+    "revision_id": 44475708,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "منطقه حفاظت‌شده سبزکوه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه سیاسرد",
+    "pageid": 4240,
+    "revision_id": 44429529,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "کوه سیاسرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل تاریخی مصلی",
+    "pageid": 4240,
+    "revision_id": 44429529,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "پل تاریخی مصلی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب چغاخور",
+    "pageid": 4240,
+    "revision_id": 44429529,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "تالاب چغاخور"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب گندمان",
+    "pageid": 4240,
+    "revision_id": 44429529,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "تالاب گندمان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده حمزه علی",
+    "pageid": 4240,
+    "revision_id": 44429529,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بروجن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+    "target_title": "امامزاده حمزه علی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "بروجن",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86"
+  ]
+ },
+ "falard": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده محمد حنفیه",
+    "pageid": 177708,
+    "revision_id": 43448102,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فلارد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%84%D8%A7%D8%B1%D8%AF",
+    "target_title": "امامزاده محمد حنفیه"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "فلارد",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D9%84%D8%A7%D8%B1%D8%AF"
+  ]
+ },
+ "farrokhshahr": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "فرخ‌شهر",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AE%E2%80%8C%D8%B4%D9%87%D8%B1"
+  ]
+ },
+ "farsan": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار کردیت",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "آبشار کردیت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه جونقان",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "قلعه جونقان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "پیرغار",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "پیرغار"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "ده‌چشمه",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "ده‌چشمه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کتیبه‌های مشروطیت پیر غار",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "کتیبه‌های مشروطیت پیر غار"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار سراب",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "غار سراب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع فارسان",
+    "pageid": 16899,
+    "revision_id": 44084273,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "مسجد جامع فارسان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع فارسان",
+    "pageid": 14037,
+    "revision_id": 44514780,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "مسجد جامع فارسان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیرغار",
+    "pageid": 14037,
+    "revision_id": 44514780,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "فارسان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+    "target_title": "پیرغار"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "فارسان",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86"
+  ]
+ },
+ "khanmirza": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب مورزرد زیلایی",
+    "pageid": 4901353,
+    "revision_id": 44081332,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان خانمیرزا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D8%B1%D8%B2%D8%A7",
+    "target_title": "تالاب مورزرد زیلایی"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "خانمیرزا",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D8%B1%D8%B2%D8%A7"
+  ]
+ },
+ "kiar": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دزک",
+    "pageid": 328205,
+    "revision_id": 43926845,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کیار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+    "target_title": "قلعه دزک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه صمصام‌السلطنه",
+    "pageid": 328205,
+    "revision_id": 43926845,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کیار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+    "target_title": "قلعه صمصام‌السلطنه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دریاچه شلمزار",
+    "pageid": 328205,
+    "revision_id": 43926845,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کیار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+    "target_title": "دریاچه شلمزار"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب سولقان",
+    "pageid": 328205,
+    "revision_id": 43926845,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کیار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+    "target_title": "تالاب سولقان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده جعفر شهر گهرو",
+    "pageid": 328205,
+    "revision_id": 43926845,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کیار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+    "target_title": "امامزاده جعفر شهر گهرو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه صمصام السلطنه",
+    "pageid": 29984,
+    "revision_id": 44228501,
+    "section": "گردشگری",
+    "source_title": "شلمزار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%84%D9%85%D8%B2%D8%A7%D8%B1",
+    "target_title": "قلعه صمصام السلطنه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه شلمزار",
+    "pageid": 29984,
+    "revision_id": 44228501,
+    "section": "گردشگری",
+    "source_title": "شلمزار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%84%D9%85%D8%B2%D8%A7%D8%B1",
+    "target_title": "دریاچه شلمزار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام پایین شلمزار",
+    "pageid": 29984,
+    "revision_id": 44228501,
+    "section": "گردشگری",
+    "source_title": "شلمزار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%84%D9%85%D8%B2%D8%A7%D8%B1",
+    "target_title": "حمام پایین شلمزار"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "کیار",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%DB%8C%D8%A7%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%84%D9%85%D8%B2%D8%A7%D8%B1"
+  ]
+ },
+ "kuhrang": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار یخی چما",
+    "pageid": 16901,
+    "revision_id": 44483104,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کوهرنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_title": "غار یخی چما"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار شیخ علیخان",
+    "pageid": 16901,
+    "revision_id": 44483104,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کوهرنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_title": "آبشار شیخ علیخان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "رودخانه بازفت",
+    "pageid": 16901,
+    "revision_id": 44483104,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کوهرنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_title": "رودخانه بازفت"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "چشمه کوهرنگ",
+    "pageid": 16901,
+    "revision_id": 44483104,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کوهرنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_title": "چشمه کوهرنگ"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "county tourism section",
+    "name": "پیست اسکی چلگرد",
+    "pageid": 16901,
+    "revision_id": 44483104,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کوهرنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+    "target_title": "پیست اسکی چلگرد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه کوهرنگ",
+    "pageid": 26644,
+    "revision_id": 44363062,
+    "section": "مناطق گردشگری",
+    "source_title": "چلگرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+    "target_title": "چشمه کوهرنگ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار یخی چما",
+    "pageid": 26644,
+    "revision_id": 44363062,
+    "section": "مناطق گردشگری",
+    "source_title": "چلگرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+    "target_title": "غار یخی چما"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی چلگرد",
+    "pageid": 26644,
+    "revision_id": 44363062,
+    "section": "مناطق گردشگری",
+    "source_title": "چلگرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+    "target_title": "پیست اسکی چلگرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل چلگرد",
+    "pageid": 26644,
+    "revision_id": 44363062,
+    "section": "مناطق گردشگری",
+    "source_title": "چلگرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+    "target_title": "پل چلگرد"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "کوهرنگ",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF",
+   "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF"
+  ]
+ },
+ "lordegan": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار آتشگاه",
+    "pageid": 16898,
+    "revision_id": 44073081,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان لردگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_title": "آبشار آتشگاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای قلعه مدرسه",
+    "pageid": 16898,
+    "revision_id": 44073081,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان لردگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_title": "کاروانسرای قلعه مدرسه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه قبرستان و کاروانسرای پل بریده",
+    "pageid": 16898,
+    "revision_id": 44073081,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان لردگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_title": "محوطه قبرستان و کاروانسرای پل بریده"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار آتشگاه",
+    "pageid": 13033,
+    "revision_id": 44079707,
+    "section": "گردشگری",
+    "source_title": "لردگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+    "target_title": "آبشار آتشگاه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "لردگان",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86"
+  ]
+ },
+ "saman": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل زمان‌خان",
+    "pageid": 1665222,
+    "revision_id": 44475697,
+    "section": "مناطق گردشگری",
+    "source_title": "شهرستان سامان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%85%D8%A7%D9%86",
+    "target_title": "پل زمان‌خان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "سامان",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%85%D8%A7%D9%86"
+  ]
+ },
+ "shahrekord": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه چالشتر",
+    "pageid": 16894,
+    "revision_id": 44260938,
+    "section": "جاذبه های گردشگری / آثار دیدنی دیگر",
+    "source_title": "شهرستان شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "قلعه چالشتر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه سورک",
+    "pageid": 16894,
+    "revision_id": 44260938,
+    "section": "جاذبه های گردشگری / آثار دیدنی دیگر",
+    "source_title": "شهرستان شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "قلعه سورک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد اتابکان",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "مسجد اتابکان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع محبعلی بیگ",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "مسجد جامع محبعلی بیگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه چالشتر",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "قلعه چالشتر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع شهرکرد",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "مسجد جامع شهرکرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع چالشتر",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "مسجد جامع چالشتر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام مهدیه",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "حمام مهدیه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازارچه لحاف‌دوزان",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "بازارچه لحاف‌دوزان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمامین درب امامزاده",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "حمامین درب امامزاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام پرهیزگار",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "حمام پرهیزگار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه آزاده",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "خانه آزاده"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تپه سراب",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "تپه سراب (گنبدک)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گردشگاه چشمه‌زنه",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "گردشگاه چشمه‌زنه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه وقت و ساعت",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "چشمه وقت و ساعت (جهان‌بین)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار جهان‌بین",
+    "pageid": 6506,
+    "revision_id": 44458604,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "شهرکرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+    "target_title": "غار جهان‌بین"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "شهرکرد",
+  "fetched": "2026-10-02",
+  "province": "chaharmahal-bakhtiari",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF"
+  ]
+ }
+}

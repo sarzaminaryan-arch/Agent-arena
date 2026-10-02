@@ -126,6 +126,114 @@
     "abdanan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه رزه",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "قلعه رزه (بنا)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امام زاده",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / امامزاده احمد بن موسی (معروف به شاهزاده احمد)",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "امام زاده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده بابالنگ",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / امامزاده بابا لَنگ",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "امامزاده بابالنگ"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل بالارود",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "پل بالارود"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل خشتی",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "پل خشتی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل پدر",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "پل پدر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل پسر",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / پل باستانی صیحه (آباره عباس خان)",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "پل پسر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+   "value": "قلعه رزه\nامام زاده\nامامزاده بابالنگ\nپل بالارود\nپل خشتی\nپل پدر\nپل پسر"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه سد",
+     "pageid": 6487,
+     "revision_id": 44399141,
+     "section": "گردشگری / پلاژ دریاچه دز اندیمشک",
+     "source_title": "اندیمشک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+     "target_title": "دریاچه سد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9",
+   "value": "دریاچه سد"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

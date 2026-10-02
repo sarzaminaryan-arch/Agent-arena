@@ -142,6 +142,147 @@
     "izeh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آتشکده جاویدان",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / آثار باستانی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "آتشکده جاویدان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سقاخانه حضرت ابوالفضل",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / جاذبه های مذهبی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "سقاخانه حضرت ابوالفضل (مسجدسلیمان)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای ارمنی‌ها نمره چهل",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / سایر اماکن تفریحی و گردشگری",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "کلیسای ارمنی‌ها نمره چهل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان خارجی‌ها مسجدسلیمان",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / سایر اماکن تفریحی و گردشگری",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "گورستان خارجی‌ها مسجدسلیمان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان ارمنی‌ها مسجدسلیمان",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / سایر اماکن تفریحی و گردشگری",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "گورستان ارمنی‌ها مسجدسلیمان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای کاتولیک‌ها",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / سایر اماکن تفریحی و گردشگری",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "کلیسای کاتولیک‌ها (مسجدسلیمان)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تیم فوتبال نفت مسجدسلیمان",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / هتل ها و مراکز اقامتی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "تیم فوتبال نفت مسجدسلیمان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+   "value": "آتشکده جاویدان\nسقاخانه حضرت ابوالفضل\nکلیسای ارمنی‌ها نمره چهل\nگورستان خارجی‌ها مسجدسلیمان\nگورستان ارمنی‌ها مسجدسلیمان\nکلیسای کاتولیک‌ها\nتیم فوتبال نفت مسجدسلیمان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک جنگلی تمبی",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "پارک جنگلی تمبی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "جزیره کوشک",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "جزیره کوشک"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچهٔ سد شهید عباسپور",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "دریاچهٔ سد شهید عباسپور"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه آب گرم گلگیر",
+     "pageid": 10154,
+     "revision_id": 44407273,
+     "section": "گردشگری / مناطق نمونه گردشگری و طبیعی",
+     "source_title": "مسجدسلیمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+     "target_title": "چشمه آب گرم گلگیر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86",
+   "value": "پارک جنگلی تمبی\nجزیره کوشک\nدریاچهٔ سد شهید عباسپور\nچشمه آب گرم گلگیر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

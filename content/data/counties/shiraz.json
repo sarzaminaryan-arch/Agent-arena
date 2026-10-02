@@ -173,6 +173,93 @@
    "url": "",
    "value": "قلات\nمحله قصردشت"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "پارک کوهستانی دراک",
+     "pageid": 57867,
+     "revision_id": 44349954,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "شهرستان شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "پارک کوهستانی دراک"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "پارک آزادی",
+     "pageid": 57867,
+     "revision_id": 44349954,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "شهرستان شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "پارک آزادی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "لونا پارک",
+     "pageid": 57867,
+     "revision_id": 44349954,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "شهرستان شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "لونا پارک"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ‌وحش شیراز",
+     "pageid": 5509,
+     "revision_id": 44401722,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "باغ‌وحش شیراز"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک قلعه‌بندر",
+     "pageid": 5509,
+     "revision_id": 44401722,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "پارک قلعه‌بندر"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان آزادی شیراز",
+     "pageid": 5509,
+     "revision_id": 44401722,
+     "section": "گردشگری / فضای سبز",
+     "source_title": "شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "بوستان آزادی شیراز"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان آزادی",
+     "pageid": 5509,
+     "revision_id": 44401722,
+     "section": "گردشگری / فضای سبز",
+     "source_title": "شیراز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+     "target_title": "بوستان آزادی (شیراز)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+   "value": "پارک کوهستانی دراک\nپارک آزادی\nلونا پارک\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nبوستان آزادی شیراز\nبوستان آزادی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

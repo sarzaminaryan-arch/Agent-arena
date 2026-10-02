@@ -140,6 +140,136 @@
     "qom-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه گبری",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "قلعه گبری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کارخانه سیمان ری",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "کارخانه سیمان ری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار ری",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "بازار ری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای شاه‌عباسی",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "کاروانسرای شاه‌عباسی (شهر ری)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج طغرل",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "برج طغرل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای کنارگرد",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "کاروانسرای کنارگرد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه کاسنی ری",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "قلعه کاسنی ری"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+   "value": "قلعه گبری\nکارخانه سیمان ری\nبازار ری\nکاروانسرای شاه‌عباسی\nبرج طغرل\nکاروانسرای کنارگرد\nقلعه کاسنی ری"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تپه چشمه‌علی",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "تپه چشمه‌علی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه علی",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پیش از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "چشمه علی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه نقاره‌خانه",
+     "pageid": 50049,
+     "revision_id": 44401660,
+     "section": "آثار تاریخی / آثار تاریخی پس از اسلام",
+     "source_title": "شهر ری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+     "target_title": "کوه نقاره‌خانه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1_%D8%B1%DB%8C",
+   "value": "تپه چشمه‌علی\nچشمه علی\nکوه نقاره‌خانه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -35,6 +35,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "kharameh - جنوب\nsarchahan - شمال‌شرق\npasargad - شمال‌غرب\nbakhtegan - جنوب‌شرق\nzarghan - غرب",
+  "sa_cty_poi_heritage": "مسجد جامع ارسنجان",
+  "sa_cty_poi_nature": "دریاچه طشک\nغار سیده خاتون",
   "sa_cty_population": 42725,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.83333,53.43333"
  },
@@ -53,6 +55,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "arsanjan - شمال‌غرب\nkharameh - غرب\nneyriz - جنوب‌شرق\nsarchahan - شمال\nestahban - جنوب\nkhatam-city - شمال‌شرق",
+  "sa_cty_poi_nature": "پارک ملی بختگان\nدریاچه بختگان\nجزیره نرگس\nدریاچه طشک\nتنگه جزین",
   "sa_cty_population": 32224,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.63333,53.86667"
@@ -72,6 +75,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "sarchahan - جنوب\npasargad - جنوب‌غرب\nkhorrambid - غرب\nmarvast-city - شمال‌شرق\nkhatam-city - شرق\nabarkuh-city - شمال",
+  "sa_cty_poi_heritage": "آتشکده\nمسجد جامع سوریان\nموزه ایران باستان",
   "sa_cty_poi_offbeat": "مزایجان\nپیرکدو",
   "sa_cty_population": 50418,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.33333,53.66667"
@@ -90,6 +94,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "marvdasht - شرق\nsepidan - شمال‌غرب\nshiraz - جنوب",
+  "sa_cty_poi_heritage": "تل حمامی\nگورستان کایدون\nگورستان هفت‌خوان\nتل قلعه بگی\nگورستان کوشک سقوان\nمحوطه تل قلعه\nقلعه پوزه گزک\nگورستان امامزاده هفت تن\nگورستان بانش\nگورستان قدیمی شهیدآباد\nگورستان قدیمی عزآباد\nمحوطه و گورستان ممو",
+  "sa_cty_poi_nature": "غار قباله\nغارهای دره سفید\nغار چیچکلو\nغار مال امیر",
   "sa_cty_population": 39883,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.0,52.41667"
  },
@@ -248,6 +254,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "farashband - جنوب‌غرب\nkavar - شمال‌شرق\nkhafr - شرق\nqir-va-karzin - جنوب‌شرق\nkazerun - شمال‌غرب",
+  "sa_cty_poi_heritage": "کاخ اردشیر بابکان\nقلعه دختر\nسنگ‌نگاره پادشاهی اردشیر بابکان\nسنگ‌نگاره پیروزی اردشیر بابکان",
+  "sa_cty_poi_nature": "چشمه حنیفقان",
   "sa_cty_population": 121417,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.91667,52.56667"
@@ -266,6 +274,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "evaz - شمال‌شرق\nlamerd - جنوب‌غرب\nkhonj - شمال‌غرب\nbastak - جنوب‌شرق",
+  "sa_cty_poi_heritage": "آب‌انبار\nقلعه همایون‌دژ\nآب‌انبار حاج اسدالله\nحسینیه سنگ‌آوی\nمناره",
   "sa_cty_poi_nature": "کوه ملک تیر",
   "sa_cty_poi_offbeat": "دشت گراش",
   "sa_cty_population": 53907,
@@ -287,6 +296,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "fasa - شمال‌شرق\nkhafr - شمال‌غرب\njooyom - جنوب‌شرق\nqir-va-karzin - جنوب‌غرب",
+  "sa_cty_poi_heritage": "قلعه گبری\nبازار جهرم\nمسجد و مدرسه خان\nمسجد جامع جهرم\nمقبره شاهزاده فضل بن موسی بن جعفر\nکاروانسرای مخک\nخانه طوفان\nامامزاده فضل بن موسی بن جعفر\nباغ ملی",
+  "sa_cty_poi_nature": "غار سنگتراشان\nغار ورا",
   "sa_cty_population": 228532,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.64167,53.55833"
@@ -413,6 +424,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "qir-va-karzin - شمال\nmehr - غرب\nlamerd - جنوب\ngerash - جنوب‌شرق\nasaluyeh - جنوب‌غرب",
+  "sa_cty_poi_heritage": "مسجد جامع خنج\nمسجد عتیق شیراز\nقلعه شاه نشین\nآب انبار",
+  "sa_cty_poi_nature": "جزیره هرمز",
   "sa_cty_population": 41359,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.93333,53.08333"
@@ -430,6 +443,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "pasargad - جنوب\neqlid - شمال‌غرب\nbavanat - شرق\nmarvdasht - جنوب‌غرب\nabarkuh-city - شمال‌شرق",
+  "sa_cty_poi_nature": "غار دیو",
   "sa_cty_population": 50522,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.5,53.08333"
  },
@@ -448,6 +462,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "parsian - جنوب\nasaluyeh - غرب\ngerash - شمال‌شرق\nkhonj - شمال",
+  "sa_cty_poi_heritage": "حمام علی خان اشکنان",
   "sa_cty_population": 91782,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.45,53.18333"
@@ -467,6 +482,7 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "evaz - شمال‌غرب\nbastak - جنوب\nzarrin-dasht - شمال\nkhamir - شرق",
+  "sa_cty_poi_heritage": "قلعه اژدها پیکر\nقلعه جبرئیل\nبازار قیصریه لار\nبرج ننه نادر",
   "sa_cty_population": 213920,
   "sa_cty_rural_districts": 9,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.68333,54.33333"
@@ -504,6 +520,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "beyza - غرب\nzarghan - جنوب‌شرق\npasargad - شرق\nkhorrambid - شمال‌شرق",
+  "sa_cty_poi_heritage": "تخت‌جمشید\nکاخ تچر\nنقش رستم\nپل بند امیر\nپل خان\nقلعه استخر",
+  "sa_cty_poi_nature": "دریاچه بختگان\nآبشار دشتک ابرج",
   "sa_cty_population": 323434,
   "sa_cty_rural_districts": 15,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.08333,52.66667"
@@ -648,6 +666,7 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "kharameh - شمال\nkhafr - جنوب\nkavar - غرب\nfasa - جنوب‌شرق",
   "sa_cty_poi_heritage": "کاخ سروستان\nآتشکدهٔ فیروزآباد\nکاخ ساسانی سروستان\nکاخ فیروزآباد",
+  "sa_cty_poi_nature": "هزاردره\nدریاچه مهارلو",
   "sa_cty_poi_offbeat": "بهرام پنجم ساسانی\nبهرام گور\nشهرستان شیراز",
   "sa_cty_population": 38114,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.2749,53.21967"
@@ -689,6 +708,7 @@
   "sa_cty_poi_heritage": "حرم شاهچراغ\nارگ کریم خان زند\nحمام وکیل\nقلعه کریمخانی\nبازار وکیل\nموزه پارس\nآرامگاه کریم خان زند\nآرامگاه حافظ\nآرامگاه سعدی\nباغ تخت\nباغ ملی\nباغ نظر",
   "sa_cty_poi_nature": "دریاچه مهارلو\nدریاچه ارژن\nکوه دراک\nکوه بمو\nباباکوهی\nرودخانه خشک",
   "sa_cty_poi_offbeat": "قلات\nمحله قصردشت",
+  "sa_cty_poi_recreation": "پارک کوهستانی دراک\nپارک آزادی\nلونا پارک\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nبوستان آزادی شیراز\nبوستان آزادی",
   "sa_cty_population": 1869001,
   "sa_cty_rural_districts": 11,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.61,52.53"
@@ -709,6 +729,8 @@
   "sa_cty_language": "فارسی با گویش شیرازی و گویش‌های محلی؛ ترکی قشقایی و لری در بخش‌هایی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری عشایری، صنعت و گردشگری تاریخی",
   "sa_cty_neighbors": "shiraz - جنوب‌غرب\nmarvdasht - شمال‌غرب\nkharameh - جنوب‌شرق\npasargad - شمال‌شرق\narsanjan - شرق\nkavar - جنوب",
+  "sa_cty_poi_heritage": "زورخانه زرقان\nخانه حسن واقفی\nقنات حوض ماهی\nخرفخانه شاهزاده قاسم",
+  "sa_cty_poi_nature": "پارک ملی بمو",
   "sa_cty_population": 56104,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.73333,52.86667"

@@ -155,6 +155,59 @@
     "behbahan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "محوطه پشه کان",
+     "pageid": 35750,
+     "revision_id": 44182445,
+     "section": "گردشگری",
+     "source_title": "دوگنبدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
+     "target_title": "محوطه پشه کان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه‌های اسماعیلیه",
+     "pageid": 35750,
+     "revision_id": 44182445,
+     "section": "گردشگری",
+     "source_title": "دوگنبدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
+     "target_title": "قلعه‌های اسماعیلیه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
+   "value": "محوطه پشه کان\nقلعه‌های اسماعیلیه"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غارچال امیرخانی",
+     "pageid": 35750,
+     "revision_id": 44182445,
+     "section": "گردشگری",
+     "source_title": "دوگنبدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
+     "target_title": "غارچال امیرخانی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D9%86%D8%A8%D8%AF%D8%A7%D9%86",
+   "value": "غارچال امیرخانی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

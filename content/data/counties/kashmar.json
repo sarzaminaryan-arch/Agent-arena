@@ -145,6 +145,234 @@
     "mahvelat"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع کاشمر",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "مسجد جامع کاشمر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه ریگ",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "قلعه ریگ"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده سید مرتضی",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "امامزاده سید مرتضی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه آتشگاه",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "قلعه آتشگاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سرو باغ‌مزار",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "سرو باغ‌مزار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای امین التجار",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "کاروانسرای امین التجار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب‌انبار حاجی نظام",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "آب‌انبار حاجی نظام"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده سید حمزه",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "امامزاده سید حمزه (کاشمر)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه سید حسن مدرس",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "آرامگاه سید حسن مدرس"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه سید اسماعیل نبوی",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "آرامگاه سید اسماعیل نبوی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد حاجی جلال",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "مسجد حاجی جلال"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه احمد پناه",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / آثار ملی / بناها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "خانه احمد پناه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+   "value": "مسجد جامع کاشمر\nقلعه ریگ\nامامزاده سید مرتضی\nقلعه آتشگاه\nسرو باغ‌مزار\nکاروانسرای امین التجار\nآب‌انبار حاجی نظام\nامامزاده سید حمزه\nآرامگاه سید حسن مدرس\nآرامگاه سید اسماعیل نبوی\nمسجد حاجی جلال\nخانه احمد پناه"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دره آبگرم",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "دره آبگرم"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار آتشگاه",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "غار آتشگاه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "رودخانه قوژد",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "رودخانه قوژد"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کویر گندم‌بر",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "اقتصاد / گردشگری / جاذبه های گردشگری / دیگر جاذبه های گردشگری",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "کویر گندم‌بر"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان جنگلی سید مرتضی",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "بوستان ها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "بوستان جنگلی سید مرتضی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+   "value": "دره آبگرم\nغار آتشگاه\nرودخانه قوژد\nکویر گندم‌بر\nبوستان جنگلی سید مرتضی"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان خطی سید مرتضی",
+     "pageid": 38450,
+     "revision_id": 44446626,
+     "section": "بوستان ها",
+     "source_title": "کاشمر",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+     "target_title": "بوستان خطی سید مرتضی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B4%D9%85%D8%B1",
+   "value": "بوستان خطی سید مرتضی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

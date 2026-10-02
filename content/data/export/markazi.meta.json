@@ -12,8 +12,10 @@
   "sa_cty_language": "فارسی؛ در بخش‌هایی ترکی آذربایجانی و لری",
   "sa_cty_livelihood": "صنعت (ماشین‌سازی و پتروشیمی)، کشاورزی و دامداری",
   "sa_cty_neighbors": "ashtian - شمال‌شرق\nshazand - جنوب‌غرب\nfarahan - شمال\nkhomeyn - جنوب\nmahallat - جنوب‌شرق\nkhondab - شمال‌غرب",
+  "sa_cty_poi_heritage": "بازار اراک\nحمام چهارفصل\nخانه حسن‌پور\nبرج شیشه اراک\nقلعه حاج وکیل\nارگ حکومتی اراک\nکاروانسرای شاه عباسی\nخانه حاج‌آقا محسن اراکی\nخانه حاج‌حسین خاکباز محسنی\nآرامگاه شاهزاده محمد عابد\nامامزاده شاهزاده عبدالله و آمنه خاتون\nکلیسای مسروپ",
   "sa_cty_poi_nature": "چشمه چپقلی\nغار کل\nایوان غار\nغار برآفتاب\nاشترانکوه\nکوه غار یا شاه نشین\nکوه غاغان",
   "sa_cty_poi_offbeat": "چناس\nبرآفتاب\nگورآب\nمیشو",
+  "sa_cty_poi_recreation": "شهربازی\nپارک آبی\nباغ وحش",
   "sa_cty_population": 591756,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.13333,49.8"
@@ -32,6 +34,7 @@
   "sa_cty_language": "فارسی؛ در بخش‌هایی ترکی آذربایجانی و لری",
   "sa_cty_livelihood": "صنعت (ماشین‌سازی و پتروشیمی)، کشاورزی و دامداری",
   "sa_cty_neighbors": "arak - جنوب‌غرب\nfarahan - شمال‌غرب\ntafresh - شمال\njafarabady - شمال‌شرق\nmahallat - جنوب‌شرق\nkahak - شرق",
+  "sa_cty_poi_heritage": "خانه میرزا هدایت‌الله وزیردفتری\nخانه معتمدالایاله\nبازار",
   "sa_cty_population": 16357,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.41667,50.06667"
  },
@@ -151,6 +154,7 @@
   "sa_cty_language": "فارسی؛ در بخش‌هایی ترکی آذربایجانی و لری",
   "sa_cty_livelihood": "صنعت (ماشین‌سازی و پتروشیمی)، کشاورزی و دامداری",
   "sa_cty_neighbors": "delijan - شرق\ngolpayegan - جنوب\nkhomeyn - جنوب‌غرب\narak - شمال‌غرب\nashtian - شمال‌غرب",
+  "sa_cty_poi_heritage": "آتشکده آتشکوه\nآتشکده",
   "sa_cty_poi_nature": "یخچال نیم‌ور\nآبگرم\nآب‌گرم\nآتشکده آتشکوه",
   "sa_cty_poi_offbeat": "منطقه حفاظت‌شده\nچنار\nنیم‌ور\nساسانیان\nدهستان خورهه\nاشکانیان",
   "sa_cty_population": 55342,
@@ -172,6 +176,7 @@
   "sa_cty_livelihood": "صنعت (ماشین‌سازی و پتروشیمی)، کشاورزی و دامداری",
   "sa_cty_neighbors": "tafresh - جنوب\nzarandieh - شمال‌شرق\nbuin-zahra - شمال‌غرب\njafarabady - جنوب‌شرق\ndargazin - غرب\nfamenin-city - غرب",
   "sa_cty_poi_heritage": "بازار ساوه\nمسجد جامع ساوه\nمناره مسجد جمعه\nمناره مسجد میدان\nمسجد سرخ\nمسجد بازار ساوه\nگنبد چهارسوق\nقلعه دختر\nقیزقلعه\nامامزاده سید اسحاق\nبنای امامزاده سید حمزه\nآرامگاه امامزاده فضل بن سلیمان",
+  "sa_cty_poi_nature": "پل‌های یک چشمه و هشت چشمه سرخده\nرودخانه مزلقان",
   "sa_cty_poi_offbeat": "ایران\nمغول\nتیمور لنگ\nصفویه\nسلجوقی\nزندیه\nساسانیان\nموسی کاظم",
   "sa_cty_population": 283538,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.1,49.98333"
@@ -211,6 +216,8 @@
   "sa_cty_language": "فارسی؛ در بخش‌هایی ترکی آذربایجانی و لری",
   "sa_cty_livelihood": "صنعت (ماشین‌سازی و پتروشیمی)، کشاورزی و دامداری",
   "sa_cty_neighbors": "saveh - شمال\nfarahan - جنوب‌غرب\nashtian - جنوب\njafarabady - شرق",
+  "sa_cty_poi_heritage": "سنگ نگاره‌های یازیلی چای\nقلعه توس\nقلعه سلطان محمود\nامامزاده احمد\nمسجد جامع شش ناو\nآرامگاه امامزاده مهدی\nبقعه شاهزاده محمد\nکاروانسرای خانک\nآرامگاه امامزاده قاسم\nآب انبار بلور\nخانه میر فخرایی\nخانه عباسقلی خان میرپنج",
+  "sa_cty_poi_nature": "غار امجک",
   "sa_cty_population": 24913,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.83333,49.88333"

@@ -147,6 +147,27 @@
     "dalahu"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه احمد بن اسحاق",
+     "pageid": 7584,
+     "revision_id": 43825647,
+     "section": "آثار دیدنی",
+     "source_title": "سرپل ذهاب",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%BE%D9%84_%D8%B0%D9%87%D8%A7%D8%A8",
+     "target_title": "آرامگاه احمد بن اسحاق"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%BE%D9%84_%D8%B0%D9%87%D8%A7%D8%A8",
+   "value": "آرامگاه احمد بن اسحاق"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

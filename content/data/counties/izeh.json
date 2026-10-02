@@ -144,6 +144,70 @@
     "masjed-soleyman"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قنات‌های راسوند",
+     "pageid": 18806,
+     "revision_id": 44418096,
+     "section": "گردشگری جهانگردی",
+     "source_title": "ایذه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+     "target_title": "قنات‌های راسوند"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه کژدم",
+     "pageid": 18806,
+     "revision_id": 44418096,
+     "section": "گردشگری جهانگردی",
+     "source_title": "ایذه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+     "target_title": "قلعه کژدم"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+   "value": "قنات‌های راسوند\nقلعه کژدم"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب میانگران",
+     "pageid": 18806,
+     "revision_id": 44418096,
+     "section": "گردشگری جهانگردی",
+     "source_title": "ایذه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+     "target_title": "تالاب میانگران"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه منگشت",
+     "pageid": 18806,
+     "revision_id": 44418096,
+     "section": "گردشگری جهانگردی",
+     "source_title": "ایذه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+     "target_title": "کوه منگشت"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B0%D9%87",
+   "value": "تالاب میانگران\nکوه منگشت"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

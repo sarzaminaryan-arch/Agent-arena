@@ -135,6 +135,92 @@
     "bostanabad"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج مدور",
+     "pageid": 2039,
+     "revision_id": 44367498,
+     "section": "مکان های دیدنی / [[گنبد کبود]]",
+     "source_title": "مراغه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+     "target_title": "برج مدور"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قیزلار قلعه‌سی",
+     "pageid": 2039,
+     "revision_id": 44367498,
+     "section": "مکان های دیدنی / [[قیزلار قلعه سی]]",
+     "source_title": "مراغه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+     "target_title": "قیزلار قلعه‌سی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تپه قلعه جمال‌آباد",
+     "pageid": 2039,
+     "revision_id": 44367498,
+     "section": "مکان های دیدنی / دیگر آثار تاریخی",
+     "source_title": "مراغه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+     "target_title": "تپه قلعه جمال‌آباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "محوطه سئودلی‌قلعه",
+     "pageid": 2039,
+     "revision_id": 44367498,
+     "section": "مکان های دیدنی / دیگر آثار تاریخی",
+     "source_title": "مراغه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+     "target_title": "محوطه سئودلی‌قلعه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه سنگ‌نگاره‌ها",
+     "pageid": 2039,
+     "revision_id": 44367498,
+     "section": "مکان های دیدنی / دیگر آثار تاریخی",
+     "source_title": "مراغه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+     "target_title": "موزه سنگ‌نگاره‌ها"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+   "value": "برج مدور\nقیزلار قلعه‌سی\nتپه قلعه جمال‌آباد\nمحوطه سئودلی‌قلعه\nموزه سنگ‌نگاره‌ها"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "رودخانه صوفی",
+     "pageid": 2039,
+     "revision_id": 44367498,
+     "section": "مکان های دیدنی / [[گنبد غفاریه]]",
+     "source_title": "مراغه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+     "target_title": "رودخانه صوفی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+   "value": "رودخانه صوفی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

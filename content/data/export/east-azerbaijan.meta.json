@@ -14,6 +14,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "hurand - شمال\nmeshgin-shahr - شرق\nkaleybar - شمال‌غرب\nheris - جنوب‌غرب\nvarzaqan - غرب\nsarab - جنوب",
+  "sa_cty_poi_heritage": "آرامگاه شیخ شهاب‌الدین اهری\nموزه ادب و عرفان\nبازار اهر",
+  "sa_cty_poi_nature": "کوه‌های مریخی زگلیک",
   "sa_cty_population": 154530,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.53333,47.28333"
@@ -32,6 +34,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "bonab - جنوب‌شرق\nazarshahr - شمال\nurmia - غرب",
+  "sa_cty_poi_heritage": "امامزاده سید ابوالقاسم\nسد قلعه چای",
+  "sa_cty_poi_nature": "دریاچه ارومیه",
   "sa_cty_poi_offbeat": "رحمانلو\nبارازلو\nینگجه\nمحمد حنفیه",
   "sa_cty_population": 70852,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.50002,45.83342"
@@ -50,6 +54,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "osku - شمال‌شرق\najabshir - جنوب\nshabestar - شمال\nurmia - غرب",
+  "sa_cty_poi_heritage": "سردر و محراب مسجد محراب آذرشهر\nگورستان و آرامگاه پیرلر\nحمام چهار سوق\nحمام ستوباد",
+  "sa_cty_poi_nature": "هفت‌چشمه",
   "sa_cty_population": 110311,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.81667,45.86667"
  },
@@ -220,6 +226,7 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "kaleybar - جنوب\naslanduz - شمال‌شرق\njolfa - غرب",
+  "sa_cty_poi_heritage": "پل خداآفرین",
   "sa_cty_population": 32995,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=39.13751,46.96113"
@@ -261,6 +268,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "bonab - غرب\nmalekan - جنوب‌غرب\nhashtrud - شرق\nbaruq - جنوب‌شرق\nosku - شمال‌غرب\nbostanabad - شمال‌شرق",
+  "sa_cty_poi_heritage": "برج مدور\nقیزلار قلعه‌سی\nتپه قلعه جمال‌آباد\nمحوطه سئودلی‌قلعه\nموزه سنگ‌نگاره‌ها",
+  "sa_cty_poi_nature": "رودخانه صوفی",
   "sa_cty_population": 262604,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.38333,46.4"
  },
@@ -279,6 +288,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "shabestar - جنوب\njolfa - شمال\nchaypareh - شمال‌غرب\nkhoy - غرب\nvarzaqan - شرق",
+  "sa_cty_poi_heritage": "قلعه مانداگارانا\nمسجد جامع مرند\nبازار کوزه‌فروشان مرند",
+  "sa_cty_poi_nature": "کوه قلعه\nرشته‌کوه میشو",
   "sa_cty_population": 244971,
   "sa_cty_villages": 113,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.48333,45.71667"
@@ -315,6 +326,7 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "azarshahr - جنوب‌غرب\ntabriz - شمال‌شرق\nshabestar - شمال‌غرب\nmaragheh - جنوب‌شرق",
+  "sa_cty_poi_heritage": "امامزاده اسکو\nبازار اسکو\nحمام آقا\nحمام میلان\nحمام محمود بهادری\nخانه ارادت\nخانه تقی‌زاده اسکویی\nقنات میلان\nمسجد اوجوزلو\nمسجد پایتخت\nمسجد جامع میلان\nمسجد جامع سبزه‌میدان",
   "sa_cty_poi_nature": "جزیره شاهی\nدریاچه ارومیه",
   "sa_cty_poi_offbeat": "کندوان\nجاذبه‌های گردشگری\nاسکو\nروستای صخره‌ای حیله ور\nمعماری\nاستان آذربایجان شرقی\nسهند\nعنصرود\nگنبر\nگل محمدی",
   "sa_cty_population": 158270,
@@ -373,6 +385,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و باغداری، دامداری، صنایع ماشین‌سازی و فرش دست‌باف",
   "sa_cty_neighbors": "osku - جنوب‌غرب\nshabestar - غرب\nheris - شرق\nbostanabad - جنوب‌شرق\nvarzaqan - شمال‌شرق",
+  "sa_cty_poi_heritage": "ارگ علیشاه\nمسجد کبود\nبازار تبریز\nمسجد استاد و شاگرد\nمسجد ثقةالاسلام\nمسجد جامع\nمسجد حاج صفرعلی\nمسجد دال ذال\nمسجد صاحب‌الامر\nمسجد مجتهد\nمسجد مقبره\nمسجد میرزاصادق",
+  "sa_cty_poi_recreation": "پارک بزرگ تبریز\nلاله پارک",
   "sa_cty_population": 1773033,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.08333,46.28333"
  },

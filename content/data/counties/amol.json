@@ -168,6 +168,38 @@
    "url": "",
    "value": "مشهد میر بزرگ\nشکل شاه\nمحمد بن محمود آملی\nساختمان دارائی\nشهر قدیم آمل\nدخمه سنگی کافر کلی\nمیربزرگ\nمیر حیدر آملی"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "پارک دهکده طلایی",
+     "pageid": 13679,
+     "revision_id": 43580063,
+     "section": "جاذبه های تاریخی و طبیعی و گردشگری / جاذبه های طبیعی و گردشگری",
+     "source_title": "شهرستان آمل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
+     "target_title": "پارک دهکده طلایی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک مینیاتوری آمل",
+     "pageid": 3874,
+     "revision_id": 44590110,
+     "section": "اماکن تفریحی و خدماتی / پارک ها",
+     "source_title": "آمل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D9%84",
+     "target_title": "پارک مینیاتوری آمل"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%85%D9%84",
+   "value": "پارک دهکده طلایی\nپارک مینیاتوری آمل"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

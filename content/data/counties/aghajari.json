@@ -131,6 +131,38 @@
     "hendijan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امام زاده شاه عبدالله",
+     "pageid": 1179375,
+     "revision_id": 44324252,
+     "section": "اماکن مذهبی و زیارتی",
+     "source_title": "شهرستان آغاجاری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%BA%D8%A7%D8%AC%D8%A7%D8%B1%DB%8C",
+     "target_title": "امام زاده شاه عبدالله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امام زاده شاه خراسان",
+     "pageid": 1179375,
+     "revision_id": 44324252,
+     "section": "اماکن مذهبی و زیارتی",
+     "source_title": "شهرستان آغاجاری",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%BA%D8%A7%D8%AC%D8%A7%D8%B1%DB%8C",
+     "target_title": "امام زاده شاه خراسان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%BA%D8%A7%D8%AC%D8%A7%D8%B1%DB%8C",
+   "value": "امام زاده شاه عبدالله\nامام زاده شاه خراسان"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

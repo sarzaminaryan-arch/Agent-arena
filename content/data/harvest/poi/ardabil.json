@@ -1,0 +1,997 @@
+{
+ "angut": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "انگوت",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%DA%AF%D9%88%D8%AA",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF%D9%88%D8%AA"
+  ]
+ },
+ "ardabil-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / مجموعهٔ بقعه و مزار شیخ امین الدّین جبرئیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "بقعه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل هفت چشمه",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / پل های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پل هفت چشمه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل نادری",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / پل های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پل نادری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل ابراهیم‌آباد",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / پل های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پل ابراهیم‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه مردم‌شناسی اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / گرمابه های تاریخی / گرمابه های دورهٔ صفویه",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه مردم‌شناسی اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه تاریخ طبیعی اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه تاریخ طبیعی اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه صنایع دستی اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه صنایع دستی اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه شیخ صفی الدین اردبیلی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه شیخ صفی الدین اردبیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه مفاخر اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه مفاخر اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه تخصصی باستان‌شناسی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه تخصصی باستان‌شناسی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه چینی خانه",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه چینی خانه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه تاریخ علوم اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه تاریخ علوم اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه عمارت شهرداری اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / موزه ها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "موزه عمارت شهرداری اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرا",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / کاروانسراها",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "کاروانسرا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه آقازاده",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه آقازاده (اردبیل)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه ارشادی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه ارشادی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه چنذاب",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه چنذاب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه خادم باشی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه خادم باشی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه خلیل‌زاده",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه خلیل‌زاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه رضازاده",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه رضازاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه سید هاشم ابراهیمی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه سید هاشم ابراهیمی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه شریعت",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه شریعت (اردبیل)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه صادقی اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه صادقی اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه مرحوم مروج",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه مرحوم مروج (خلیل‌زاده)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه مشروطه اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه مشروطه اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه مناف زاده",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه مناف زاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه میر فتاحی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه میر فتاحی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه نوری زینال",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه نوری زینال (خوئی)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه وکیل‌الرعایا",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "اماکن تاریخی / خانه های تاریخی اردبیل",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "خانه وکیل‌الرعایا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه شیخ صفی‌الدین",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "آرامگاه شیخ صفی‌الدین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای سنگی صائین",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "کاروانسرای سنگی صائین"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل فندقلو",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "جنگل فندقلو"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل‌های هیرکانی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "جنگل‌های هیرکانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع اردبیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "مسجد جامع اردبیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه سید امین الدین جبراییل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "بقعه سید امین الدین جبراییل"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه شورابیل",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "دریاچه شورابیل"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار آق‌بلاغ",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "آبشار آق‌بلاغ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل فندق‌لو",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "جنگل فندق‌لو"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی آلوارس",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پیست اسکی آلوارس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی روی چمن جنگل فندقلوی نمین",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پیست اسکی روی چمن جنگل فندقلوی نمین(اردبیل)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه نئور",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "دریاچه نئور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل معلق شیشه‌ای هیر",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پل معلق شیشه‌ای هیر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه سوها",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "دریاچه سوها"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل معلق پیرتقی",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "پل معلق پیرتقی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "منطقه حفاظت‌شده آق‌داغ",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "منطقه حفاظت‌شده آق‌داغ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار سردابه",
+    "pageid": 16047,
+    "revision_id": 44610050,
+    "section": "جاذبه های گردشگری",
+    "source_title": "اردبیل",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "target_title": "آبشار سردابه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "اردبیل",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84"
+  ]
+ },
+ "aslanduz": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "اصلاندوز",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B5%D9%84%D8%A7%D9%86%D8%AF%D9%88%D8%B2"
+  ]
+ },
+ "bileh-savar": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دختر",
+    "pageid": 8950,
+    "revision_id": 44260419,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان بیله‌سوار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D9%84%D9%87%E2%80%8C%D8%B3%D9%88%D8%A7%D8%B1",
+    "target_title": "قلعه دختر"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "بیله‌سوار",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D9%84%D9%87%E2%80%8C%D8%B3%D9%88%D8%A7%D8%B1"
+  ]
+ },
+ "germi": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه ملی ایران",
+    "pageid": 8955,
+    "revision_id": 44160389,
+    "section": "تاریخچه و نام گذاری / تاریخچه و آثار تاریخی",
+    "source_title": "شهرستان گرمی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
+    "target_title": "موزه ملی ایران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قیز قلعه سی",
+    "pageid": 8955,
+    "revision_id": 44160389,
+    "section": "تاریخچه و نام گذاری / تاریخچه و آثار تاریخی",
+    "source_title": "شهرستان گرمی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
+    "target_title": "قیز قلعه سی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دره رود",
+    "pageid": 8955,
+    "revision_id": 44160389,
+    "section": "جغرافیا و طبیعت / بارش، رودها، چشمه ها و قناتها",
+    "source_title": "شهرستان گرمی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
+    "target_title": "دره رود"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "جنگل‌های ایران",
+    "pageid": 8955,
+    "revision_id": 44160389,
+    "section": "جغرافیا و طبیعت / گونه های گیاهی و جانوری",
+    "source_title": "شهرستان گرمی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
+    "target_title": "جنگل‌های ایران"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "گرمی",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%DB%8C",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%DB%8C"
+  ]
+ },
+ "givi": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبگرم گیوی",
+    "pageid": 8956,
+    "revision_id": 43558379,
+    "section": "آثار تاریخی و طبیعی",
+    "source_title": "شهرستان کوثر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AB%D8%B1",
+    "target_title": "آبگرم گیوی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام سنگی شهر گیوی",
+    "pageid": 8956,
+    "revision_id": 43558379,
+    "section": "آثار تاریخی و طبیعی",
+    "source_title": "شهرستان کوثر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AB%D8%B1",
+    "target_title": "حمام سنگی شهر گیوی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "کوثر",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AB%D8%B1",
+   "https://fa.wikipedia.org/wiki/%DA%AF%DB%8C%D9%88%DB%8C"
+  ]
+ },
+ "khalkhal": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "چشمه آبشار سبیه خانی",
+    "pageid": 8952,
+    "revision_id": 44496059,
+    "section": "جاذبه های طبیعی",
+    "source_title": "شهرستان خلخال",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
+    "target_title": "چشمه آبشار سبیه خانی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار سنگی کوخول عنبر",
+    "pageid": 8952,
+    "revision_id": 44496059,
+    "section": "جاذبه های طبیعی",
+    "source_title": "شهرستان خلخال",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
+    "target_title": "غار سنگی کوخول عنبر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار نره گر",
+    "pageid": 8952,
+    "revision_id": 44496059,
+    "section": "جاذبه های طبیعی",
+    "source_title": "شهرستان خلخال",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
+    "target_title": "آبشار نره گر"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "خلخال",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
+   "https://fa.wikipedia.org/wiki/%D8%AE%D9%84%D8%AE%D8%A7%D9%84"
+  ]
+ },
+ "meshgin-shahr": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه شیخ حیدر",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "آرامگاه شیخ حیدر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه قهقهه",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "قلعه قهقهه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه ارشق",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "قلعه ارشق"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کهنه‌قلعه",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "کهنه‌قلعه (مشگین‌شهر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه قشلاق زاخور",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "قلعه قشلاق زاخور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دیو",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "قلعه دیو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بربر",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "قلعه بربر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه باستان‌شناسی مشگین‌شهر",
+    "pageid": 45655,
+    "revision_id": 44374275,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان مشگین‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "موزه باستان‌شناسی مشگین‌شهر"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "مشگین‌شهر",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B4%DA%AF%DB%8C%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1"
+  ]
+ },
+ "namin": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "عمارت صارم السلطنه نمین",
+    "pageid": 8947,
+    "revision_id": 44452913,
+    "section": "آثار تاریخی و جاذبه های گردشگری",
+    "source_title": "شهرستان نمین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%85%DB%8C%D9%86",
+    "target_title": "عمارت صارم السلطنه نمین"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "شغاله دره",
+    "pageid": 8947,
+    "revision_id": 44452913,
+    "section": "آثار تاریخی و جاذبه های گردشگری",
+    "source_title": "شهرستان نمین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%85%DB%8C%D9%86",
+    "target_title": "شغاله دره"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "جنگل فندقلو",
+    "pageid": 8947,
+    "revision_id": 44452913,
+    "section": "آثار تاریخی و جاذبه های گردشگری",
+    "source_title": "شهرستان نمین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%85%DB%8C%D9%86",
+    "target_title": "جنگل فندقلو"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل فندقلو",
+    "pageid": 10046,
+    "revision_id": 43233841,
+    "section": "آثار تاریخی و جاذبه های گردشگری شهرستان نمین",
+    "source_title": "نمین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%85%DB%8C%D9%86",
+    "target_title": "جنگل فندقلو"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "نمین",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%85%DB%8C%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%86%D9%85%DB%8C%D9%86"
+  ]
+ },
+ "nir": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای شاه عباسی",
+    "pageid": 8953,
+    "revision_id": 43835952,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان نیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%D8%B1",
+    "target_title": "کاروانسرای شاه عباسی (اردبیل)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان قره شیران",
+    "pageid": 8953,
+    "revision_id": 43835952,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان نیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%D8%B1",
+    "target_title": "گورستان قره شیران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بوینی یوغون",
+    "pageid": 8953,
+    "revision_id": 43835952,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان نیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%D8%B1",
+    "target_title": "قلعه بوینی یوغون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای شاه عباسی",
+    "pageid": 91992,
+    "revision_id": 44378150,
+    "section": "جاذبه های گردشگری",
+    "source_title": "نیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1",
+    "target_title": "کاروانسرای شاه عباسی (اردبیل)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گورستان قره شیران",
+    "pageid": 91992,
+    "revision_id": 44378150,
+    "section": "جاذبه های گردشگری",
+    "source_title": "نیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1",
+    "target_title": "گورستان قره شیران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه بوینی یوغون",
+    "pageid": 91992,
+    "revision_id": 44378150,
+    "section": "جاذبه های گردشگری",
+    "source_title": "نیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1",
+    "target_title": "قلعه بوینی یوغون"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "نیر",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%DB%8C%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1"
+  ]
+ },
+ "parsabad": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "پارس‌آباد",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D8%B1%D8%B3%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "sarein": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار گورگور آلوارس",
+    "pageid": 41906,
+    "revision_id": 44276692,
+    "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
+    "source_title": "سرعین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
+    "target_title": "آبشار گورگور آلوارس"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی آلوارس",
+    "pageid": 41906,
+    "revision_id": 44276692,
+    "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
+    "source_title": "سرعین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
+    "target_title": "پیست اسکی آلوارس"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی",
+    "pageid": 41906,
+    "revision_id": 44276692,
+    "section": "جاذبه های تفریحی و گردشگری و ورزشی و توریستی سرعین / سایر جاذبه های گردشگری",
+    "source_title": "سرعین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
+    "target_title": "پیست اسکی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "سرعین",
+  "fetched": "2026-10-02",
+  "province": "ardabil",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%B9%DB%8C%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B9%DB%8C%D9%86"
+  ]
+ }
+}

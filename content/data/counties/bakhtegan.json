@@ -135,6 +135,71 @@
     "khatam-city"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "پارک ملی بختگان",
+     "pageid": 5055922,
+     "revision_id": 44147106,
+     "section": "جاذبه های گردشگری / پارک ملی بختگان",
+     "source_title": "شهرستان بختگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
+     "target_title": "پارک ملی بختگان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "دریاچه بختگان",
+     "pageid": 5055922,
+     "revision_id": 44147106,
+     "section": "جاذبه های گردشگری / پارک ملی بختگان",
+     "source_title": "شهرستان بختگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
+     "target_title": "دریاچه بختگان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "جزیره نرگس",
+     "pageid": 5055922,
+     "revision_id": 44147106,
+     "section": "جاذبه های گردشگری / پارک ملی بختگان",
+     "source_title": "شهرستان بختگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
+     "target_title": "جزیره نرگس"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "دریاچه طشک",
+     "pageid": 5055922,
+     "revision_id": 44147106,
+     "section": "جاذبه های گردشگری / پارک ملی بختگان",
+     "source_title": "شهرستان بختگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
+     "target_title": "دریاچه طشک"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "تنگه جزین",
+     "pageid": 5055922,
+     "revision_id": 44147106,
+     "section": "جاذبه های گردشگری / پارک ملی بختگان",
+     "source_title": "شهرستان بختگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
+     "target_title": "تنگه جزین"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AE%D8%AA%DA%AF%D8%A7%D9%86",
+   "value": "پارک ملی بختگان\nدریاچه بختگان\nجزیره نرگس\nدریاچه طشک\nتنگه جزین"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

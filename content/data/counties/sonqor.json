@@ -149,6 +149,27 @@
    "url": "",
    "value": "آرامگاه مالک"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "کوه دالاخانی",
+     "pageid": 19932,
+     "revision_id": 44582835,
+     "section": "مناطق دیدنی و تفریحی / چشم انداز طبیعی",
+     "source_title": "شهرستان سنقر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%86%D9%82%D8%B1",
+     "target_title": "کوه دالاخانی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%86%D9%82%D8%B1",
+   "value": "کوه دالاخانی"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

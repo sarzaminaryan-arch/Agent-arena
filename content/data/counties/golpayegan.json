@@ -147,6 +147,115 @@
     "meymeh-vazvan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سنگ نگاره",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "سنگ نگاره"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع گلپایگان",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "مسجد جامع گلپایگان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار چهارسوق",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "بازار چهارسوق"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مناره گلپایگان",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "مناره گلپایگان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "ارگ گوگد",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "ارگ گوگد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده هفده تن",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "امامزاده هفده تن"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه باقرخان",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "قلعه باقرخان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کبوتر خانه‌ها",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "کبوتر خانه‌ها"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سنگ‌نگاره‌های غرقاب و کوچری",
+     "pageid": 16085,
+     "revision_id": 44504233,
+     "section": "آثار تاریخی گلپایگان",
+     "source_title": "گلپایگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+     "target_title": "سنگ‌نگاره‌های غرقاب و کوچری"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86",
+   "value": "سنگ نگاره\nمسجد جامع گلپایگان\nبازار چهارسوق\nمناره گلپایگان\nارگ گوگد\nامامزاده هفده تن\nقلعه باقرخان\nکبوتر خانه‌ها\nسنگ‌نگاره‌های غرقاب و کوچری"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

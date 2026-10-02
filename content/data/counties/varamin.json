@@ -138,6 +138,126 @@
     "qom-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده شاه حسین",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "امامزاده شاه حسین (ورامین)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع ورامین",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "مسجد جامع ورامین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج آرامگاه علاءالدین",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "برج آرامگاه علاءالدین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده یحیی",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / دورهٔ ایلخانان / دیگر آثار ایلخانی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "امامزاده یحیی (ورامین)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه امامزاده حسین رضا",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / سایر بناهای تاریخی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "آرامگاه امامزاده حسین رضا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده بی‌بی سکینه",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / سایر بناهای تاریخی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "امامزاده بی‌بی سکینه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه کوکب الدین",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / سایر بناهای تاریخی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "بقعه کوکب الدین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه سید فتح‌الله",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / سایر بناهای تاریخی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "آرامگاه سید فتح‌الله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده زید ابوالحسن الحسینی",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / سایر بناهای تاریخی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "امامزاده زید ابوالحسن الحسینی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده حسین رضا",
+     "pageid": 21017,
+     "revision_id": 44402497,
+     "section": "آثار تاریخی / سایر بناهای تاریخی",
+     "source_title": "ورامین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+     "target_title": "امامزاده حسین رضا"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
+   "value": "امامزاده شاه حسین\nمسجد جامع ورامین\nبرج آرامگاه علاءالدین\nامامزاده یحیی\nآرامگاه امامزاده حسین رضا\nامامزاده بی‌بی سکینه\nبقعه کوکب الدین\nآرامگاه سید فتح‌الله\nامامزاده زید ابوالحسن الحسینی\nامامزاده حسین رضا"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

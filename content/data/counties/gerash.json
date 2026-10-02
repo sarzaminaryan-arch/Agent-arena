@@ -124,6 +124,71 @@
     "bastak"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب‌انبار",
+     "pageid": 6055,
+     "revision_id": 44495703,
+     "section": "تاریخ / آثار تاریخی / برکهٔ کل",
+     "source_title": "گراش",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+     "target_title": "آب‌انبار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه همایون‌دژ",
+     "pageid": 6055,
+     "revision_id": 44495703,
+     "section": "تاریخ / آثار تاریخی / قلعهٔ همایون دژ",
+     "source_title": "گراش",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+     "target_title": "قلعه همایون‌دژ"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب‌انبار حاج اسدالله",
+     "pageid": 6055,
+     "revision_id": 44495703,
+     "section": "تاریخ / آثار تاریخی / برکهٔ حاج اسدالله",
+     "source_title": "گراش",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+     "target_title": "آب‌انبار حاج اسدالله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حسینیه سنگ‌آوی",
+     "pageid": 6055,
+     "revision_id": 44495703,
+     "section": "تاریخ / آثار تاریخی / حسینیهٔ سنگ آوی",
+     "source_title": "گراش",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+     "target_title": "حسینیه سنگ‌آوی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مناره",
+     "pageid": 6055,
+     "revision_id": 44495703,
+     "section": "تاریخ / آثار تاریخی / حسینیهٔ اعظم",
+     "source_title": "گراش",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+     "target_title": "مناره"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+   "value": "آب‌انبار\nقلعه همایون‌دژ\nآب‌انبار حاج اسدالله\nحسینیه سنگ‌آوی\nمناره"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

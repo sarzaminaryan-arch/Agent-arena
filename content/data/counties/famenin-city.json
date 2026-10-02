@@ -131,6 +131,59 @@
     "saveh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام قدیمی شهر",
+     "pageid": 92196,
+     "revision_id": 44402033,
+     "section": "جاذبه گردشگری",
+     "source_title": "فامنین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+     "target_title": "حمام قدیمی شهر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل جهان‌آباد فامنین",
+     "pageid": 92196,
+     "revision_id": 44402033,
+     "section": "جاذبه گردشگری",
+     "source_title": "فامنین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+     "target_title": "پل جهان‌آباد فامنین"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+   "value": "حمام قدیمی شهر\nپل جهان‌آباد فامنین"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار قلعه‌جوق",
+     "pageid": 92196,
+     "revision_id": 44402033,
+     "section": "جاذبه گردشگری",
+     "source_title": "فامنین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+     "target_title": "غار قلعه‌جوق"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+   "value": "غار قلعه‌جوق"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

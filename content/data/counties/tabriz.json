@@ -134,6 +134,180 @@
     "varzaqan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "ارگ علیشاه",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / بناها",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "ارگ علیشاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد کبود",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / بناها",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد کبود (تبریز)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار تبریز",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / بناها",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "بازار تبریز"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد استاد و شاگرد",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد استاد و شاگرد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد ثقةالاسلام",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد ثقةالاسلام"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد جامع"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد حاج صفرعلی",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد حاج صفرعلی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد دال ذال",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد دال ذال"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد صاحب‌الامر",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد صاحب‌الامر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد مجتهد",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد مجتهد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد مقبره",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد مقبره"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد میرزاصادق",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد میرزاصادق"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+   "value": "ارگ علیشاه\nمسجد کبود\nبازار تبریز\nمسجد استاد و شاگرد\nمسجد ثقةالاسلام\nمسجد جامع\nمسجد حاج صفرعلی\nمسجد دال ذال\nمسجد صاحب‌الامر\nمسجد مجتهد\nمسجد مقبره\nمسجد میرزاصادق"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک بزرگ تبریز",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تفریحی / پارک ها",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "پارک بزرگ تبریز"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "لاله پارک",
+     "pageid": 1587,
+     "revision_id": 44473640,
+     "section": "اماکن تفریحی / هتل ها",
+     "source_title": "تبریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+     "target_title": "لاله پارک"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+   "value": "پارک بزرگ تبریز\nلاله پارک"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

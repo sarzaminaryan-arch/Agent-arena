@@ -122,6 +122,70 @@
     "shabestar"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سنگ نگاره خان تختی",
+     "pageid": 20128,
+     "revision_id": 44224569,
+     "section": "جاذبه های گردشگری",
+     "source_title": "سلماس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D8%B3",
+     "target_title": "سنگ نگاره خان تختی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه چهریق",
+     "pageid": 20128,
+     "revision_id": 44224569,
+     "section": "جاذبه های گردشگری",
+     "source_title": "سلماس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D8%B3",
+     "target_title": "قلعه چهریق"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D8%B3",
+   "value": "سنگ نگاره خان تختی\nقلعه چهریق"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه ارومیه",
+     "pageid": 20128,
+     "revision_id": 44224569,
+     "section": "جاذبه های گردشگری",
+     "source_title": "سلماس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D8%B3",
+     "target_title": "دریاچه ارومیه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دره زولا چای",
+     "pageid": 20128,
+     "revision_id": 44224569,
+     "section": "جاذبه های گردشگری",
+     "source_title": "سلماس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D8%B3",
+     "target_title": "دره زولا چای"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D8%B3",
+   "value": "دریاچه ارومیه\nدره زولا چای"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

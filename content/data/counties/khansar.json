@@ -149,6 +149,103 @@
     "meymeh-vazvan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ شهر",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "باغ شهر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه ابهری",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری تاریخی / خانه ابهری خوانسار",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "خانه ابهری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه جعفری خوانسار",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری تاریخی / خانۀ جعفری خوانسار",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "خانه جعفری خوانسار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سوگواری محرم",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری فرهنگی / محرّم",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "سوگواری محرم"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+   "value": "باغ شهر\nخانه ابهری\nخانه جعفری خوانسار\nسوگواری محرم"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری طبیعی / کوچه باغ های خوانسار",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "چشمه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سرچشمه خوانسار",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری طبیعی / پارک ملی سرچشمه",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "سرچشمه خوانسار"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "رشته کوه‌های زاگرس",
+     "pageid": 11931,
+     "revision_id": 43815341,
+     "section": "گردشگری / گردشگری فرهنگی / هتل و مهمان سرا",
+     "source_title": "خوانسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+     "target_title": "رشته کوه‌های زاگرس"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1",
+   "value": "چشمه\nسرچشمه خوانسار\nرشته کوه‌های زاگرس"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

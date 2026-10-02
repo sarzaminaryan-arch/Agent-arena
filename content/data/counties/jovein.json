@@ -139,6 +139,70 @@
     "khoshab"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "شهر آق قلعه",
+     "pageid": 298448,
+     "revision_id": 44260577,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
+     "source_title": "شهرستان جوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
+     "target_title": "شهر آق قلعه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "آرامگاه هفت معصوم",
+     "pageid": 298448,
+     "revision_id": 44260577,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
+     "source_title": "شهرستان جوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
+     "target_title": "آرامگاه هفت معصوم"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "بقعه خواجه نجم‌الدین",
+     "pageid": 298448,
+     "revision_id": 44260577,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
+     "source_title": "شهرستان جوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
+     "target_title": "بقعه خواجه نجم‌الدین"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
+   "value": "شهر آق قلعه\nآرامگاه هفت معصوم\nبقعه خواجه نجم‌الدین"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "کوه‌های جغتای",
+     "pageid": 298448,
+     "revision_id": 44260577,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی",
+     "source_title": "شهرستان جوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
+     "target_title": "کوه‌های جغتای"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%88%DB%8C%D9%86",
+   "value": "کوه‌های جغتای"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

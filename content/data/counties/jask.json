@@ -143,6 +143,27 @@
     "zarabad"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار سادرمند",
+     "pageid": 57043,
+     "revision_id": 44497375,
+     "section": "جاذبه های تاریخی و گردشگری",
+     "source_title": "بندر جاسک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AC%D8%A7%D8%B3%DA%A9",
+     "target_title": "غار سادرمند"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AC%D8%A7%D8%B3%DA%A9",
+   "value": "غار سادرمند"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

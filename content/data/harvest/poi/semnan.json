@@ -1,0 +1,1824 @@
+{
+ "aradan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "بازار آرادان",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "بازار آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع و حسینیه آرادان",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "مسجد جامع و حسینیه آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه آرادان",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "قلعه آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه قلعه یاتری",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه قلعه یاتری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پاده",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "قلعه پاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده شاه نظر",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده شاه نظر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده علی‌اکبر",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده علی‌اکبر (آرادان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده ذوالفقار",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده ذوالفقار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار آرادان",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار علی‌آباد آرادان",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار علی‌آباد آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار قلعه خرابه",
+    "pageid": 1743949,
+    "revision_id": 44213242,
+    "section": "جاذبه های دیدنی",
+    "source_title": "شهرستان آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار قلعه خرابه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار آرادان",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "بازار آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع و حسینیه آرادان",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "مسجد جامع و حسینیه آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه تاریخی آرادان",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "قلعه تاریخی آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار آرادان",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار آرادان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار علی‌آباد",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار علی‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار قلعه خرابه",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار قلعه خرابه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده شاه نظر",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده شاه نظر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه امامزاده خلیل‌الله",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "بقعه امامزاده خلیل‌الله"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده ابوسعید",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده ابوسعید"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک جنگلی",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "اماکن تاریخی و جاذبه های دیدنی",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "پارک جنگلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه پاده",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "روستاهای هدف گردشگری",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "قلعه پاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای شاه‌عباسی",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "روستاهای هدف گردشگری",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "کاروانسرای شاه‌عباسی (دهنمک)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار دهنمک",
+    "pageid": 141152,
+    "revision_id": 44552760,
+    "section": "روستاهای هدف گردشگری",
+    "source_title": "آرادان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+    "target_title": "آب‌انبار دهنمک"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "آرادان",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86"
+  ]
+ },
+ "damghan": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دشت کویر",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های طبیعی / چشمه علی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "دشت کویر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت شده",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های طبیعی / منطقه «جهان نما»",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "منطقه حفاظت شده"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تپه چشمه کبود",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه چشمه کبود"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه قلعه پنجم",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه قلعه پنجم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه باغ بالا",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه باغ بالا"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تپه تیل تغار",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه تیل تغار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه زیر چکل قلعه چه",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه زیر چکل قلعه چه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه تپه بادله کوه",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه تپه بادله کوه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان کشت دشت",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "گورستان کشت دشت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آتشکده دروار",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "آتشکده دروار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه امامزاده شمس‌الدین",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "آرامگاه امامزاده شمس‌الدین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده میر مطهرین میر میکائیل",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "امامزاده میر مطهرین میر میکائیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه جیران قلعه شمالی وجنوبی",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه جیران قلعه شمالی وجنوبی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه حمام",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "تپه حمام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه تپه لارکوه",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه تپه لارکوه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه زرد شمس‌آباد",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه زرد شمس‌آباد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "قلعه گیو تنگه",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه گیو تنگه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "محوطه سر قله دروار",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "محوطه سر قله دروار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه شهرک قدیم مهماندوست",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "محوطه شهرک قدیم مهماندوست"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه میلو",
+    "pageid": 68788,
+    "revision_id": 43055774,
+    "section": "جاذبه های تاریخی",
+    "source_title": "شهرستان دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "محوطه میلو"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه‌علی",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "چشمه‌علی (دامغان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد تاریخانه",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "مسجد تاریخانه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع دامغان",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "مسجد جامع دامغان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه شاهرخ‌شاه",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "آرامگاه شاهرخ‌شاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد حاج شکرالله",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "مسجد حاج شکرالله"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج چهل‌دختران",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "برج چهل‌دختران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار دامغان",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "بازار دامغان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه پیرعلمدار",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "آرامگاه پیرعلمدار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده جعفر",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "امامزاده جعفر (دامغان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده محمد",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "امامزاده محمد (دامغان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج مهماندوست",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "برج مهماندوست (معصوم‌زاده)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه گرد کوه",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه گرد کوه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه مهرنگار دامغان",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه مهرنگار دامغان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کویر حاج علی‌قلی",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار طبیعی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "کویر حاج علی‌قلی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه قلقل",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / آثار طبیعی",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "چشمه قلقل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه منصور کوه",
+    "pageid": 2257,
+    "revision_id": 44199293,
+    "section": "جاذبه های گردشگری / قلل مرتفع",
+    "source_title": "دامغان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "target_title": "قلعه منصور کوه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "دامغان",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86"
+  ]
+ },
+ "garmsar": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای قصر بهرام",
+    "pageid": 11471,
+    "revision_id": 44497842,
+    "section": "جاذبه های گردشگری",
+    "source_title": "گرمسار",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+    "target_title": "کاروانسرای قصر بهرام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای عین‌الرشید",
+    "pageid": 11471,
+    "revision_id": 44497842,
+    "section": "جاذبه های گردشگری",
+    "source_title": "گرمسار",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+    "target_title": "کاروانسرای عین‌الرشید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حرمسرا",
+    "pageid": 11471,
+    "revision_id": 44497842,
+    "section": "جاذبه های گردشگری",
+    "source_title": "گرمسار",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+    "target_title": "حرمسرا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه استاناوند ناروهه",
+    "pageid": 11471,
+    "revision_id": 44497842,
+    "section": "جاذبه های گردشگری",
+    "source_title": "گرمسار",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+    "target_title": "قلعه استاناوند ناروهه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار بزرگ گرمسار",
+    "pageid": 11471,
+    "revision_id": 44497842,
+    "section": "جاذبه های گردشگری",
+    "source_title": "گرمسار",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+    "target_title": "آب‌انبار بزرگ گرمسار"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "گرمسار",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1"
+  ]
+ },
+ "mehdishahr": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار تاریخی مهدی‌شهر",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "آب انبار تاریخی مهدی‌شهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "جنگل فینسک",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "جنگل فینسک"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "قله نیزوا",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "قله نیزوا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده عبدالله شهمیرزاد",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "امامزاده عبدالله شهمیرزاد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده قاسم",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "امامزاده قاسم (مهدی‌شهر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده یحیی شهمیرزاد",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "امامزاده یحیی شهمیرزاد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "بقعه شیخ شهمیرزاد",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "بقعه شیخ شهمیرزاد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حسینیه المهدی",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "حسینیه المهدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "شکارگاه ملاده",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "شکارگاه ملاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "شیرقلعه",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "شیرقلعه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "عمارت کیپور",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "عمارت کیپور"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار دربند",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "غار دربند (مهدی‌شهر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کافرقلعه",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "کافرقلعه (سنگسر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد پامنار",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "مسجد پامنار (مهدی‌شهر)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت شده پرور",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "منطقه حفاظت شده پرور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه عشایری ایل سنگسر",
+    "pageid": 145717,
+    "revision_id": 44452912,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "موزه عشایری ایل سنگسر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک آبشار مهدی‌شهر",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "پارک آبشار مهدی‌شهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار دربند مهدیشهر",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "غار دربند مهدیشهر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حسینیه المهدی",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "حسینیه المهدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه عشایری ایل سنگسر",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "موزه عشایری ایل سنگسر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "عمارت کیپور",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "عمارت کیپور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کافرقلعه",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "کافرقلعه (سنگسر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده قاسم مهدیشهر",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "امامزاده قاسم مهدیشهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه گل رودبار",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "چشمه گل رودبار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد پامنار مهدیشهر",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "مسجد پامنار مهدیشهر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه ابراهیم خان",
+    "pageid": 24239,
+    "revision_id": 44469554,
+    "section": "اماکن گردشگری",
+    "source_title": "مهدی‌شهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+    "target_title": "خانه ابراهیم خان"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "مهدی‌شهر",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1"
+  ]
+ },
+ "meyami": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسراهای میان‌دشت",
+    "pageid": 1790454,
+    "revision_id": 42954374,
+    "section": "مراکز تاریخی و باستانی و گردشگری",
+    "source_title": "شهرستان میامی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%85%DB%8C",
+    "target_title": "کاروانسراهای میان‌دشت"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "پارک ملی گلستان",
+    "pageid": 1790454,
+    "revision_id": 42954374,
+    "section": "مراکز تاریخی و باستانی و گردشگری / [[یخدان تاریخی میامی|''روستای قدس'']]",
+    "source_title": "شهرستان میامی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%85%DB%8C",
+    "target_title": "پارک ملی گلستان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "میامی",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%85%DB%8C"
+  ]
+ },
+ "semnan-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع سمنان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مسجد جامع سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "منار سلجوقی مسجد جامع",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "منار سلجوقی مسجد جامع"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد امام سمنان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مسجد امام سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "دروازه ارگ سمنان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "دروازه ارگ سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "بازار سمنان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "بازار سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "بازار شیخ علاءالدوله",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "بازار شیخ علاءالدوله"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "برج چهل‌دختران",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "برج چهل‌دختران (سمنان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه‌های سارو",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "قلعه‌های سارو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پاچنار",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "قلعه پاچنار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کوشمغان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "قلعه کوشمغان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه زاوغان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "قلعه زاوغان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کهن‌دژ",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "قلعه کهن‌دژ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای سنگی آهوان",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "کاروانسرای سنگی آهوان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه حکیم الهی سمنانی",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "آرامگاه حکیم الهی سمنانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه پیر نجم الدین",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "آرامگاه پیر نجم الدین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار کهنه دژ",
+    "pageid": 141149,
+    "revision_id": 44260873,
+    "section": "جاذبه های تاریخی و باستانی",
+    "source_title": "شهرستان سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "آب‌انبار کهنه دژ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مسجد جامع سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مناره مسجد جامع سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مناره مسجد جامع سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد امام سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مسجد امام سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع زاوقان سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مسجد جامع زاوقان سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دروازه ارگ سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "دروازه ارگ سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه سمنانی‌ها",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "خانه سمنانی‌ها"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه تدیّن",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "خانه تدیّن"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه کلانتر",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "خانه کلانتر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کارخانه نساجی پارس",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "کارخانه نساجی پارس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار کارخانه نساجی پارس",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "آب‌انبار کارخانه نساجی پارس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج چهل‌دختران",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "برج چهل‌دختران (سمنان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای سنگی آهوان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "کاروانسرای سنگی آهوان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای نصف جهان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "کاروانسرای نصف جهان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای شاه سلیمانی آهوان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "کاروانسرای شاه سلیمانی آهوان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسراهای شاه عباسی",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "کاروانسراهای شاه عباسی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مقبره درویش محمود",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "مقبره درویش محمود"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گورستان سنادره",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "گورستان سنادره"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه‌های سارو",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "قلعه‌های سارو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "بازار سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار شیخ علاءالدوله",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های تاریخی و باستانی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "بازار شیخ علاءالدوله"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه مردم‌شناسی سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / موزه ها",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "موزه مردم‌شناسی سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "عمارت و باغ امیر سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / موزه ها",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "عمارت و باغ امیر سمنان"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک موزه دفاع مقدس سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / موزه ها",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "پارک موزه دفاع مقدس سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه هنرهای معاصر شرق کشور",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / موزه ها",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "موزه هنرهای معاصر شرق کشور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه حیات وحش سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / موزه ها",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "موزه حیات وحش سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه سکه سمنان",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / موزه ها",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "موزه سکه سمنان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه پیغمبران",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های مذهبی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "بقعه پیغمبران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده یحیی بن موسی کاظم",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های مذهبی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "امامزاده یحیی بن موسی کاظم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده علی بن جعفر",
+    "pageid": 19801,
+    "revision_id": 44426855,
+    "section": "گردشگری / جاذبه های مذهبی",
+    "source_title": "سمنان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+    "target_title": "امامزاده علی بن جعفر (سمنان)"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "سمنان",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%86%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%D9%86%D8%A7%D9%86"
+  ]
+ },
+ "shahrud": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد شیخ علی‌اکبر",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "مسجد شیخ علی‌اکبر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع شاهرود",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "مسجد جامع شاهرود"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل ابر",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های طبیعی شاهرود",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "جنگل ابر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک ملی توران",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های طبیعی شاهرود",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "پارک ملی توران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه بالا",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های طبیعی شاهرود",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "قلعه بالا (شاهرود)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه ابوالحسن خرقانی",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "آرامگاه ابوالحسن خرقانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه‌نو خرقان",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "قلعه‌نو خرقان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه یغمایی",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "خانه یغمایی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار شاهرود",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "بازار شاهرود"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه عطاردی",
+    "pageid": 6494,
+    "revision_id": 44612577,
+    "section": "گردشگری / جاذبه های تاریخی",
+    "source_title": "شاهرود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+    "target_title": "خانه عطاردی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "شاهرود",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF"
+  ]
+ },
+ "sorkheh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد چهل ستون سرخه",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "مکان های تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "مسجد چهل ستون سرخه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار سرخه",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "مکان های تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "آب‌انبار سرخه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه پیر غریب",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "مکان های تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "بقعه پیر غریب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای لاسجرد",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "مکان های تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "کاروانسرای لاسجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد امام حسین",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "مکان های تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "مسجد امام حسین (سرخه)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای شاه",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "آثار تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "کاروانسرای شاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده سیدمحمد",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "آثار تاریخی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "امامزاده سیدمحمد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده محمد بن زید سرخه",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "جاذبه های طبیعی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "امامزاده محمد بن زید سرخه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده عبدالله",
+    "pageid": 59178,
+    "revision_id": 43115825,
+    "section": "جاذبه های طبیعی",
+    "source_title": "سرخه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87",
+    "target_title": "امامزاده عبدالله (سرخه)"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "سرخه",
+  "fetched": "2026-10-02",
+  "province": "semnan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%AE%D9%87",
+   "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D9%87"
+  ]
+ }
+}

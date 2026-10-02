@@ -15,6 +15,8 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "natanz - جنوب\nkashan - غرب\nardestan - جنوب‌شرق\ngarmsar - شمال",
+  "sa_cty_poi_heritage": "امامزاده هلال بن علی",
+  "sa_cty_poi_nature": "کویر مرنجاب\nدریاچه نمک\nدشت کویر",
   "sa_cty_population": 103517,
   "sa_cty_rural_districts": 3,
   "sa_cty_villages": 13,
@@ -180,6 +182,8 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "buin-miandasht - شمال‌شرق\naligudarz - غرب\nkuhrang - جنوب\nlali - جنوب‌غرب",
+  "sa_cty_poi_nature": "دره غول\nکوه سوره\nکوه مارک\nکوه هشتاد\nغار کبوتران\nغار کلبیس\nغار باووک\nغار پیرهشتاد\nغار چشمه ریسان\nآبشار دورک\nآبشار طرزه\nآبشار پشندگان",
+  "sa_cty_poi_recreation": "پیست اسکی فریدون‌شهر",
   "sa_cty_population": 35654,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.91667,50.0"
@@ -200,6 +204,7 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "khansar - جنوب\nkhomeyn - شمال‌غرب\nmahallat - شمال\nmeymeh-vazvan - شرق",
+  "sa_cty_poi_heritage": "سنگ نگاره\nمسجد جامع گلپایگان\nبازار چهارسوق\nمناره گلپایگان\nارگ گوگد\nامامزاده هفده تن\nقلعه باقرخان\nکبوتر خانه‌ها\nسنگ‌نگاره‌های غرقاب و کوچری",
   "sa_cty_population": 90086,
   "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.5,50.33333"
@@ -238,6 +243,9 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "borkhar - شمال\nkhomeyni-shahr - غرب\nfalavarjan - جنوب‌غرب\nharand - شرق\njarqavieh - جنوب‌شرق",
+  "sa_cty_poi_heritage": "مسجد شاه\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سیّد\nمسجد شیخ لطف‌الله\nبرج کبوترخانه\nخیابان چهارباغ اصفهان\nکلیسای وانک\nحمام علی‌قلی‌آقا\nباغ پرندگان اصفهان\nباغ فدک اصفهان",
+  "sa_cty_poi_nature": "کوه صفه\nپارک جنگلی ناژوان\nپردیس سینمایی ساحل اصفهان",
+  "sa_cty_poi_recreation": "بوستان",
   "sa_cty_population": 2243249,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.62167,51.75972"
  },
@@ -302,6 +310,8 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "buin-miandasht - جنوب‌غرب\ngolpayegan - شمال\nfereydan - جنوب\nshahin-shahr-meymeh - شرق\nmeymeh-vazvan - شرق",
+  "sa_cty_poi_heritage": "باغ شهر\nخانه ابهری\nخانه جعفری خوانسار\nسوگواری محرم",
+  "sa_cty_poi_nature": "چشمه\nسرچشمه خوانسار\nرشته کوه‌های زاگرس",
   "sa_cty_population": 33049,
   "sa_cty_rural_districts": 3,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.25,50.33333"
@@ -481,6 +491,7 @@
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "ardestan - شرق\naran-bidgol - شمال\nmeymeh-vazvan - غرب\nshahin-shahr-meymeh - جنوب‌غرب\nkashan - شمال‌غرب\nborkhar - جنوب",
   "sa_cty_poi_heritage": "آتشکده\nامامزاده سلطان حسین\nمسجد جامع\nقلعه طرق",
+  "sa_cty_poi_nature": "آندره گدار",
   "sa_cty_poi_offbeat": "مرکز شهر\nاریسمان\nتاریخ ساسانیان\nموسی بن جعفر\nابوسعید بهادرخان\nشاه عباس\nطرق‌رود\nنطنز",
   "sa_cty_population": 43977,
   "sa_cty_rural_districts": 5,
@@ -501,6 +512,8 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "falard - غرب\nkhanmirza - غرب\ndehaqan - شمال\nborujen - شمال‌غرب\nabadeh - شرق",
+  "sa_cty_poi_heritage": "کارگاه",
+  "sa_cty_poi_nature": "آبشار سمیرم\nآبشار آب ملخ",
   "sa_cty_population": 74109,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.41667,51.58333"
@@ -541,6 +554,7 @@
   "sa_cty_language": "فارسی با گویش‌های محلی اصفهانی؛ در بخش‌هایی ترکی قشقایی و بختیاری",
   "sa_cty_livelihood": "صنعت (فولاد و نساجی)، کشاورزی، صنایع دستی و گردشگری",
   "sa_cty_neighbors": "dehaqan - غرب\njarqavieh - شمال‌شرق\nabadeh - جنوب‌شرق",
+  "sa_cty_poi_heritage": "کاروانسرا",
   "sa_cty_population": 159797,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.0,51.86667"

@@ -15,6 +15,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "shadegan - شمال\nmahshahr - شمال‌شرق\nkhorramshahr - شمال‌غرب",
+  "sa_cty_poi_heritage": "مسجد رنگونی‌های آبادان\nموزهٔ اسناد تاریخی و خطی\nمسجد رنگونی‌ها\nموزه آبادان",
   "sa_cty_population": 298090,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.26667,48.56667"
@@ -34,6 +35,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "omidiyeh - شمال‌غرب\nbehbahan - شرق\nbahmai - شمال‌شرق\nhendijan - جنوب",
+  "sa_cty_poi_heritage": "امام زاده شاه عبدالله\nامام زاده شاه خراسان",
   "sa_cty_poi_nature": "ساحل رودخانه مارون\nسد خاکی",
   "sa_cty_population": 17654,
   "sa_cty_rural_districts": 3,
@@ -53,6 +55,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "hamidiyeh - شمال‌غرب\nbavi - شمال‌شرق\nshadegan - جنوب\nramshir - جنوب‌شرق\nkhorramshahr - جنوب‌غرب",
+  "sa_cty_poi_heritage": "بازار عبدالحمید\nکاروانسرا\nبازار\nخانه دادرس\nکارخانه ریسندگی و بافندگی",
+  "sa_cty_poi_nature": "سینما ساحل اهواز",
   "sa_cty_population": 1302591,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.3275,48.69389"
@@ -72,6 +76,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "masjed-soleyman - جنوب‌غرب\nlali - شمال‌غرب\nkuhrang - شمال‌شرق\nizeh - جنوب‌شرق",
+  "sa_cty_poi_heritage": "محوطه چنگا\nمحوطه ده کیدیده\nمحوطه چال دیره",
   "sa_cty_poi_offbeat": "جاذبه‌های گردشگری\nمجتبی گهستونی",
   "sa_cty_population": 47629,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.20639,49.44361"
@@ -89,6 +94,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "dezful - شرق\nshush - جنوب\npol-e-dokhtar - شمال‌غرب\nabdanan - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعه رزه\nامام زاده\nامامزاده بابالنگ\nپل بالارود\nپل خشتی\nپل پدر\nپل پسر",
+  "sa_cty_poi_nature": "دریاچه سد",
   "sa_cty_population": 171412,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.58333,48.33333"
  },
@@ -147,6 +154,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "aghajari - غرب\nlandeh - شمال\nbahmai - شمال\ngachsaran - جنوب‌شرق\nchoram - شرق\ndeylam - جنوب\nhendijan - جنوب‌غرب",
+  "sa_cty_poi_heritage": "قلعه مدرسه",
   "sa_cty_poi_nature": "تنگ‌تکاب",
   "sa_cty_poi_offbeat": "خداوند الموت\nبهبهان\nخاییز\nپادشاهان ساسانی\nمارون",
   "sa_cty_population": 180593,
@@ -188,6 +196,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "gotvand - جنوب\nandimeshk - غرب\nlali - شرق\naligudarz - شمال‌شرق\ndorud - شمال",
+  "sa_cty_poi_heritage": "پل قدیم\nمسجد جامع\nبازار کهنه\nآرامگاه یعقوب لیث\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nبقعه مقام علی\nآرامگاه سوار غیب\nبقعه پیر اسحاق",
   "sa_cty_poi_nature": "آبشار شوی\nآبشارهای ایران\nتفریحگاه ساحلی دز\nسالن کوه\nکوهنوردی\nسد دز\nدریاچه شهیون",
   "sa_cty_poi_offbeat": "استان خوزستان\nمیانرود\nگوزن زرد ایرانی",
   "sa_cty_poi_recreation": "پارک ملی دز\nپارک‌های ملی ایران",
@@ -228,6 +237,7 @@
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "dezful - شمال\nshushtar - جنوب\nlali - شمال‌شرق\nmasjed-soleyman - جنوب‌شرق\nkarkheh - جنوب‌غرب",
   "sa_cty_poi_heritage": "تپه چغا",
+  "sa_cty_poi_nature": "کوه طبل خانه",
   "sa_cty_poi_offbeat": "جاذبه‌های گردشگری\nدهستان کیارس",
   "sa_cty_population": 65468,
   "sa_cty_rural_districts": 10,
@@ -285,6 +295,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "aghajari - شمال\nbehbahan - شمال‌شرق\ndeylam - شرق\nmahshahr - شمال‌غرب",
+  "sa_cty_poi_nature": "خلیج فارس\nرودخانه زهره",
   "sa_cty_population": 38762,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.25,49.66667"
@@ -327,6 +338,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "dezpart - جنوب‌شرق\nardal - شرق\nbagh-e-malek - جنوب\nkuhrang - شمال\nandika - شمال‌غرب\nhaftkel - جنوب‌غرب\nmasjed-soleyman - غرب",
+  "sa_cty_poi_heritage": "قنات‌های راسوند\nقلعه کژدم",
+  "sa_cty_poi_nature": "تالاب میانگران\nکوه منگشت",
   "sa_cty_population": 198871,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.91667,49.98333"
@@ -382,6 +395,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "shadegan - شرق\nabadan - جنوب‌شرق\nahvaz-city - شمال‌شرق\nhoveyzeh - شمال",
+  "sa_cty_poi_nature": "جزیره مینو",
   "sa_cty_population": 170976,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.68333,48.18333"
@@ -443,6 +457,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "andika - شمال‌شرق\nshushtar - غرب\nhaftkel - جنوب\ngotvand - شمال‌غرب\nbavi - جنوب‌غرب\nizeh - شرق",
+  "sa_cty_poi_heritage": "آتشکده جاویدان\nسقاخانه حضرت ابوالفضل\nکلیسای ارمنی‌ها نمره چهل\nگورستان خارجی‌ها مسجدسلیمان\nگورستان ارمنی‌ها مسجدسلیمان\nکلیسای کاتولیک‌ها\nتیم فوتبال نفت مسجدسلیمان",
+  "sa_cty_poi_nature": "پارک جنگلی تمبی\nجزیره کوشک\nدریاچهٔ سد شهید عباسپور\nچشمه آب گرم گلگیر",
   "sa_cty_population": 113419,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.98333,49.26667"
@@ -482,6 +498,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "haftkel - شمال‌غرب\nbagh-e-malek - شمال‌شرق\nramshir - جنوب‌غرب\nbahmai - جنوب‌شرق",
+  "sa_cty_poi_heritage": "قلعه داودختر\nقلعه امیر مجاهد\nقلعه یزدگرد\nعمارت صمیمی\nروستای زیبای چم هاشم قلعه دهقان\nموزه ایران باستان",
+  "sa_cty_poi_nature": "غار صیدون کبوتری\nتشکوه رامهرمز\nچشمه‌های قیر ماماتین\nمنطقه حفاظت شده",
   "sa_cty_population": 113776,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.28104,49.59957"
@@ -521,6 +539,7 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "mahshahr - شرق\nabadan - جنوب\nkhorramshahr - غرب\nahvaz-city - شمال",
+  "sa_cty_poi_nature": "تالاب شادگان",
   "sa_cty_population": 138480,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.66667,48.66667"
@@ -541,6 +560,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "karkheh - جنوب‌شرق\ndasht-azadegan - جنوب\nandimeshk - شمال\ndehloran - شمال‌غرب",
+  "sa_cty_poi_heritage": "حرم‌سرا",
+  "sa_cty_poi_nature": "گربه جنگلی",
   "sa_cty_population": 205720,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=32.03333,48.21667"
@@ -559,6 +580,8 @@
   "sa_cty_language": "فارسی، عربی خوزستانی، لری بختیاری و دزفولی–شوشتری",
   "sa_cty_livelihood": "نفت و گاز، پتروشیمی، کشاورزی (نیشکر و گندم) و بنادر",
   "sa_cty_neighbors": "gotvand - شمال\nmasjed-soleyman - شرق\nkarkheh - غرب\nbavi - جنوب\nhamidiyeh - جنوب‌غرب\nhaftkel - جنوب‌شرق",
+  "sa_cty_poi_heritage": "مسجد سلیمان\nمسجدسلیمان\nآرامگاه امامزاده عبدالله شوشتر\nمسجد جامع شوشتر\nآرامگاه براء بن مالک\nآرامگاه سید محمد بازار\nآرامگاه امامزاده سید محمد ماهرو\nآرامگاه شعیب نبی\nپل و سد شادروان شوشتر\nقلعه سلاسل\nکاروانسرای افضل\nپل بند لشکر",
+  "sa_cty_poi_nature": "خلیج فارس\nمجموعه آبشارهای شوشتر\nچشمه سوزنگر\nپارک طبیعت آبشار شوشتر\nپارک جنگلی شوشتر\nکوه زر",
   "sa_cty_population": 192028,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.9,48.85"

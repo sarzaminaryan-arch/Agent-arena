@@ -161,6 +161,38 @@
    "url": "",
    "value": "زرینه‌رود\nشمس‌الدین برهانی\nنقشبندی\nعلی بیگ حیدری\nسیف القضات\nصالح حریق\nمیلاد مسیح\nایران\nحسنلو\nنقده\nزیویه\nسقز"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شهربازی",
+     "pageid": 2320436,
+     "revision_id": 44604815,
+     "section": "مکان های تفریحی و گردشگری",
+     "source_title": "بوکان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%DA%A9%D8%A7%D9%86",
+     "target_title": "شهربازی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پیست اسکی",
+     "pageid": 2320436,
+     "revision_id": 44604815,
+     "section": "مکان های تفریحی و گردشگری",
+     "source_title": "بوکان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%DA%A9%D8%A7%D9%86",
+     "target_title": "پیست اسکی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%DA%A9%D8%A7%D9%86",
+   "value": "شهربازی\nپیست اسکی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

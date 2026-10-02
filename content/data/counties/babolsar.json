@@ -147,6 +147,48 @@
     "joybar"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل معلق بابلسر",
+     "pageid": 10567,
+     "revision_id": 44330295,
+     "section": "جاذبه های گردشگری / پل معلق بابلسر",
+     "source_title": "بابلسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1",
+     "target_title": "پل معلق بابلسر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1",
+   "value": "پل معلق بابلسر"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ‌وحش بابلسر",
+     "pageid": 10567,
+     "revision_id": 44330295,
+     "section": "جاذبه های گردشگری / باغ وحش",
+     "source_title": "بابلسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1",
+     "target_title": "باغ‌وحش بابلسر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1",
+   "value": "باغ‌وحش بابلسر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

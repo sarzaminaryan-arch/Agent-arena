@@ -145,6 +145,82 @@
     "farashband"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع خورموج",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "مسجد جامع خورموج"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج قلعه خورموج",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "برج قلعه خورموج (شهرستان دشتی)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آتشکده خورموج",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "آتشکده خورموج"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه دختر",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "قلعه دختر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت شیرینه",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "عمارت شیرینه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه محمد خان دشتی",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "موزه محمد خان دشتی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+   "value": "مسجد جامع خورموج\nبرج قلعه خورموج\nآتشکده خورموج\nقلعه دختر\nعمارت شیرینه\nموزه محمد خان دشتی"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
@@ -152,6 +228,27 @@
    "status": "auto",
    "url": "",
    "value": "دیالیز\nهیدرات"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان بزرگ مفتون",
+     "pageid": 23599,
+     "revision_id": 44388553,
+     "section": "گردشگری",
+     "source_title": "خورموج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+     "target_title": "بوستان بزرگ مفتون (۲۵هکتار)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+   "value": "بوستان بزرگ مفتون"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -125,6 +125,212 @@
     "jarqavieh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد شاه",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "مسجد شاه (اصفهان)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل خواجو",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "پل خواجو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل مارنان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "پل مارنان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع اصفهان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "مسجد جامع اصفهان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد سیّد",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "مسجد سیّد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد شیخ لطف‌الله",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "مسجد شیخ لطف‌الله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج کبوترخانه",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "برج کبوترخانه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خیابان چهارباغ اصفهان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "خیابان چهارباغ اصفهان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای وانک",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "کلیسای وانک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام علی‌قلی‌آقا",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / جاذبه های تاریخی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "حمام علی‌قلی‌آقا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ پرندگان اصفهان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "باغ پرندگان اصفهان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ فدک اصفهان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "باغ فدک اصفهان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+   "value": "مسجد شاه\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سیّد\nمسجد شیخ لطف‌الله\nبرج کبوترخانه\nخیابان چهارباغ اصفهان\nکلیسای وانک\nحمام علی‌قلی‌آقا\nباغ پرندگان اصفهان\nباغ فدک اصفهان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه صفه",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "کوه صفه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک جنگلی ناژوان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "پارک جنگلی ناژوان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پردیس سینمایی ساحل اصفهان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی / '''فیلم و سینما'''",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "پردیس سینمایی ساحل اصفهان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+   "value": "کوه صفه\nپارک جنگلی ناژوان\nپردیس سینمایی ساحل اصفهان"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان",
+     "pageid": 2169,
+     "revision_id": 44613583,
+     "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
+     "source_title": "اصفهان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+     "target_title": "بوستان (پارک)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+   "value": "بوستان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

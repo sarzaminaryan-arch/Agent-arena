@@ -128,6 +128,148 @@
     "khondab"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار اراک",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "بازار اراک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام چهارفصل",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "حمام چهارفصل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه حسن‌پور",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "خانه حسن‌پور"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج شیشه اراک",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "برج شیشه اراک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه حاج وکیل",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "قلعه حاج وکیل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "ارگ حکومتی اراک",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "ارگ حکومتی اراک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای شاه عباسی",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "کاروانسرای شاه عباسی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه حاج‌آقا محسن اراکی",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "خانه حاج‌آقا محسن اراکی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه حاج‌حسین خاکباز محسنی",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "خانه حاج‌حسین خاکباز محسنی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه شاهزاده محمد عابد",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / جاذبه های مذهبی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "آرامگاه شاهزاده محمد عابد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده شاهزاده عبدالله و آمنه خاتون",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / جاذبه های مذهبی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "امامزاده شاهزاده عبدالله و آمنه خاتون"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای مسروپ",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "گردشگری / جاذبه های مذهبی",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "کلیسای مسروپ"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+   "value": "بازار اراک\nحمام چهارفصل\nخانه حسن‌پور\nبرج شیشه اراک\nقلعه حاج وکیل\nارگ حکومتی اراک\nکاروانسرای شاه عباسی\nخانه حاج‌آقا محسن اراکی\nخانه حاج‌حسین خاکباز محسنی\nآرامگاه شاهزاده محمد عابد\nامامزاده شاهزاده عبدالله و آمنه خاتون\nکلیسای مسروپ"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
@@ -143,6 +285,49 @@
    "status": "auto",
    "url": "",
    "value": "چناس\nبرآفتاب\nگورآب\nمیشو"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شهربازی",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "مراکز تفریحی / پارک ها",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "شهربازی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک آبی",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "مراکز تفریحی / پارک ها",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "پارک آبی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ وحش",
+     "pageid": 5967,
+     "revision_id": 44609638,
+     "section": "مراکز تفریحی / پارک ها",
+     "source_title": "اراک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+     "target_title": "باغ وحش"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A7%DA%A9",
+   "value": "شهربازی\nپارک آبی\nباغ وحش"
   },
   "population": {
    "fetched": "2026-10-02",

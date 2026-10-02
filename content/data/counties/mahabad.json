@@ -128,6 +128,125 @@
     "mirabad"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع سرخ",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "مسجد جامع سرخ"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد دارالاحسان",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "مسجد دارالاحسان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد سید",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "مسجد سید"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد قاضی",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / مساجد",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "مسجد قاضی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ سیسه",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "باغ سیسه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ میکائیل",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن تاریخی / باغ ها (شهرباغ های دیروز)<ref>ماهنامهٔ مهاباد، سال سیزدهم، شمارهٔ ۱۵۱، سال ۱۳۹۲</ref>",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "باغ میکائیل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ مکائیل",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن گردشگری",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "باغ مکائیل"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+   "value": "مسجد جامع سرخ\nمسجد دارالاحسان\nمسجد سید\nمسجد قاضی\nباغ سیسه\nباغ میکائیل\nباغ مکائیل"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار سهولان",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن گردشگری",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "غار سهولان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب کانی برازان",
+     "pageid": 9103,
+     "revision_id": 44353754,
+     "section": "اماکن گردشگری",
+     "source_title": "مهاباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+     "target_title": "تالاب کانی برازان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF",
+   "value": "غار سهولان\nتالاب کانی برازان"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

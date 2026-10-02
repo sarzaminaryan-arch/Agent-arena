@@ -141,6 +141,169 @@
     "rabor"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه دختر",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "قلعه دختر (کرمان)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه اردشیر",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "قلعه اردشیر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خودمختارگرایی",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "خودمختارگرایی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "نقش رستم",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "نقش رستم"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "از قلعه دختر تا دقیانوس",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "از قلعه دختر تا دقیانوس"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آتشکده",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "آتشکده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "بازار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "حمام"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرا",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "کاروانسرا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب‌انبار",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "آب‌انبار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام گنجعلیخان",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "حمام گنجعلیخان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع مظفری",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "مسجد جامع مظفری"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+   "value": "قلعه دختر\nقلعه اردشیر\nخودمختارگرایی\nنقش رستم\nاز قلعه دختر تا دقیانوس\nآتشکده\nبازار\nحمام\nکاروانسرا\nآب‌انبار\nحمام گنجعلیخان\nمسجد جامع مظفری"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غارتگران",
+     "pageid": 115389,
+     "revision_id": 44458927,
+     "section": "تاریخ / قدمت بناهای تاریخی",
+     "source_title": "کرمان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+     "target_title": "غارتگران (ابهام‌زدایی)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
+   "value": "غارتگران"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -132,6 +132,201 @@
     "sonqor"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "طاق‌بستان",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "طاق‌بستان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شکارگاه خسروپرویز",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "شکارگاه خسروپرویز"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار کرمانشاه",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "بازار کرمانشاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد عمادالدوله",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "مسجد عمادالدوله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع کرمانشاه",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "مسجد جامع کرمانشاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع شافعی",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "مسجد جامع شافعی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد حاج شهباز خان",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "مسجد حاج شهباز خان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد شاهزاده",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "مسجد شاهزاده (کرمانشاه)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد دولتشاه",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "مسجد دولتشاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه خواجه باروخ",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی / معماری دورهٔ قاجار",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "خانه خواجه باروخ"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+   "value": "طاق‌بستان\nشکارگاه خسروپرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد جامع کرمانشاه\nمسجد جامع شافعی\nمسجد حاج شهباز خان\nمسجد شاهزاده\nمسجد دولتشاه\nخانه خواجه باروخ"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه بیستون",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / معماری و آثار تاریخی",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "کوه بیستون"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+   "value": "کوه بیستون"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک کوهستان",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "پارک کوهستان"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک شاهد کرمانشاه",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "پارک شاهد کرمانشاه"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک شیرین کرمانشاه",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "پارک شیرین کرمانشاه"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک لاله کرمانشاه",
+     "pageid": 7878,
+     "revision_id": 44458955,
+     "section": "چشم انداز شهری / اماکن سطح شهر / پارک ها",
+     "source_title": "کرمانشاه",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+     "target_title": "پارک لاله کرمانشاه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+   "value": "پارک کوهستان\nپارک شاهد کرمانشاه\nپارک شیرین کرمانشاه\nپارک لاله کرمانشاه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

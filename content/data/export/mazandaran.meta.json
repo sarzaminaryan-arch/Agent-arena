@@ -34,6 +34,7 @@
   "sa_cty_poi_heritage": "آتشکده آمل\nمسجد جامع آمل\nقلعه ملک بهمن\nکاروانسرای کمبوج\nمسجد آقا عباس\nقلعه کهرود\nبازار قدیم آمل\nتکیه روستای فیروزکلا\nپل فیروزکلای آمل\nپل معلق\nامامزاده ابراهیم\nآرامگاه ناصرالحق",
   "sa_cty_poi_nature": "پل دوازده چشمه\nتپه تنگ سفید آب",
   "sa_cty_poi_offbeat": "مشهد میر بزرگ\nشکل شاه\nمحمد بن محمود آملی\nساختمان دارائی\nشهر قدیم آمل\nدخمه سنگی کافر کلی\nمیربزرگ\nمیر حیدر آملی",
+  "sa_cty_poi_recreation": "پارک دهکده طلایی\nپارک مینیاتوری آمل",
   "sa_cty_population": 401639,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.35"
  },
@@ -73,6 +74,8 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "freydunkenar - غرب\nsimorgh - جنوب‌شرق\nbabol - جنوب\njoybar - شرق",
+  "sa_cty_poi_heritage": "پل معلق بابلسر",
+  "sa_cty_poi_recreation": "باغ‌وحش بابلسر",
   "sa_cty_population": 135191,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.66667,52.66667"
  },
@@ -114,6 +117,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "kelardasht - غرب\nnowshahr - شرق\nshemiranat - جنوب‌شرق\nkaraj - جنوب",
+  "sa_cty_poi_heritage": "کارخانه حریربافی چالوس",
   "sa_cty_poi_nature": "علم کوه\nمنطقه نمونه گردشگری دریاچه ولشت\nیخچال طبیعی",
   "sa_cty_poi_offbeat": "منطقه نمونه گردشگری نمک‌آبرود\nفشکور",
   "sa_cty_population": 116542,
@@ -188,6 +192,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "chalus - شرق\ntonekabon - شمال‌غرب\nabbasabad - شمال\ntaleghan - جنوب‌غرب",
+  "sa_cty_poi_heritage": "موزه ایران باستان",
   "sa_cty_population": 23648,
   "sa_cty_rural_districts": 2,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.41667,51.08333"
@@ -226,6 +231,7 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "sari - جنوب‌غرب\njoybar - غرب\nneka - شرق\nbehshahr - شرق",
+  "sa_cty_poi_nature": "پناهگاه حیات وحش\nرودخانه دز\nدریاچه ارومیه\nجنگل‌های هیرکانی\nگربه جنگلی",
   "sa_cty_population": 55053,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.595,53.2075"
  },
@@ -308,6 +314,8 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "simorgh - شمال‌غرب\nsari - شرق\nsavadkuh - جنوب",
+  "sa_cty_poi_nature": "کبوتر جنگلی\nجنگل شالتماس\nدریاچه گل‌پل",
+  "sa_cty_poi_recreation": "بوستان نمونه گردشگری پایین‌لموک\nپارک نمونه گردشگری پایین‌لموک",
   "sa_cty_population": 309199,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.46667,52.86667"
@@ -328,6 +336,8 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "rudsar - جنوب‌غرب\ntonekabon - جنوب‌شرق\namlash - شمال‌غرب",
+  "sa_cty_poi_heritage": "قلعه مارکو\nکاخ مرمر رامسر\nقلعه بابک",
+  "sa_cty_poi_nature": "چشمه",
   "sa_cty_poi_offbeat": "هتل قدیم رامسر\nرامسر",
   "sa_cty_population": 74179,
   "sa_cty_rural_districts": 4,
@@ -372,6 +382,7 @@
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "firuzkuh - جنوب\nqaemshahr - شمال\nmehdishahr - جنوب‌شرق",
   "sa_cty_poi_heritage": "برج دیو کلی\nکاروانسرای گدوک\nقلعه اولاد\nپل شاپور\nپل قدیمی پل سفید\nآرامگاه اخوت\nکلیسای سرخ‌آباد\nپل ورسک\nقلعه کنگلو",
+  "sa_cty_poi_nature": "پارک جنگلی\nدریاچه شورمست\nغار اسپهبد خورشید\nآبشار شورآب",
   "sa_cty_poi_offbeat": "کشتی محلی\nهجری شمسی\nصنعت حمل و نقل\nگردنه گدوک\nحمل و نقل\nاوقات فراغت\nزغال‌سنگ\nخط القعر\nشهرستان ساری\nلله‌وا\nملودی\nامیری خوانی",
   "sa_cty_population": 43913,
   "sa_cty_rural_districts": 4,
@@ -416,6 +427,8 @@
   "sa_cty_language": "مازندرانی (طبری)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "برنج‌کاری، مرکبات، دامداری، شیلات و گردشگری",
   "sa_cty_neighbors": "abbasabad - شرق\nramsar - شمال‌غرب\nkelardasht - جنوب‌شرق\ntaleghan - جنوب",
+  "sa_cty_poi_heritage": "تخت سلیمان\nقلعه تنکا\nپل آجری\nقلعه کتی\nقلعه لشکرک\nموزهٔ مردم‌شناسی\nپل قلعه گردن",
+  "sa_cty_poi_nature": "منطقه حفاظت شده\nگرم چشمه\nغار دانیال\nغار علیصدر\nچشمه آب",
   "sa_cty_population": 166132,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63333,50.81667"
  }

@@ -140,6 +140,27 @@
     "khonj"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام علی خان اشکنان",
+     "pageid": 11110,
+     "revision_id": 44409348,
+     "section": "میراث فرهنگی، صنایع دستی وگردشگری لامرد / [[منطقه شکارممنوع کوه هوا و تنگ خور|تنگ خور]]",
+     "source_title": "لامرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
+     "target_title": "حمام علی خان اشکنان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
+   "value": "حمام علی خان اشکنان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

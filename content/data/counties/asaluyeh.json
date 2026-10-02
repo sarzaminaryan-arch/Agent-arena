@@ -147,6 +147,49 @@
     "khonj"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه خان بیدخون",
+     "pageid": 1558911,
+     "revision_id": 44452907,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان عسلویه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+     "target_title": "قلعه خان بیدخون"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "آب‌انبار بندو",
+     "pageid": 1558911,
+     "revision_id": 44452907,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان عسلویه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+     "target_title": "آب‌انبار بندو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه شیخ کنعانی",
+     "pageid": 1558911,
+     "revision_id": 44452907,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان عسلویه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+     "target_title": "قلعه شیخ کنعانی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+   "value": "قلعه خان بیدخون\nآب‌انبار بندو\nقلعه شیخ کنعانی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

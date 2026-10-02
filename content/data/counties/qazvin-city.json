@@ -134,6 +134,234 @@
     "kharadere"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه سحر آمیز",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "ساختار شهری / مراکز تفریحی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "قلعه سحر آمیز"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت شهربانی",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / مجموعه باغ صفوی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "عمارت شهربانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاخ چهل‌ستون قزوین",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / مجموعه باغ صفوی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "کاخ چهل‌ستون قزوین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه قزوین",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / مجموعه باغ صفوی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "موزه قزوین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت شهرداری قزوین",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "عمارت شهرداری قزوین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت باغ سپهدار",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "عمارت باغ سپهدار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت سردار مفخم قزوین",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "عمارت سردار مفخم قزوین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "میمون‌قلعه",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / عمارت ها",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "میمون‌قلعه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه بهروزی",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "خانه بهروزی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه عارف قزوینی",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "خانه عارف قزوینی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه یزدی‌ها",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "خانه یزدی‌ها"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه جلیل آرازی",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های تاریخی / خانه های تاریخی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "خانه جلیل آرازی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+   "value": "قلعه سحر آمیز\nعمارت شهربانی\nکاخ چهل‌ستون قزوین\nموزه قزوین\nعمارت شهرداری قزوین\nعمارت باغ سپهدار\nعمارت سردار مفخم قزوین\nمیمون‌قلعه\nخانه بهروزی\nخانه عارف قزوینی\nخانه یزدی‌ها\nخانه جلیل آرازی"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قله مردمی",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "قله مردمی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قله شجاع الدین",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "قله شجاع الدین"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قله سلطان ویس",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "قله سلطان ویس"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+   "value": "قله مردمی\nقله شجاع الدین\nقله سلطان ویس"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شهربازی دالفک",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "ساختار شهری / مراکز تفریحی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "شهربازی دالفک"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شهربازی پارک ملت",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "ساختار شهری / مراکز تفریحی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "شهربازی پارک ملت"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شهربازی پارک دهخدا",
+     "pageid": 2925,
+     "revision_id": 44303211,
+     "section": "ساختار شهری / مراکز تفریحی",
+     "source_title": "قزوین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+     "target_title": "شهربازی پارک دهخدا"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+   "value": "شهربازی دالفک\nشهربازی پارک ملت\nشهربازی پارک دهخدا"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

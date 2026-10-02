@@ -142,6 +142,92 @@
     "anar"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه مروست",
+     "pageid": 91810,
+     "revision_id": 43024696,
+     "section": "تاریخچه / آثار تاریخی",
+     "source_title": "مروست",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+     "target_title": "قلعه مروست"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه شیخ عبداله",
+     "pageid": 91810,
+     "revision_id": 43024696,
+     "section": "تاریخچه / آثار تاریخی",
+     "source_title": "مروست",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+     "target_title": "آرامگاه شیخ عبداله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه شیخ بهاءالدین",
+     "pageid": 91810,
+     "revision_id": 43024696,
+     "section": "تاریخچه / آثار تاریخی",
+     "source_title": "مروست",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+     "target_title": "آرامگاه شیخ بهاءالدین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای شعبه",
+     "pageid": 91810,
+     "revision_id": 43024696,
+     "section": "تاریخچه / آثار تاریخی",
+     "source_title": "مروست",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+     "target_title": "کاروانسرای شعبه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه شریف السادات",
+     "pageid": 91810,
+     "revision_id": 43024696,
+     "section": "جاذبه های تاریخی، طبیعی و گردشگری مروست / جاذبه های گردشگری",
+     "source_title": "مروست",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+     "target_title": "آرامگاه شریف السادات"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+   "value": "قلعه مروست\nآرامگاه شیخ عبداله\nآرامگاه شیخ بهاءالدین\nکاروانسرای شعبه\nآرامگاه شریف السادات"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پناهگاه حیات وحش بروئیه",
+     "pageid": 91810,
+     "revision_id": 43024696,
+     "section": "جاذبه های تاریخی، طبیعی و گردشگری مروست / منابع طبیعی",
+     "source_title": "مروست",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+     "target_title": "پناهگاه حیات وحش بروئیه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%B3%D8%AA",
+   "value": "پناهگاه حیات وحش بروئیه"
+  },
   "rural_districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",

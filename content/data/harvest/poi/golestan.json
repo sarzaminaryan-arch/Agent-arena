@@ -1,0 +1,530 @@
+{
+ "aliabad-e-katul": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "علی‌آباد",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "aq-qala": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "آق‌قلا",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%82%E2%80%8C%D9%82%D9%84%D8%A7"
+  ]
+ },
+ "azadshahr": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "پارک جنگلی",
+    "pageid": 141797,
+    "revision_id": 42798943,
+    "section": "مراکز گردشگری",
+    "source_title": "شهرستان آزادشهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1",
+    "target_title": "پارک جنگلی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "آزادشهر",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1"
+  ]
+ },
+ "bandar-e-gaz": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "گز",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86%D8%AF%D8%B1%DA%AF%D8%B2"
+  ]
+ },
+ "bandar-e-torkaman": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "ترکمن",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%DA%A9%D9%85%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AA%D8%B1%DA%A9%D9%85%D9%86"
+  ]
+ },
+ "galikesh": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "گالیکش",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%A7%D9%84%DB%8C%DA%A9%D8%B4",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%84%DB%8C%DA%A9%D8%B4"
+  ]
+ },
+ "gomishan": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "گمیشان",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%85%DB%8C%D8%B4%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D9%85%DB%8C%D8%B4%D8%A7%D9%86"
+  ]
+ },
+ "gonbad-e-kavus": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج گنبد کاووس",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "برج گنبد کاووس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه مصنوعی گنبد کاووس",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "دریاچه مصنوعی گنبد کاووس"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک توریستی الغدیر",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "پارک توریستی الغدیر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار بزرگ روس‌ها",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "بازار بزرگ روس‌ها"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب آلماگل",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "تالاب آلماگل"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب آجی‌گل",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "تالاب آجی‌گل"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب آلاگل",
+    "pageid": 8236,
+    "revision_id": 44505392,
+    "section": "مناطق دیدنی",
+    "source_title": "گنبد کاووس",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+    "target_title": "تالاب آلاگل"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "گنبد کاووس",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3"
+  ]
+ },
+ "gorgan": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل‌های هیرکانی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / ناهارخوران",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "جنگل‌های هیرکانی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان جنگلی النگدره",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / النگدره",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "بوستان جنگلی النگدره"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تپه قلعه خندان",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / تپه قلعه خندان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "تپه قلعه خندان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه باقری",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه باقری (گرگان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه مفیدیان",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه مفیدیان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه میرشهیدی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه میرشهیدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه خراسانی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه خراسانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه شفیعی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه شفیعی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه شیرنگی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه شیرنگی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه امیرلطیفی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بافت قدیم گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "خانه امیرلطیفی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار نعلبندان",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / بازار نعلبندان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "بازار نعلبندان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع گرگان",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / بناها / مسجد جامع گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "مسجد جامع گرگان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه باستان‌شناسی گرگان",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / موزه ها / موزهٔ باستان شناسی گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "موزه باستان‌شناسی گرگان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ‌موزه گرگان",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / موزه ها / کاخ موزهٔ گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "کاخ‌موزه گرگان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "شاه‌کوه سفلی",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / موزه ها / موزهٔ صنایع دستی گرگان",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "شاه‌کوه سفلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ آقا محمدخان قاجار",
+    "pageid": 15272,
+    "revision_id": 44500396,
+    "section": "گردشگری / موزه ها / کاخ آقامحمدخان قاجار",
+    "source_title": "گرگان",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+    "target_title": "کاخ آقا محمدخان قاجار"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "گرگان",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86"
+  ]
+ },
+ "kalaleh": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "کلاله",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%D8%A7%D9%84%D9%87"
+  ]
+ },
+ "kordkuy": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک جنگلی",
+    "pageid": 141818,
+    "revision_id": 42879198,
+    "section": "جاذبه های گردشگری",
+    "source_title": "کردکوی",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
+    "target_title": "پارک جنگلی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "میان‌دره",
+    "pageid": 141818,
+    "revision_id": 42879198,
+    "section": "جاذبه های گردشگری",
+    "source_title": "کردکوی",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
+    "target_title": "میان‌دره (کردکوی)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار دوآب",
+    "pageid": 141818,
+    "revision_id": 42879198,
+    "section": "جاذبه های گردشگری",
+    "source_title": "کردکوی",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
+    "target_title": "آبشار دوآب"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "کردکوی",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C",
+   "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C"
+  ]
+ },
+ "maraveh-tappeh": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "مراوه‌تپه",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D8%A7%D9%88%D9%87%E2%80%8C%D8%AA%D9%BE%D9%87"
+  ]
+ },
+ "minudasht": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "مینودشت",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D9%86%D9%88%D8%AF%D8%B4%D8%AA",
+   "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D9%88%D8%AF%D8%B4%D8%AA"
+  ]
+ },
+ "ramian": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پاقلعه",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "پاقلعه (رامیان)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک جنگلی",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "پارک جنگلی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گرم چشمه",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "گرم چشمه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده بی بی حلیمه خاتون",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "امامزاده بی بی حلیمه خاتون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه مردم‌شناسی",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "موزه مردم‌شناسی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه ساران",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری / قلعه موران (قلعه میران)",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "چشمه ساران"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "جنگل‌های هیرکانی",
+    "pageid": 141815,
+    "revision_id": 43775753,
+    "section": "جاذبه های گردشگری / قلعه موران (قلعه میران)",
+    "source_title": "رامیان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+    "target_title": "جنگل‌های هیرکانی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "رامیان",
+  "fetched": "2026-10-02",
+  "province": "golestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%85%DB%8C%D8%A7%D9%86"
+  ]
+ }
+}

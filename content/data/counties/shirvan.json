@@ -153,6 +153,27 @@
    "url": "",
    "value": "چهارطاقی تیموری\nFile:Fajrabad.jpg\nالله‌آباد علیا\nبهشت گمشده\nییلاق گلیان\nمنطقه حفاظت شده گلول وسرانی\nزوارم\nسدهای بارزو و شورک\nچلو\nییلاق اوغاز"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "کوهستان پارک شیرکوه",
+     "pageid": 140989,
+     "revision_id": 43588918,
+     "section": "مکان های زیارتی و تفریحی",
+     "source_title": "شهرستان شیروان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+     "target_title": "کوهستان پارک شیرکوه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+   "value": "کوهستان پارک شیرکوه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -139,6 +139,71 @@
    "url": "",
    "value": "تکیه روستای جوستان\nخانه محمود طالقانی"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "تپه دره میر آش",
+     "pageid": 179087,
+     "revision_id": 44205406,
+     "section": "آثار ملی و دیدنی ها / تپه ها",
+     "source_title": "شهرستان طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_title": "تپه دره میر آش"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار پنجعلی",
+     "pageid": 179087,
+     "revision_id": 44205406,
+     "section": "آثار ملی و دیدنی ها / غارها",
+     "source_title": "شهرستان طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_title": "غار پنجعلی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار وی یا",
+     "pageid": 179087,
+     "revision_id": 44205406,
+     "section": "آثار ملی و دیدنی ها / غارها",
+     "source_title": "شهرستان طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_title": "غار وی یا"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار زالن گاه",
+     "pageid": 179087,
+     "revision_id": 44205406,
+     "section": "آثار ملی و دیدنی ها / غارها",
+     "source_title": "شهرستان طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_title": "غار زالن گاه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار بادامستان",
+     "pageid": 179087,
+     "revision_id": 44205406,
+     "section": "آثار ملی و دیدنی ها / غارها",
+     "source_title": "شهرستان طالقان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+     "target_title": "غار بادامستان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+   "value": "تپه دره میر آش\nغار پنجعلی\nغار وی یا\nغار زالن گاه\nغار بادامستان"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

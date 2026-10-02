@@ -145,6 +145,27 @@
     "abadeh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرا",
+     "pageid": 12065,
+     "revision_id": 44509760,
+     "section": "آثار تاریخی شهرضا",
+     "source_title": "شهرضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B6%D8%A7",
+     "target_title": "کاروانسرا"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B6%D8%A7",
+   "value": "کاروانسرا"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

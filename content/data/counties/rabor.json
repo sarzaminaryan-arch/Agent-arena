@@ -138,6 +138,48 @@
     "kerman"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امامزاده سیدمرتضی",
+     "pageid": 357825,
+     "revision_id": 44378997,
+     "section": "اماکن سیاحتی و زیارتی",
+     "source_title": "شهرستان رابر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
+     "target_title": "امامزاده سیدمرتضی (رابر)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
+   "value": "امامزاده سیدمرتضی"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "چشمه عروس",
+     "pageid": 357825,
+     "revision_id": 44378997,
+     "section": "اماکن سیاحتی و زیارتی",
+     "source_title": "شهرستان رابر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
+     "target_title": "چشمه عروس"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%A8%D8%B1",
+   "value": "چشمه عروس"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

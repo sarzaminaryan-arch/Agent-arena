@@ -142,6 +142,49 @@
     "khodabandeh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "کاروانسرا",
+     "pageid": 1103990,
+     "revision_id": 44082236,
+     "section": "اماکن گردشگری / کاروانسرای شاه عباسی آوج",
+     "source_title": "شهرستان آوج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
+     "target_title": "کاروانسرا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "آرامگاه",
+     "pageid": 1103990,
+     "revision_id": 44082236,
+     "section": "اماکن گردشگری / برج های دوگانه خرقان",
+     "source_title": "شهرستان آوج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
+     "target_title": "آرامگاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "محراب مسجد",
+     "pageid": 1103990,
+     "revision_id": 44082236,
+     "section": "اماکن گردشگری / برج های دوگانه خرقان",
+     "source_title": "شهرستان آوج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
+     "target_title": "محراب مسجد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D9%88%D8%AC",
+   "value": "کاروانسرا\nآرامگاه\nمحراب مسجد"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

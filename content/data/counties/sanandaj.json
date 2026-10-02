@@ -118,6 +118,148 @@
     "divandarreh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه سنندج",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / موزه ها",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "موزه سنندج"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت خسروآباد",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت خسروآباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت سالار سعید",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت سالار سعید (موزه سنندج)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت مشیر دیوان",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت مشیر دیوان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت امجدالاشراف",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت امجدالاشراف"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت وکیل الملک",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت وکیل الملک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه احمدزاده",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "خانه احمدزاده (سنندج)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت فهیمی",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت فهیمی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت سرهنگ آزموده اردلان",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت سرهنگ آزموده اردلان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت ملا لطف‌الله شیخ‌الاسلام",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت ملا لطف‌الله شیخ‌الاسلام"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت ملک التجار",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "عمارت ملک التجار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مجموعه عمارت شیخ محمد باقر غیاثی",
+     "pageid": 3690,
+     "revision_id": 44576330,
+     "section": "مراکز گردشگری و تاریخی / عمارت و خانه های تاریخی",
+     "source_title": "سنندج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+     "target_title": "مجموعه عمارت شیخ محمد باقر غیاثی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
+   "value": "موزه سنندج\nعمارت خسروآباد\nعمارت سالار سعید\nعمارت مشیر دیوان\nعمارت امجدالاشراف\nعمارت وکیل الملک\nخانه احمدزاده\nعمارت فهیمی\nعمارت سرهنگ آزموده اردلان\nعمارت ملا لطف‌الله شیخ‌الاسلام\nعمارت ملک التجار\nمجموعه عمارت شیخ محمد باقر غیاثی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

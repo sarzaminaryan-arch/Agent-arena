@@ -124,6 +124,212 @@
     "qazvin-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام تاریخی دیلمان",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / حمام تاریخی دیلمان",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "حمام تاریخی دیلمان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای تی تی",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / کاروانسرای تی تی",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "کاروانسرای تی تی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه گرماور",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / قلعهٔ گرماور",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "قلعه گرماور"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه کوتول شاه",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / قلعهٔ کوتول شاه",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "قلعه کوتول شاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه عضدی سیاهکل",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / خانهٔ عضدی سیاهکل",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "خانه عضدی سیاهکل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده مصطفی",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / امامزاده مصطفی",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "امامزاده مصطفی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده صالح و سلطان حسین",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / امامزاده صالح و سلطان حسین",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "امامزاده صالح و سلطان حسین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه بابا ولی",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / بقعهٔ بابا ولی",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "بقعه بابا ولی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار هفتگی سیاهکل",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / بازار هفتگی سیاهکل",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "بازار هفتگی سیاهکل"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+   "value": "حمام تاریخی دیلمان\nکاروانسرای تی تی\nقلعه گرماور\nقلعه کوتول شاه\nخانه عضدی سیاهکل\nامامزاده مصطفی\nامامزاده صالح و سلطان حسین\nبقعه بابا ولی\nبازار هفتگی سیاهکل"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار لونک",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / آبشار لونک",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "آبشار لونک"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار بابا ولی",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / آبشار بابا ولی",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "آبشار بابا ولی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "جاده جنگلی سیاهکل به دیلمان",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / جادهٔ جنگلی سیاهکل به دیلمان",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "جاده جنگلی سیاهکل به دیلمان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه‌های آب معدنی سیاهکل",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / چشمه های آب معدنی سیاهکل",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "چشمه‌های آب معدنی سیاهکل"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شمشاد جنگلی",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / منطقهٔ شکارممنوع دیلمان",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "شمشاد جنگلی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گربه جنگلی",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / منطقهٔ شکارممنوع دیلمان",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "گربه جنگلی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+   "value": "آبشار لونک\nآبشار بابا ولی\nجاده جنگلی سیاهکل به دیلمان\nچشمه‌های آب معدنی سیاهکل\nشمشاد جنگلی\nگربه جنگلی"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "استخر و پارک پاشوران",
+     "pageid": 56996,
+     "revision_id": 44244794,
+     "section": "جاذبه ها / استخر و پارک پاشوران",
+     "source_title": "سیاهکل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+     "target_title": "استخر و پارک پاشوران"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84",
+   "value": "استخر و پارک پاشوران"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

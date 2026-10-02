@@ -24,6 +24,9 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی (گندم و سیب‌زمینی)، دامداری، گردشگری آب‌گرم و صنایع غذایی",
   "sa_cty_neighbors": "sarein - جنوب‌غرب\nnamin - شمال‌شرق\ntalesh - جنوب‌شرق",
+  "sa_cty_poi_heritage": "بقعه\nپل نادری\nپل ابراهیم‌آباد\nموزه مردم‌شناسی اردبیل\nموزه تاریخ طبیعی اردبیل\nموزه صنایع دستی اردبیل\nموزه شیخ صفی الدین اردبیلی\nموزه مفاخر اردبیل\nموزه تخصصی باستان‌شناسی\nموزه سنگ و کتابخانه تخصصی بقعه شیخ صفی اردبیلی\nموزه چینی خانه\nموزه تاریخ علوم اردبیل",
+  "sa_cty_poi_nature": "پل هفت چشمه\nجنگل فندقلو\nجنگل‌های هیرکانی\nدریاچه شورابیل\nآبشار آق‌بلاغ\nجنگل فندق‌لو\nپیست اسکی روی چمن جنگل فندقلوی نمین\nدریاچه نئور\nدریاچه سوها\nمنطقه حفاظت‌شده آق‌داغ\nآبشار سردابه",
+  "sa_cty_poi_recreation": "پیست اسکی آلوارس",
   "sa_cty_population": 605992,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.25,48.3"
@@ -80,6 +83,7 @@
   "sa_cty_livelihood": "کشاورزی (گندم و سیب‌زمینی)، دامداری، گردشگری آب‌گرم و صنایع غذایی",
   "sa_cty_neighbors": "bileh-savar - شمال\naslanduz - شمال‌غرب\nhurand - غرب\nmeshgin-shahr - جنوب\nnamin - جنوب‌شرق",
   "sa_cty_poi_heritage": "تپه باستانی\nموزه ملی ایران\nقیز قلعه سی",
+  "sa_cty_poi_nature": "دره رود\nجنگل‌های ایران",
   "sa_cty_poi_offbeat": "شوکورلو\nسالالا\nشاهنشاهی اشکانی\nدهستان برزند\nافشین\nبابک خرمدین\nآلان\nآلبان\nآلبانیا\nبیله سوار\nپارس‌آباد\nشهرستان کلیبر",
   "sa_cty_population": 76901,
   "sa_cty_rural_districts": 7,
@@ -99,6 +103,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی (گندم و سیب‌زمینی)، دامداری، گردشگری آب‌گرم و صنایع غذایی",
   "sa_cty_neighbors": "khalkhal - جنوب‌شرق\nnir - شمال‌غرب\nmianeh - جنوب‌غرب",
+  "sa_cty_poi_heritage": "حمام سنگی شهر گیوی",
+  "sa_cty_poi_nature": "آبگرم گیوی",
   "sa_cty_poi_offbeat": "منبر\nخط کوفی\nبخش فیروزآباد",
   "sa_cty_population": 22127,
   "sa_cty_rural_districts": 4,
@@ -215,6 +221,8 @@
   "sa_cty_language": "ترکی آذربایجانی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی (گندم و سیب‌زمینی)، دامداری، گردشگری آب‌گرم و صنایع غذایی",
   "sa_cty_neighbors": "nir - جنوب\nardabil-city - شمال‌شرق\nmeshgin-shahr - شمال‌غرب",
+  "sa_cty_poi_nature": "آبشار گورگور آلوارس",
+  "sa_cty_poi_recreation": "پیست اسکی آلوارس\nپیست اسکی",
   "sa_cty_population": 18200,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.15013,48.07396"
  }

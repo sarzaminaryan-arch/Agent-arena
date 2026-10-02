@@ -140,6 +140,70 @@
     "chenaran"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تپه امام زاده",
+     "pageid": 140995,
+     "revision_id": 44280543,
+     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+     "source_title": "فاروج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+     "target_title": "تپه امام زاده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امام زاده عبدالله",
+     "pageid": 140995,
+     "revision_id": 44280543,
+     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+     "source_title": "فاروج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+     "target_title": "امام زاده عبدالله"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+   "value": "تپه امام زاده\nامام زاده عبدالله"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار یخچالی",
+     "pageid": 140995,
+     "revision_id": 44280543,
+     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+     "source_title": "فاروج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+     "target_title": "غار یخچالی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه شاه‌جهان",
+     "pageid": 140995,
+     "revision_id": 44280543,
+     "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+     "source_title": "فاروج",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+     "target_title": "کوه شاه‌جهان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+   "value": "غار یخچالی\nکوه شاه‌جهان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

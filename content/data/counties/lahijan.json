@@ -127,6 +127,223 @@
     "langarud"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد چهار پادشاهان",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "مسجد چهار پادشاهان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه شیخ زاهد گیلانی",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "بقعه شیخ زاهد گیلانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام گلشن",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "حمام گلشن"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد اکبریه",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "مسجد اکبریه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه میر شمس الدین لاهیجانی",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "بقعه میر شمس الدین لاهیجانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه امیر شهید",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "بقعه امیر شهید"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه صادقی",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "خانه صادقی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه کاشف‌السلطنه",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "آرامگاه کاشف‌السلطنه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل خشتی لاهیجان",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "پل خشتی لاهیجان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع لاهیجان",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "مسجد جامع لاهیجان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+   "value": "مسجد چهار پادشاهان\nبقعه شیخ زاهد گیلانی\nحمام گلشن\nمسجد اکبریه\nبقعه میر شمس الدین لاهیجانی\nبقعه امیر شهید\nخانه صادقی\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان\nمسجد جامع لاهیجان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب بین‌المللی امیرکلایه",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "تالاب بین‌المللی امیرکلایه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب سوستان",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "تالاب سوستان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "روستای سرچشمه",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "روستای سرچشمه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه عطاکوه",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "کوه عطاکوه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+   "value": "تالاب بین‌المللی امیرکلایه\nتالاب سوستان\nروستای سرچشمه\nکوه عطاکوه"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تله کابین لاهیجان",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "تله کابین لاهیجان"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تله‌کابین",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "تله‌کابین"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک بعثت",
+     "pageid": 1573816,
+     "revision_id": 44612928,
+     "section": "جاذبه های گردشگری / طبیعی و تفریحی",
+     "source_title": "لاهیجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+     "target_title": "پارک بعثت (باغ ملی)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86",
+   "value": "تله کابین لاهیجان\nتله‌کابین\nپارک بعثت"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

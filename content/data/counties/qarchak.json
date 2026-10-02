@@ -141,6 +141,27 @@
     "tehran-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل باقرآباد",
+     "pageid": 88763,
+     "revision_id": 43487215,
+     "section": "گردشگری و جاذبه ها",
+     "source_title": "قرچک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B1%DA%86%DA%A9",
+     "target_title": "پل باقرآباد (تهران)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%B1%DA%86%DA%A9",
+   "value": "پل باقرآباد"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -1,0 +1,2462 @@
+{
+ "birjand": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "رشته کوه باقران",
+    "pageid": 24744,
+    "revision_id": 42267120,
+    "section": "طبیعت و آب و هوا",
+    "source_title": "شهرستان بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "رشته کوه باقران"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه شاه",
+    "pageid": 24744,
+    "revision_id": 42267120,
+    "section": "طبیعت و آب و هوا",
+    "source_title": "شهرستان بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "کوه شاه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کویر",
+    "pageid": 24744,
+    "revision_id": 42267120,
+    "section": "طبیعت و آب و هوا",
+    "source_title": "شهرستان بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "کویر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "رشته کوه مؤمن آباد",
+    "pageid": 24744,
+    "revision_id": 42267120,
+    "section": "طبیعت و آب و هوا",
+    "source_title": "شهرستان بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "رشته کوه مؤمن آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ اکبریه",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "باغ اکبریه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ ایرانی",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "باغ ایرانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ و عمارت رحیم‌آباد",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "باغ و عمارت رحیم‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ شوکت‌آباد",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "باغ شوکت‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "ارگ کلاه‌فرنگی بیرجند",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "ارگ کلاه‌فرنگی بیرجند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه بیرجند",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "قلعه بیرجند"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بند دره",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "بند دره"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار چهارده",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "آبشار چهارده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه پردلی",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "خانه پردلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه میراث پهلوانی",
+    "pageid": 24745,
+    "revision_id": 44399742,
+    "section": "جاذبه های گردشگری",
+    "source_title": "بیرجند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+    "target_title": "موزه میراث پهلوانی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "بیرجند",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF"
+  ]
+ },
+ "boshruyeh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزادهٔ هوگند",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "امامزادهٔ هوگند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع رقه",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "مسجد جامع رقه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل‌های آب بر سر پل بشرویه",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "پل‌های آب بر سر پل بشرویه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دختر بشرویه",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "قلعه دختر بشرویه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه و ساباط مستوفی",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "خانه و ساباط مستوفی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه خصوصی بشرویه",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "موزه خصوصی بشرویه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حسینیه حاج علی اشرف",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "حسینیه حاج علی اشرف"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد میان ده",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "مسجد میان ده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار میان ده",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "آب انبار میان ده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه و محوطه کرند",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "تپه و محوطه کرند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده ساغند",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "امامزاده ساغند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده بی‌بی نجمه خاتون",
+    "pageid": 286314,
+    "revision_id": 44260359,
+    "section": "گردشگری",
+    "source_title": "شهرستان بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "امامزاده بی‌بی نجمه خاتون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار فاضل خان",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "آب‌انبار فاضل خان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب‌انبار میانده",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "آب‌انبار میانده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه آقای شیبانی",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "خانه آقای شیبانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حسینیه حاجی علی اشرف",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "حسینیه حاجی علی اشرف"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حسینیه معیل",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "حسینیه معیل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام فاضلخان",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "حمام فاضلخان (۱)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه فروزانفر",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "خانه فروزانفر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه و ساباط مستوفی",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "خانه و ساباط مستوفی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد میانده",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "مسجد میانده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع رقه",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "مسجد جامع رقه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه دختر",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "قلعه دختر (بشرویه)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل ترناو",
+    "pageid": 21607,
+    "revision_id": 43772802,
+    "section": "جاذبه های گردشگری / آثار تاریخی بشرویه",
+    "source_title": "بشرویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+    "target_title": "پل ترناو"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "بشرویه",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1%D9%88%DB%8C%D9%87"
+  ]
+ },
+ "darmiyan": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "درمیان",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%D9%85%DB%8C%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AF%DB%8C%D9%87"
+  ]
+ },
+ "eshqabad": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "عشق‌آباد",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B4%D9%82%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "ferdows": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبگرم معدنی فردوس",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آبگرم معدنی فردوس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه میر تونی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آرامگاه میر تونی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه میرزاها",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آرامگاه میرزاها"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده محمد و ابراهیم",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "امامزاده محمد و ابراهیم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سلطان کریمشاه",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "امامزاده سلطان کریمشاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه امامزاده سلطان احمد مهوید",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آرامگاه امامزاده سلطان احمد مهوید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار آذری",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار آذری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار امامزاده سرند",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار امامزاده سرند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار برون",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار برون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار بش",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار بش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار بازار",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب انبار بازار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار سردشت",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار سردشت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار حسین‌آباد",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب انبار حسین‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار حسینیگی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب انبار حسینیگی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار قلعه فردوس",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب انبار قلعه فردوس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار قاسم",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار قاسم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار قرائی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار قرائی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار مهران کوشک",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار مهران کوشک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار محمدی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار محمدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار خانکوک",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب انبار خانکوک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار خوشاب",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار خوشاب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار جوگی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار جوگی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار شور",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار شور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار عطایی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب انبار عطایی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار شاه میرزا",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار شاه میرزا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار استاد عبدالله",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار استاد عبدالله"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار سادات",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "آب‌انبار سادات"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "ارگ تون",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "ارگ تون"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "پناهگاه حیات وحش رباط شور",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "پناهگاه حیات وحش رباط شور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام بیدسگان",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "حمام بیدسگان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام کوشک فردوس",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "حمام کوشک فردوس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام خیروز",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "حمام خیروز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام جهانیار",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "حمام جهانیار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام سردشت",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "حمام سردشت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه افراشته",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه افراشته"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه آزاد",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه آزاد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه رسایی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه رسایی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه مقدم",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه مقدم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه راهی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه راهی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه بدیعی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه بدیعی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه مجد الاشراف",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه مجد الاشراف"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه صدرالسادات",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه صدرالسادات (۱)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه طبسی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه طبسی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه کباری",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه کباری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه معزی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه معزی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه حسن عطایی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه حسن عطایی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه میرزا رشید عطایی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "خانه میرزا رشید عطایی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت‌شده مظفری",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "منطقه حفاظت‌شده مظفری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد سیدی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "مسجد سیدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد مهوید",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "مسجد مهوید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد حاج عبدالله",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "مسجد حاج عبدالله"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع فتح‌آباد",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "مسجد جامع فتح‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع تون",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "مسجد جامع تون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد، آب‌انبار و حمام کوشک",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "مسجد، آب‌انبار و حمام کوشک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه تاریخی گوند",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "محوطه تاریخی گوند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه تاریخی چاه پخو",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "محوطه تاریخی چاه پخو"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه قلعه فردوس",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "کوه قلعه فردوس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای خوشاب",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "کاروانسرای خوشاب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای رباط شور",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "کاروانسرای رباط شور"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کویر پلوند",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "کویر پلوند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان خاموشی",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "گورستان خاموشی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دختر فردوس",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "قلعه دختر فردوس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه خانیک",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "قلعه خانیک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بیدسکان",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "قلعه بیدسکان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قنات بلده فردوس",
+    "pageid": 43796,
+    "revision_id": 44261026,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "قنات بلده فردوس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "منطقه حفاظت‌شده مظفری",
+    "pageid": 1580756,
+    "revision_id": 44282983,
+    "section": "گردشگری / هتل ها و مراکز اقامتی",
+    "source_title": "فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "منطقه حفاظت‌شده مظفری"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کویر پلوند",
+    "pageid": 1580756,
+    "revision_id": 44282983,
+    "section": "گردشگری / هتل ها و مراکز اقامتی",
+    "source_title": "فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "کویر پلوند"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه آبگرم",
+    "pageid": 1580756,
+    "revision_id": 44282983,
+    "section": "گردشگری / آبگرم معدنی فردوس",
+    "source_title": "فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "چشمه آبگرم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قنات بلده",
+    "pageid": 1580756,
+    "revision_id": 44282983,
+    "section": "گردشگری / قنات بلده",
+    "source_title": "فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "قنات بلده"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه قلعه فردوس",
+    "pageid": 1580756,
+    "revision_id": 44282983,
+    "section": "گردشگری / قلعهٔ دختر",
+    "source_title": "فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "کوه قلعه فردوس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قنات بلده فردوس",
+    "pageid": 1580756,
+    "revision_id": 44282983,
+    "section": "گردشگری / مناطق ییلاقی و گردشگری باغستان",
+    "source_title": "فردوس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+    "target_title": "قنات بلده فردوس"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "فردوس",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%D9%88%D8%B3",
+   "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3"
+  ]
+ },
+ "khusf": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بصیران",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "قلعه بصیران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه قیس آباد",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "قلعه قیس آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه رستم خوسف",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "قلعه رستم خوسف"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه قدیمی خوسف",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "قلعه قدیمی خوسف"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه خور",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "قلعه خور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه قلاع آرک",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "قلعه قلاع آرک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "ارگ عباس خان شیبانی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "ارگ عباس خان شیبانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار خور",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "آب‌انبار خور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار سیوجان",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "آب‌انبار سیوجان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام سیوجان",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "حمام سیوجان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه دوکوهه",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "محوطه دوکوهه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه اسپورگ",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "محوطه اسپورگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه باراندازی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "محوطه باراندازی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حسینیه خور",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "حسینیه خور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام خور",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "حمام خور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع خوسف",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد جامع خوسف"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد ماژان",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد ماژان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع تقاب",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد جامع تقاب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع گل",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد جامع گل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد روستای خور",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد روستای خور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد همچ",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد همچ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد عسگری",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "مسجد عسگری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه میرزا احمدخان خلیلی نوغاب",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه میرزا احمدخان خلیلی نوغاب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه احمدبیگ مالکی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه احمدبیگ مالکی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه کربلایی محمد علی بیگ",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه کربلایی محمد علی بیگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه یوسف مالکی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه یوسف مالکی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه خدابخش خلیلی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه خدابخش خلیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه محمدحسن زنگویی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه محمدحسن زنگویی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه عزیزالله رفیعی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه عزیزالله رفیعی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه بهمدی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه بهمدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه حاج عباس بهمدی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه حاج عباس بهمدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه خزایی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه خزایی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه علوی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه علوی (بیرجند)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه محمد بهمدی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه محمد بهمدی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه حسن قلی خلیلی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه حسن قلی خلیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه محمد قلی بیگ خلیلی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه محمد قلی بیگ خلیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه صفاقلی خلیلی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه صفاقلی خلیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه غلامرضا بیک نخعی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه غلامرضا بیک نخعی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه رضاقلی خلیلی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه رضاقلی خلیلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه سنجرانی",
+    "pageid": 1258867,
+    "revision_id": 43717940,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان خوسف",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+    "target_title": "خانه سنجرانی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "خوسف",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D9%88%D8%B3%D9%81",
+   "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B3%D9%81"
+  ]
+ },
+ "nehbandan": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "نهبندان",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%87%D8%A8%D9%86%D8%AF%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A8%D9%86%D8%AF%D8%A7%D9%86"
+  ]
+ },
+ "qayenat": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کوه قاین",
+    "pageid": 93185,
+    "revision_id": 44305594,
+    "section": "جاذبه های گردشگری و تفریحی",
+    "source_title": "شهرستان قائنات",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%86%D8%A7%D8%AA",
+    "target_title": "قلعه کوه قاین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع خضری",
+    "pageid": 93185,
+    "revision_id": 44305594,
+    "section": "جاذبه های گردشگری و تفریحی",
+    "source_title": "شهرستان قائنات",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%86%D8%A7%D8%AA",
+    "target_title": "مسجد جامع خضری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده عبدالله کارشک",
+    "pageid": 93185,
+    "revision_id": 44305594,
+    "section": "جاذبه های گردشگری و تفریحی",
+    "source_title": "شهرستان قائنات",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%86%D8%A7%D8%AA",
+    "target_title": "امامزاده عبدالله کارشک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع افین",
+    "pageid": 93185,
+    "revision_id": 44305594,
+    "section": "جاذبه های گردشگری و تفریحی",
+    "source_title": "شهرستان قائنات",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%86%D8%A7%D8%AA",
+    "target_title": "مسجد جامع افین"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کوه زردان",
+    "pageid": 93185,
+    "revision_id": 44305594,
+    "section": "جاذبه های گردشگری و تفریحی",
+    "source_title": "شهرستان قائنات",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%86%D8%A7%D8%AA",
+    "target_title": "قلعه کوه زردان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع قائن",
+    "pageid": 48977,
+    "revision_id": 44265477,
+    "section": "آثار باستانی و دیدنی / مسجد جامع",
+    "source_title": "قائن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%86",
+    "target_title": "مسجد جامع قائن"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه نهبندان",
+    "pageid": 48977,
+    "revision_id": 44265477,
+    "section": "آثار باستانی و دیدنی / قلعه کوه قائن",
+    "source_title": "قائن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%86",
+    "target_title": "قلعه نهبندان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه کوه زردان",
+    "pageid": 48977,
+    "revision_id": 44265477,
+    "section": "آثار باستانی و دیدنی / قلعه کوه قائن",
+    "source_title": "قائن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%86",
+    "target_title": "قلعه کوه زردان"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "قائنات",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D8%A7%D8%A6%D9%86%D8%A7%D8%AA",
+   "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%86"
+  ]
+ },
+ "sarayan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه تورانشاه",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آرامگاه تورانشاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "کاروانسرای سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام قدیمی سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "حمام قدیمی سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "مسجد جامع سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه یزدانی",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "خانه یزدانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب انبار آهنگران سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آب انبار آهنگران سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب انبار فاضل خانی سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آب انبار فاضل خانی سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب انبار حسینیه (حاج عبدالرسول) سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آب انبار حسینیه (حاج عبدالرسول) سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب انبار حاج حسن سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آب انبار حاج حسن سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آب انبار بالای سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آب انبار بالای سرایان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آسیاب آبی کاه‌کوه سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آسیاب آبی کاه‌کوه سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه قلاع سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "قلعه قلاع سرایان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار میثم سرایان",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "بازار میثم سرایان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار سبزرود",
+    "pageid": 20114,
+    "revision_id": 43252945,
+    "section": "گردشگری / کاروانسرای سرایان",
+    "source_title": "سرایان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+    "target_title": "آبشار سبزرود"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "سرایان",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86"
+  ]
+ },
+ "sarbisheh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد پخت",
+    "pageid": 26007,
+    "revision_id": 43759727,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان سربیشه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
+    "target_title": "مسجد پخت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد مود",
+    "pageid": 26007,
+    "revision_id": 43759727,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان سربیشه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
+    "target_title": "مسجد مود"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار چنشت",
+    "pageid": 28994,
+    "revision_id": 42889869,
+    "section": "اماکن زیارتی، تفریحی و جاذبه های گردشگری سربیشه",
+    "source_title": "سربیشه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
+    "target_title": "غار چنشت"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار چهل چاه",
+    "pageid": 28994,
+    "revision_id": 42889869,
+    "section": "اماکن زیارتی، تفریحی و جاذبه های گردشگری سربیشه",
+    "source_title": "سربیشه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
+    "target_title": "غار چهل چاه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رشته کوه باقران",
+    "pageid": 28994,
+    "revision_id": 42889869,
+    "section": "اماکن زیارتی، تفریحی و جاذبه های گردشگری سربیشه",
+    "source_title": "سربیشه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
+    "target_title": "رشته کوه باقران"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "سربیشه",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87",
+   "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A8%DB%8C%D8%B4%D9%87"
+  ]
+ },
+ "tabas": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده حسین بن موسی کاظم",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "امامزاده حسین بن موسی کاظم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده علی",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "امامزاده علی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امام زاده حسین",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "امام زاده حسین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امام زاده زرگ",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "امام زاده زرگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امام زاده فشاء",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "امام زاده فشاء"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "باغ گلشن",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "باغ گلشن (طبس)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه نایبند",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه نایبند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه گبر",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "خانه گبر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه شاهزاده",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه شاهزاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه غنی آباد",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه غنی آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه هودر",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه هودر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بم",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه بم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه یوسف آباد",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه یوسف آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دختر",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه دختر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کلشانه",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه کلشانه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه حسن‌آباد شجاع",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه حسن‌آباد شجاع"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پیستان",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه پیستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پروده",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه پروده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "ارگ طبس",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "ارگ طبس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کهنه فهالنج",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "قلعه کهنه فهالنج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حسینیه یوسف آباد",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "حسینیه یوسف آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد دستگرد امامزاده",
+    "pageid": 142033,
+    "revision_id": 44596070,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+    "target_title": "مسجد دستگرد امامزاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ گلشن",
+    "pageid": 57952,
+    "revision_id": 44268743,
+    "section": "گردشگری / باغ گلشن",
+    "source_title": "طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
+    "target_title": "باغ گلشن (طبس)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "ارگ طبس",
+    "pageid": 57952,
+    "revision_id": 44268743,
+    "section": "گردشگری / ارگ تاریخی طبس",
+    "source_title": "طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
+    "target_title": "ارگ طبس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره کال جنی",
+    "pageid": 57952,
+    "revision_id": 44268743,
+    "section": "گردشگری / کال جنی (درهٔ جن ها)",
+    "source_title": "طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
+    "target_title": "دره کال جنی"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "ژئوپارک",
+    "pageid": 57952,
+    "revision_id": 44268743,
+    "section": "گردشگری / ژئوپارک طبس",
+    "source_title": "طبس",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
+    "target_title": "ژئوپارک"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "طبس",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+   "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3"
+  ]
+ },
+ "zirkuh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع افین",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "مسجد جامع افین"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کوه زردان",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "قلعه کوه زردان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد زهان",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "مسجد زهان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه حسن بایخان",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "قلعه حسن بایخان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه‌ی بمرود",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "قلعه‌ی بمرود"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار افین",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "آب انبار افین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه‌ی افین",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "قلعه‌ی افین"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه شاسکوه آبیز",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "جاذبه های طبیعی گردشگری",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "کوه شاسکوه آبیز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار پهلوان",
+    "pageid": 1258871,
+    "revision_id": 44214501,
+    "section": "جاذبه های طبیعی گردشگری",
+    "source_title": "شهرستان زیرکوه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87",
+    "target_title": "غار پهلوان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "زیرکوه",
+  "fetched": "2026-10-02",
+  "province": "south-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%87"
+  ]
+ }
+}

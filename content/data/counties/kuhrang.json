@@ -150,6 +150,27 @@
     "ardal"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل چلگرد",
+     "pageid": 26644,
+     "revision_id": 44363062,
+     "section": "مناطق گردشگری",
+     "source_title": "چلگرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+     "target_title": "پل چلگرد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%86%D9%84%DA%AF%D8%B1%D8%AF",
+   "value": "پل چلگرد"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

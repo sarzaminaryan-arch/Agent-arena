@@ -130,6 +130,191 @@
     "azarshahr"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "عمارت شهربانی ارومیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / بناها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "عمارت شهربانی ارومیه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه ارومیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / بناها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "موزه ارومیه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار ارومیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / بناها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "بازار ارومیه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع ارومیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / مساجد",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "مسجد جامع ارومیه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آتشکده",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / مساجد",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "آتشکده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد سردار",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / مساجد",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "مسجد سردار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد مناره",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / مساجد",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "مسجد مناره"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد سیدالشهدا",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / مساجد",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "مسجد سیدالشهدا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای ننه مریم",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / کلیساها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "کلیسای ننه مریم"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای ماریوخنه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / کلیساها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "کلیسای ماریوخنه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کلیسای حضرت مریم",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / کلیساها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "کلیسای حضرت مریم (ارومیه)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه‌های جنرال",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "گردشگری / خانه ها",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "خانه‌های جنرال"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+   "value": "عمارت شهربانی ارومیه\nموزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nآتشکده\nمسجد سردار\nمسجد مناره\nمسجد سیدالشهدا\nکلیسای ننه مریم\nکلیسای ماریوخنه\nکلیسای حضرت مریم\nخانه‌های جنرال"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه ارومیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "مکان های تفریحی / دریاچه ارومیه",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "دریاچه ارومیه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه آب شور",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "مکان های تفریحی / دریاچه ارومیه",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "دریاچه آب شور"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک ملی دریاچه ارومیه",
+     "pageid": 2326737,
+     "revision_id": 44612504,
+     "section": "مکان های تفریحی / پارک ملی دریاچه ارومیه",
+     "source_title": "ارومیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+     "target_title": "پارک ملی دریاچه ارومیه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
+   "value": "دریاچه ارومیه\nدریاچه آب شور\nپارک ملی دریاچه ارومیه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

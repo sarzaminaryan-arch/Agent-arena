@@ -74,6 +74,8 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "dargazin - شمال\nhamadan-city - جنوب‌غرب\nkomijan - جنوب\nsaveh - شرق",
+  "sa_cty_poi_heritage": "حمام قدیمی شهر\nپل جهان‌آباد فامنین",
+  "sa_cty_poi_nature": "غار قلعه‌جوق",
   "sa_cty_population": 39359,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.11667,49.16667"
@@ -92,6 +94,9 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "famenin-city - شمال‌شرق\nkomijan - جنوب‌شرق\nbahar-city - غرب\ntuyserkan-city - جنوب‌غرب\nmalayer-city - جنوب",
+  "sa_cty_poi_heritage": "هگمتانه\nگورستان پارتی همدان\nکتیبه‌های گنج‌نامه\nبقعه خضر\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان",
+  "sa_cty_poi_nature": "دره مرادبیگ\nدره عباس‌آباد\nدره گنج‌نامه\nآبشار گنج‌نامه\nدره امامزاده کوه",
+  "sa_cty_poi_recreation": "بوستان تپه حاج عنایت\nبوستان شیرسنگی\nبوستان مردم\nبوستان باباطاهر\nتله‌کابین گنج‌نامه\nتله‌کابین",
   "sa_cty_population": 676105,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.93333,48.93333"
  },
@@ -129,6 +134,9 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "khondab - شرق\ntuyserkan-city - شمال‌غرب\nborujerd - جنوب\nnahavand-city - غرب\nshazand - جنوب‌شرق\nhamadan-city - شمال",
+  "sa_cty_poi_heritage": "برج ایفل\nتخت جمشید\nبرج آزادی\nآرامگاه باباطاهر",
+  "sa_cty_poi_nature": "شبه جزیره اسکاندیناوی\nکوه گرمه",
+  "sa_cty_poi_recreation": "پارک سیفیه",
   "sa_cty_population": 288685,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,48.83333"
  },
@@ -148,6 +156,7 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "tuyserkan-city - شمال\ndelfan - جنوب‌غرب\nkangavar - شمال‌غرب\nselseleh - جنوب\nmalayer-city - شرق\nborujerd - جنوب‌شرق",
+  "sa_cty_poi_heritage": "حمام حاج آقا تراب\nپل زرامین",
   "sa_cty_population": 178787,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.23333,48.23333"
  },
@@ -166,6 +175,7 @@
   "sa_cty_language": "فارسی با گویش همدانی؛ در بخش‌هایی لری، لکی، کردی و ترکی آذربایجانی",
   "sa_cty_livelihood": "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی",
   "sa_cty_neighbors": "dargazin - شرق\navaj - شمال‌شرق\nkabudarahang-city - غرب\nkhodabandeh - شمال‌غرب",
+  "sa_cty_poi_heritage": "خانه یگانه\nامامزاده اظهربن علی\nبقعه",
   "sa_cty_population": 107587,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.41667,49.0"

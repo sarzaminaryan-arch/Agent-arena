@@ -143,6 +143,71 @@
     "kerman"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "ارگ بردسیر",
+     "pageid": 3955,
+     "revision_id": 44400079,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "بردسیر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
+     "target_title": "ارگ بردسیر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه بهادرالملک",
+     "pageid": 3955,
+     "revision_id": 44400079,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "بردسیر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
+     "target_title": "خانه بهادرالملک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام لاله‌زار",
+     "pageid": 3955,
+     "revision_id": 44400079,
+     "section": "جاذبه های گردشگری / تاریخی",
+     "source_title": "بردسیر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
+     "target_title": "حمام لاله‌زار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امام زاده",
+     "pageid": 3955,
+     "revision_id": 44400079,
+     "section": "جاذبه های گردشگری / مذهبی",
+     "source_title": "بردسیر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
+     "target_title": "امام زاده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امام‌زاده عبدالله",
+     "pageid": 3955,
+     "revision_id": 44400079,
+     "section": "جاذبه های گردشگری / مذهبی",
+     "source_title": "بردسیر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
+     "target_title": "امام‌زاده عبدالله"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AF%D8%B3%DB%8C%D8%B1",
+   "value": "ارگ بردسیر\nخانه بهادرالملک\nحمام لاله‌زار\nامام زاده\nامام‌زاده عبدالله"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

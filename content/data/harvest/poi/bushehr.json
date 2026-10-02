@@ -1,0 +1,346 @@
+{
+ "ahram": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "تنگستان",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%AF%D8%B3%D8%AA%D8%A7%D9%86"
+  ]
+ },
+ "asaluyeh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه خان بیدخون",
+    "pageid": 1558911,
+    "revision_id": 44452907,
+    "section": "بناهای تاریخی",
+    "source_title": "شهرستان عسلویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+    "target_title": "قلعه خان بیدخون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار بندو",
+    "pageid": 1558911,
+    "revision_id": 44452907,
+    "section": "بناهای تاریخی",
+    "source_title": "شهرستان عسلویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+    "target_title": "آب‌انبار بندو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه شیخ کنعانی",
+    "pageid": 1558911,
+    "revision_id": 44452907,
+    "section": "بناهای تاریخی",
+    "source_title": "شهرستان عسلویه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+    "target_title": "قلعه شیخ کنعانی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "عسلویه",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87"
+  ]
+ },
+ "borazjan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ کوروش",
+    "pageid": 28620,
+    "revision_id": 44574187,
+    "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+    "source_title": "برازجان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D8%AC%D8%A7%D9%86",
+    "target_title": "کاخ کوروش"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "دشتستان",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B4%D8%AA%D8%B3%D8%AA%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D8%AC%D8%A7%D9%86"
+  ]
+ },
+ "bushehr-city": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "بوشهر",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%88%D8%B4%D9%87%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%A8%D9%88%D8%B4%D9%87%D8%B1"
+  ]
+ },
+ "deylam": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "دیلم",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D9%84%D9%85",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AF%DB%8C%D9%84%D9%85"
+  ]
+ },
+ "deyr": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد بردستان",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "مسجد بردستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بردستان",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "قلعه بردستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه زندان",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "قلعه زندان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه گنوی",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "قلعه گنوی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه بردو",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "محوطه بردو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار سرمستان",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "آب‌انبار سرمستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه بی بی دولت",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "آرامگاه بی بی دولت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه بطانه",
+    "pageid": 142159,
+    "revision_id": 44260728,
+    "section": "بررسی های فرهنگی / فهرست آثار تاریخی ملی شهرستان دیّر",
+    "source_title": "شهرستان دیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+    "target_title": "محوطه بطانه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "دیر",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%DB%8C%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AF%DB%8C%D8%B1"
+  ]
+ },
+ "ganaveh": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "گناوه",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D9%86%D8%A7%D9%88%D9%87",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%DA%AF%D9%86%D8%A7%D9%88%D9%87"
+  ]
+ },
+ "jam": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه پردیس",
+    "pageid": 52730,
+    "revision_id": 44295334,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان جم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%85",
+    "target_title": "کوه پردیس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "جنگل گلوبردکان",
+    "pageid": 52730,
+    "revision_id": 44295334,
+    "section": "نقاط دیدنی",
+    "source_title": "شهرستان جم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%85",
+    "target_title": "جنگل گلوبردکان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "جم",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%85"
+  ]
+ },
+ "kangan": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "کنگان",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%DA%A9%D9%86%DA%AF%D8%A7%D9%86"
+  ]
+ },
+ "khormoj": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع خورموج",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "مسجد جامع خورموج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج قلعه خورموج",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "برج قلعه خورموج (شهرستان دشتی)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آتشکده خورموج",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "آتشکده خورموج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه دختر",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "قلعه دختر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "عمارت شیرینه",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "عمارت شیرینه"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان بزرگ مفتون",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "بوستان بزرگ مفتون (۲۵هکتار)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه محمد خان دشتی",
+    "pageid": 23599,
+    "revision_id": 44388553,
+    "section": "گردشگری",
+    "source_title": "خورموج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC",
+    "target_title": "موزه محمد خان دشتی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "دشتی",
+  "fetched": "2026-10-02",
+  "province": "bushehr",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B4%D8%AA%DB%8C",
+   "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D9%85%D9%88%D8%AC"
+  ]
+ }
+}

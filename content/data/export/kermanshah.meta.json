@@ -94,6 +94,7 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "paveh - شمال\nsalasa-babajani - غرب\nravansar - شرق\ndalahu - جنوب",
+  "sa_cty_poi_nature": "غار کاوات",
   "sa_cty_population": 75169,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.76667,46.31667"
  },
@@ -112,6 +113,7 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "sahneh - غرب\nnahavand-city - جنوب‌شرق\ntuyserkan-city - شرق\nasadabad-city - شمال‌شرق\ndelfan - جنوب",
+  "sa_cty_poi_heritage": "خانه ساری‌اصلانی\nحمام قدیمی توکل\nحمام بزرگ\nپل کوچه",
   "sa_cty_population": 76216,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.48333,47.93333"
  },
@@ -130,6 +132,9 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "eslamabad-e-gharb - جنوب‌غرب\nharsin - شرق\nravansar - شمال‌غرب\nhalilan - جنوب\nsonqor - شمال‌شرق",
+  "sa_cty_poi_heritage": "طاق‌بستان\nشکارگاه خسروپرویز\nبازار کرمانشاه\nمسجد عمادالدوله\nمسجد جامع کرمانشاه\nمسجد جامع شافعی\nمسجد حاج شهباز خان\nمسجد شاهزاده\nمسجد دولتشاه\nخانه خواجه باروخ",
+  "sa_cty_poi_nature": "کوه بیستون",
+  "sa_cty_poi_recreation": "پارک کوهستان\nپارک شاهد کرمانشاه\nپارک شیرین کرمانشاه\nپارک لاله کرمانشاه",
   "sa_cty_population": 1083833,
   "sa_cty_rural_districts": 13,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.33333,47.0"
@@ -150,6 +155,7 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "javanrud - جنوب\nsarvabad - شمال\nsalasa-babajani - جنوب‌غرب",
+  "sa_cty_poi_heritage": "آرامگاه سید عبیدالله",
   "sa_cty_poi_nature": "سد داریان\nغار سنگی حسین کوهکن\nکوه شاهو\nغار قوری‌قلعه",
   "sa_cty_poi_offbeat": "نوسمه\nشمشیر\nخانقاه\nحجیج بزرگ\nپاوه\nنودشه\nمنطقه گردشگری میگوره\nکیمنه\nبیدرواز\nهانی‌گرمله\nداریان\nگلال",
   "sa_cty_population": 60431,
@@ -249,6 +255,7 @@
   "sa_cty_language": "کردی (کلهری، سورانی و لکی)؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "salasa-babajani - شمال‌شرق\nqasr-e-shirin - جنوب‌غرب\ngilangharb - جنوب\ndalahu - جنوب‌شرق",
+  "sa_cty_poi_heritage": "آرامگاه احمد بن اسحاق",
   "sa_cty_population": 85342,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.58333,45.83333"
@@ -269,6 +276,7 @@
   "sa_cty_livelihood": "کشاورزی و دامداری، پالایشگاه و پتروشیمی، تجارت مرزی",
   "sa_cty_neighbors": "sahneh - جنوب‌شرق\nqorveh - شمال\nkamyaran - غرب\nasadabad-city - شرق\nkermanshah - جنوب‌غرب",
   "sa_cty_poi_heritage": "آرامگاه مالک",
+  "sa_cty_poi_nature": "کوه دالاخانی",
   "sa_cty_poi_offbeat": "سلجوقیان\nایران قاجاری",
   "sa_cty_population": 81661,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.83333,47.5"

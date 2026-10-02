@@ -167,6 +167,71 @@
    "url": "",
    "value": "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه گرین",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_title": "کوه گرین"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قله ولاش",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_title": "قله ولاش"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سراب کرتول",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_title": "سراب کرتول"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تنگه کپرگه",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_title": "تنگه کپرگه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک جنگلی شهید بهشتی بروجرد",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / پارکها و فضای سبز",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_title": "پارک جنگلی شهید بهشتی بروجرد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+   "value": "کوه گرین\nقله ولاش\nسراب کرتول\nتنگه کپرگه\nپارک جنگلی شهید بهشتی بروجرد"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",
@@ -174,6 +239,27 @@
    "status": "auto",
    "url": "",
    "value": "دهستان شیروان"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان فدک بروجرد",
+     "pageid": 6289,
+     "revision_id": 44573388,
+     "section": "گردشگری / پارکها و فضای سبز",
+     "source_title": "بروجرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+     "target_title": "بوستان فدک بروجرد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+   "value": "بوستان فدک بروجرد"
   },
   "population": {
    "fetched": "2026-10-02",

@@ -136,6 +136,60 @@
     "khorramshahr"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد رنگونی‌های آبادان",
+     "pageid": 13944,
+     "revision_id": 44007051,
+     "section": "اماکن تفریحی، تاریخی و زیارتی / [[مسجد رنگونی ها]]",
+     "source_title": "آبادان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+     "target_title": "مسجد رنگونی‌های آبادان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزهٔ اسناد تاریخی و خطی",
+     "pageid": 13944,
+     "revision_id": 44007051,
+     "section": "اماکن تفریحی، تاریخی و زیارتی / موزهٔ اسناد تاریخی و خطی",
+     "source_title": "آبادان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+     "target_title": "موزهٔ اسناد تاریخی و خطی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد رنگونی‌ها",
+     "pageid": 13944,
+     "revision_id": 44007051,
+     "section": "اماکن تفریحی، تاریخی و زیارتی / موزهٔ اسناد تاریخی و خطی",
+     "source_title": "آبادان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+     "target_title": "مسجد رنگونی‌ها"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه آبادان",
+     "pageid": 13944,
+     "revision_id": 44007051,
+     "section": "اماکن تفریحی، تاریخی و زیارتی / موزهٔ آبادان",
+     "source_title": "آبادان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+     "target_title": "موزه آبادان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+   "value": "مسجد رنگونی‌های آبادان\nموزهٔ اسناد تاریخی و خطی\nمسجد رنگونی‌ها\nموزه آبادان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

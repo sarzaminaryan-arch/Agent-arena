@@ -140,6 +140,126 @@
     "dorud"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل قدیم",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "پل قدیم (دزفول)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "مسجد جامع (درزفول)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار کهنه",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "بازار کهنه (دزفول)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه یعقوب لیث",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "آرامگاه یعقوب لیث"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه تیزنو",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "خانه تیزنو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه سوزنگر",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "خانه سوزنگر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه قلمبر",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "خانه قلمبر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه مقام علی",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / اماکن مذهبی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "بقعه مقام علی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه سوار غیب",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / اماکن مذهبی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "آرامگاه سوار غیب"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه پیر اسحاق",
+     "pageid": 5619,
+     "revision_id": 44393795,
+     "section": "گردشگری / اماکن مذهبی",
+     "source_title": "دزفول",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+     "target_title": "بقعه پیر اسحاق"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+   "value": "پل قدیم\nمسجد جامع\nبازار کهنه\nآرامگاه یعقوب لیث\nخانه تیزنو\nخانه سوزنگر\nخانه قلمبر\nبقعه مقام علی\nآرامگاه سوار غیب\nبقعه پیر اسحاق"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

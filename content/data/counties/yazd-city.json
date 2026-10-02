@@ -141,6 +141,169 @@
     "bafq-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ دولت‌آباد",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "باغ دولت‌آباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مجموعه باغ خان",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "مجموعه باغ خان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار خان",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار خان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازارچه پنجه علی",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازارچه پنجه علی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار علاقبندی",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار علاقبندی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار چیت سازی",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار چیت سازی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار افشار",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار افشار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار محمد علی خان",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار محمد علی خان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار صدری",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار صدری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار دروازه مهریز",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بازار دروازه مهریز"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "میدان خان و بازارهای اطراف",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "میدان خان و بازارهای اطراف"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع یزد",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "گردشگری / بناها و مکان های تاریخی / بازارهای تاریخی",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "مسجد جامع یزد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+   "value": "باغ دولت‌آباد\nمجموعه باغ خان\nبازار خان\nبازارچه پنجه علی\nبازار علاقبندی\nبازار چیت سازی\nبازار افشار\nبازار محمد علی خان\nبازار صدری\nبازار دروازه مهریز\nمیدان خان و بازارهای اطراف\nمسجد جامع یزد"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان",
+     "pageid": 19818,
+     "revision_id": 44613507,
+     "section": "بوستان ها و فضای سبز",
+     "source_title": "یزد",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+     "target_title": "بوستان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%B2%D8%AF",
+   "value": "بوستان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

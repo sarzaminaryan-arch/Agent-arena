@@ -130,6 +130,49 @@
     "izeh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "محوطه چنگا",
+     "pageid": 347074,
+     "revision_id": 44611056,
+     "section": "فهرست آثار تاریخی",
+     "source_title": "شهرستان اندیکا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%AF%DB%8C%DA%A9%D8%A7",
+     "target_title": "محوطه چنگا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "محوطه ده کیدیده",
+     "pageid": 347074,
+     "revision_id": 44611056,
+     "section": "فهرست آثار تاریخی",
+     "source_title": "شهرستان اندیکا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%AF%DB%8C%DA%A9%D8%A7",
+     "target_title": "محوطه ده کیدیده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "محوطه چال دیره",
+     "pageid": 347074,
+     "revision_id": 44611056,
+     "section": "فهرست آثار تاریخی",
+     "source_title": "شهرستان اندیکا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%AF%DB%8C%DA%A9%D8%A7",
+     "target_title": "محوطه چال دیره"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%86%D8%AF%DB%8C%DA%A9%D8%A7",
+   "value": "محوطه چنگا\nمحوطه ده کیدیده\nمحوطه چال دیره"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

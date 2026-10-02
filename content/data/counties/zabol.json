@@ -177,6 +177,27 @@
    "url": "",
    "value": "دهانه غلامان\nچاه نیمه\nبی بی دوست\nمیل قاسم‌آباد\nمیل نادری\nزاهدان کهنه\nآسیاب بادی سیستان"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان",
+     "pageid": 14381,
+     "revision_id": 44400971,
+     "section": "زیر ساخت ها / بوستان ها و فضای سبز",
+     "source_title": "زابل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D8%A8%D9%84",
+     "target_title": "بوستان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D8%A8%D9%84",
+   "value": "بوستان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

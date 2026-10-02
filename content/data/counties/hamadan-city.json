@@ -134,6 +134,289 @@
     "malayer-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "هگمتانه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "هگمتانه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان پارتی همدان",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "گورستان پارتی همدان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کتیبه‌های گنج‌نامه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "کتیبه‌های گنج‌نامه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه خضر",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "بقعه خضر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه استر و مردخای",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "آرامگاه استر و مردخای"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج قربان",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "برج قربان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل آبشینه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "پل آبشینه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع همدان",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "مسجد جامع همدان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار همدان",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "بازار همدان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه باباطاهر",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "آرامگاه باباطاهر (همدان)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه بوعلی‌سینا",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / آثار تاریخی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "آرامگاه بوعلی‌سینا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه تاریخ طبیعی همدان",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / موزه ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "موزه تاریخ طبیعی همدان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+   "value": "هگمتانه\nگورستان پارتی همدان\nکتیبه‌های گنج‌نامه\nبقعه خضر\nآرامگاه استر و مردخای\nبرج قربان\nپل آبشینه\nمسجد جامع همدان\nبازار همدان\nآرامگاه باباطاهر\nآرامگاه بوعلی‌سینا\nموزه تاریخ طبیعی همدان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دره مرادبیگ",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "دره مرادبیگ"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دره عباس‌آباد",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "دره عباس‌آباد"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دره گنج‌نامه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "دره گنج‌نامه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار گنج‌نامه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "آبشار گنج‌نامه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دره امامزاده کوه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "دره امامزاده کوه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+   "value": "دره مرادبیگ\nدره عباس‌آباد\nدره گنج‌نامه\nآبشار گنج‌نامه\nدره امامزاده کوه"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان تپه حاج عنایت",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "نمای شهر / پارک ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "بوستان تپه حاج عنایت"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان شیرسنگی",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "نمای شهر / پارک ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "بوستان شیرسنگی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان مردم",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "نمای شهر / پارک ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "بوستان مردم"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان باباطاهر",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "نمای شهر / پارک ها",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "بوستان باباطاهر"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تله‌کابین گنج‌نامه",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / تله کابین گنجنامه",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "تله‌کابین گنج‌نامه"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تله‌کابین",
+     "pageid": 2926,
+     "revision_id": 44594221,
+     "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / نگرانی از اثرات زیست محیطی تله کابین گنجنامه",
+     "source_title": "همدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+     "target_title": "تله‌کابین"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+   "value": "بوستان تپه حاج عنایت\nبوستان شیرسنگی\nبوستان مردم\nبوستان باباطاهر\nتله‌کابین گنج‌نامه\nتله‌کابین"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -36,6 +36,7 @@
   "sa_cty_poi_heritage": "تپه قلایچی",
   "sa_cty_poi_nature": "غار قلایچی",
   "sa_cty_poi_offbeat": "زرینه‌رود\nشمس‌الدین برهانی\nنقشبندی\nعلی بیگ حیدری\nسیف القضات\nصالح حریق\nمیلاد مسیح\nایران\nحسنلو\nنقده\nزیویه\nسقز",
+  "sa_cty_poi_recreation": "شهربازی\nپیست اسکی",
   "sa_cty_population": 251409,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.53333,46.16667"
  },
@@ -128,6 +129,8 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "naqadeh - شمال‌غرب\nchaharborj - شمال\nmiandoab - شرق\nbukan - جنوب‌شرق\npiranshahr - غرب\nmirabad - جنوب‌غرب",
+  "sa_cty_poi_heritage": "مسجد جامع سرخ\nمسجد دارالاحسان\nمسجد سید\nمسجد قاضی\nباغ سیسه\nباغ میکائیل\nباغ مکائیل",
+  "sa_cty_poi_nature": "غار سهولان\nتالاب کانی برازان",
   "sa_cty_poi_offbeat": "ایران\nمینوآ\nمادها\nفقرگاه",
   "sa_cty_population": 236849,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.76667,45.73333"
@@ -204,6 +207,8 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "oshnavieh - شمال‌غرب\npiranshahr - جنوب‌غرب\nmahabad - جنوب‌شرق\nchaharborj - شمال‌شرق",
+  "sa_cty_poi_heritage": "محوطه سد حسنلو",
+  "sa_cty_poi_nature": "هفت چشمه",
   "sa_cty_population": 127671,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.95,45.4"
  },
@@ -278,6 +283,8 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "khoy - شمال‌شرق\nurmia - جنوب\nshabestar - شرق",
+  "sa_cty_poi_heritage": "سنگ نگاره خان تختی\nقلعه چهریق",
+  "sa_cty_poi_nature": "دریاچه ارومیه\nدره زولا چای",
   "sa_cty_poi_offbeat": "اردشیر یکم\nاورارتو",
   "sa_cty_population": 196546,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=38.18333,44.73333"
@@ -296,6 +303,7 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "mirabad - شمال‌غرب\nbaneh - جنوب‌شرق\nbukan - شمال‌شرق",
+  "sa_cty_poi_nature": "آبشار شلماش",
   "sa_cty_population": 118849,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.2167,45.4832"
  },
@@ -313,8 +321,10 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "baruq - شمال\nmiandoab - شمال‌غرب\ntakab - جنوب‌شرق\nbukan - جنوب‌غرب",
+  "sa_cty_poi_heritage": "حمام",
   "sa_cty_poi_nature": "کوه پیر محمد",
   "sa_cty_poi_offbeat": "زرینه‌رود\nمنطقه شکارممنوع بیان\nآغاجاری",
+  "sa_cty_poi_recreation": "پارک شهری",
   "sa_cty_population": 92456,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.73333,46.68333"
  },
@@ -334,6 +344,7 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "maku - شمال‌غرب\npoldasht - شمال‌شرق\nchaldoran - جنوب‌غرب\nchaypareh - جنوب‌شرق",
+  "sa_cty_poi_nature": "آبگرم معدنی شوط\nغار چهل پله خضرلو",
   "sa_cty_population": 55682,
   "sa_cty_rural_districts": 4,
   "sa_cty_villages": 65,
@@ -377,6 +388,8 @@
   "sa_cty_language": "ترکی آذربایجانی و کردی (سورانی و کرمانجی)؛ در بخش‌هایی آشوری و ارمنی",
   "sa_cty_livelihood": "باغداری (سیب و انگور)، دامداری، تجارت مرزی و صنایع غذایی",
   "sa_cty_neighbors": "oshnavieh - جنوب\najabshir - شرق\nsalmas - شمال\nazarshahr - شرق",
+  "sa_cty_poi_heritage": "عمارت شهربانی ارومیه\nموزه ارومیه\nبازار ارومیه\nمسجد جامع ارومیه\nآتشکده\nمسجد سردار\nمسجد مناره\nمسجد سیدالشهدا\nکلیسای ننه مریم\nکلیسای ماریوخنه\nکلیسای حضرت مریم\nخانه‌های جنرال",
+  "sa_cty_poi_nature": "دریاچه ارومیه\nدریاچه آب شور\nپارک ملی دریاچه ارومیه",
   "sa_cty_population": 1040565,
   "sa_cty_rural_districts": 20,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.55,45.0"

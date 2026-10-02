@@ -133,6 +133,81 @@
     "takab"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه زیویه",
+     "pageid": 4337,
+     "revision_id": 44466402,
+     "section": "اماکن تفریحی",
+     "source_title": "سقز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_title": "قلعه زیویه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+   "value": "قلعه زیویه"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه لَگزی",
+     "pageid": 4337,
+     "revision_id": 44466402,
+     "section": "اماکن تفریحی",
+     "source_title": "سقز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_title": "دریاچه لَگزی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه وزنه",
+     "pageid": 4337,
+     "revision_id": 44466402,
+     "section": "اماکن تفریحی",
+     "source_title": "سقز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_title": "کوه وزنه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار کرفتو",
+     "pageid": 4337,
+     "revision_id": 44466402,
+     "section": "اماکن تفریحی",
+     "source_title": "سقز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_title": "غار کرفتو"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "رودخانه سقز",
+     "pageid": 4337,
+     "revision_id": 44466402,
+     "section": "اماکن تفریحی / پارک ها",
+     "source_title": "سقز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+     "target_title": "رودخانه سقز"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D8%B2",
+   "value": "دریاچه لَگزی\nکوه وزنه\nغار کرفتو\nرودخانه سقز"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

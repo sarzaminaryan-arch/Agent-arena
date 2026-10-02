@@ -57,7 +57,9 @@
   "sa_cty_livelihood": "کشاورزی و دامداری، صنایع غذایی و گردشگری طبیعی",
   "sa_cty_neighbors": "dorud - جنوب‌شرق\nshazand - شرق\nmalayer-city - شمال\nkhorramabad - جنوب‌غرب\nselseleh - غرب\nnahavand-city - شمال‌غرب",
   "sa_cty_poi_heritage": "تپه قرق و تپه بزازنا\nتپه باستانی\nتپه گیان",
+  "sa_cty_poi_nature": "کوه گرین\nقله ولاش\nسراب کرتول\nتنگه کپرگه\nپارک جنگلی شهید بهشتی بروجرد",
   "sa_cty_poi_offbeat": "دهستان شیروان",
+  "sa_cty_poi_recreation": "بوستان فدک بروجرد",
   "sa_cty_population": 326452,
   "sa_cty_rural_districts": 7,
   "sa_cty_villages": 186,
@@ -176,6 +178,7 @@
   "sa_cty_language": "لری و لکی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، صنایع غذایی و گردشگری طبیعی",
   "sa_cty_neighbors": "pol-e-dokhtar - جنوب\nchegeni - شمال\nkhorramabad - شمال‌شرق\nkuhdasht - غرب\nrumeshkan - غرب\ndarreh-shahr - جنوب‌غرب",
+  "sa_cty_poi_heritage": "پل کلهر",
   "sa_cty_population": 21372,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.35472,47.96333"
@@ -237,6 +240,7 @@
   "sa_cty_language": "لری و لکی؛ فارسی زبان اداری و آموزشی",
   "sa_cty_livelihood": "کشاورزی و دامداری، صنایع غذایی و گردشگری طبیعی",
   "sa_cty_neighbors": "chegeni - جنوب‌غرب\ndelfan - شمال‌غرب\nkhorramabad - جنوب‌شرق\nnahavand-city - شمال\nborujerd - شرق",
+  "sa_cty_poi_heritage": "قلعه مظفری",
   "sa_cty_population": 75559,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=33.83333,48.16667"
  }

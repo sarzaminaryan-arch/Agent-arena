@@ -147,6 +147,60 @@
     "khamir"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه اژدها پیکر",
+     "pageid": 2043,
+     "revision_id": 44352402,
+     "section": "تاریخ / بناهای تاریخی",
+     "source_title": "شهرستان لارستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "قلعه اژدها پیکر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه جبرئیل",
+     "pageid": 2043,
+     "revision_id": 44352402,
+     "section": "تاریخ / بناهای تاریخی",
+     "source_title": "شهرستان لارستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "قلعه جبرئیل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار قیصریه لار",
+     "pageid": 12689,
+     "revision_id": 44418878,
+     "section": "تاریخ / بناهای تاریخی",
+     "source_title": "لار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1",
+     "target_title": "بازار قیصریه لار"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج ننه نادر",
+     "pageid": 12689,
+     "revision_id": 44418878,
+     "section": "تاریخ / بناهای تاریخی",
+     "source_title": "لار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1",
+     "target_title": "برج ننه نادر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+   "value": "قلعه اژدها پیکر\nقلعه جبرئیل\nبازار قیصریه لار\nبرج ننه نادر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

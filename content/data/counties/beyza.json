@@ -122,6 +122,202 @@
     "shiraz"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تل حمامی",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "تل حمامی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان کایدون",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان کایدون"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان هفت‌خوان",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان هفت‌خوان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تل قلعه بگی",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "تل قلعه بگی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان کوشک سقوان",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان کوشک سقوان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "محوطه تل قلعه",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "محوطه تل قلعه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه پوزه گزک",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "قلعه پوزه گزک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان امامزاده هفت تن",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان امامزاده هفت تن"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان بانش",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان بانش"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان قدیمی شهیدآباد",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان قدیمی شهیدآباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان قدیمی عزآباد",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "گورستان قدیمی عزآباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "محوطه و گورستان ممو",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "محوطه و گورستان ممو"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+   "value": "تل حمامی\nگورستان کایدون\nگورستان هفت‌خوان\nتل قلعه بگی\nگورستان کوشک سقوان\nمحوطه تل قلعه\nقلعه پوزه گزک\nگورستان امامزاده هفت تن\nگورستان بانش\nگورستان قدیمی شهیدآباد\nگورستان قدیمی عزآباد\nمحوطه و گورستان ممو"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار قباله",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "غار قباله"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غارهای دره سفید",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "غارهای دره سفید"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار چیچکلو",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "غار چیچکلو"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار مال امیر",
+     "pageid": 91745,
+     "revision_id": 44294302,
+     "section": "جاذبه های گردشگری / فهرست یادمان های ملی",
+     "source_title": "بیضا",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+     "target_title": "غار مال امیر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7",
+   "value": "غار قباله\nغارهای دره سفید\nغار چیچکلو\nغار مال امیر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

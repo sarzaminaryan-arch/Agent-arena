@@ -1,0 +1,661 @@
+{
+ "jafarabady": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "جعفرآباد",
+  "fetched": "2026-10-02",
+  "province": "qom",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%B9%D9%81%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "kahak": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "کهک",
+  "fetched": "2026-10-02",
+  "province": "qom",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%87%DA%A9"
+  ]
+ },
+ "qom-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حرم فاطمه معصومه",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "حرم فاطمه معصومه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جمکران",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "مسجد جمکران"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه خضر نبی",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "کوه خضر نبی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه یزدانپناه",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "خانه یزدانپناه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تیمچه بزرگ قم",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "تیمچه بزرگ قم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه قمرود",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "قلعه قمرود"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام حاج عسگرخان",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "حمام حاج عسگرخان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای پاسنگان",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "کاروانسرای پاسنگان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای حوض سلطان",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "کاروانسرای حوض سلطان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه ملاصدرا",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "خانه ملاصدرا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مجموعه راسته بازار کهنه و نو",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "مجموعه راسته بازار کهنه و نو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه حاج علی خان زند",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "خانه حاج علی خان زند"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "گنبد نمکی قم",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "گنبد نمکی قم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مقابر باغ گنبد سبز",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "مقابر باغ گنبد سبز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مناره و مسجد میدان کهنه",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "مناره و مسجد میدان کهنه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه دوبرادران",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "کوه دوبرادران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه آستانه مقدسه",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "موزه آستانه مقدسه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان شیخان",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "گورستان شیخان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع قم",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "مسجد جامع قم"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار کهک",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "غار کهک"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "مجموعه معادن چاله غار وشنوه",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "مجموعه معادن چاله غار وشنوه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تنگه قاهان",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "تنگه قاهان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت‌شده پلنگ‌دره",
+    "pageid": 123392,
+    "revision_id": 44314915,
+    "section": "مکان های دیدنی",
+    "source_title": "شهرستان قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+    "target_title": "منطقه حفاظت‌شده پلنگ‌دره"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان امام علی",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان امام علی"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان ولایت",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان ولایت"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان و دریاچه جوان",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان و دریاچه جوان"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان نرگس",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان نرگس"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان مریم",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان مریم"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک جنگلی معصومیه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "پارک جنگلی معصومیه"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان گلستان",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان گلستان"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "شهربازی ۷۲ تن",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "شهربازی ۷۲ تن"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان مادر",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان مادر"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان علوی",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان علوی (قم)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک جنگلی غدیر",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "پارک جنگلی غدیر"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان شهید گمنام",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان شهید گمنام"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان معلم",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان معلم"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان ایثار",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان ایثار"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان چهارده معصوم",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان چهارده معصوم"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان لقمان حکیم",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان لقمان حکیم"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان غنچه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان غنچه"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان رعنا",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان رعنا"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان بهار",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان بهار"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان خرم محله ژاپنی‌ها",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان خرم محله ژاپنی‌ها"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان تیراژه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان تیراژه"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان کتاب",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان کتاب"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان طراوت",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان طراوت"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان نگار",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان نگار"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان شهروند",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان شهروند"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان اندیشه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "امکانات شهری / پارک ها و فضای سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بوستان اندیشه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حرم فاطمه معصومه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / حرم فاطمه معصومه",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "حرم فاطمه معصومه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مناره",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / حرم فاطمه معصومه",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "مناره"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد اعظم قم",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / حرم فاطمه معصومه",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "مسجد اعظم قم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع قم",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / مسجد جامع قم و مدرسه جهانگیرخان",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "مسجد جامع قم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مقابر باغ گنبد سبز",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / باغ گنبد سبز",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "مقابر باغ گنبد سبز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده علی بن جعفر",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / امام زاده علی بن جعفر",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "امامزاده علی بن جعفر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / امام زاده علی بن جعفر",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "بقعه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ پنبه",
+    "pageid": 7906,
+    "revision_id": 44466546,
+    "section": "گردشگری / خانه تاریخی یزدان پناه",
+    "source_title": "قم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+    "target_title": "باغ پنبه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "قم",
+  "fetched": "2026-10-02",
+  "province": "qom",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%85",
+   "https://fa.wikipedia.org/wiki/%D9%82%D9%85"
+  ]
+ }
+}

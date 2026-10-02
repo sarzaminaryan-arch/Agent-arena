@@ -1,0 +1,1637 @@
+{
+ "aligudarz": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آتشکده باستانی کیورز امیرآباد",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آتشکده باستانی کیورز امیرآباد"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "county tourism section",
+    "name": "پیست بین الملی اسکی تمندر الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "پیست بین الملی اسکی تمندر الیگودرز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دریاچه تمی الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "دریاچه تمی الیگودرز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دختر",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "قلعه دختر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار آب سفید الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار آب سفید الیگودرز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دریاچه گهر",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "دریاچه گهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار چکان الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار چکان الیگودرز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار برنجه الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار برنجه الیگودرز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دامنه‌های اشترانکوه الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "دامنه‌های اشترانکوه الیگودرز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "پارک جنگلی بنفشه الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "پارک جنگلی بنفشه الیگودرز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه باجول الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "قلعه باجول الیگودرز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه مردم‌شناسی الیگودرز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "موزه مردم‌شناسی الیگودرز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه مندیش",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "قلعه مندیش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بادباد",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "قلعه بادباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه ناکام",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "قلعه ناکام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه باجول",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / اماکن تفریحی و گردشگری",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "قلعه باجول"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان تاریخی شیر سنگ‌ها در بزنوید",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / گورستان های تاریخی",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "گورستان تاریخی شیر سنگ‌ها در بزنوید"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تپه دره ارجنک",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / تپه های تاریخی و باستانی",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "تپه دره ارجنک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه تاریخی بدر آباد",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه تاریخی بدر آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه برآفتاب",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه برآفتاب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه برآفتاب بالا",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه برآفتاب بالا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه برآفتاب ۲",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه برآفتاب ۲"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه جو بالا",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه جو بالا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه چاله چنار",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه چاله چنار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه خرمن دهگاه",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه خرمن دهگاه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "محوطه چشمه کرکبود",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه چشمه کرکبود"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه کرکبودکهنه",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه کرکبودکهنه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه استل دیمه",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه استل دیمه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه باغ حاج نصرت",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه باغ حاج نصرت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه دریلان جوز",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه دریلان جوز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه خرسیان ۲",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه خرسیان ۲"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه دهگاه",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه دهگاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه عباس برفی",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه عباس برفی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه گندلستان",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه گندلستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه قلیان",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "محوطه قلیان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "چشمه",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "چشمه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "مرتفع‌ترین آبشار آسیا",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "مرتفع‌ترین آبشار آسیا"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سیزدهمین آبشار مرتفع جهان",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / محوطه های تاریخی الیگودرز",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "سیزدهمین آبشار مرتفع جهان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار آب سفید",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار آب سفید"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار چکان",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار چکان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار تیندر",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار تیندر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار لوچ",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار لوچ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشارهای دورک",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشارهای دورک"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار وارگ",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار وارگ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار چونگ شنه",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار چونگ شنه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار تاف",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار تاف"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار دره ماهی",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار دره ماهی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار مبارک‌آباد",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار مبارک‌آباد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سراب تمندر",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "سراب تمندر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سراب دستگرد",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "سراب دستگرد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سراب ماهیچال",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "سراب ماهیچال"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه تمندر",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "کوه تمندر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده محمد بن حسن",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده محمد بن حسن"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده اکبر علی",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده اکبر علی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سه تن فرسش",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده سه تن فرسش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزادهسه فرزندان پیر امام",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزادهسه فرزندان پیر امام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده قیصر بن علی",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده قیصر بن علی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سلطان سیاهپوش",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده سلطان سیاهپوش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده ابراهیم ابن مالک",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده ابراهیم ابن مالک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده پیر بادوش",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده پیر بادوش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده داوود شیخان",
+    "pageid": 7655,
+    "revision_id": 44469405,
+    "section": "مکان های دیدنی و گردشگری / آبشارها",
+    "source_title": "شهرستان الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "امامزاده داوود شیخان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار آب‌سفید",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / گردشگری",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار آب‌سفید"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه شط تمی",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / گردشگری",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "دریاچه شط تمی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار تمندر",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / گردشگری",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "غار تمندر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره دایی",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / گردشگری",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "دره دایی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار چکان",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / آبشارهای الیگودرز",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار چکان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار وارگ",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / آبشارهای الیگودرز",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار وارگ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار برنجه",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / آبشارهای الیگودرز",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "آبشار برنجه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رودخانه بختیاری",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / رودخانه های الیگودرز",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "رودخانه بختیاری"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رودخانه سزار",
+    "pageid": 3248,
+    "revision_id": 44471000,
+    "section": "جاذبه های گردشگری و جهانگردی / رودخانه های الیگودرز",
+    "source_title": "الیگودرز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+    "target_title": "رودخانه سزار (ایران)"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "الیگودرز",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2"
+  ]
+ },
+ "azna": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "ازنا",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B2%D9%86%D8%A7",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B2%D9%86%D8%A7"
+  ]
+ },
+ "borujerd": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده جعفر",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "امامزاده جعفر (بروجرد)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "مسجد جامع بروجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد سلطانی",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "مسجد سلطانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "بازار بروجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد رنگینه",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "مسجد رنگینه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد قلعه بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "مسجد قلعه بروجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده قاسم",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "امامزاده قاسم (بروجرد)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل قلعه حاتم",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "پل قلعه حاتم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه یزدگرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "آثار تاریخی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "قلعه یزدگرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امام‌زاده جعفر",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / آثار تاریخی و مذهبی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "امام‌زاده جعفر (بروجرد)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد سلطانی بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / آثار تاریخی و مذهبی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "مسجد سلطانی بروجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تپه قلعه یزدگرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / آثار تاریخی و مذهبی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "تپه قلعه یزدگرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه رومیان",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / آثار تاریخی و مذهبی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "قلعه رومیان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه گرین",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "کوه گرین"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قله ولاش",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "قله ولاش"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سراب کرتول",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "سراب کرتول"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تنگه کپرگه",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "تنگه کپرگه"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان فدک بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / پارکها و فضای سبز",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "بوستان فدک بروجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ پرندگان بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / پارکها و فضای سبز",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "باغ پرندگان بروجرد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک جنگلی شهید بهشتی بروجرد",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / پارکها و فضای سبز",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "پارک جنگلی شهید بهشتی بروجرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه کمال‌الدین نبوی طباطبائی",
+    "pageid": 6289,
+    "revision_id": 44573388,
+    "section": "گردشگری / موزه ها",
+    "source_title": "بروجرد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+    "target_title": "خانه کمال‌الدین نبوی طباطبائی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "بروجرد",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF"
+  ]
+ },
+ "chegeni": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل کشکان",
+    "pageid": 366093,
+    "revision_id": 44261436,
+    "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرستان چگنی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C",
+    "target_title": "پل کشکان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار دوشه",
+    "pageid": 366093,
+    "revision_id": 44261436,
+    "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرستان چگنی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C",
+    "target_title": "غار دوشه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه سر قلعه ناوه کش",
+    "pageid": 366093,
+    "revision_id": 44261436,
+    "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرستان چگنی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C",
+    "target_title": "تپه سر قلعه ناوه کش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه قلاع بردی",
+    "pageid": 366093,
+    "revision_id": 44261436,
+    "section": "جاذبه های گردشگری / جاذبه های تاریخی",
+    "source_title": "شهرستان چگنی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C",
+    "target_title": "محوطه قلاع بردی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "پارک جنگلی شوراب",
+    "pageid": 366093,
+    "revision_id": 44261436,
+    "section": "جاذبه های گردشگری / جاذبه های طبیعی",
+    "source_title": "شهرستان چگنی",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C",
+    "target_title": "پارک جنگلی شوراب"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "چگنی",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%DA%AF%D9%86%DB%8C"
+  ]
+ },
+ "delfan": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "دلفان",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%84%D9%81%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF_%28%D8%AF%D9%84%D9%81%D8%A7%D9%86%29"
+  ]
+ },
+ "dorud": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "رودخانه",
+    "pageid": 1100938,
+    "revision_id": 44260720,
+    "section": "جاذبه های طبیعی شهرستان دورود",
+    "source_title": "شهرستان دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "رودخانه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سراب",
+    "pageid": 1100938,
+    "revision_id": 44260720,
+    "section": "جاذبه های طبیعی شهرستان دورود",
+    "source_title": "شهرستان دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "سراب"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دریاچه گهر",
+    "pageid": 1100938,
+    "revision_id": 44260720,
+    "section": "جاذبه های طبیعی شهرستان دورود",
+    "source_title": "شهرستان دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "دریاچه گهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه گهر",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "دریاچه گهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار ازنادر",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "آبشار ازنادر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار عزیز آباد",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "آبشار عزیز آباد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب ازگن",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "تالاب ازگن"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره نیگاه",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / دره نی گا، «گراند کانیون» ایران",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "دره نیگاه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه پریز",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / پریز کوه",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "کوه پریز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه قارون",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / کوه قارون",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "کوه قارون"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره اسپر",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / آبشارها",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "دره اسپر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار آبگرم",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / آبشارها",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "آبشار آبگرم"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار تله زنگ",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / آبشارها",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "آبشار تله زنگ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار بیشه",
+    "pageid": 6457,
+    "revision_id": 44430807,
+    "section": "جاذبه های طبیعی / آبشارها",
+    "source_title": "دورود",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+    "target_title": "آبشار بیشه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "دورود",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D9%88%D8%B1%D9%88%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D8%AF"
+  ]
+ },
+ "khorramabad": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "چشمه",
+    "pageid": 7660,
+    "revision_id": 44260595,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "شهرستان خرم‌آباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "چشمه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "رودخانه",
+    "pageid": 7660,
+    "revision_id": 44260595,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "شهرستان خرم‌آباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "رودخانه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه تاف",
+    "pageid": 7660,
+    "revision_id": 44260595,
+    "section": "گردشگری / جاذبه های طبیعی / آبشار نوژیان",
+    "source_title": "شهرستان خرم‌آباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "کوه تاف"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار نوژیان",
+    "pageid": 7660,
+    "revision_id": 44260595,
+    "section": "گردشگری / جاذبه های طبیعی / آبشار وارک",
+    "source_title": "شهرستان خرم‌آباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "آبشار نوژیان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "خرم‌آباد",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "kuhdasht": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "کوهدشت",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D9%87%D8%AF%D8%B4%D8%AA",
+   "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87%D8%AF%D8%B4%D8%AA"
+  ]
+ },
+ "mamulan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل کلهر",
+    "pageid": 141845,
+    "revision_id": 44590202,
+    "section": "گردشگری",
+    "source_title": "معمولان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D9%88%D9%84%D8%A7%D9%86",
+    "target_title": "پل کلهر"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "معمولان",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B9%D9%85%D9%88%D9%84%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D9%88%D9%84%D8%A7%D9%86"
+  ]
+ },
+ "pol-e-dokhtar": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل‌دختر",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "پل‌دختر (پل)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار کلماکره",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "غار کلماکره"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دره خزینه",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "دره خزینه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "رودخانه زال",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "رودخانه زال"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار کوگان",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "غار کوگان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل کلهر",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "پل کلهر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای چمشک",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "کاروانسرای چمشک"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار آبتاف",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "آبشار آبتاف"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار افرینه",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "آبشار افرینه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب بلمک",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "تالاب بلمک"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب زردابه",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "تالاب زردابه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل گاومیشان",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "پل گاومیشان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مقبره سید نعمت‌الله جزائری",
+    "pageid": 123414,
+    "revision_id": 43065694,
+    "section": "مکان های دیدنی و تاریخی",
+    "source_title": "شهرستان پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "مقبره سید نعمت‌الله جزائری"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تالاب گوی شیر",
+    "pageid": 123413,
+    "revision_id": 44423140,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "پلدختر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+    "target_title": "تالاب گوی شیر"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "پلدختر",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%D8%AF%D8%AE%D8%AA%D8%B1"
+  ]
+ },
+ "rumeshkan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده باباحبیب انصاری",
+    "pageid": 2431378,
+    "revision_id": 44406992,
+    "section": "گردشگری",
+    "source_title": "شهرستان رومشکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+    "target_title": "امامزاده باباحبیب انصاری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کهزاد",
+    "pageid": 2431378,
+    "revision_id": 44406992,
+    "section": "گردشگری",
+    "source_title": "شهرستان رومشکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+    "target_title": "قلعه کهزاد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار درونشیر",
+    "pageid": 2431378,
+    "revision_id": 44406992,
+    "section": "گردشگری",
+    "source_title": "شهرستان رومشکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+    "target_title": "غار درونشیر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار کلک رو",
+    "pageid": 2431378,
+    "revision_id": 44406992,
+    "section": "گردشگری",
+    "source_title": "شهرستان رومشکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+    "target_title": "غار کلک رو"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار ور مر",
+    "pageid": 2431378,
+    "revision_id": 44406992,
+    "section": "گردشگری",
+    "source_title": "شهرستان رومشکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+    "target_title": "غار ور مر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه تنگ بره",
+    "pageid": 2431378,
+    "revision_id": 44406992,
+    "section": "گردشگری",
+    "source_title": "شهرستان رومشکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+    "target_title": "محوطه تنگ بره"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "رومشکان",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D9%85%D8%B4%DA%A9%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%DA%86%D9%82%D8%A7%D8%A8%D9%84"
+  ]
+ },
+ "selseleh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه مظفری",
+    "pageid": 40575,
+    "revision_id": 44287158,
+    "section": "گردشگری / آثار تاریخی",
+    "source_title": "الشتر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%AA%D8%B1",
+    "target_title": "قلعه مظفری"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "سلسله",
+  "fetched": "2026-10-02",
+  "province": "lorestan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%84%D8%B3%D9%84%D9%87",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%AA%D8%B1"
+  ]
+ }
+}

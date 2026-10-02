@@ -138,6 +138,71 @@
     "aran-bidgol"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای قصر بهرام",
+     "pageid": 11471,
+     "revision_id": 44497842,
+     "section": "جاذبه های گردشگری",
+     "source_title": "گرمسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+     "target_title": "کاروانسرای قصر بهرام"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای عین‌الرشید",
+     "pageid": 11471,
+     "revision_id": 44497842,
+     "section": "جاذبه های گردشگری",
+     "source_title": "گرمسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+     "target_title": "کاروانسرای عین‌الرشید"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حرمسرا",
+     "pageid": 11471,
+     "revision_id": 44497842,
+     "section": "جاذبه های گردشگری",
+     "source_title": "گرمسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+     "target_title": "حرمسرا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه استاناوند ناروهه",
+     "pageid": 11471,
+     "revision_id": 44497842,
+     "section": "جاذبه های گردشگری",
+     "source_title": "گرمسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+     "target_title": "قلعه استاناوند ناروهه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب‌انبار بزرگ گرمسار",
+     "pageid": 11471,
+     "revision_id": 44497842,
+     "section": "جاذبه های گردشگری",
+     "source_title": "گرمسار",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+     "target_title": "آب‌انبار بزرگ گرمسار"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+   "value": "کاروانسرای قصر بهرام\nکاروانسرای عین‌الرشید\nحرمسرا\nقلعه استاناوند ناروهه\nآب‌انبار بزرگ گرمسار"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

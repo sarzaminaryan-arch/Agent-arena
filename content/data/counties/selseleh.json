@@ -133,6 +133,27 @@
     "borujerd"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه مظفری",
+     "pageid": 40575,
+     "revision_id": 44287158,
+     "section": "گردشگری / آثار تاریخی",
+     "source_title": "الشتر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%AA%D8%B1",
+     "target_title": "قلعه مظفری"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%AA%D8%B1",
+   "value": "قلعه مظفری"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

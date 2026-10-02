@@ -147,6 +147,38 @@
     "hamun"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع مکی زاهدان",
+     "pageid": 20954,
+     "revision_id": 44604586,
+     "section": "جاذبه های تاریخی و تفریحی",
+     "source_title": "زاهدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
+     "target_title": "مسجد جامع مکی زاهدان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه پست و ارتباطات زاهدان",
+     "pageid": 20954,
+     "revision_id": 44604586,
+     "section": "جاذبه های تاریخی و تفریحی",
+     "source_title": "زاهدان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
+     "target_title": "موزه پست و ارتباطات زاهدان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86",
+   "value": "مسجد جامع مکی زاهدان\nموزه پست و ارتباطات زاهدان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

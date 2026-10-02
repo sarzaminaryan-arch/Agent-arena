@@ -139,6 +139,59 @@
     "basht"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار یاسوج",
+     "pageid": 50156,
+     "revision_id": 44511081,
+     "section": "گردشگری",
+     "source_title": "یاسوج",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
+     "target_title": "آبشار یاسوج"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
+   "value": "آبشار یاسوج"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پیست اسکی کاکان",
+     "pageid": 50156,
+     "revision_id": 44511081,
+     "section": "گردشگری",
+     "source_title": "یاسوج",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
+     "target_title": "پیست اسکی کاکان"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک تفریحی",
+     "pageid": 50156,
+     "revision_id": 44511081,
+     "section": "گردشگری",
+     "source_title": "یاسوج",
+     "source_url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
+     "target_title": "پارک تفریحی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B3%D9%88%D8%AC",
+   "value": "پیست اسکی کاکان\nپارک تفریحی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -155,6 +155,81 @@
     "kharadere"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امامزاده محمد حنفیه",
+     "pageid": 19005,
+     "revision_id": 44434695,
+     "section": "اقتصاد / گردشگری / مذهبی",
+     "source_title": "شهرستان رودبار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+     "target_title": "امامزاده محمد حنفیه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امامزاده روح‌الله",
+     "pageid": 19005,
+     "revision_id": 44434695,
+     "section": "اقتصاد / گردشگری / مذهبی",
+     "source_title": "شهرستان رودبار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+     "target_title": "امامزاده روح‌الله"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امامزاده طاهر خرمکوه",
+     "pageid": 19005,
+     "revision_id": 44434695,
+     "section": "اقتصاد / گردشگری / مذهبی",
+     "source_title": "شهرستان رودبار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+     "target_title": "امامزاده طاهر خرمکوه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+   "value": "امامزاده محمد حنفیه\nامامزاده روح‌الله\nامامزاده طاهر خرمکوه"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "رودخانه",
+     "pageid": 19005,
+     "revision_id": 44434695,
+     "section": "اقتصاد / گردشگری / مذهبی",
+     "source_title": "شهرستان رودبار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+     "target_title": "رودخانه (رودبار)"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار دربند رشی",
+     "pageid": 32556,
+     "revision_id": 44434547,
+     "section": "جاذبه های گردشگری رودبار / غار دربند رشی",
+     "source_title": "رودبار",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+     "target_title": "غار دربند رشی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
+   "value": "رودخانه\nغار دربند رشی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -131,6 +131,27 @@
     "karaj"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کارخانه حریربافی چالوس",
+     "pageid": 139599,
+     "revision_id": 44592377,
+     "section": "جاذبه های تاریخی، طبیعی و گردشگری",
+     "source_title": "چالوس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D9%84%D9%88%D8%B3",
+     "target_title": "کارخانه حریربافی چالوس"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D9%84%D9%88%D8%B3",
+   "value": "کارخانه حریربافی چالوس"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

@@ -128,6 +128,59 @@
     "zarghan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع ارسنجان",
+     "pageid": 5615,
+     "revision_id": 43928807,
+     "section": "آثار تاریخی",
+     "source_title": "ارسنجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+     "target_title": "مسجد جامع ارسنجان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+   "value": "مسجد جامع ارسنجان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه طشک",
+     "pageid": 5615,
+     "revision_id": 43928807,
+     "section": "جاذبه های گردشگری",
+     "source_title": "ارسنجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+     "target_title": "دریاچه طشک"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار سیده خاتون",
+     "pageid": 5615,
+     "revision_id": 43928807,
+     "section": "جاذبه های گردشگری",
+     "source_title": "ارسنجان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+     "target_title": "غار سیده خاتون"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86",
+   "value": "دریاچه طشک\nغار سیده خاتون"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

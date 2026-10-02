@@ -149,6 +149,60 @@
    "url": "",
    "value": "قلعه چالشتر\nقلعه سورک"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تپه سراب",
+     "pageid": 6506,
+     "revision_id": 44458604,
+     "section": "گردشگری / جاذبه های تاریخی",
+     "source_title": "شهرکرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_title": "تپه سراب (گنبدک)"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گردشگاه چشمه‌زنه",
+     "pageid": 6506,
+     "revision_id": 44458604,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "شهرکرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_title": "گردشگاه چشمه‌زنه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه وقت و ساعت",
+     "pageid": 6506,
+     "revision_id": 44458604,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "شهرکرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_title": "چشمه وقت و ساعت (جهان‌بین)"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار جهان‌بین",
+     "pageid": 6506,
+     "revision_id": 44458604,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "شهرکرد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+     "target_title": "غار جهان‌بین"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF",
+   "value": "تپه سراب\nگردشگاه چشمه‌زنه\nچشمه وقت و ساعت\nغار جهان‌بین"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

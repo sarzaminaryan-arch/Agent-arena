@@ -131,6 +131,148 @@
     "maragheh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده اسکو",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "امامزاده اسکو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار اسکو",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "بازار اسکو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام آقا",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "حمام آقا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام میلان",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "حمام میلان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام محمود بهادری",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "حمام محمود بهادری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه ارادت",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "خانه ارادت"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه تقی‌زاده اسکویی",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "خانه تقی‌زاده اسکویی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قنات میلان",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "قنات میلان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد اوجوزلو",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "مسجد اوجوزلو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد پایتخت",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "مسجد پایتخت"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع میلان",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "مسجد جامع میلان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع سبزه‌میدان",
+     "pageid": 154422,
+     "revision_id": 44387772,
+     "section": "بناهای تاریخی",
+     "source_title": "اسکو",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+     "target_title": "مسجد جامع سبزه‌میدان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+   "value": "امامزاده اسکو\nبازار اسکو\nحمام آقا\nحمام میلان\nحمام محمود بهادری\nخانه ارادت\nخانه تقی‌زاده اسکویی\nقنات میلان\nمسجد اوجوزلو\nمسجد پایتخت\nمسجد جامع میلان\nمسجد جامع سبزه‌میدان"
+  },
   "poi_nature": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

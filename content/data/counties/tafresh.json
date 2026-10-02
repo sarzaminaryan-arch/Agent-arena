@@ -131,6 +131,169 @@
     "jafarabady"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سنگ نگاره‌های یازیلی چای",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "سنگ نگاره‌های یازیلی چای"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه توس",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "قلعه توس"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه سلطان محمود",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "قلعه سلطان محمود"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده احمد",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "امامزاده احمد (تفرش)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع شش ناو",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "مسجد جامع شش ناو"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه امامزاده مهدی",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "آرامگاه امامزاده مهدی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بقعه شاهزاده محمد",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "بقعه شاهزاده محمد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای خانک",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "کاروانسرای خانک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه امامزاده قاسم",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "آرامگاه امامزاده قاسم (شاهوارق)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب انبار بلور",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "آب انبار بلور"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه میر فخرایی",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "خانه میر فخرایی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه عباسقلی خان میرپنج",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "خانه عباسقلی خان میرپنج"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+   "value": "سنگ نگاره‌های یازیلی چای\nقلعه توس\nقلعه سلطان محمود\nامامزاده احمد\nمسجد جامع شش ناو\nآرامگاه امامزاده مهدی\nبقعه شاهزاده محمد\nکاروانسرای خانک\nآرامگاه امامزاده قاسم\nآب انبار بلور\nخانه میر فخرایی\nخانه عباسقلی خان میرپنج"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار امجک",
+     "pageid": 3761,
+     "revision_id": 44596164,
+     "section": "گردشگری",
+     "source_title": "تفرش",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+     "target_title": "غار امجک"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B4",
+   "value": "غار امجک"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

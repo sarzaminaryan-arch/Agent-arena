@@ -135,6 +135,70 @@
     "sarab"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه شیخ شهاب‌الدین اهری",
+     "pageid": 57113,
+     "revision_id": 44574091,
+     "section": "هویت فرهنگی / جاذبه های گردشگری",
+     "source_title": "اهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+     "target_title": "آرامگاه شیخ شهاب‌الدین اهری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه ادب و عرفان",
+     "pageid": 57113,
+     "revision_id": 44574091,
+     "section": "هویت فرهنگی / جاذبه های گردشگری",
+     "source_title": "اهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+     "target_title": "موزه ادب و عرفان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار اهر",
+     "pageid": 57113,
+     "revision_id": 44574091,
+     "section": "هویت فرهنگی / جاذبه های گردشگری",
+     "source_title": "اهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+     "target_title": "بازار اهر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+   "value": "آرامگاه شیخ شهاب‌الدین اهری\nموزه ادب و عرفان\nبازار اهر"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه‌های مریخی زگلیک",
+     "pageid": 57113,
+     "revision_id": 44574091,
+     "section": "هویت فرهنگی / جاذبه های گردشگری",
+     "source_title": "اهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+     "target_title": "کوه‌های مریخی زگلیک"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+   "value": "کوه‌های مریخی زگلیک"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

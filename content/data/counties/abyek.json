@@ -124,6 +124,27 @@
     "rudsar"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده زکریا",
+     "pageid": 91867,
+     "revision_id": 44497162,
+     "section": "اماکن دیدنی",
+     "source_title": "آبیک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DB%8C%DA%A9",
+     "target_title": "امامزاده زکریا"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DB%8C%DA%A9",
+   "value": "امامزاده زکریا"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -142,6 +142,59 @@
     "abadeh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کارگاه",
+     "pageid": 91826,
+     "revision_id": 44404857,
+     "section": "گردشگری / صنایع دستی",
+     "source_title": "سمیرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
+     "target_title": "کارگاه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
+   "value": "کارگاه"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار سمیرم",
+     "pageid": 91826,
+     "revision_id": 44404857,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "سمیرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
+     "target_title": "آبشار سمیرم"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار آب ملخ",
+     "pageid": 91826,
+     "revision_id": 44404857,
+     "section": "گردشگری / جاذبه های طبیعی",
+     "source_title": "سمیرم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
+     "target_title": "آبشار آب ملخ"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1%D9%85",
+   "value": "آبشار سمیرم\nآبشار آب ملخ"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

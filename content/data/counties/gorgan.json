@@ -123,6 +123,191 @@
     "bandar-e-torkaman"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تپه قلعه خندان",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / تپه قلعه خندان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "تپه قلعه خندان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه باقری",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه باقری (گرگان)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه مفیدیان",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه مفیدیان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه میرشهیدی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه میرشهیدی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه خراسانی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه خراسانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه شفیعی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه شفیعی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه شیرنگی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه شیرنگی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه امیرلطیفی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بافت قدیم گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "خانه امیرلطیفی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار نعلبندان",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / بازار نعلبندان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "بازار نعلبندان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع گرگان",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / بناها / مسجد جامع گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "مسجد جامع گرگان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه باستان‌شناسی گرگان",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / موزه ها / موزهٔ باستان شناسی گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "موزه باستان‌شناسی گرگان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاخ‌موزه گرگان",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / موزه ها / کاخ موزهٔ گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "کاخ‌موزه گرگان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+   "value": "تپه قلعه خندان\nخانه باقری\nخانه مفیدیان\nخانه میرشهیدی\nخانه خراسانی\nخانه شفیعی\nخانه شیرنگی\nخانه امیرلطیفی\nبازار نعلبندان\nمسجد جامع گرگان\nموزه باستان‌شناسی گرگان\nکاخ‌موزه گرگان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "جنگل‌های هیرکانی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / ناهارخوران",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "جنگل‌های هیرکانی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان جنگلی النگدره",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / النگدره",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "بوستان جنگلی النگدره"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شاه‌کوه سفلی",
+     "pageid": 15272,
+     "revision_id": 44500396,
+     "section": "گردشگری / موزه ها / موزهٔ صنایع دستی گرگان",
+     "source_title": "گرگان",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+     "target_title": "شاه‌کوه سفلی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF%D8%A7%D9%86",
+   "value": "جنگل‌های هیرکانی\nبوستان جنگلی النگدره\nشاه‌کوه سفلی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

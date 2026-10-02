@@ -139,6 +139,137 @@
     "bafq-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قنات حسن‌آباد مشیر",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "آثار تاریخی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "قنات حسن‌آباد مشیر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ پهلوان‌پور",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "آثار تاریخی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "باغ پهلوان‌پور"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه خوشنویس",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "آثار تاریخی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "خانه خوشنویس"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام استهریج",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "آثار تاریخی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "حمام استهریج"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه سریزد",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "آثار تاریخی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "قلعه سریزد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه خورمیز",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "جاذبه های گردشگری",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "قلعه خورمیز"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام قدیمی",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "اماکن دیدنی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "حمام قدیمی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه رباط",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "اماکن دیدنی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "قلعه رباط"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "اماکن دیدنی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "مسجد جامع"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج دیده‌بانی",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "اماکن دیدنی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "برج دیده‌بانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای شاه",
+     "pageid": 91812,
+     "revision_id": 44217162,
+     "section": "اماکن دیدنی",
+     "source_title": "مهریز",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+     "target_title": "کاروانسرای شاه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%B1%DB%8C%D8%B2",
+   "value": "قنات حسن‌آباد مشیر\nباغ پهلوان‌پور\nخانه خوشنویس\nحمام استهریج\nقلعه سریزد\nقلعه خورمیز\nحمام قدیمی\nقلعه رباط\nمسجد جامع\nبرج دیده‌بانی\nکاروانسرای شاه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

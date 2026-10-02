@@ -135,6 +135,49 @@
     "abarkuh-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آتشکده",
+     "pageid": 63313,
+     "revision_id": 44012652,
+     "section": "جاهای دیدنی",
+     "source_title": "بوانات",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
+     "target_title": "آتشکده"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع سوریان",
+     "pageid": 63313,
+     "revision_id": 44012652,
+     "section": "آثار تاریخی",
+     "source_title": "بوانات",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
+     "target_title": "مسجد جامع سوریان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "موزه ایران باستان",
+     "pageid": 63313,
+     "revision_id": 44012652,
+     "section": "آثار تاریخی",
+     "source_title": "بوانات",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
+     "target_title": "موزه ایران باستان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA",
+   "value": "آتشکده\nمسجد جامع سوریان\nموزه ایران باستان"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

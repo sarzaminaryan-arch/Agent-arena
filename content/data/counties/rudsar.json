@@ -157,6 +157,71 @@
    "url": "",
    "value": "گنبدپیرمحله"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "ساحل",
+     "pageid": 56977,
+     "revision_id": 44436788,
+     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / سواحل",
+     "source_title": "شهرستان رودسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
+     "target_title": "ساحل"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "والیبال ساحلی",
+     "pageid": 56977,
+     "revision_id": 44436788,
+     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / سواحل",
+     "source_title": "شهرستان رودسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
+     "target_title": "والیبال ساحلی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "فوتبال ساحلی",
+     "pageid": 56977,
+     "revision_id": 44436788,
+     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / سواحل",
+     "source_title": "شهرستان رودسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
+     "target_title": "فوتبال ساحلی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار سجیران",
+     "pageid": 56977,
+     "revision_id": 44436788,
+     "section": "جاذبه های گردشگری و آثار تاریخی-باستانی / عمارت شهرداری رودسر",
+     "source_title": "شهرستان رودسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
+     "target_title": "غار سجیران"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه آب‌معدنی",
+     "pageid": 12708,
+     "revision_id": 44436789,
+     "section": "جاذبه های گردشگری و تاریخی",
+     "source_title": "رودسر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
+     "target_title": "چشمه آب‌معدنی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%B3%D8%B1",
+   "value": "ساحل\nوالیبال ساحلی\nفوتبال ساحلی\nغار سجیران\nچشمه آب‌معدنی"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

@@ -138,6 +138,169 @@
     "nain"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "نارین قلعه",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "نارین قلعه (میبد)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کبوترخانه میبد",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "کبوترخانه میبد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای میبد",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "کاروانسرای میبد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چاپارخانه میبد",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "چاپارخانه میبد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع میبد و گنبد امام حسن",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "مسجد جامع میبد و گنبد امام حسن"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع فیروزآباد",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "مسجد جامع فیروزآباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع بفروئیه",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "مسجد جامع بفروئیه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع ندوشن",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "مسجد جامع ندوشن"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه پیرچراغ",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "آرامگاه پیرچراغ"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده سیدصدرالدین قنبر",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "امامزاده سیدصدرالدین قنبر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده میر شمس الحق",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "امامزاده میر شمس الحق"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه مهرجرد",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "قلعه مهرجرد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+   "value": "نارین قلعه\nکبوترخانه میبد\nکاروانسرای میبد\nچاپارخانه میبد\nمسجد جامع میبد و گنبد امام حسن\nمسجد جامع فیروزآباد\nمسجد جامع بفروئیه\nمسجد جامع ندوشن\nآرامگاه پیرچراغ\nامامزاده سیدصدرالدین قنبر\nامامزاده میر شمس الحق\nقلعه مهرجرد"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار نباتی ندوشن",
+     "pageid": 90584,
+     "revision_id": 44409216,
+     "section": "اماکن دیدنی",
+     "source_title": "میبد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+     "target_title": "غار نباتی ندوشن"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A8%D8%AF",
+   "value": "غار نباتی ندوشن"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

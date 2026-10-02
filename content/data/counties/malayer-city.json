@@ -151,6 +151,113 @@
     "hamadan-city"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج ایفل",
+     "pageid": 13070,
+     "revision_id": 44466677,
+     "section": "جاذبه ها",
+     "source_title": "ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "برج ایفل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تخت جمشید",
+     "pageid": 13070,
+     "revision_id": 44466677,
+     "section": "جاذبه ها",
+     "source_title": "ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "تخت جمشید"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج آزادی",
+     "pageid": 13070,
+     "revision_id": 44466677,
+     "section": "جاذبه ها",
+     "source_title": "ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "برج آزادی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه باباطاهر",
+     "pageid": 13070,
+     "revision_id": 44466677,
+     "section": "جاذبه ها",
+     "source_title": "ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "آرامگاه باباطاهر (همدان)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+   "value": "برج ایفل\nتخت جمشید\nبرج آزادی\nآرامگاه باباطاهر"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "شبه جزیره اسکاندیناوی",
+     "pageid": 12564,
+     "revision_id": 44263476,
+     "section": "جاذبه های دیدنی / تالاب فصلی آق گل",
+     "source_title": "شهرستان ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "شبه جزیره اسکاندیناوی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه گرمه",
+     "pageid": 13070,
+     "revision_id": 44466677,
+     "section": "ساختار شهری / پارک ها",
+     "source_title": "ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "کوه گرمه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+   "value": "شبه جزیره اسکاندیناوی\nکوه گرمه"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک سیفیه",
+     "pageid": 13070,
+     "revision_id": 44466677,
+     "section": "ساختار شهری / پارک ها",
+     "source_title": "ملایر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+     "target_title": "پارک سیفیه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+   "value": "پارک سیفیه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -14,6 +14,7 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، صنعت، معدن و حمل‌ونقل جاده‌ای",
   "sa_cty_neighbors": "garmsar - جنوب‌غرب\ndamavand - شمال‌غرب\nfiruzkuh - شمال\nsorkheh - شمال‌شرق",
   "sa_cty_poi_heritage": "بازار آرادان\nمسجد جامع و حسینیه آرادان\nقلعه آرادان\nموزه قلعه یاتری\nقلعه پاده\nامامزاده شاه نظر\nامامزاده علی‌اکبر\nامامزاده ذوالفقار\nآب‌انبار آرادان\nآب‌انبار علی‌آباد آرادان\nآب‌انبار قلعه خرابه",
+  "sa_cty_poi_nature": "پارک جنگلی",
   "sa_cty_poi_offbeat": "ده نمک\nرامه",
   "sa_cty_population": 13884,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.15,52.51667"
@@ -55,6 +56,7 @@
   "sa_cty_language": "فارسی با گویش‌های سمنانی، سنگسری و شهمیرزادی",
   "sa_cty_livelihood": "کشاورزی و باغداری، صنعت، معدن و حمل‌ونقل جاده‌ای",
   "sa_cty_neighbors": "aradan - شمال‌شرق\nvaramin - غرب\npishva - شمال‌غرب\naran-bidgol - جنوب",
+  "sa_cty_poi_heritage": "کاروانسرای قصر بهرام\nکاروانسرای عین‌الرشید\nحرمسرا\nقلعه استاناوند ناروهه\nآب‌انبار بزرگ گرمسار",
   "sa_cty_population": 77421,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.0,52.33333"
  },
@@ -96,6 +98,7 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، صنعت، معدن و حمل‌ونقل جاده‌ای",
   "sa_cty_neighbors": "garmeh - شمال‌شرق\nminudasht - شمال‌غرب\nramian - شمال‌غرب\ndavarzan - شرق\nshahrud - جنوب",
   "sa_cty_poi_heritage": "کاروانسراهای میان‌دشت",
+  "sa_cty_poi_nature": "پارک ملی گلستان",
   "sa_cty_poi_offbeat": "ابن یمین فریومدی",
   "sa_cty_population": 38718,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.63333,56.0"
@@ -114,7 +117,9 @@
   "sa_cty_livelihood": "کشاورزی و باغداری، صنعت، معدن و حمل‌ونقل جاده‌ای",
   "sa_cty_neighbors": "damghan - شمال‌شرق\nsorkheh - شمال‌غرب",
   "sa_cty_poi_heritage": "مسجد جامع سمنان\nمنار سلجوقی مسجد جامع\nمسجد امام سمنان\nدروازه ارگ سمنان\nبازار سمنان\nبازار شیخ علاءالدوله\nبرج چهل‌دختران\nقلعه‌های سارو\nقلعه پاچنار\nقلعه کوشمغان\nقلعه زاوغان\nقلعه کهن‌دژ",
+  "sa_cty_poi_nature": "گورستان سنادره",
   "sa_cty_poi_offbeat": "گرمابه پهنه سمنان\nبنای دارالحکومه\nمحله ملحی\nدژ چرمینه\nکاروان سرای شاه سلیمانی\nمعدن نمک ملحه\nدلفین‌های نمکی",
+  "sa_cty_poi_recreation": "پارک موزه دفاع مقدس سمنان",
   "sa_cty_population": 196521,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.98333,53.81667"
  },
@@ -134,6 +139,8 @@
   "sa_cty_language": "فارسی با گویش‌های سمنانی، سنگسری و شهمیرزادی",
   "sa_cty_livelihood": "کشاورزی و باغداری، صنعت، معدن و حمل‌ونقل جاده‌ای",
   "sa_cty_neighbors": "damghan - غرب\nmeyami - شمال\naliabad-e-katul - شمال",
+  "sa_cty_poi_heritage": "مسجد شیخ علی‌اکبر\nمسجد جامع شاهرود\nقلعه بالا\nآرامگاه ابوالحسن خرقانی\nقلعه‌نو خرقان\nخانه یغمایی\nبازار شاهرود\nخانه عطاردی",
+  "sa_cty_poi_nature": "جنگل ابر\nپارک ملی توران",
   "sa_cty_population": 218628,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.5,55.5"
@@ -154,6 +161,7 @@
   "sa_cty_language": "فارسی با گویش‌های سمنانی، سنگسری و شهمیرزادی",
   "sa_cty_livelihood": "کشاورزی و باغداری، صنعت، معدن و حمل‌ونقل جاده‌ای",
   "sa_cty_neighbors": "mehdishahr - شمال‌شرق\nfiruzkuh - شمال‌غرب\naradan - جنوب‌غرب\nsemnan-city - جنوب‌شرق",
+  "sa_cty_poi_heritage": "مسجد چهل ستون سرخه\nآب‌انبار سرخه\nبقعه پیر غریب\nکاروانسرای لاسجرد\nمسجد امام حسین\nکاروانسرای شاه\nامامزاده سیدمحمد\nامامزاده محمد بن زید سرخه\nامامزاده عبدالله",
   "sa_cty_population": 15523,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.45,53.2167"

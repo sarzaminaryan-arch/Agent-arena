@@ -139,6 +139,38 @@
    "url": "",
    "value": "کاخ سروستان\nآتشکدهٔ فیروزآباد\nکاخ ساسانی سروستان\nکاخ فیروزآباد"
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "هزاردره",
+     "pageid": 91550,
+     "revision_id": 44296944,
+     "section": "جاذبه های مذهبی شهرستان / بقاع متبرکه",
+     "source_title": "سروستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "هزاردره (سروستان)"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه مهارلو",
+     "pageid": 91550,
+     "revision_id": 44296944,
+     "section": "جاذبه های طبیعی سروستان",
+     "source_title": "سروستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "دریاچه مهارلو"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
+   "value": "هزاردره\nدریاچه مهارلو"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

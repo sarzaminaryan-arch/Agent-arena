@@ -121,6 +121,38 @@
     "meyami"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "کوه‌های جغتای",
+     "pageid": 176901,
+     "revision_id": 44466445,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / قله زر",
+     "source_title": "شهرستان داورزن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86",
+     "target_title": "کوه‌های جغتای"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "کوه‌نوردی",
+     "pageid": 176901,
+     "revision_id": 44466445,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / جاذبه های طبیعی / آبشارهای بفره",
+     "source_title": "شهرستان داورزن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86",
+     "target_title": "کوه‌نوردی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%A7%D9%88%D8%B1%D8%B2%D9%86",
+   "value": "کوه‌های جغتای\nکوه‌نوردی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

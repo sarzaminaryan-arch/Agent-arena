@@ -135,6 +135,148 @@
     "kerman"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه قهقه",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "قلعه قهقه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج فیض‌آباد",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "برج فیض‌آباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج امیر نخعی",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "برج امیر نخعی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج محله بلوچی",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "برج محله بلوچی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج نیازمند",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "برج نیازمند"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج کل حسین",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "برج کل حسین"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج گرمه‌ای",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "برج گرمه‌ای"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه فخری",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "خانه فخری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای آب بید",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "کاروانسرای آب بید"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای دربند",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "کاروانسرای دربند"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای چاه کوران",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "کاروانسرای چاه کوران"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای چهل پایه",
+     "pageid": 68659,
+     "revision_id": 44417129,
+     "section": "جاذبه های گردشگری / بناهای تاریخی",
+     "source_title": "راور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+     "target_title": "کاروانسرای چهل پایه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%88%D8%B1",
+   "value": "قلعه قهقه\nبرج فیض‌آباد\nبرج امیر نخعی\nبرج محله بلوچی\nبرج نیازمند\nبرج کل حسین\nبرج گرمه‌ای\nخانه فخری\nکاروانسرای آب بید\nکاروانسرای دربند\nکاروانسرای چاه کوران\nکاروانسرای چهل پایه"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

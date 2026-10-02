@@ -138,6 +138,113 @@
     "kalaleh"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج گنبد کاووس",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "برج گنبد کاووس"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار بزرگ روس‌ها",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "بازار بزرگ روس‌ها"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+   "value": "برج گنبد کاووس\nبازار بزرگ روس‌ها"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه مصنوعی گنبد کاووس",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "دریاچه مصنوعی گنبد کاووس"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب آلماگل",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "تالاب آلماگل"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب آجی‌گل",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "تالاب آجی‌گل"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "تالاب آلاگل",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "تالاب آلاگل"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+   "value": "دریاچه مصنوعی گنبد کاووس\nتالاب آلماگل\nتالاب آجی‌گل\nتالاب آلاگل"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک توریستی الغدیر",
+     "pageid": 8236,
+     "revision_id": 44505392,
+     "section": "مناطق دیدنی",
+     "source_title": "گنبد کاووس",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+     "target_title": "پارک توریستی الغدیر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A8%D8%AF_%DA%A9%D8%A7%D9%88%D9%88%D8%B3",
+   "value": "پارک توریستی الغدیر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -133,6 +133,38 @@
     "shirvan"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "منطقه حفاظت شده",
+     "pageid": 140987,
+     "revision_id": 44260149,
+     "section": "جاذبه های گردشگری",
+     "source_title": "شهرستان اسفراین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+     "target_title": "منطقه حفاظت شده"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه شاه‌جهان",
+     "pageid": 110594,
+     "revision_id": 44348054,
+     "section": "گردشگری",
+     "source_title": "اسفراین",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+     "target_title": "کوه شاه‌جهان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+   "value": "منطقه حفاظت شده\nکوه شاه‌جهان"
+  },
   "poi_offbeat": {
    "fetched": "2026-10-02",
    "note": "نام‌های استخراج‌شده از بخش جاذبه‌های ویکی‌پدیای فارسی — توضیح و فاصله را خودتان بیفزایید",

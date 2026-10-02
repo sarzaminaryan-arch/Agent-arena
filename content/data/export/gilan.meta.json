@@ -36,6 +36,7 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "lahijan - جنوب‌شرق\nrasht - غرب\nkhomam - شمال‌غرب",
+  "sa_cty_poi_heritage": "بقعه آقا سید محمد",
   "sa_cty_population": 108130,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.31667,49.96667"
@@ -115,6 +116,8 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "rasht - جنوب\nbandar-e-anzali - غرب\nastaneh-ye-ashrafiyeh - جنوب‌شرق",
+  "sa_cty_poi_heritage": "عمارت و باغ تاریخی چوکام",
+  "sa_cty_poi_nature": "تالاب انزلی",
   "sa_cty_rural_districts": 2,
   "sa_cty_villages": 45,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.41667,49.68333"
@@ -134,6 +137,9 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "astaneh-ye-ashrafiyeh - شمال‌غرب\nlangarud - جنوب‌شرق",
+  "sa_cty_poi_heritage": "مسجد چهار پادشاهان\nبقعه شیخ زاهد گیلانی\nحمام گلشن\nمسجد اکبریه\nبقعه میر شمس الدین لاهیجانی\nبقعه امیر شهید\nخانه صادقی\nآرامگاه کاشف‌السلطنه\nپل خشتی لاهیجان\nمسجد جامع لاهیجان",
+  "sa_cty_poi_nature": "تالاب بین‌المللی امیرکلایه\nتالاب سوستان\nروستای سرچشمه\nکوه عطاکوه",
+  "sa_cty_poi_recreation": "تله کابین لاهیجان\nتله‌کابین\nپارک بعثت",
   "sa_cty_population": 167544,
   "sa_cty_rural_districts": 6,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.23333,50.03333"
@@ -154,6 +160,8 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "lahijan - شمال‌غرب\namlash - جنوب",
+  "sa_cty_poi_heritage": "خانه منجم‌باشی",
+  "sa_cty_poi_nature": "تالاب\nرودخانه",
   "sa_cty_population": 140686,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.15,50.13333"
  },
@@ -232,6 +240,8 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "siahkal - شمال‌شرق\nshaft - شمال‌غرب\nqazvin-city - جنوب‌شرق\nkharadere - جنوب‌غرب",
+  "sa_cty_poi_heritage": "امامزاده محمد حنفیه\nامامزاده روح‌الله\nامامزاده طاهر خرمکوه",
+  "sa_cty_poi_nature": "رودخانه\nغار دربند رشی",
   "sa_cty_population": 94720,
   "sa_cty_rural_districts": 12,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.81667,49.58333"
@@ -253,6 +263,7 @@
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "ramsar - شمال‌شرق\namlash - شمال‌غرب\nqazvin-city - جنوب‌غرب\nalborz-qazvin - جنوب\nabyek - جنوب",
   "sa_cty_poi_heritage": "گنبدپیرمحله",
+  "sa_cty_poi_nature": "ساحل\nوالیبال ساحلی\nفوتبال ساحلی\nغار سجیران\nچشمه آب‌معدنی",
   "sa_cty_poi_offbeat": "کیانیان\nشمال ایران",
   "sa_cty_population": 147399,
   "sa_cty_rural_districts": 10,
@@ -294,6 +305,9 @@
   "sa_cty_language": "گیلکی؛ در بخش‌هایی تالشی، کردی و ترکی",
   "sa_cty_livelihood": "برنج‌کاری، چای، شیلات، ابریشم و گردشگری",
   "sa_cty_neighbors": "amlash - شرق\nrudbar - جنوب‌غرب\nrasht - شمال‌غرب\nqazvin-city - جنوب",
+  "sa_cty_poi_heritage": "حمام تاریخی دیلمان\nکاروانسرای تی تی\nقلعه گرماور\nقلعه کوتول شاه\nخانه عضدی سیاهکل\nامامزاده مصطفی\nامامزاده صالح و سلطان حسین\nبقعه بابا ولی\nبازار هفتگی سیاهکل",
+  "sa_cty_poi_nature": "آبشار لونک\nآبشار بابا ولی\nجاده جنگلی سیاهکل به دیلمان\nچشمه‌های آب معدنی سیاهکل\nشمشاد جنگلی\nگربه جنگلی",
+  "sa_cty_poi_recreation": "استخر و پارک پاشوران",
   "sa_cty_population": 46975,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.93333,49.9"
  },

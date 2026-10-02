@@ -1,0 +1,500 @@
+{
+ "bam-safiabad": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "رباط (کاروانسرای) راونیز",
+    "pageid": 6203243,
+    "revision_id": 43797012,
+    "section": "جغرافیا / جاذبه های گردشگری",
+    "source_title": "شهرستان بام و صفی‌آباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%85_%D9%88_%D8%B5%D9%81%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "رباط (کاروانسرای) راونیز"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "بام و صفی‌آباد",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%A7%D9%85_%D9%88_%D8%B5%D9%81%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "bojnord": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رودخانه اترک",
+    "pageid": 9904,
+    "revision_id": 44405152,
+    "section": "اماکن دیدنی / گردشگاه باباامان",
+    "source_title": "بجنورد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
+    "target_title": "رودخانه اترک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "عمارت جاجرمی",
+    "pageid": 9904,
+    "revision_id": 44405152,
+    "section": "اماکن دیدنی / عمارت جاجرمی",
+    "source_title": "بجنورد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
+    "target_title": "عمارت جاجرمی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "بجنورد",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF"
+  ]
+ },
+ "esfarayen": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت شده",
+    "pageid": 140987,
+    "revision_id": 44260149,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسفراین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+    "target_title": "منطقه حفاظت شده"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه شاه‌جهان",
+    "pageid": 110594,
+    "revision_id": 44348054,
+    "section": "گردشگری",
+    "source_title": "اسفراین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+    "target_title": "کوه شاه‌جهان"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "اسفراین",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86"
+  ]
+ },
+ "faruj": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تپه امام زاده",
+    "pageid": 140995,
+    "revision_id": 44280543,
+    "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+    "source_title": "فاروج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+    "target_title": "تپه امام زاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امام زاده عبدالله",
+    "pageid": 140995,
+    "revision_id": 44280543,
+    "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+    "source_title": "فاروج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+    "target_title": "امام زاده عبدالله"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار یخچالی",
+    "pageid": 140995,
+    "revision_id": 44280543,
+    "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+    "source_title": "فاروج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+    "target_title": "غار یخچالی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه شاه‌جهان",
+    "pageid": 140995,
+    "revision_id": 44280543,
+    "section": "گردشگری / آثار تاریخی و باستانی فاروج",
+    "source_title": "فاروج",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+    "target_title": "کوه شاه‌جهان"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "فاروج",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D8%B1%D9%88%D8%AC",
+   "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D8%AC"
+  ]
+ },
+ "garmeh": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "جنگل گلستان",
+    "pageid": 316273,
+    "revision_id": 43406907,
+    "section": "مکان های تاریخی و گردشگری",
+    "source_title": "شهرستان گرمه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D9%87",
+    "target_title": "جنگل گلستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه خداوردی درق",
+    "pageid": 316273,
+    "revision_id": 43406907,
+    "section": "مکان های تاریخی و گردشگری",
+    "source_title": "شهرستان گرمه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D9%87",
+    "target_title": "قلعه خداوردی درق"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "باغ مزار",
+    "pageid": 316273,
+    "revision_id": 43406907,
+    "section": "مکان های تاریخی و گردشگری / بنای مزار گرمه",
+    "source_title": "شهرستان گرمه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D9%87",
+    "target_title": "باغ مزار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه جلال‌الدین",
+    "pageid": 140997,
+    "revision_id": 44497849,
+    "section": "مکان های تاریخی و گردشگری گرمه",
+    "source_title": "گرمه",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D9%87",
+    "target_title": "قلعه جلال‌الدین"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "گرمه",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%AF%D8%B1%D9%85%D9%87",
+   "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D9%87"
+  ]
+ },
+ "jajarm": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع جاجرم",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "مسجد جامع جاجرم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محراب مسجد",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری / [[مسجد جامع جاجرم]]",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "محراب مسجد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع فهرج",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری / [[مسجد جامع جاجرم]] / تاریخ بنای مسجد جامع جاجرم",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "مسجد جامع فهرج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه خواجه",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری / مقبره علی بن مهزیار / هویت مقبره علی بن مهزیار",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "آرامگاه خواجه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام قدیمی",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری / حمام قدیمی جاجرم",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "حمام قدیمی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "نارین قلعه",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری / حمام قدیمی جاجرم",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "نارین قلعه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار",
+    "pageid": 140988,
+    "revision_id": 43795784,
+    "section": "گردشگری / حمام قدیمی جاجرم",
+    "source_title": "شهرستان جاجرم",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+    "target_title": "آب‌انبار"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "جاجرم",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D8%A7%D8%AC%D8%B1%D9%85",
+   "https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D8%AC%D8%B1%D9%85"
+  ]
+ },
+ "maneh": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "مانه",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D9%87"
+  ]
+ },
+ "maneh-samalqan": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "مانه و سملقان",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D9%85%D9%84%D9%82%D8%A7%D9%86"
+  ]
+ },
+ "raz-jargalan": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "راز و جرگلان",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%A7%D8%B2_%D9%88_%D8%AC%D8%B1%DA%AF%D9%84%D8%A7%D9%86"
+  ]
+ },
+ "shirvan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای پیرشهید",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "حمام روستای پیرشهید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مقبره حضرت زکریا",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "مقبره حضرت زکریا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده حمزه رضا",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "امامزاده حمزه رضا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امام زاده محمدرضا مشهد طرقی",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "امام زاده محمدرضا مشهد طرقی"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "county tourism section",
+    "name": "کوهستان پارک شیرکوه",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "کوهستان پارک شیرکوه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار استرخی",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "آبشار استرخی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "منطقه حفاظت شده گلول وسرانی",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "منطقه حفاظت شده گلول وسرانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده قاسم الحسینی روستای خادمی",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "امامزاده قاسم الحسینی روستای خادمی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه شاهجهان از رشته کوه آلاداغ",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "کوه شاهجهان از رشته کوه آلاداغ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه کپه داغ",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "کوه کپه داغ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار کافر قلعه",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "غار کافر قلعه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار پوستین دوز",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "غار پوستین دوز"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه‌های آلخاص",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "کوه‌های آلخاص (واقع در مرز ترکمنستان)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "ترناو (چشمه‌ای دائمی با آب بسیار گوارا",
+    "pageid": 140989,
+    "revision_id": 43588918,
+    "section": "مکان های زیارتی و تفریحی",
+    "source_title": "شهرستان شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "ترناو (چشمه‌ای دائمی با آب بسیار گوارا"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "چشمه مختومی فجرآباد",
+    "pageid": 6497,
+    "revision_id": 44610397,
+    "section": "گردشگری / جاذبه های طبیعی",
+    "source_title": "شیروان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+    "target_title": "چشمه مختومی فجرآباد"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "شیروان",
+  "fetched": "2026-10-02",
+  "province": "north-khorasan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86"
+  ]
+ }
+}

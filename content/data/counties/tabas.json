@@ -160,6 +160,38 @@
    "url": "",
    "value": "طاق شاه عباس\nازمیغان\nخرو\nحسن صباح\nروستای سرند وماودر\nپیرحاجات\nجوخواه"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "county tourism section",
+     "name": "قلعه پیستان",
+     "pageid": 142033,
+     "revision_id": 44596070,
+     "section": "جاذبه های گردشگری",
+     "source_title": "شهرستان طبس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+     "target_title": "قلعه پیستان"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "ژئوپارک",
+     "pageid": 57952,
+     "revision_id": 44268743,
+     "section": "گردشگری / ژئوپارک طبس",
+     "source_title": "طبس",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B3",
+     "target_title": "ژئوپارک"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A8%D8%B3",
+   "value": "قلعه پیستان\nژئوپارک"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

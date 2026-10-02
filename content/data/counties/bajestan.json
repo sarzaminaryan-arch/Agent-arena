@@ -142,6 +142,49 @@
     "eshqabad"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کویر",
+     "pageid": 142243,
+     "revision_id": 44306804,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی",
+     "source_title": "بجستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "کویر"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "منطقه حفاظت‌شده هلن",
+     "pageid": 142243,
+     "revision_id": 44306804,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی",
+     "source_title": "بجستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "منطقه حفاظت‌شده هلن"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "اقلیم بیابانی",
+     "pageid": 142243,
+     "revision_id": 44306804,
+     "section": "اماکن تاریخی، آثار باستانی و جهانگردی / تفرجگاه ها و مناطق ییلاقی / سیاه کوه هلالی",
+     "source_title": "بجستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "اقلیم بیابانی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
+   "value": "کویر\nمنطقه حفاظت‌شده هلن\nاقلیم بیابانی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

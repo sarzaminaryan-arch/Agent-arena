@@ -142,6 +142,60 @@
     "delfan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "خانه ساری‌اصلانی",
+     "pageid": 19934,
+     "revision_id": 44107117,
+     "section": "آثار تاریخی / تپه گودین",
+     "source_title": "شهرستان کنگاور",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
+     "target_title": "خانه ساری‌اصلانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام قدیمی توکل",
+     "pageid": 15097,
+     "revision_id": 44479505,
+     "section": "آثار تاریخی",
+     "source_title": "کنگاور",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
+     "target_title": "حمام قدیمی توکل"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام بزرگ",
+     "pageid": 15097,
+     "revision_id": 44479505,
+     "section": "آثار تاریخی",
+     "source_title": "کنگاور",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
+     "target_title": "حمام بزرگ"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل کوچه",
+     "pageid": 15097,
+     "revision_id": 44479505,
+     "section": "آثار تاریخی",
+     "source_title": "کنگاور",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
+     "target_title": "پل کوچه"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%86%DA%AF%D8%A7%D9%88%D8%B1",
+   "value": "خانه ساری‌اصلانی\nحمام قدیمی توکل\nحمام بزرگ\nپل کوچه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

@@ -132,6 +132,71 @@
     "pardis"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاخ‌های تهران",
+     "pageid": 778,
+     "revision_id": 44345743,
+     "section": "اقتصاد / گردشگری",
+     "source_title": "تهران",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_title": "کاخ‌های تهران"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج آزادی",
+     "pageid": 778,
+     "revision_id": 44345743,
+     "section": "اقتصاد / گردشگری",
+     "source_title": "تهران",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_title": "برج آزادی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "برج میلاد",
+     "pageid": 778,
+     "revision_id": 44345743,
+     "section": "اقتصاد / گردشگری",
+     "source_title": "تهران",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_title": "برج میلاد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل طبیعت",
+     "pageid": 778,
+     "revision_id": 44345743,
+     "section": "اقتصاد / گردشگری",
+     "source_title": "تهران",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_title": "پل طبیعت"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاخ گلستان",
+     "pageid": 778,
+     "revision_id": 44345743,
+     "section": "اقتصاد / گردشگری",
+     "source_title": "تهران",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+     "target_title": "کاخ گلستان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+   "value": "کاخ‌های تهران\nبرج آزادی\nبرج میلاد\nپل طبیعت\nکاخ گلستان"
+  },
   "rural_districts": {
    "fetched": "2026-10-02",
    "source": "wikipedia",

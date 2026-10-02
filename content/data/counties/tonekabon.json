@@ -140,6 +140,158 @@
     "taleghan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "تخت سلیمان",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / آب گرم معدنی سه هزار",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "تخت سلیمان (مازندران)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه تنکا",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / آبشار فرهاد جوی",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "قلعه تنکا"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "پل آجری",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / مزارع پرورش ماهیان سردآبی",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "پل آجری"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه کتی",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / مزارع پرورش ماهیان سردآبی",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "قلعه کتی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "قلعه لشکرک",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / مزارع پرورش ماهیان سردآبی",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "قلعه لشکرک"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "موزهٔ مردم‌شناسی",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / مزارع پرورش ماهیان سردآبی",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "موزهٔ مردم‌شناسی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پل قلعه گردن",
+     "pageid": 17229,
+     "revision_id": 44423352,
+     "section": "گردشگری / مزارع پرورش ماهیان سردآبی",
+     "source_title": "تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "پل قلعه گردن"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+   "value": "تخت سلیمان\nقلعه تنکا\nپل آجری\nقلعه کتی\nقلعه لشکرک\nموزهٔ مردم‌شناسی\nپل قلعه گردن"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "منطقه حفاظت شده",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / اثر طبیعی خشکه داران",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "منطقه حفاظت شده"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "گرم چشمه",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / آب گرم معدنی سه هزار",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "گرم چشمه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار دانیال",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / [[غار]] دانیال",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "غار دانیال"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "county tourism section",
+     "name": "غار علیصدر",
+     "pageid": 21460,
+     "revision_id": 44361747,
+     "section": "نگاهی کلی به مکانهای دیدنی شهرستان تنکابن / [[غار]] دانیال",
+     "source_title": "شهرستان تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "غار علیصدر"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه آب",
+     "pageid": 17229,
+     "revision_id": 44423352,
+     "section": "گردشگری / [[آب گرم|آب گرم معدنی]] [[فلک ده]] لیره سر",
+     "source_title": "تنکابن",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+     "target_title": "چشمه آب"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86",
+   "value": "منطقه حفاظت شده\nگرم چشمه\nغار دانیال\nغار علیصدر\nچشمه آب"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

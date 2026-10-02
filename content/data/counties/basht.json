@@ -147,6 +147,48 @@
     "boyer-ahmad"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آتشکده",
+     "pageid": 141782,
+     "revision_id": 44026918,
+     "section": "آثار تاریخی",
+     "source_title": "باشت",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA",
+     "target_title": "آتشکده"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA",
+   "value": "آتشکده"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کوه خامی",
+     "pageid": 141782,
+     "revision_id": 44026918,
+     "section": "گردشگری",
+     "source_title": "باشت",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA",
+     "target_title": "کوه خامی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%AA",
+   "value": "کوه خامی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

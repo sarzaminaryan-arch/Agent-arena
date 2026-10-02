@@ -147,6 +147,38 @@
     "chaypareh"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبگرم معدنی شوط",
+     "pageid": 26681,
+     "revision_id": 42463884,
+     "section": "مراکز گردشگری / جاذبه های طبیعی",
+     "source_title": "شوط",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
+     "target_title": "آبگرم معدنی شوط"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "غار چهل پله خضرلو",
+     "pageid": 26681,
+     "revision_id": 42463884,
+     "section": "مراکز گردشگری / جاذبه های تاریخی",
+     "source_title": "شوط",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
+     "target_title": "غار چهل پله خضرلو"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B7",
+   "value": "آبگرم معدنی شوط\nغار چهل پله خضرلو"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

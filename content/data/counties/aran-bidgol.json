@@ -147,6 +147,70 @@
     "garmsar"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده هلال بن علی",
+     "pageid": 52936,
+     "revision_id": 44555270,
+     "section": "زیارتگاه ها و مساجد",
+     "source_title": "آران و بیدگل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
+     "target_title": "امامزاده هلال بن علی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
+   "value": "امامزاده هلال بن علی"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کویر مرنجاب",
+     "pageid": 52936,
+     "revision_id": 44555270,
+     "section": "جاذبه های طبیعی",
+     "source_title": "آران و بیدگل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
+     "target_title": "کویر مرنجاب"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه نمک",
+     "pageid": 52936,
+     "revision_id": 44555270,
+     "section": "جاذبه های طبیعی",
+     "source_title": "آران و بیدگل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
+     "target_title": "دریاچه نمک"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دشت کویر",
+     "pageid": 52936,
+     "revision_id": 44555270,
+     "section": "جاذبه های طبیعی",
+     "source_title": "آران و بیدگل",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
+     "target_title": "دشت کویر"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84",
+   "value": "کویر مرنجاب\nدریاچه نمک\nدشت کویر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

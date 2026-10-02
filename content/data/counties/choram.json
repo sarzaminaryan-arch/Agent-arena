@@ -135,6 +135,70 @@
     "behbahan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه شهرک چرام",
+     "pageid": 141785,
+     "revision_id": 44435150,
+     "section": "پیشینه / آثار تاریخی",
+     "source_title": "چرام",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
+     "target_title": "قلعه شهرک چرام"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کتیبه تنگ پیرزال",
+     "pageid": 141785,
+     "revision_id": 44435150,
+     "section": "پیشینه / آثار تاریخی",
+     "source_title": "چرام",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
+     "target_title": "کتیبه تنگ پیرزال"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
+   "value": "قلعه شهرک چرام\nکتیبه تنگ پیرزال"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "باغ چشمه بلقیس و برج تاریخی",
+     "pageid": 141785,
+     "revision_id": 44435150,
+     "section": "پیشینه / آثار تاریخی",
+     "source_title": "چرام",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
+     "target_title": "باغ چشمه بلقیس و برج تاریخی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه بلقیس چرام",
+     "pageid": 141785,
+     "revision_id": 44435150,
+     "section": "جاذبه های گردشگری",
+     "source_title": "چرام",
+     "source_url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
+     "target_title": "چشمه بلقیس چرام"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A7%D9%85",
+   "value": "باغ چشمه بلقیس و برج تاریخی\nچشمه بلقیس چرام"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

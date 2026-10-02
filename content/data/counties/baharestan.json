@@ -155,6 +155,49 @@
     "rey"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "تپه قلعه وجه‌آباد",
+     "pageid": 621473,
+     "revision_id": 44509576,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان بهارستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "تپه قلعه وجه‌آباد"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امامزاده حسن",
+     "pageid": 621473,
+     "revision_id": 44509576,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان بهارستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "امامزاده حسن (اسماعیل‌آباد)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "county tourism section",
+     "name": "امام زاده باقر",
+     "pageid": 621473,
+     "revision_id": 44509576,
+     "section": "بناهای تاریخی",
+     "source_title": "شهرستان بهارستان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+     "target_title": "امام زاده باقر (صالحیه)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+   "value": "تپه قلعه وجه‌آباد\nامامزاده حسن\nامام زاده باقر"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

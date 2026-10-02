@@ -140,6 +140,81 @@
     "kazerun"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاخ اردشیر بابکان",
+     "pageid": 5616,
+     "revision_id": 44422300,
+     "section": "گردشگری",
+     "source_title": "فیروزآباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+     "target_title": "کاخ اردشیر بابکان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه دختر",
+     "pageid": 5616,
+     "revision_id": 44422300,
+     "section": "گردشگری",
+     "source_title": "فیروزآباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+     "target_title": "قلعه دختر (فیروزآباد)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سنگ‌نگاره پادشاهی اردشیر بابکان",
+     "pageid": 5616,
+     "revision_id": 44422300,
+     "section": "گردشگری",
+     "source_title": "فیروزآباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+     "target_title": "سنگ‌نگاره پادشاهی اردشیر بابکان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سنگ‌نگاره پیروزی اردشیر بابکان",
+     "pageid": 5616,
+     "revision_id": 44422300,
+     "section": "گردشگری",
+     "source_title": "فیروزآباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+     "target_title": "سنگ‌نگاره پیروزی اردشیر بابکان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": "کاخ اردشیر بابکان\nقلعه دختر\nسنگ‌نگاره پادشاهی اردشیر بابکان\nسنگ‌نگاره پیروزی اردشیر بابکان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "چشمه حنیفقان",
+     "pageid": 5616,
+     "revision_id": 44422300,
+     "section": "گردشگری",
+     "source_title": "فیروزآباد",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+     "target_title": "چشمه حنیفقان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+   "value": "چشمه حنیفقان"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

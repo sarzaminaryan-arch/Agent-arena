@@ -156,6 +156,148 @@
    "url": "",
    "value": "حوض سلطان\nکهک"
   },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان امام علی",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان امام علی"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان ولایت",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان ولایت"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان نرگس",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان نرگس"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان مریم",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان مریم"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان گلستان",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان گلستان"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "شهربازی ۷۲ تن",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "شهربازی ۷۲ تن"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان مادر",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان مادر"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان علوی",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان علوی (قم)"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان شهید گمنام",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان شهید گمنام"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان معلم",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان معلم"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان ایثار",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان ایثار"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان چهارده معصوم",
+     "pageid": 7906,
+     "revision_id": 44466546,
+     "section": "امکانات شهری / پارک ها و فضای سبز",
+     "source_title": "قم",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+     "target_title": "بوستان چهارده معصوم"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D9%85",
+   "value": "بوستان امام علی\nبوستان ولایت\nبوستان نرگس\nبوستان مریم\nبوستان گلستان\nشهربازی ۷۲ تن\nبوستان مادر\nبوستان علوی\nبوستان شهید گمنام\nبوستان معلم\nبوستان ایثار\nبوستان چهارده معصوم"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

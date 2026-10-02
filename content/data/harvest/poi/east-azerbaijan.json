@@ -1,0 +1,1696 @@
+{
+ "ahar": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه شیخ شهاب‌الدین اهری",
+    "pageid": 57113,
+    "revision_id": 44574091,
+    "section": "هویت فرهنگی / جاذبه های گردشگری",
+    "source_title": "اهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+    "target_title": "آرامگاه شیخ شهاب‌الدین اهری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه ادب و عرفان",
+    "pageid": 57113,
+    "revision_id": 44574091,
+    "section": "هویت فرهنگی / جاذبه های گردشگری",
+    "source_title": "اهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+    "target_title": "موزه ادب و عرفان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار اهر",
+    "pageid": 57113,
+    "revision_id": 44574091,
+    "section": "هویت فرهنگی / جاذبه های گردشگری",
+    "source_title": "اهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+    "target_title": "بازار اهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه‌های مریخی زگلیک",
+    "pageid": 57113,
+    "revision_id": 44574091,
+    "section": "هویت فرهنگی / جاذبه های گردشگری",
+    "source_title": "اهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1",
+    "target_title": "کوه‌های مریخی زگلیک"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "اهر",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%87%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D9%87%D8%B1"
+  ]
+ },
+ "ajabshir": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده سید ابوالقاسم",
+    "pageid": 29515,
+    "revision_id": 44613663,
+    "section": "مکان های دیدنی و گردشگری",
+    "source_title": "عجب‌شیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
+    "target_title": "امامزاده سید ابوالقاسم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سد قلعه چای",
+    "pageid": 29515,
+    "revision_id": 44613663,
+    "section": "مکان های دیدنی و گردشگری",
+    "source_title": "عجب‌شیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
+    "target_title": "سد قلعه چای"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه ارومیه",
+    "pageid": 29515,
+    "revision_id": 44613663,
+    "section": "مکان های دیدنی و گردشگری",
+    "source_title": "عجب‌شیر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
+    "target_title": "دریاچه ارومیه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "عجب‌شیر",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1"
+  ]
+ },
+ "azarshahr": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سردر و محراب مسجد محراب آذرشهر",
+    "pageid": 13338,
+    "revision_id": 44323893,
+    "section": "گردشگری",
+    "source_title": "آذرشهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+    "target_title": "سردر و محراب مسجد محراب آذرشهر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گورستان و آرامگاه پیرلر",
+    "pageid": 13338,
+    "revision_id": 44323893,
+    "section": "گردشگری",
+    "source_title": "آذرشهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+    "target_title": "گورستان و آرامگاه پیرلر (پیر حیران)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "هفت‌چشمه",
+    "pageid": 13338,
+    "revision_id": 44323893,
+    "section": "گردشگری",
+    "source_title": "آذرشهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+    "target_title": "هفت‌چشمه (آذرشهر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام چهار سوق",
+    "pageid": 13338,
+    "revision_id": 44323893,
+    "section": "گردشگری",
+    "source_title": "آذرشهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+    "target_title": "حمام چهار سوق"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام ستوباد",
+    "pageid": 13338,
+    "revision_id": 44323893,
+    "section": "گردشگری",
+    "source_title": "آذرشهر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+    "target_title": "حمام ستوباد"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "آذرشهر",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1"
+  ]
+ },
+ "bonab": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد مهرآباد",
+    "pageid": 6621,
+    "revision_id": 44399035,
+    "section": "آثار تاریخی",
+    "source_title": "بناب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%A7%D8%A8",
+    "target_title": "مسجد مهرآباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام مهرآباد",
+    "pageid": 6621,
+    "revision_id": 44399035,
+    "section": "آثار تاریخی",
+    "source_title": "بناب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%A7%D8%A8",
+    "target_title": "حمام مهرآباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد میدان بناب",
+    "pageid": 6621,
+    "revision_id": 44399035,
+    "section": "آثار تاریخی",
+    "source_title": "بناب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%A7%D8%A8",
+    "target_title": "مسجد میدان بناب (مسجد گزاوش)"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "بناب",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86%D8%A7%D8%A8",
+   "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%A7%D8%A8"
+  ]
+ },
+ "bostanabad": {
+  "candidates": [
+   {
+    "field": "poi_recreation",
+    "location_evidence": "county tourism section",
+    "name": "پیست اسکی",
+    "pageid": 28802,
+    "revision_id": 43085061,
+    "section": "صنعت گردشگری (توریسم) / جاذبه های طبیعی",
+    "source_title": "شهرستان بستان‌آباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "پیست اسکی"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "بستان‌آباد",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "charoymaq": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبگرم",
+    "pageid": 59606,
+    "revision_id": 44444031,
+    "section": "مکان های دیدنی چاراویماق",
+    "source_title": "شهرستان چاراویماق",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%B1%D8%A7%D9%88%DB%8C%D9%85%D8%A7%D9%82",
+    "target_title": "آبگرم"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "چشمه جادویی پیرسقا",
+    "pageid": 59606,
+    "revision_id": 44444031,
+    "section": "مکان های دیدنی چاراویماق",
+    "source_title": "شهرستان چاراویماق",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%B1%D8%A7%D9%88%DB%8C%D9%85%D8%A7%D9%82",
+    "target_title": "چشمه جادویی پیرسقا"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "چاراویماق",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D8%A7%D8%B1%D8%A7%D9%88%DB%8C%D9%85%D8%A7%D9%82"
+  ]
+ },
+ "hashtrud": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "هشترود",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B4%D8%AA%D8%B1%D9%88%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D9%87%D8%B4%D8%AA%D8%B1%D9%88%D8%AF"
+  ]
+ },
+ "heris": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "هریس",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D8%B1%DB%8C%D8%B3"
+  ]
+ },
+ "hurand": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "هوراند",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%88%D8%B1%D8%A7%D9%86%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D9%87%D9%88%D8%B1%D8%A7%D9%86%D8%AF"
+  ]
+ },
+ "jolfa": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه سید ابوالقاسم نباتی",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "آرامگاه سید ابوالقاسم نباتی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "برج دوزال",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "برج دوزال"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام کردشت",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "حمام کردشت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کلیسای استفانوس مقدس",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "کلیسای استفانوس مقدس"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کلیسای ننه مریم",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "کلیسای ننه مریم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای خواجه نظر",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "کاروانسرای خواجه نظر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کلیسای چوپان",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "کلیسای چوپان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کلیسای مریم مقدس",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "کلیسای مریم مقدس (جلفا)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سید محمد جلفا",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "امامزاده سید محمد جلفا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه علی بیگ",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "قلعه علی بیگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام تاریخی جلفا",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "حمام تاریخی جلفا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کردشت",
+    "pageid": 59508,
+    "revision_id": 44161029,
+    "section": "آثار تاریخی و دیدنی",
+    "source_title": "شهرستان جلفا",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+    "target_title": "قلعه کردشت (عباس‌آباد)"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "جلفا",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AC%D9%84%D9%81%D8%A7",
+   "https://fa.wikipedia.org/wiki/%D8%AC%D9%84%D9%81%D8%A7"
+  ]
+ },
+ "kaleybar": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دره مکیدی",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "قابلیت های گردشگری",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "دره مکیدی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "قلعه دره سی",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "قابلیت های گردشگری",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "قلعه دره سی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بابک",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "قلعه بابک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پشتو",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "قلعه پشتو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پیغام",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "قلعه پیغام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه آوارسین",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "قلعه آوارسین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع کلیبر",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "مسجد جامع کلیبر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مقبره شاه قاسم",
+    "pageid": 90106,
+    "revision_id": 43795057,
+    "section": "آثار تاریخی",
+    "source_title": "شهرستان کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "مقبره شاه قاسم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه بابک",
+    "pageid": 19590,
+    "revision_id": 44474338,
+    "section": "پتانسیل گردشگری / [[قلعه بابک (قلعه بذ)]]",
+    "source_title": "کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "قلعه بابک (قلعه بذ)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مکیدی دره سی",
+    "pageid": 19590,
+    "revision_id": 44474338,
+    "section": "پتانسیل گردشگری / [[ییلاق| ییلاق های]] [[عشایر ارسباران]]",
+    "source_title": "کلیبر",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+    "target_title": "مکیدی دره سی"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "کلیبر",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D8%A8%D8%B1",
+   "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D8%A8%D8%B1"
+  ]
+ },
+ "khoda-afarin": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل خداآفرین",
+    "pageid": 90117,
+    "revision_id": 43536905,
+    "section": "جاذبه های گردشگری",
+    "source_title": "خمارلو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88",
+    "target_title": "پل خداآفرین"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "خداآفرین",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%AF%D8%A7%D8%A2%D9%81%D8%B1%DB%8C%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%AE%D9%85%D8%A7%D8%B1%D9%84%D9%88"
+  ]
+ },
+ "malekan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه بختک لیلان",
+    "pageid": 51988,
+    "revision_id": 44374448,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "شهرستان ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "قلعه بختک لیلان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل آجری لیلان چای",
+    "pageid": 51988,
+    "revision_id": 44374448,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "شهرستان ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "پل آجری لیلان چای"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آرپا دره‌سی",
+    "pageid": 51988,
+    "revision_id": 44374448,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "شهرستان ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "آرپا دره‌سی (ملکان)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "کوه شیروانشاهلو",
+    "pageid": 51988,
+    "revision_id": 44374448,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "شهرستان ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "کوه شیروانشاهلو"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دره گاومیش",
+    "pageid": 51988,
+    "revision_id": 44374448,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "شهرستان ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "دره گاومیش"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار آبی بنایم",
+    "pageid": 51988,
+    "revision_id": 44374448,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "شهرستان ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "غار آبی بنایم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه بختک لیلان",
+    "pageid": 90138,
+    "revision_id": 44509527,
+    "section": "مناظر دیدنی و تاریخی ملکان",
+    "source_title": "ملکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+    "target_title": "قلعه بختک لیلان"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "ملکان",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%DA%A9%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%85%D9%84%DA%A9%D8%A7%D9%86"
+  ]
+ },
+ "maragheh": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج مدور",
+    "pageid": 2039,
+    "revision_id": 44367498,
+    "section": "مکان های دیدنی / [[گنبد کبود]]",
+    "source_title": "مراغه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "target_title": "برج مدور"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رودخانه صوفی",
+    "pageid": 2039,
+    "revision_id": 44367498,
+    "section": "مکان های دیدنی / [[گنبد غفاریه]]",
+    "source_title": "مراغه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "target_title": "رودخانه صوفی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قیزلار قلعه‌سی",
+    "pageid": 2039,
+    "revision_id": 44367498,
+    "section": "مکان های دیدنی / [[قیزلار قلعه سی]]",
+    "source_title": "مراغه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "target_title": "قیزلار قلعه‌سی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تپه قلعه جمال‌آباد",
+    "pageid": 2039,
+    "revision_id": 44367498,
+    "section": "مکان های دیدنی / دیگر آثار تاریخی",
+    "source_title": "مراغه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "target_title": "تپه قلعه جمال‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "محوطه سئودلی‌قلعه",
+    "pageid": 2039,
+    "revision_id": 44367498,
+    "section": "مکان های دیدنی / دیگر آثار تاریخی",
+    "source_title": "مراغه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "target_title": "محوطه سئودلی‌قلعه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه سنگ‌نگاره‌ها",
+    "pageid": 2039,
+    "revision_id": 44367498,
+    "section": "مکان های دیدنی / دیگر آثار تاریخی",
+    "source_title": "مراغه",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "target_title": "موزه سنگ‌نگاره‌ها"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "مراغه",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+   "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%D8%BA%D9%87"
+  ]
+ },
+ "marand": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه مانداگارانا",
+    "pageid": 8710,
+    "revision_id": 44536392,
+    "section": "اماکن تاریخی، دیدنی و گردشگری",
+    "source_title": "مرند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
+    "target_title": "قلعه مانداگارانا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع مرند",
+    "pageid": 8710,
+    "revision_id": 44536392,
+    "section": "اماکن تاریخی، دیدنی و گردشگری",
+    "source_title": "مرند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
+    "target_title": "مسجد جامع مرند"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار کوزه‌فروشان مرند",
+    "pageid": 8710,
+    "revision_id": 44536392,
+    "section": "اماکن تاریخی، دیدنی و گردشگری",
+    "source_title": "مرند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
+    "target_title": "بازار کوزه‌فروشان مرند"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه قلعه",
+    "pageid": 8710,
+    "revision_id": 44536392,
+    "section": "اماکن تاریخی، دیدنی و گردشگری / روستاهای پلکانی زنوزق",
+    "source_title": "مرند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
+    "target_title": "کوه قلعه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رشته‌کوه میشو",
+    "pageid": 8710,
+    "revision_id": 44536392,
+    "section": "اماکن تاریخی، دیدنی و گردشگری / پیست اسکی پیام",
+    "source_title": "مرند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF",
+    "target_title": "رشته‌کوه میشو"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "مرند",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%B1%D9%86%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%86%D8%AF"
+  ]
+ },
+ "mianeh": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "میانه",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%DB%8C%D8%A7%D9%86%D9%87"
+  ]
+ },
+ "osku": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "جزیره شاهی",
+    "pageid": 61314,
+    "revision_id": 43488623,
+    "section": "گردشگری",
+    "source_title": "شهرستان اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "جزیره شاهی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دریاچه ارومیه",
+    "pageid": 61314,
+    "revision_id": 43488623,
+    "section": "گردشگری",
+    "source_title": "شهرستان اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "دریاچه ارومیه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده اسکو",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "امامزاده اسکو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار اسکو",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "بازار اسکو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام آقا",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "حمام آقا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام میلان",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "حمام میلان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام محمود بهادری",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "حمام محمود بهادری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه ارادت",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "خانه ارادت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه تقی‌زاده اسکویی",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "خانه تقی‌زاده اسکویی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قنات میلان",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "قنات میلان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد اوجوزلو",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "مسجد اوجوزلو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد پایتخت",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "مسجد پایتخت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع میلان",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "مسجد جامع میلان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع سبزه‌میدان",
+    "pageid": 154422,
+    "revision_id": 44387772,
+    "section": "بناهای تاریخی",
+    "source_title": "اسکو",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88",
+    "target_title": "مسجد جامع سبزه‌میدان"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "اسکو",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%DA%A9%D9%88",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D9%88"
+  ]
+ },
+ "sarab": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع سرآب",
+    "pageid": 30252,
+    "revision_id": 44297786,
+    "section": "اماکن دیدنی",
+    "source_title": "شهرستان سراب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D8%A8",
+    "target_title": "مسجد جامع سرآب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه عشایر آذربایجان",
+    "pageid": 30252,
+    "revision_id": 44297786,
+    "section": "اماکن دیدنی",
+    "source_title": "شهرستان سراب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D8%A8",
+    "target_title": "موزه عشایر آذربایجان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تیمچه حاج ملک",
+    "pageid": 30252,
+    "revision_id": 44297786,
+    "section": "اماکن دیدنی",
+    "source_title": "شهرستان سراب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D8%A8",
+    "target_title": "تیمچه حاج ملک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده بزرگ",
+    "pageid": 30252,
+    "revision_id": 44297786,
+    "section": "اماکن دیدنی",
+    "source_title": "شهرستان سراب",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D8%A8",
+    "target_title": "امامزاده بزرگ (سرآب)"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "سراب",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B1%D8%A7%D8%A8"
+  ]
+ },
+ "shabestar": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "موزه هدایای خامنه",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "موزه هدایای خامنه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه موزه شیخ محمد خیابانی",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "خانه موزه شیخ محمد خیابانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع تسوج",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "مسجد جامع تسوج"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار سرکنددیزج",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "آبشار سرکنددیزج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کلیسای هریپسیمه مقدس",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "کلیسای هریپسیمه مقدس (موجومبار)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کلیسای هوهانس مقدس",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "کلیسای هوهانس مقدس (سهرل)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار عیش‌آباد",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "آبشار عیش‌آباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب‌انبار قدیمی کوزه‌کنان",
+    "pageid": 18317,
+    "revision_id": 44260909,
+    "section": "جاذبه های تاریخی، مذهبی",
+    "source_title": "شهرستان شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "آب‌انبار قدیمی کوزه‌کنان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دریاچه ارومیه",
+    "pageid": 59509,
+    "revision_id": 44599027,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "دریاچه ارومیه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار عیش‌آباد",
+    "pageid": 59509,
+    "revision_id": 44599027,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شبستر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "target_title": "آبشار عیش‌آباد"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "شبستر",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1"
+  ]
+ },
+ "tabriz": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "ارگ علیشاه",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / بناها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "ارگ علیشاه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد کبود",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / بناها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد کبود (تبریز)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار تبریز",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / بناها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "بازار تبریز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد استاد و شاگرد",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد استاد و شاگرد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد ثقةالاسلام",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد ثقةالاسلام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد جامع"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد حاج صفرعلی",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد حاج صفرعلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد دال ذال",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد دال ذال"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد صاحب‌الامر",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد صاحب‌الامر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد مجتهد",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد مجتهد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد مقبره",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد مقبره"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد میرزاصادق",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد میرزاصادق"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد قراملک",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / مساجد",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد قراملک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه مشروطه",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه مشروطه (تبریز)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه شربت‌اوغلی",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه شربت‌اوغلی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه بهنام",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه بهنام"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه گنجه‌ای‌زاده",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه گنجه‌ای‌زاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه قاجار",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه قاجار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه قدکی",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه قدکی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه استاد شهریار",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه استاد شهریار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه پروین اعتصامی",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه پروین اعتصامی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه شیخ محمد خیابانی",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه شیخ محمد خیابانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه حریری",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه حریری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه حیدرزاده",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه حیدرزاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه سنجش",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه سنجش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه صدقیانی",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه صدقیانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه هنرمندان تبریز",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه هنرمندان تبریز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه نیکدل",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه نیکدل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه نعمت‌زاده",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "خانه نعمت‌زاده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه سفال",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه سفال"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه مطبوعات آذربایجان",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تاریخی / خانه های تاریخی",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه مطبوعات آذربایجان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ گلستان",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / پارک ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "باغ گلستان"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک بزرگ تبریز",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / پارک ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "پارک بزرگ تبریز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ‌شمال",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / پارک ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "باغ‌شمال"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مهمانخانه نظافت",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / هتل ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مهمانخانه نظافت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل قاری",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / هتل ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "پل قاری"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "لاله پارک",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / هتل ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "لاله پارک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کلیسای کاتولیک",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / سینماها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "کلیسای کاتولیک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج بلور",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / مراکز خرید / مراکز خرید مدرن",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "برج بلور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه آذربایجان",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / موزه ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه آذربایجان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه عصر آهن",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / موزه ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه عصر آهن"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه تاریخ طبیعی تبریز",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / موزه ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "موزه تاریخ طبیعی تبریز"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه ضحاک",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / موزه ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "قلعه ضحاک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد حسن پادشاه",
+    "pageid": 1587,
+    "revision_id": 44473640,
+    "section": "اماکن تفریحی / موزه ها",
+    "source_title": "تبریز",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "target_title": "مسجد حسن پادشاه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "تبریز",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+   "https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2"
+  ]
+ },
+ "torkamanchay": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "ترکمانچای",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%B1%DA%A9%D9%85%D8%A7%D9%86%DA%86%D8%A7%DB%8C",
+   "https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%D9%85%D8%A7%D9%86%DA%86%D8%A7%DB%8C"
+  ]
+ },
+ "varzaqan": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "ورزقان",
+  "fetched": "2026-10-02",
+  "province": "east-azerbaijan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%88%D8%B1%D8%B2%D9%82%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%B2%D9%82%D8%A7%D9%86"
+  ]
+ }
+}

@@ -35,6 +35,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "kahnoj - جنوب‌غرب\njiroft - شمال‌غرب\njazmourian - جنوب‌شرق\nbam - شمال\nfaryab - غرب\nrigan - شرق",
+  "sa_cty_poi_heritage": "آرامگاه سالار رضا",
   "sa_cty_population": 82438,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=28.4,57.98333"
@@ -55,6 +56,8 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "baft - شرق\nbardsir - شمال\nsirjan - شمال‌غرب\nhajiabad - جنوب‌غرب",
+  "sa_cty_poi_heritage": "امامزاده سلطان پیرغیب",
+  "sa_cty_poi_nature": "پارک ملی خبر\nرشته کوه زنجیرآویز",
   "sa_cty_population": 38510,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.1,56.3728"
@@ -118,6 +121,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "rabor - جنوب‌شرق\nbaft - جنوب\narzuiyeh - جنوب\nrafsanjan - شمال‌غرب\nsirjan - غرب\nzarand - شمال\nkerman - شمال‌شرق",
+  "sa_cty_poi_heritage": "ارگ بردسیر\nخانه بهادرالملک\nحمام لاله‌زار\nامام زاده\nامام‌زاده عبدالله",
   "sa_cty_population": 81983,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.83333,56.58333"
@@ -246,6 +250,8 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "ravar - شمال‌غرب\nnarmashir - جنوب‌شرق\nbam - جنوب\nbardsir - غرب\nrabor - جنوب‌غرب",
+  "sa_cty_poi_heritage": "قلعه دختر\nقلعه اردشیر\nخودمختارگرایی\nنقش رستم\nاز قلعه دختر تا دقیانوس\nآتشکده\nبازار\nحمام\nکاروانسرا\nآب‌انبار\nحمام گنجعلیخان\nمسجد جامع مظفری",
+  "sa_cty_poi_nature": "غارتگران",
   "sa_cty_population": 738724,
   "sa_cty_rural_districts": 16,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.33333,58.0"
@@ -286,6 +292,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "qaleh-ganj - شرق\nrudan - غرب\nkahnoj - شمال‌شرق\nminab - جنوب",
+  "sa_cty_poi_heritage": "قلعه منوجان",
   "sa_cty_population": 65705,
   "sa_cty_rural_districts": 5,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=27.53333,57.5"
@@ -345,6 +352,8 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "baft - غرب\njiroft - جنوب‌شرق\nbardsir - شمال‌غرب\nkerman - شمال‌شرق",
+  "sa_cty_poi_heritage": "امامزاده سیدمرتضی",
+  "sa_cty_poi_nature": "چشمه عروس",
   "sa_cty_population": 35362,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.25,56.98333"
@@ -365,6 +374,8 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "zarand - شمال‌شرق\nanar - شمال‌غرب\nbardsir - جنوب‌شرق\nshahr-e-babak - غرب\nsirjan - جنوب",
+  "sa_cty_poi_heritage": "خانه حاج‌آقاعلی\nبازار و آب انبار حاج‌آقاعلی\nخانه باقری\nعمارت کلاه‌فرنگی رفسنجان",
+  "sa_cty_poi_nature": "نودرهنگ\nمس سرچشمه\nسرچشمه\nدره در\nدره راگه",
   "sa_cty_population": 311214,
   "sa_cty_rural_districts": 14,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=30.53333,55.95"
@@ -385,6 +396,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "kuhbanan - غرب\nzarand - جنوب‌غرب\nkerman - جنوب‌شرق",
+  "sa_cty_poi_heritage": "قلعه قهقه\nبرج فیض‌آباد\nبرج امیر نخعی\nبرج محله بلوچی\nبرج نیازمند\nبرج کل حسین\nبرج گرمه‌ای\nخانه فخری\nکاروانسرای آب بید\nکاروانسرای دربند\nکاروانسرای چاه کوران\nکاروانسرای چهل پایه",
   "sa_cty_poi_offbeat": "گندم بریان",
   "sa_cty_population": 43198,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=31.3,57.15"
@@ -461,6 +473,7 @@
   "sa_cty_language": "فارسی با گویش کرمانی؛ در جنوب استان بلوچی",
   "sa_cty_livelihood": "باغداری (پسته و خرما)، معدن مس و زغال‌سنگ، صنایع دستی",
   "sa_cty_neighbors": "arzuiyeh - جنوب‌شرق\nshahr-e-babak - شمال‌غرب\nbardsir - شرق\nneyriz - غرب\ndarab - جنوب‌غرب\nrafsanjan - شمال\nhajiabad - جنوب",
+  "sa_cty_poi_heritage": "بازار سیرجان\nخانه علی اکبر شوکت سعیدی\nباغ سنگی\nآرامگاه میر زبیر\nقلعه سنگ سیرجان\nعمارت صدرزاده\nچهارگنبد\nگدارخانه سرخ",
   "sa_cty_population": 324103,
   "sa_cty_rural_districts": 10,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=29.5,55.5"

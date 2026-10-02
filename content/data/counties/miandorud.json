@@ -140,6 +140,71 @@
     "behshahr"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پناهگاه حیات وحش",
+     "pageid": 12411,
+     "revision_id": 43770115,
+     "section": "جاذبه های طبیعی",
+     "source_title": "سورک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%DA%A9",
+     "target_title": "پناهگاه حیات وحش"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "رودخانه دز",
+     "pageid": 12411,
+     "revision_id": 43770115,
+     "section": "جاذبه های طبیعی",
+     "source_title": "سورک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%DA%A9",
+     "target_title": "رودخانه دز"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه ارومیه",
+     "pageid": 12411,
+     "revision_id": 43770115,
+     "section": "جاذبه های طبیعی",
+     "source_title": "سورک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%DA%A9",
+     "target_title": "دریاچه ارومیه"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "جنگل‌های هیرکانی",
+     "pageid": 12411,
+     "revision_id": 43770115,
+     "section": "جاذبه های طبیعی",
+     "source_title": "سورک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%DA%A9",
+     "target_title": "جنگل‌های هیرکانی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گربه جنگلی",
+     "pageid": 12411,
+     "revision_id": 43770115,
+     "section": "جاذبه های طبیعی",
+     "source_title": "سورک",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%DA%A9",
+     "target_title": "گربه جنگلی"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%DA%A9",
+   "value": "پناهگاه حیات وحش\nرودخانه دز\nدریاچه ارومیه\nجنگل‌های هیرکانی\nگربه جنگلی"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

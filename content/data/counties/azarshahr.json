@@ -124,6 +124,81 @@
     "urmia"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "سردر و محراب مسجد محراب آذرشهر",
+     "pageid": 13338,
+     "revision_id": 44323893,
+     "section": "گردشگری",
+     "source_title": "آذرشهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+     "target_title": "سردر و محراب مسجد محراب آذرشهر"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "گورستان و آرامگاه پیرلر",
+     "pageid": 13338,
+     "revision_id": 44323893,
+     "section": "گردشگری",
+     "source_title": "آذرشهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+     "target_title": "گورستان و آرامگاه پیرلر (پیر حیران)"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام چهار سوق",
+     "pageid": 13338,
+     "revision_id": 44323893,
+     "section": "گردشگری",
+     "source_title": "آذرشهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+     "target_title": "حمام چهار سوق"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام ستوباد",
+     "pageid": 13338,
+     "revision_id": 44323893,
+     "section": "گردشگری",
+     "source_title": "آذرشهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+     "target_title": "حمام ستوباد"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+   "value": "سردر و محراب مسجد محراب آذرشهر\nگورستان و آرامگاه پیرلر\nحمام چهار سوق\nحمام ستوباد"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "هفت‌چشمه",
+     "pageid": 13338,
+     "revision_id": 44323893,
+     "section": "گردشگری",
+     "source_title": "آذرشهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+     "target_title": "هفت‌چشمه (آذرشهر)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%B4%D9%87%D8%B1",
+   "value": "هفت‌چشمه"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

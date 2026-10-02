@@ -14,6 +14,7 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "gonabad - شرق\nferdows - جنوب\nkhalilabad - شمال\nmahvelat - شمال‌شرق\nsarayan - جنوب‌شرق\neshqabad - غرب",
+  "sa_cty_poi_nature": "کویر\nمنطقه حفاظت‌شده هلن\nاقلیم بیابانی",
   "sa_cty_population": 31207,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.51627,58.18332"
  },
@@ -88,6 +89,8 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "chenaran - جنوب\nfaruj - غرب\nkalat - جنوب‌شرق",
+  "sa_cty_poi_heritage": "پل گرد\nمحوطه باستانی بندیان\nآرامگاه علامه شهرستانی\nامامزاده محمد دیباج",
+  "sa_cty_poi_nature": "جنگل پسته\nپارک ملی تندوره",
   "sa_cty_population": 72355,
   "sa_cty_rural_districts": 7,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=37.33333,59.08333"
@@ -106,6 +109,7 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "joghatai - شمال\nsheshtamad - جنوب‌شرق\nmeyami - غرب",
+  "sa_cty_poi_nature": "کوه‌های جغتای\nکوه‌نوردی",
   "sa_cty_population": 21911,
   "sa_cty_rural_districts": 4,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.31667,57.08333"
@@ -215,6 +219,8 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "joghatai - غرب\nesfarayen - شمال\nbam-safiabad - شرق\nkhoshab - جنوب‌شرق",
+  "sa_cty_poi_heritage": "شهر آق قلعه\nآرامگاه هفت معصوم\nبقعه خواجه نجم‌الدین",
+  "sa_cty_poi_nature": "کوه‌های جغتای",
   "sa_cty_population": 54488,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=36.70523,57.41732"
  },
@@ -252,6 +258,9 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "khalilabad - غرب\nkuhsorkh - شمال\nmahvelat - جنوب‌شرق",
+  "sa_cty_poi_heritage": "مسجد جامع کاشمر\nقلعه ریگ\nامامزاده سید مرتضی\nقلعه آتشگاه\nسرو باغ‌مزار\nکاروانسرای امین التجار\nآب‌انبار حاجی نظام\nامامزاده سید حمزه\nآرامگاه سید حسن مدرس\nآرامگاه سید اسماعیل نبوی\nمسجد حاجی جلال\nخانه احمد پناه",
+  "sa_cty_poi_nature": "دره آبگرم\nغار آتشگاه\nرودخانه قوژد\nکویر گندم‌بر\nبوستان جنگلی سید مرتضی",
+  "sa_cty_poi_recreation": "بوستان خطی سید مرتضی",
   "sa_cty_population": 168664,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.23833,58.46556"
  },
@@ -270,6 +279,8 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "bakharz - شمال‌شرق\ntaybad - شمال‌شرق\nroshtkhar - شمال‌غرب\nzirkuh - جنوب\nqayenat - جنوب‌غرب",
+  "sa_cty_poi_heritage": "آب‌انبار\nمحوطه سازی",
+  "sa_cty_poi_nature": "رشته کوه هندوکش",
   "sa_cty_population": 138972,
   "sa_cty_rural_districts": 8,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=34.5,60.0"
@@ -306,6 +317,7 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "bam-safiabad - شمال\nfiruzeh - شرق\njovein - شمال‌غرب\nsheshtamad - جنوب",
+  "sa_cty_poi_nature": "رودخانه\nرودسراب\nرشته کوه البرز",
   "sa_cty_poi_offbeat": "سلطان‌آباد\nداراب\nگردشگران\nطالبی",
   "sa_cty_population": 37181,
   "sa_cty_rural_districts": 5,
@@ -479,6 +491,7 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "kuhsorkh - جنوب‌شرق\nmian-jolgeh - شرق\nkhoshab - شمال\nfiruzeh - شمال‌شرق\ndavarzan - شمال‌غرب",
+  "sa_cty_poi_heritage": "قنات\nباغ خیرات",
   "sa_cty_poi_nature": "قله",
   "sa_cty_poi_offbeat": "شهرستان بردسکن\nمزینان\nششتمد\nشهرستان سبزوار\nصخره‌نوردی\nپادر",
   "sa_cty_population": 24261,
@@ -519,6 +532,7 @@
   "sa_cty_language": "فارسی با گویش خراسانی؛ در بخش‌هایی ترکی و کردی کرمانجی",
   "sa_cty_livelihood": "خدمات زیارتی و گردشگری، کشاورزی (زعفران و زرشک)، صنعت و معدن",
   "sa_cty_neighbors": "zaveh - جنوب‌شرق\nfariman - شمال‌شرق\nmahvelat - جنوب‌غرب\nkuhsorkh - غرب\nmian-jolgeh - شمال‌غرب",
+  "sa_cty_poi_nature": "رودخانه حصار\nرشته‌کوه کوهسرخ\nپارک جنگلی",
   "sa_cty_population": 224626,
   "sa_google_map_url": "https://www.google.com/maps/search/?api=1&query=35.4,59.31667"
  },

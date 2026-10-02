@@ -1,0 +1,1173 @@
+{
+ "asadabad-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کتیبه آقاجان بلاغی",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "کتیبه آقاجان بلاغی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام گلستان",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "حمام گلستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد سلطانی",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "مسجد سلطانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل شکسته خسروآباد",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "پل شکسته خسروآباد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "ملهمدره",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "ملهمدره"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "بهمن دره",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "بهمن دره"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آب انبار شاه عباس",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "آب انبار شاه عباس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تالاب پیر سلیمان",
+    "pageid": 48821,
+    "revision_id": 44260148,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان اسدآباد",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF",
+    "target_title": "تالاب پیر سلیمان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "اسدآباد",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "bahar-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای تاج‌آباد",
+    "pageid": 20532,
+    "revision_id": 44504555,
+    "section": "مهم ترین جاذبه های گردشگری شهرستان بهار",
+    "source_title": "شهرستان بهار",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1",
+    "target_title": "کاروانسرای تاج‌آباد"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "بهار",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%87%D8%A7%D8%B1"
+  ]
+ },
+ "dargazin": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "درگزین",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AF%D8%B1%DA%AF%D8%B2%DB%8C%D9%86"
+  ]
+ },
+ "famenin-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام قدیمی شهر",
+    "pageid": 92196,
+    "revision_id": 44402033,
+    "section": "جاذبه گردشگری",
+    "source_title": "فامنین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+    "target_title": "حمام قدیمی شهر"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار قلعه‌جوق",
+    "pageid": 92196,
+    "revision_id": 44402033,
+    "section": "جاذبه گردشگری",
+    "source_title": "فامنین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+    "target_title": "غار قلعه‌جوق"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل جهان‌آباد فامنین",
+    "pageid": 92196,
+    "revision_id": 44402033,
+    "section": "جاذبه گردشگری",
+    "source_title": "فامنین",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+    "target_title": "پل جهان‌آباد فامنین"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "فامنین",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%85%D9%86%DB%8C%D9%86"
+  ]
+ },
+ "hamadan-city": {
+  "candidates": [
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان تپه حاج عنایت",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "نمای شهر / پارک ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "بوستان تپه حاج عنایت"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان شیرسنگی",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "نمای شهر / پارک ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "بوستان شیرسنگی"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان مردم",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "نمای شهر / پارک ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "بوستان مردم"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان باباطاهر",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "نمای شهر / پارک ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "بوستان باباطاهر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "هگمتانه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "هگمتانه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گورستان پارتی همدان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "گورستان پارتی همدان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کتیبه‌های گنج‌نامه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "کتیبه‌های گنج‌نامه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه خضر",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "بقعه خضر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه استر و مردخای",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "آرامگاه استر و مردخای"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج قربان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "برج قربان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل آبشینه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "پل آبشینه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع همدان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "مسجد جامع همدان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بازار همدان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "بازار همدان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه باباطاهر",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "آرامگاه باباطاهر (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه بوعلی‌سینا",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / آثار تاریخی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "آرامگاه بوعلی‌سینا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه تاریخ طبیعی همدان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه تاریخ طبیعی همدان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه هگمتانه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه هگمتانه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه بوعلی‌سینا",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه بوعلی‌سینا"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ‌موزه دفاع مقدس",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "باغ‌موزه دفاع مقدس (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه سفال",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه سفال (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ موزه نظری",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "باغ موزه نظری"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه حمام قلعه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه حمام قلعه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه مفاخر و مشاهیر همدان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه مفاخر و مشاهیر همدان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه صنایع‌دستی همدان",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / موزه ها",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "موزه صنایع‌دستی همدان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره مرادبیگ",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "دره مرادبیگ"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره عباس‌آباد",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "دره عباس‌آباد"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره گنج‌نامه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "دره گنج‌نامه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار گنج‌نامه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "آبشار گنج‌نامه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آتشکده بهرام",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "آتشکده بهرام (همدان)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره امامزاده کوه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "دره امامزاده کوه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده محسن",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده محسن"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تله‌کابین گنج‌نامه",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / تله کابین گنجنامه",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "تله‌کابین گنج‌نامه"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تله‌کابین",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / چشم اندازهای طبیعی / نگرانی از اثرات زیست محیطی تله کابین گنجنامه",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "تله‌کابین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد میرزا تقی",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "مسجد میرزا تقی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده عبدالله",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده عبدالله (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده اهل ابن علی",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده اهل ابن علی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده اسماعیل",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده اسماعیل (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده هادی بن علی",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده هادی بن علی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده یحیی",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده یحیی (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده عیسی‌بن‌احمد",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده عیسی‌بن‌احمد (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده خضر",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "امامزاده خضر (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سقاخانه حضرت ابوالفضل",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "سقاخانه حضرت ابوالفضل (همدان)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سقاخانه آقاجانی‌بیگ",
+    "pageid": 2926,
+    "revision_id": 44594221,
+    "section": "جاذبه های گردشگری / مکان ها و آثار باستانی مذهبی",
+    "source_title": "همدان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "target_title": "سقاخانه آقاجانی‌بیگ"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "همدان",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%AF%D8%A7%D9%86"
+  ]
+ },
+ "kabudarahang-city": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار علی‌صدر",
+    "pageid": 18961,
+    "revision_id": 44605137,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کبودرآهنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A8%D9%88%D8%AF%D8%B1%D8%A2%D9%87%D9%86%DA%AF",
+    "target_title": "غار علی‌صدر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعهٔ باشقورتاران",
+    "pageid": 18961,
+    "revision_id": 44605137,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کبودرآهنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A8%D9%88%D8%AF%D8%B1%D8%A2%D9%87%D9%86%DA%AF",
+    "target_title": "قلعهٔ باشقورتاران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "پل کوریجان",
+    "pageid": 18961,
+    "revision_id": 44605137,
+    "section": "جاذبه های گردشگری",
+    "source_title": "شهرستان کبودرآهنگ",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A8%D9%88%D8%AF%D8%B1%D8%A2%D9%87%D9%86%DA%AF",
+    "target_title": "پل کوریجان"
+   }
+  ],
+  "center_confirmed": false,
+  "county": "کبودرآهنگ",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A8%D9%88%D8%AF%D8%B1%D8%A2%D9%87%D9%86%DA%AF"
+  ]
+ },
+ "malayer-city": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "شبه جزیره اسکاندیناوی",
+    "pageid": 12564,
+    "revision_id": 44263476,
+    "section": "جاذبه های دیدنی / تالاب فصلی آق گل",
+    "source_title": "شهرستان ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "شبه جزیره اسکاندیناوی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج ایفل",
+    "pageid": 13070,
+    "revision_id": 44466677,
+    "section": "جاذبه ها",
+    "source_title": "ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "برج ایفل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "تخت جمشید",
+    "pageid": 13070,
+    "revision_id": 44466677,
+    "section": "جاذبه ها",
+    "source_title": "ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "تخت جمشید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "برج آزادی",
+    "pageid": 13070,
+    "revision_id": 44466677,
+    "section": "جاذبه ها",
+    "source_title": "ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "برج آزادی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه باباطاهر",
+    "pageid": 13070,
+    "revision_id": 44466677,
+    "section": "جاذبه ها",
+    "source_title": "ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "آرامگاه باباطاهر (همدان)"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک سیفیه",
+    "pageid": 13070,
+    "revision_id": 44466677,
+    "section": "ساختار شهری / پارک ها",
+    "source_title": "ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "پارک سیفیه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کوه گرمه",
+    "pageid": 13070,
+    "revision_id": 44466677,
+    "section": "ساختار شهری / پارک ها",
+    "source_title": "ملایر",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+    "target_title": "کوه گرمه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "ملایر",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D9%84%D8%A7%DB%8C%D8%B1",
+   "https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%A7%DB%8C%D8%B1"
+  ]
+ },
+ "nahavand-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام حاج آقا تراب",
+    "pageid": 889,
+    "revision_id": 44376002,
+    "section": "گردشگری",
+    "source_title": "نهاوند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF",
+    "target_title": "حمام حاج آقا تراب"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل زرامین",
+    "pageid": 889,
+    "revision_id": 44376002,
+    "section": "گردشگری",
+    "source_title": "نهاوند",
+    "source_url": "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF",
+    "target_title": "پل زرامین"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "نهاوند",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF"
+  ]
+ },
+ "razan-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه یگانه",
+    "pageid": 92200,
+    "revision_id": 44263418,
+    "section": "گردشگری",
+    "source_title": "رزن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86",
+    "target_title": "خانه یگانه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده اظهربن علی",
+    "pageid": 92200,
+    "revision_id": 44263418,
+    "section": "گردشگری",
+    "source_title": "رزن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86",
+    "target_title": "امامزاده اظهربن علی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بقعه",
+    "pageid": 92200,
+    "revision_id": 44263418,
+    "section": "گردشگری",
+    "source_title": "رزن",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86",
+    "target_title": "بقعه"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "رزن",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D8%B2%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86"
+  ]
+ },
+ "tuyserkan-city": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه اردلان",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "قلعه اردلان (اشتران)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "کاروانسرای فرسفج",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "کاروانسرای فرسفج"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع سرابی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "مسجد جامع سرابی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "سرابی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "سرابی (تویسرکان)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "حمام سرابی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "حمام سرابی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "دره گزندر سرابی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "دره گزندر سرابی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد جامع تویسرکان",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "مسجد جامع تویسرکان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه مسعودی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "خانه مسعودی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "مسجد باغوار",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "مسجد باغوار"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "county tourism section",
+    "name": "پارک توریستی کمربسته",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "پارک توریستی کمربسته"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه میررضی‌الدین آرتیمانی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "آرامگاه میررضی‌الدین آرتیمانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه حبقوق نبی",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "آرامگاه حبقوق نبی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "آبشار افشار",
+    "pageid": 16705,
+    "revision_id": 44605764,
+    "section": "گردشگری",
+    "source_title": "شهرستان تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "آبشار افشار"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "قلعه اردلان",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "قلعه اردلان (اشتران)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای فرسفج",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "کاروانسرای فرسفج"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع سرابی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "مسجد جامع سرابی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "سرابی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "سرابی (تویسرکان)"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام سرابی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "حمام سرابی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "دره گزندر سرابی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "دره گزندر سرابی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد جامع تویسرکان",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "مسجد جامع تویسرکان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "خانه مسعودی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "خانه مسعودی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "مسجد باغوار",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "مسجد باغوار"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پارک توریستی کمربسته",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "پارک توریستی کمربسته"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه میررضی‌الدین آرتیمانی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "آرامگاه میررضی‌الدین آرتیمانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آرامگاه حبقوق نبی",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "آرامگاه حبقوق نبی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "آبشار افشار",
+    "pageid": 16675,
+    "revision_id": 44611487,
+    "section": "گردشگری",
+    "source_title": "تویسرکان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+    "target_title": "آبشار افشار"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "تویسرکان",
+  "fetched": "2026-10-02",
+  "province": "hamadan",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86"
+  ]
+ }
+}

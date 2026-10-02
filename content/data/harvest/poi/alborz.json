@@ -1,0 +1,915 @@
+{
+ "chaharbagh": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "چهارباغ",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%A7%D8%BA"
+  ]
+ },
+ "eshtehard": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "اشتهارد",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D8%B4%D8%AA%D9%87%D8%A7%D8%B1%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D8%A7%D8%B4%D8%AA%D9%87%D8%A7%D8%B1%D8%AF"
+  ]
+ },
+ "fardis": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "فردیس",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%81%D8%B1%D8%AF%DB%8C%D8%B3",
+   "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%DB%8C%D8%B3"
+  ]
+ },
+ "karaj": {
+  "candidates": [
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "گرمدره",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مکان های تاریخی",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "گرمدره"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ سیب مهرشهر",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "باغ سیب مهرشهر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ مروارید",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "کاخ مروارید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "باغ لاله‌های گچسر",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "باغ لاله‌های گچسر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای شاه‌عباسی کرج",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "کاروانسرای شاه‌عباسی کرج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ شهرستانک",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "کاخ شهرستانک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پل تاریخی کرج",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "پل تاریخی کرج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "امامزاده طاهر کرج",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "امامزاده طاهر کرج"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی دیزین",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "پیست اسکی دیزین"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست اسکی خور",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "پیست اسکی خور"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاخ سلیمانیه",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "کاخ سلیمانیه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه جانورشناسی کرج",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "موزه جانورشناسی کرج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "موزه تاریخ طبیعی کرج",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "موزه تاریخ طبیعی کرج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "حمام مصباح",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "حمام مصباح"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "رودخانه کرج",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "رودخانه کرج"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "غار یخ‌مراد",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "غار یخ‌مراد"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "پیست موتور کراس حصارک",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "پیست موتور کراس حصارک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "کاروانسرای شاه‌عباسی",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "کاروانسرای شاه‌عباسی (کرج)"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان ایران کوچک",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "بوستان ایران کوچک"
+   },
+   {
+    "field": "poi_recreation",
+    "location_evidence": "Wikidata seat + explicit county in city article",
+    "name": "بوستان چمران",
+    "pageid": 2444,
+    "revision_id": 44458279,
+    "section": "مراکز فرهنگی / موزه ها / جاذبه های گردشگری",
+    "source_title": "کرج",
+    "source_url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC",
+    "target_title": "بوستان چمران"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "کرج",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D8%AC",
+   "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AC"
+  ]
+ },
+ "nazarabad": {
+  "candidates": [],
+  "center_confirmed": true,
+  "county": "نظرآباد",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%86%D8%B8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF",
+   "https://fa.wikipedia.org/wiki/%D9%86%D8%B8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF"
+  ]
+ },
+ "savojablogh": {
+  "candidates": [],
+  "center_confirmed": false,
+  "county": "ساوجبلاغ",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%88%D8%AC%D8%A8%D9%84%D8%A7%D8%BA"
+  ]
+ },
+ "taleghan": {
+  "candidates": [
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "خانه محمود طالقانی",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "خانه محمود طالقانی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه ۱ شکار چر",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه ۱ شکار چر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه آردکان تپه",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه آردکان تپه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه لمبران",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه لمبران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه مرجان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه مرجان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه واگین سو",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه واگین سو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه زرده گهره و پنجعلی تپه",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه زرده گهره و پنجعلی تپه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه مرغ استل",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه مرغ استل"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه سنقر کلایه",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه سنقر کلایه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه تکیدر",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه تکیدر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه روناسر",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه روناسر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه خرماله کول",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه خرماله کول"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه کوشک سر",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه کوشک سر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه قزوین دشت",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه قزوین دشت"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه ارچیلان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه ارچیلان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه جیر ارژنگ",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه جیر ارژنگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه هورسی بند شهرک",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه هورسی بند شهرک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "محوطه خانه مالان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / [[محوطه های باستانی استان البرز|محوطه های باستانی]]",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "محوطه خانه مالان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه قلعه فالیس",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / تپه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "تپه قلعه فالیس"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "تپه دره میر آش",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / تپه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "تپه دره میر آش"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه قلعه سر",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / تپه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "تپه قلعه سر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه قلعه دیو",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / تپه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "تپه قلعه دیو"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "تپه قلعه قلدوش",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / تپه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "تپه قلعه قلدوش (قله دوش)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام شهرک طالقان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام شهرک طالقان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای نویزک",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام روستای نویزک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای بزج",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام روستای بزج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای فشندک",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام روستای فشندک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای میر",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام روستای میر"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای کلانک",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام روستای کلانک"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "حمام روستای سنگ بن طالقان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / حمام ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "حمام روستای سنگ بن طالقان"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار پنجعلی",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / غارها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "غار پنجعلی"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار وی یا",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / غارها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "غار وی یا"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار زالن گاه",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / غارها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "غار زالن گاه"
+   },
+   {
+    "field": "poi_nature",
+    "location_evidence": "county tourism section",
+    "name": "غار بادامستان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / غارها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "غار بادامستان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه منصور طالقان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه منصور طالقان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کیقباد",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه کیقباد"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "ارژنگ قلعه",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "ارژنگ قلعه"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه کیقباد هرنج",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه کیقباد هرنج"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه پراچان",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه پراچان"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه سگران",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه سگران"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه نوده",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه نوده (قلعه کیان خاتون)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "قلعه ارژنگ",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / قلعه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "قلعه ارژنگ"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده هارون",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده هارون"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده یوسف",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده یوسف (ساوجبلاغ)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده موسی و سلیم",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده موسی و سلیم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده قاضی",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده قاضی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده قاضی میر سعید",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده قاضی میر سعید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده زید و ابراهیم",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده زید و ابراهیم"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده حمزه و عبدا...",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده حمزه و عبدا..."
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "امامزاده سید ضیاء الدین",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "امامزاده سید ضیاء الدین"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه شیخ (پیر) حسین الهی",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "آرامگاه شیخ (پیر) حسین الهی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه پیر وشته",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "آرامگاه پیر وشته (پیر نمیر)"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه پیر کشی",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "آرامگاه پیر کشی"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "آرامگاه پیر جمشید",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / امام زاده ها و آرامگاه ها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "آرامگاه پیر جمشید"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان روستای گته ده",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / گورستانها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "گورستان روستای گته ده"
+   },
+   {
+    "field": "poi_heritage",
+    "location_evidence": "county tourism section",
+    "name": "گورستان گبری",
+    "pageid": 179087,
+    "revision_id": 44205406,
+    "section": "آثار ملی و دیدنی ها / گورستانها",
+    "source_title": "شهرستان طالقان",
+    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+    "target_title": "گورستان گبری"
+   }
+  ],
+  "center_confirmed": true,
+  "county": "طالقان",
+  "fetched": "2026-10-02",
+  "province": "alborz",
+  "sources": [
+   "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86",
+   "https://fa.wikipedia.org/wiki/%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86"
+  ]
+ }
+}

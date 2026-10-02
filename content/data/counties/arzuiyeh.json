@@ -138,6 +138,59 @@
     "hajiabad"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "امامزاده سلطان پیرغیب",
+     "pageid": 93585,
+     "revision_id": 44610923,
+     "section": "گردشگری طبیعی و تاریخی",
+     "source_title": "ارزوئیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B2%D9%88%D8%A6%DB%8C%D9%87",
+     "target_title": "امامزاده سلطان پیرغیب (سیرجان)"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B2%D9%88%D8%A6%DB%8C%D9%87",
+   "value": "امامزاده سلطان پیرغیب"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک ملی خبر",
+     "pageid": 93585,
+     "revision_id": 44610923,
+     "section": "گردشگری طبیعی و تاریخی",
+     "source_title": "ارزوئیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B2%D9%88%D8%A6%DB%8C%D9%87",
+     "target_title": "پارک ملی خبر"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "رشته کوه زنجیرآویز",
+     "pageid": 93585,
+     "revision_id": 44610923,
+     "section": "گردشگری طبیعی و تاریخی",
+     "source_title": "ارزوئیه",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B2%D9%88%D8%A6%DB%8C%D9%87",
+     "target_title": "رشته کوه زنجیرآویز"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%B2%D9%88%D8%A6%DB%8C%D9%87",
+   "value": "پارک ملی خبر\nرشته کوه زنجیرآویز"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

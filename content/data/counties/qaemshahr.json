@@ -161,6 +161,81 @@
     "savadkuh"
    ]
   },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کبوتر جنگلی",
+     "pageid": 5381,
+     "revision_id": 44300615,
+     "section": "جاذبه های گردشگری / جنگل",
+     "source_title": "قائم‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_title": "کبوتر جنگلی"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "جنگل شالتماس",
+     "pageid": 5381,
+     "revision_id": 44300615,
+     "section": "جاذبه های گردشگری / منابع طبیعی و جنگل ها",
+     "source_title": "قائم‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_title": "جنگل شالتماس (شاه طهماسب)"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "دریاچه گل‌پل",
+     "pageid": 5381,
+     "revision_id": 44300615,
+     "section": "جاذبه های گردشگری / دریاچه ها و آب بندان ها",
+     "source_title": "قائم‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_title": "دریاچه گل‌پل"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": "کبوتر جنگلی\nجنگل شالتماس\nدریاچه گل‌پل"
+  },
+  "poi_recreation": {
+   "entries": [
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بوستان نمونه گردشگری پایین‌لموک",
+     "pageid": 5381,
+     "revision_id": 44300615,
+     "section": "جاذبه های گردشگری / بوستان ها و مکان های تفریحی",
+     "source_title": "قائم‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_title": "بوستان نمونه گردشگری پایین‌لموک"
+    },
+    {
+     "field": "poi_recreation",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "پارک نمونه گردشگری پایین‌لموک",
+     "pageid": 5381,
+     "revision_id": 44300615,
+     "section": "جاذبه های گردشگری / دریاچه ها و آب بندان ها",
+     "source_title": "قائم‌شهر",
+     "source_url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+     "target_title": "پارک نمونه گردشگری پایین‌لموک"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+   "value": "بوستان نمونه گردشگری پایین‌لموک\nپارک نمونه گردشگری پایین‌لموک"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

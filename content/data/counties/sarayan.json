@@ -131,6 +131,180 @@
     "bajestan"
    ]
   },
+  "poi_heritage": {
+   "entries": [
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آرامگاه تورانشاه",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آرامگاه تورانشاه"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "کاروانسرای سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "کاروانسرای سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "حمام قدیمی سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "حمام قدیمی سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "مسجد جامع سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "مسجد جامع سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "خانه یزدانی",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "خانه یزدانی"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب انبار آهنگران سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آب انبار آهنگران سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب انبار فاضل خانی سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آب انبار فاضل خانی سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب انبار حسینیه (حاج عبدالرسول) سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آب انبار حسینیه (حاج عبدالرسول) سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب انبار حاج حسن سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آب انبار حاج حسن سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آب انبار بالای سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آب انبار بالای سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "قلعه قلاع سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "قلعه قلاع سرایان"
+    },
+    {
+     "field": "poi_heritage",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "بازار میثم سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "بازار میثم سرایان"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+   "value": "آرامگاه تورانشاه\nکاروانسرای سرایان\nحمام قدیمی سرایان\nمسجد جامع سرایان\nخانه یزدانی\nآب انبار آهنگران سرایان\nآب انبار فاضل خانی سرایان\nآب انبار حسینیه (حاج عبدالرسول) سرایان\nآب انبار حاج حسن سرایان\nآب انبار بالای سرایان\nقلعه قلاع سرایان\nبازار میثم سرایان"
+  },
+  "poi_nature": {
+   "entries": [
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آسیاب آبی کاه‌کوه سرایان",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آسیاب آبی کاه‌کوه سرایان"
+    },
+    {
+     "field": "poi_nature",
+     "location_evidence": "Wikidata seat + explicit county in city article",
+     "name": "آبشار سبزرود",
+     "pageid": 20114,
+     "revision_id": 43252945,
+     "section": "گردشگری / کاروانسرای سرایان",
+     "source_title": "سرایان",
+     "source_url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+     "target_title": "آبشار سبزرود"
+    }
+   ],
+   "fetched": "2026-10-02",
+   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
+   "source": "wikipedia-poi",
+   "status": "draft",
+   "url": "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%DB%8C%D8%A7%D9%86",
+   "value": "آسیاب آبی کاه‌کوه سرایان\nآبشار سبزرود"
+  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",
