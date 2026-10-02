@@ -1,0 +1,174 @@
+{
+ "format": "1.0",
+ "built": "2026-10-02",
+ "counties": [
+  {
+   "title": "مشهد",
+   "slug": "mashhad",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "نیشابور",
+   "slug": "neyshabur",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "سبزوار",
+   "slug": "sabzevar",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "قوچان",
+   "slug": "quchan",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "کاشمر",
+   "slug": "kashmar",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "گناباد",
+   "slug": "gonabad",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "جغتای",
+   "slug": "joghatai",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "جوین",
+   "slug": "jovein",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "خلیل‌آباد",
+   "slug": "khalilabad",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "خواف",
+   "slug": "khaf",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "خوشاب",
+   "slug": "khoshab",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "داورزن",
+   "slug": "davarzan",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "درگز",
+   "slug": "dargaz",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "رشتخوار",
+   "slug": "roshtkhar",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "زاوه",
+   "slug": "zaveh",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "سرخس",
+   "slug": "sarakhs",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "ششتمد",
+   "slug": "sheshtamad",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "صالح‌آباد",
+   "slug": "saleh-abad",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "فریمان",
+   "slug": "fariman",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "فیروزه",
+   "slug": "firuzeh",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "مه‌ولات",
+   "slug": "mahvelat",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "میان‌جلگه",
+   "slug": "mian-jolgeh",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "چناران",
+   "slug": "chenaran",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "کلات",
+   "slug": "kalat",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "کوهسرخ",
+   "slug": "kuhsorkh",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "گلبهار",
+   "slug": "golbahar",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "بینالود",
+   "slug": "binalud",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "زبرخان",
+   "slug": "zebarkhan",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  }
+ ]
+}

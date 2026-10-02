@@ -108,8 +108,16 @@ def parse_schema_data(text):
     geo = re.search(r'geo:\s*\{([^}]*)\}', raw)
     contained = re.search(r'containedInPlace:\s*(\S+)', raw)
     stype = re.search(r'schema_type:\s*(.+)', raw)
+    same_as = []
+    if sameas:
+        raw_same_as = sameas.group(1).strip()
+        try:
+            same_as = json.loads(raw_same_as)
+        except (TypeError, ValueError):
+            # County drafts use a compact Markdown-style list: [https://…].
+            same_as = re.findall(r'https?://[^,\]\s]+', raw_same_as)
     out = {
-        'sameAs': json.loads(sameas.group(1)) if sameas else [],
+        'sameAs': same_as,
         'geo': {},
         'contained_in': contained.group(1) if contained else '',
         'schema_type': stype.group(1).strip() if stype else 'City+TouristDestination',
@@ -210,9 +218,16 @@ def main():
     ap.add_argument('--label', required=True, help='province Persian term name, e.g. آذربایجان شرقی')
     ap.add_argument('--out', default=None, help='data/ directory of the importer plugin')
     ap.add_argument('--version', default='1.0.0', help='data version written to manifest')
+    ap.add_argument('--counties-file', default=None,
+                    help='optional JSON file with {"counties": [...]}; useful for a complete province batch')
     args = ap.parse_args()
 
-    rows = json.load(open(B01_COUNTIES, encoding='utf-8'))['counties']
+    counties_file = args.counties_file or B01_COUNTIES
+    if not os.path.isabs(counties_file):
+        counties_file = os.path.join(ROOT, counties_file)
+    if not os.path.exists(counties_file):
+        sys.exit('counties file not found: %s' % counties_file)
+    rows = json.load(open(counties_file, encoding='utf-8'))['counties']
     mine = [r for r in rows if r.get('province') == args.province]
     if not mine:
         sys.exit('no counties for %s in b01 counties.json' % args.province)
