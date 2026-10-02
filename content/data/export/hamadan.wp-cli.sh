@@ -102,7 +102,6 @@ ID=$(wp post list --post_type=city --name=razan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "کشاورزی (سیب‌زمینی و غلات)، دامداری، سفالگری و گردشگری تاریخی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "dargazin - شرق\navaj - شمال‌شرق\nkabudarahang-city - غرب\nkhodabandeh - شمال‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "برج (سازه)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "35.41667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49"
 [ -n "$ID" ] && wp post meta update "$ID" sa_google_map_url "https://www.google.com/maps/search/?api=1&query=35.41667,49.0"

@@ -1088,20 +1088,6 @@
    {
     "field": "poi_nature",
     "location_evidence": "county tourism section",
-    "name": "رودخانه (رودبار)",
-    "pageid": 19005,
-    "revision_id": 44434695,
-    "section": "اقتصاد / گردشگری / مذهبی",
-    "source_title": "شهرستان رودبار",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1",
-    "target_pageid": 1542315,
-    "target_revision_id": 40172669,
-    "target_title": "رودخانه (رودبار)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%28%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1%29"
-   },
-   {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
     "name": "سد سفیدرود",
     "pageid": 19005,
     "revision_id": 44434695,

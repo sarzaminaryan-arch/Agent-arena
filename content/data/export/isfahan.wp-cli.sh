@@ -62,7 +62,7 @@ ID=$(wp post list --post_type=city --name=isfahan-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "فروردین تا خرداد و شهریور تا آبان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "borkhar - شمال\nkhomeyni-shahr - غرب\nfalavarjan - جنوب‌غرب\nharand - شرق\njarqavieh - جنوب‌شرق"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "کوه صفه"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "باغ پرندگان اصفهان\nبوستان (پارک)\nپردیس سینمایی چهارباغ\nپردیس سینمایی ساحل اصفهان\nپردیس سینمایی سیتی سنتر اصفهان\nسینما بهمن خوراسگان\nسینما سپاهان\nسینما سوره\nسینما فرهنگیان اصفهان\nسینما فلسطین (اصفهان)\nسینما قدس (اصفهان)"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "باغ پرندگان اصفهان\nپردیس سینمایی چهارباغ\nپردیس سینمایی ساحل اصفهان\nپردیس سینمایی سیتی سنتر اصفهان\nسینما بهمن خوراسگان\nسینما سپاهان\nسینما سوره\nسینما فرهنگیان اصفهان\nسینما فلسطین (اصفهان)\nسینما قدس (اصفهان)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد شاه (اصفهان)\nپل خواجو\nپل مارنان\nمسجد جامع اصفهان\nمسجد سید\nمسجد شیخ لطف‌الله\nکاخ هشت‌بهشت\nکلیسای وانک\nحمام علی‌قلی‌آقا\nباغ فدک اصفهان\nحمام جارچی\nپل شهرستان"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "32.62167"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "51.75972"

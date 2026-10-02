@@ -1225,20 +1225,6 @@
     "target_url": "https://fa.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D9%87_%DA%AF%D8%A7%D8%B1%DB%8C%D8%B2"
    },
    {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "باغ ایرانی",
-    "pageid": 19384,
-    "revision_id": 44607447,
-    "section": "گردشگری",
-    "source_title": "تفت",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%AA%D9%81%D8%AA",
-    "target_pageid": 241856,
-    "target_revision_id": 44005432,
-    "target_title": "باغ ایرانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "بقعه شاه خلیل ثانی (موزه مردم‌شناسی تفت)",

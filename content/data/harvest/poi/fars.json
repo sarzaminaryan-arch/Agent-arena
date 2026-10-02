@@ -2916,20 +2916,6 @@
    {
     "field": "poi_recreation",
     "location_evidence": "county tourism section",
-    "name": "باغ ایرانی",
-    "pageid": 57867,
-    "revision_id": 44349954,
-    "section": "جاذبه های تاریخی و گردشگری",
-    "source_title": "شهرستان شیراز",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-    "target_pageid": 241856,
-    "target_revision_id": 44005432,
-    "target_title": "باغ ایرانی",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "county tourism section",
     "name": "بوستان کوهستانی دراک",
     "pageid": 57867,
     "revision_id": 44349954,

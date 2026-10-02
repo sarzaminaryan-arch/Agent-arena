@@ -185,7 +185,7 @@ ID=$(wp post list --post_type=city --name=rudbar --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_livelihood "برنج‌کاری، چای، شیلات، ابریشم و گردشگری"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_best_time "اردیبهشت تا شهریور؛ پاییز هم زیباست اما پرباران است"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "siahkal - شمال‌شرق\nshaft - شمال‌غرب\nqazvin-city - جنوب‌شرق\nkharadere - جنوب‌غرب"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "رودخانه (رودبار)\nسد سفیدرود\nسد تاریک\nغار دربند رشی"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "سد سفیدرود\nسد تاریک\nغار دربند رشی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "36.81667"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "49.58333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_elevation "200"

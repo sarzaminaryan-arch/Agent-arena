@@ -943,20 +943,6 @@
    {
     "field": "poi_recreation",
     "location_evidence": "Wikidata seat + explicit county in city article",
-    "name": "بوستان (پارک)",
-    "pageid": 2169,
-    "revision_id": 44613583,
-    "section": "گردشگری و تفریح / مکان های تفریحی رفاهی",
-    "source_title": "اصفهان",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-    "target_pageid": 158524,
-    "target_revision_id": 43780111,
-    "target_title": "بوستان (پارک)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%28%D9%BE%D8%A7%D8%B1%DA%A9%29"
-   },
-   {
-    "field": "poi_recreation",
-    "location_evidence": "Wikidata seat + explicit county in city article",
     "name": "پردیس سینمایی چهارباغ",
     "pageid": 2169,
     "revision_id": 44613583,

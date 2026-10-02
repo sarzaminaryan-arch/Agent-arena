@@ -469,7 +469,7 @@ ID=$(wp post list --post_type=city --name=shiraz --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "zarghan - شمال‌شرق\nbeyza - شمال\nkavar - جنوب‌شرق\nchenar-shahijan - غرب\nkazerun - غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "دریاچه مهارلو\nدریاچه ارژن\nکوه دراک\nکوه بمو\nباباکوهی\nرودخانه خشک"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "قلات\nمحله قصردشت"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "باغ ایرانی\nبوستان کوهستانی دراک\nپردیس سینمایی شهر آفتاب\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nباغ پرندگان شیراز\nبوستان آزادی (شیراز)"
+[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "بوستان کوهستانی دراک\nپردیس سینمایی شهر آفتاب\nپردیس سینمایی گلستان\nپردیس سینمایی شیراز مال\nباغ‌وحش شیراز\nپارک قلعه‌بندر\nباغ پرندگان شیراز\nبوستان آزادی (شیراز)"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "حرم شاهچراغ\nارگ کریم خان زند\nحمام وکیل\nقلعه کریمخانی\nبازار وکیل\nموزه پارس\nآرامگاه کریم خان زند\nآرامگاه حافظ\nآرامگاه سعدی\nباغ تخت\nباغ ملی\nباغ نظر"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "29.61"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "52.53"

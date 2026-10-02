@@ -237,30 +237,6 @@
    "url": "",
    "value": "کال"
   },
-  "poi_recreation": {
-   "entries": [
-    {
-     "field": "poi_recreation",
-     "location_evidence": "Wikidata seat + explicit county in city article",
-     "name": "باغ ایرانی",
-     "pageid": 24745,
-     "revision_id": 44399742,
-     "section": "جاذبه های گردشگری",
-     "source_title": "بیرجند",
-     "source_url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-     "target_pageid": 241856,
-     "target_revision_id": 44005432,
-     "target_title": "باغ ایرانی",
-     "target_url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%BA_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
-    }
-   ],
-   "fetched": "2026-10-02",
-   "note": "فهرست منبع‌دار از مقالهٔ شهرستان یا مرکزِ تأییدشده؛ دسته‌بندی و موقعیت پیش از انتشار بازبینی شود. فاصله و توضیح حدس زده نشده است.",
-   "source": "wikipedia-poi",
-   "status": "draft",
-   "url": "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF",
-   "value": "باغ ایرانی"
-  },
   "population": {
    "fetched": "2026-10-02",
    "source": "wikidata",

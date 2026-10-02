@@ -128,7 +128,6 @@ ID=$(wp post list --post_type=city --name=taft-city --field=ID | head -1)
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_neighbors "ashkezar-city - شمال\nyazd-city - شمال‌شرق\nmehriz-city - جنوب‌شرق\nabarkuh-city - جنوب‌غرب"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_nature "عقاب کوه\nچشمه تامهر\nآبشار درگاهان\nغار اسلامیه\nسنگ‌نوشته‌ها و نقوش سنگی دره گازه"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_offbeat "فراشاه\nاسلامیه\nقدمگاه فراشاه\nمجموعه امام\nمجموعه شیخ علی بلیمان\nمجموعه بیدستان توران پشت\nدخمه چم"
-[ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_recreation "باغ ایرانی"
 [ -n "$ID" ] && wp post meta update "$ID" sa_cty_poi_heritage "مسجد شاه‌ولی\nعمارت و باغ نمیر صدری\nباغ علی نقی خان\nقلعه شواز\nخانه داد\nکاروانسرای دهشیر\nگنبد شیخ جنید\nآب‌انبار برالسویه\nمسجد جامع اسلامیه\nمسجد امامزاده سیدشمس‌الدین\nمسجد قدیمی توران پشت\nگورستان توران پشت"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_latitude "31.58333"
 [ -n "$ID" ] && wp post meta update "$ID" sa_city_longitude "53.83333"

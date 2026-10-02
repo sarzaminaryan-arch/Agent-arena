@@ -827,20 +827,6 @@
  "mahallat": {
   "candidates": [
    {
-    "field": "poi_nature",
-    "location_evidence": "county tourism section",
-    "name": "آب‌گرم (محلات)",
-    "pageid": 7996,
-    "revision_id": 43470120,
-    "section": "جاذبه های گردشگری",
-    "source_title": "شهرستان محلات",
-    "source_url": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%AD%D9%84%D8%A7%D8%AA",
-    "target_pageid": 4385587,
-    "target_revision_id": 40165030,
-    "target_title": "آب‌گرم (محلات)",
-    "target_url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%28%D9%85%D8%AD%D9%84%D8%A7%D8%AA%29"
-   },
-   {
     "field": "poi_heritage",
     "location_evidence": "county tourism section",
     "name": "آتشکده آتشکوه",
