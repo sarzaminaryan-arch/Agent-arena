@@ -96,7 +96,14 @@ function sa_entity_facts( $post_id ) {
 				$rows[] = array( 'label' => $label, 'value' => sa_digits( $raw ), 'html' => false );
 		}
 	}
-	return $rows;
+
+	/**
+	 * Filter the key-facts rows of an entity.
+	 *
+	 * @param array $rows    Rows ( label / value / html ).
+	 * @param int   $post_id Post ID.
+	 */
+	return (array) apply_filters( 'sa_entity_facts', $rows, $post_id );
 }
 
 /**
@@ -338,7 +345,7 @@ function sa_sources_section( $post_id ) {
 
 /**
  * Related articles from other provinces (Module 3).
- * Shows 2 random entities of the same type from a different province.
+ * Shows 3 random entities of the same type from a different province (v2.7.1).
  *
  * @param int    $post_id   Current post ID.
  * @param string $post_type Current post type.
@@ -352,7 +359,7 @@ function sa_related_articles( $post_id, $post_type ) {
 	$args = array(
 		'post_type'      => $post_type,
 		'post_status'    => 'publish',
-		'posts_per_page' => 2,
+		'posts_per_page' => 3,
 		'orderby'        => 'rand',
 		'post__not_in'   => array( $post_id ),
 	);
