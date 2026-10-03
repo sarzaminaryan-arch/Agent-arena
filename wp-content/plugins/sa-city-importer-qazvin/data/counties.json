@@ -1,0 +1,42 @@
+{
+ "format": "1.0",
+ "built": "2026-10-03",
+ "counties": [
+  {
+   "title": "شهرستان آبیک",
+   "slug": "abyek",
+   "province": "qazvin",
+   "province_name": "استان قزوین"
+  },
+  {
+   "title": "شهرستان آوج",
+   "slug": "avaj",
+   "province": "qazvin",
+   "province_name": "استان قزوین"
+  },
+  {
+   "title": "شهرستان البرز",
+   "slug": "alborz-qazvin",
+   "province": "qazvin",
+   "province_name": "استان قزوین"
+  },
+  {
+   "title": "شهرستان بوئین‌زهرا",
+   "slug": "buin-zahra",
+   "province": "qazvin",
+   "province_name": "استان قزوین"
+  },
+  {
+   "title": "شهرستان تاکستان",
+   "slug": "takestan",
+   "province": "qazvin",
+   "province_name": "استان قزوین"
+  },
+  {
+   "title": "شهرستان قزوین",
+   "slug": "qazvin-city",
+   "province": "qazvin",
+   "province_name": "استان قزوین"
+  }
+ ]
+}

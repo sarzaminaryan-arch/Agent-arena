@@ -1,0 +1,113 @@
+{
+ "batch": "qazvin",
+ "batch_id": "qazvin",
+ "label": "درون‌ریز شهرستان‌های استان قزوین",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-03",
+ "province": {
+  "slug": "qazvin",
+  "name_fa": "استان قزوین",
+  "term_name": "قزوین"
+ },
+ "file": "qazvin.json",
+ "counties_count": 6,
+ "counties": [
+  {
+   "slug": "abyek",
+   "title": "شهرستان آبیک",
+   "status": "article",
+   "word_count": 1258,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "avaj",
+   "title": "شهرستان آوج",
+   "status": "article",
+   "word_count": 1208,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "alborz-qazvin",
+   "title": "شهرستان البرز",
+   "status": "article",
+   "word_count": 1208,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "buin-zahra",
+   "title": "شهرستان بوئین‌زهرا",
+   "status": "article",
+   "word_count": 1236,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "takestan",
+   "title": "شهرستان تاکستان",
+   "status": "article",
+   "word_count": 1209,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "qazvin-city",
+   "title": "شهرستان قزوین",
+   "status": "article",
+   "word_count": 1241,
+   "faq": 10,
+   "sources_lines": 6,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  }
+ ]
+}
