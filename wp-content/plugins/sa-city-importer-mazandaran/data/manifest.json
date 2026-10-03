@@ -1,0 +1,149 @@
+{
+ "batch": "mazandaran",
+ "batch_id": "mazandaran",
+ "label": "درون‌ریز شهرستان‌های استان مازندران",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-04",
+ "province": {
+  "slug": "mazandaran",
+  "name_fa": "استان مازندران",
+  "term_name": "مازندران"
+ },
+ "file": "mazandaran.json",
+ "counties_count": 22,
+ "counties": [
+  {
+   "title": "شهرستان آمل",
+   "slug": "amol",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان بابل",
+   "slug": "babol",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان بابلسر",
+   "slug": "babolsar",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان بهشهر",
+   "slug": "behshahr",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان تنکابن",
+   "slug": "tonekabon",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان جویبار",
+   "slug": "joybar",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان رامسر",
+   "slug": "ramsar",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان ساری",
+   "slug": "sari",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان سوادکوه",
+   "slug": "savadkuh",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان سوادکوه شمالی",
+   "slug": "savadkuh-shomali",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان سیمرغ",
+   "slug": "simorgh",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان عباس‌آباد",
+   "slug": "abbasabad",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان فریدون‌کنار",
+   "slug": "freydunkenar",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان قائم‌شهر",
+   "slug": "qaemshahr",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان محمودآباد",
+   "slug": "mahmudabad",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان میاندورود",
+   "slug": "miandorud",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان نور",
+   "slug": "nur",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان نوشهر",
+   "slug": "nowshahr",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان نکا",
+   "slug": "neka",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان چالوس",
+   "slug": "chalus",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان کلاردشت",
+   "slug": "kelardasht",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  },
+  {
+   "title": "شهرستان گلوگاه",
+   "slug": "gologah",
+   "province": "mazandaran",
+   "province_name": "استان مازندران"
+  }
+ ]
+}
