@@ -2,8 +2,8 @@
 /**
  * Plugin Name: سرزمین آریان — درون‌ریز شهرستان‌های استان زنجان
  * Plugin URI:  https://github.com/sarzaminaryan-arch/S.A.1
- * Description: درون‌ریز کامل شهرستان‌های استان زنجان (زنجان، ابهر، خدابنده، خرمدره، طارم، ماهنشان، ایجرود، سلطانیه) — متن کامل مقاله، جدول‌ها، پرسش‌های متداول (FAQ)، منابع، فیلدهای مدل داده (sa_city_*، sa_access_*، sa_google_map_url)، اسکیمای City+TouristDestination، سئو رنک‌مث و ارتباط با برگهٔ مادر استان (۸ شهرستان، بدون تصویر شاخص — تصاویر پس از دریافت از کارفرما افزوده می‌شود). همه‌چیز پیش‌نویس می‌ماند؛ هیچ‌چیز منتشر نمی‌شود.
- * Version:     1.0.0
+ * Description: درون‌ریز کامل شهرستان‌های استان زنجان (زنجان، ابهر، خدابنده، خرمدره، طارم، ماهنشان، ایجرود، سلطانیه) — متن کامل مقاله، جدول‌ها، پرسش‌های متداول (FAQ)، منابع، فیلدهای مدل داده (sa_city_*، sa_access_*، sa_google_map_url)، اسکیمای City+TouristDestination، سئو رنک‌مث، ارتباط با برگهٔ مادر استان و آپلود تصویر شاخص وب‌پی همراه هر صفحه (هر ۸ شهرستان دارای تصویر شاخص شب‌نما). همه‌چیز پیش‌نویس می‌ماند؛ هیچ‌چیز منتشر نمی‌شود.
+ * Version:     1.1.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author:      سرزمین آریان
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'SA_CI_ZANJAN_VERSION', '1.0.0' );
+define( 'SA_CI_ZANJAN_VERSION', '1.1.0' );
 define( 'SA_CI_ZANJAN_VERSION_FILE', __FILE__ );
 
 require_once __DIR__ . '/includes/class-sa-city-importer.php';

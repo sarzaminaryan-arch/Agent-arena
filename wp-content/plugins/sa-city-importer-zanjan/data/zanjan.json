@@ -15,7 +15,7 @@
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/zanjan-city.md",
-   "source_sha1": "d21a99443eaf264d99b38514a2cdea50ec54c715",
+   "source_sha1": "4d944c94a0c58fc9737a6782ae5f6159891b4859",
    "slug": "zanjan-city",
    "status": "article",
    "title": "شهرستان زنجان",
@@ -119,13 +119,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/zanjan-city.webp",
+    "source": "assets/featured/counties/zanjan/zanjan-city.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از بازار تاریخی زنجان با گنبدهای نورانی و چراغ‌های شهر؛ تصویر شاخص شهرستان زنجان",
+    "caption": "بازار تاریخی زنجان در شب؛ نگین نورانی مرکز استان.",
+    "title": "شهرستان زنجان — سرزمین آریان",
+    "description": "نمای هوایی شبانه از بازار تاریخی زنجان با گنبدهای نورانی و چراغ‌های شهر؛ تصویر شاخص شهرستان زنجان",
+    "sha1": "f5280ee6a4f14ae7f5f1d0f80e09d0b5f3732cca"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/abhar.md",
-   "source_sha1": "1e0125bcf7913e9fb267092dfb12e2f020f2f822",
+   "source_sha1": "9d50d13adf69fd7bf192d2b91101261783f58ca8",
    "slug": "abhar",
    "status": "article",
    "title": "شهرستان ابهر",
@@ -229,13 +238,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/abhar.webp",
+    "source": "assets/featured/counties/zanjan/abhar.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از شهر ابهر و رود ابهررود با چراغ‌های روشن؛ تصویر شاخص شهرستان ابهر",
+    "caption": "ابهر و ابهررود در شب؛ درهٔ روشن جنوب استان.",
+    "title": "شهرستان ابهر — سرزمین آریان",
+    "description": "نمای هوایی شبانه از شهر ابهر و رود ابهررود با چراغ‌های روشن؛ تصویر شاخص شهرستان ابهر",
+    "sha1": "d7f7b3c1272b1a5e5ebffa8a70e5b2bf45ffe6dd"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/khodabandeh.md",
-   "source_sha1": "38f6b2074a21c2e386d087bc9772483f98d9f30a",
+   "source_sha1": "d0adf9b78c7934e83a888c3effb2ea0a2904a879",
    "slug": "khodabandeh",
    "status": "article",
    "title": "شهرستان خدابنده",
@@ -339,13 +357,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/khodabandeh.webp",
+    "source": "assets/featured/counties/zanjan/khodabandeh.webp",
+    "mime": "image/webp",
+    "alt": "نمای شبانه از ورودی نورانی غار کتله‌خور خدابنده زیر آسمان پرستاره؛ تصویر شاخص شهرستان خدابنده",
+    "caption": "کتله‌خور در شب؛ دروازهٔ نورانی ژرفای زمین.",
+    "title": "شهرستان خدابنده — سرزمین آریان",
+    "description": "نمای شبانه از ورودی نورانی غار کتله‌خور خدابنده زیر آسمان پرستاره؛ تصویر شاخص شهرستان خدابنده",
+    "sha1": "7c3c7c41e214bd3edaa9e5ece02afe8f6503c8fe"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/khorramdarreh.md",
-   "source_sha1": "e2121856dd5c987be414464536bac2b35b2c65de",
+   "source_sha1": "c76c2823a59001bccf5cb10e0598ef87be4bf732",
    "slug": "khorramdarreh",
    "status": "article",
    "title": "شهرستان خرمدره",
@@ -447,13 +474,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/khorramdarreh.webp",
+    "source": "assets/featured/counties/zanjan/khorramdarreh.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از شهر خرمدره با چراغ‌های روشن و قطار در حال عبور؛ تصویر شاخص شهرستان خرمدره",
+    "caption": "خرمدره در شب؛ درهٔ خرم بر کریدور ریلی تهران–زنجان.",
+    "title": "شهرستان خرمدره — سرزمین آریان",
+    "description": "نمای هوایی شبانه از شهر خرمدره با چراغ‌های روشن و قطار در حال عبور؛ تصویر شاخص شهرستان خرمدره",
+    "sha1": "374082520d71436c6c1156886cd89c33fc00ce20"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/tarom.md",
-   "source_sha1": "6c5682d4bd49013de22dc8a9cf80d45fdff20736",
+   "source_sha1": "519dfb09fb6c286b915a6cfac2fa485a0ac90f99",
    "slug": "tarom",
    "status": "article",
    "title": "شهرستان طارم",
@@ -556,13 +592,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/tarom.webp",
+    "source": "assets/featured/counties/zanjan/tarom.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از آب‌بر و درهٔ قزل‌اوزن طارم با چراغ‌های روشن و مهتاب؛ تصویر شاخص شهرستان طارم",
+    "caption": "آب‌بر و قزل‌اوزن در شب؛ درهٔ زیتون زیر مهتاب.",
+    "title": "شهرستان طارم — سرزمین آریان",
+    "description": "نمای هوایی شبانه از آب‌بر و درهٔ قزل‌اوزن طارم با چراغ‌های روشن و مهتاب؛ تصویر شاخص شهرستان طارم",
+    "sha1": "80ba59f1d8fc5808f22796dc280f2c8cc4c6a43a"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/mahneshan.md",
-   "source_sha1": "17eac3f54c0528717551cdd3acfc107846e8ca00",
+   "source_sha1": "71535c04722110073443c80b7f2b7527a340f08a",
    "slug": "mahneshan",
    "status": "article",
    "title": "شهرستان ماهنشان",
@@ -666,13 +711,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/mahneshan.webp",
+    "source": "assets/featured/counties/zanjan/mahneshan.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از کوه‌های رنگی ماهنشان، قزل‌اوزن و قلعهٔ نورانی بهستان زیر مهتاب؛ تصویر شاخص شهرستان ماهنشان",
+    "caption": "کوه‌های رنگی و بهستان در شب؛ ماهنشان زیر نور ماه.",
+    "title": "شهرستان ماهنشان — سرزمین آریان",
+    "description": "نمای هوایی شبانه از کوه‌های رنگی ماهنشان، قزل‌اوزن و قلعهٔ نورانی بهستان زیر مهتاب؛ تصویر شاخص شهرستان ماهنشان",
+    "sha1": "d4919bb0eeea5f525c1090ae82e52935f6a17644"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/ijrud.md",
-   "source_sha1": "7c7a5326c00c19957726c38f47123a624e068ba4",
+   "source_sha1": "8d0622fa3224f502dce49dd0ab7d7684cef97d32",
    "slug": "ijrud",
    "status": "article",
    "title": "شهرستان ایجرود",
@@ -775,13 +829,22 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/ijrud.webp",
+    "source": "assets/featured/counties/zanjan/ijrud.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از دریاچهٔ سد گلابر ایجرود با بازتاب ماه و چراغ‌های روستاها؛ تصویر شاخص شهرستان ایجرود",
+    "caption": "سد گلابر در شب؛ آینهٔ ماه در جنوب زنجان.",
+    "title": "شهرستان ایجرود — سرزمین آریان",
+    "description": "نمای هوایی شبانه از دریاچهٔ سد گلابر ایجرود با بازتاب ماه و چراغ‌های روستاها؛ تصویر شاخص شهرستان ایجرود",
+    "sha1": "135daac6bec54efb592a17d9879817b13c343640"
+   }
   },
   {
    "package_format": "1.0",
    "built": "2026-10-03",
    "source_file": "content/cities/soltaniyeh.md",
-   "source_sha1": "7af9cc440b0c2666a974012993da38632449fe7c",
+   "source_sha1": "ce7d8b27e4617e16cb3d502d46840ffd65ea4e12",
    "slug": "soltaniyeh",
    "status": "article",
    "title": "شهرستان سلطانیه",
@@ -884,7 +947,16 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "image": null
+   "image": {
+    "file": "assets/counties/soltaniyeh.webp",
+    "source": "assets/featured/counties/zanjan/soltaniyeh.webp",
+    "mime": "image/webp",
+    "alt": "نمای هوایی شبانه از گنبد نورپردازی‌شدهٔ سلطانیه و چراغ‌های شهر؛ تصویر شاخص شهرستان سلطانیه",
+    "caption": "گنبد سلطانیه در شب؛ میراث جهانی در نور طلایی.",
+    "title": "شهرستان سلطانیه — سرزمین آریان",
+    "description": "نمای هوایی شبانه از گنبد نورپردازی‌شدهٔ سلطانیه و چراغ‌های شهر؛ تصویر شاخص شهرستان سلطانیه",
+    "sha1": "6801d1fe63f5e55cd32c4b469424629009c5c0dd"
+   }
   }
  ]
 }

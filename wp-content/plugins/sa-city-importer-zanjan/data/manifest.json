@@ -27,7 +27,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "abhar",
@@ -43,7 +43,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "khodabandeh",
@@ -59,7 +59,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "khorramdarreh",
@@ -75,7 +75,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "tarom",
@@ -91,7 +91,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "mahneshan",
@@ -107,7 +107,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "ijrud",
@@ -123,7 +123,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   },
   {
    "slug": "soltaniyeh",
@@ -139,7 +139,7 @@
     "url_needed": 0,
     "coming_soon": 0
    },
-   "featured_image": false
+   "featured_image": true
   }
  ]
 }
