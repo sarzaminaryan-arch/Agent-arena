@@ -1,11 +1,157 @@
-(()=>{const cfg=window.CC_CONFIG;if(!cfg)return;const root=document.querySelector('[data-cc-rating]');if(!root)return;const id=root.dataset.city;const render=x=>{root.querySelector('[data-cc-average]').textContent=x.count<5?'هنوز امتیاز کافی ثبت نشده، اولین نفر باشید':`${x.average.toLocaleString('fa-IR',{maximumFractionDigits:1})} از ۷ (${x.count.toLocaleString('fa-IR')} رأی)`;root.querySelectorAll('[data-cc-star]').forEach(b=>b.disabled=!!x.user_rating||!cfg.logged);};fetch(`${cfg.api}cc/v1/cities/${id}/rating`).then(r=>r.json()).then(render);root.addEventListener('click',e=>{const b=e.target.closest('[data-cc-star]');if(!b)return;if(!cfg.logged){document.querySelector('[data-cc-auth]').hidden=false;return}if(!confirm(`امتیاز نهایی ${b.dataset.ccStar} ستاره؟ بعد از ثبت قابل تغییر نیست`))return;fetch(`${cfg.api}cc/v1/cities/${id}/rating`,{method:'POST',headers:{'Content-Type':'application/json','X-WP-Nonce':cfg.nonce},body:JSON.stringify({stars:+b.dataset.ccStar})}).then(r=>r.json()).then(render);});})();
+(()=>{
+ const cfg = window.CC_CONFIG;
+ if(!cfg) return;
 
-document.addEventListener('click',e=>{const sh=e.target.closest('[data-cc-share]'),cp=e.target.closest('[data-cc-copy]');const box=e.target.closest('.cc-share');if(sh&&navigator.share)navigator.share({title:document.title,text:box.dataset.text,url:box.dataset.url}).catch(()=>{});if(cp){navigator.clipboard?.writeText(box.dataset.url);cp.textContent='کپی شد';setTimeout(()=>cp.textContent='کپی لینک',1500)}});
+ const toFa = value => Number(value || 0).toLocaleString('fa-IR');
+ const escapeHTML = value => String(value ?? '').replace(/[&<>"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));
+ const api = path => `${cfg.api}cc/v1/${path}`;
+ const asJSON = response => response.json().catch(()=>({code:'bad_response', message:'پاسخ نامعتبر دریافت شد.'}));
+ const authModal = () => document.querySelector('[data-cc-auth]');
+ const openAuth = () => { const modal = authModal(); if(modal) modal.hidden = false; };
 
-(()=>{const c=document.querySelector('[data-cc-contrib]');if(!c)return;const f=c.querySelector('[data-cc-form]');c.querySelector('[data-cc-open]').onclick=()=>{if(!CC_CONFIG.logged){document.querySelector('[data-cc-auth]').hidden=false;return}f.hidden=false};c.querySelector('[data-cc-close]').onclick=()=>f.hidden=true;f.onsubmit=e=>{e.preventDefault();const fd=new FormData(f);if(fd.get('website'))return;fetch(CC_CONFIG.api+'cc/v1/submissions',{method:'POST',headers:{'X-WP-Nonce':CC_CONFIG.nonce},body:fd}).then(r=>r.json()).then(x=>{c.querySelector('[data-cc-message]').textContent=x.message||x.code||'خطایی رخ داد';if(x.success)f.reset()})}})();
+ const rating = document.querySelector('[data-cc-rating]');
+ if(rating){
+  const cityId = rating.dataset.city;
+  const summary = rating.querySelector('[data-cc-average]');
+  const stars = [...rating.querySelectorAll('[data-cc-star]')];
+  const renderRating = data => {
+   if(!data || data.code){
+    if(summary) summary.textContent = data?.message || 'دریافت امتیاز انجام نشد.';
+    return;
+   }
+   if(summary){
+    summary.textContent = Number(data.count || 0) < 5
+     ? 'هنوز امتیاز کافی ثبت نشده، اولین نفر باشید'
+     : `${Number(data.average || 0).toLocaleString('fa-IR',{maximumFractionDigits:1})} از ۷ (${toFa(data.count)} رأی)`;
+   }
+   stars.forEach(button => {
+    button.disabled = !!data.user_rating || !cfg.logged;
+    button.classList.toggle('is-active', Number(button.dataset.ccStar) <= Number(data.user_rating || 0));
+   });
+  };
 
-(()=>{const a=document.querySelector('[data-cc-auth]');if(!a)return;let pending=null;const msg=a.querySelector('[data-cc-auth-message]'),phone=a.querySelector('[data-cc-phone]'),code=a.querySelector('[data-cc-code]');document.addEventListener('click',e=>{if(e.target.matches('[data-cc-login]')||e.target.closest('[data-cc-requires-login]')){e.preventDefault();pending=e.target.closest('[data-cc-requires-login]')?.dataset.ccRequiresLogin||null;a.hidden=false}});a.querySelector('[data-cc-auth-close]').onclick=()=>a.hidden=true;phone.onsubmit=e=>{e.preventDefault();const p=new FormData(phone).get('phone');fetch(CC_CONFIG.api+'cc/v1/auth/request',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({phone:p})}).then(r=>r.json()).then(x=>{msg.textContent=x.message||x.code;if(x.success){phone.hidden=true;code.hidden=false;code.dataset.phone=p}})};code.onsubmit=e=>{e.preventDefault();const p=code.dataset.phone,c=new FormData(code).get('code');fetch(CC_CONFIG.api+'cc/v1/auth/verify',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({phone:p,code:c})}).then(r=>r.json()).then(x=>{msg.textContent=x.message||x.code;if(x.success)location.reload()})}})();
+  fetch(api(`cities/${cityId}/rating`)).then(asJSON).then(renderRating);
+  rating.addEventListener('click', event => {
+   const button = event.target.closest('[data-cc-star]');
+   if(!button) return;
+   if(!cfg.logged){ openAuth(); return; }
+   if(!confirm(`امتیاز نهایی ${button.dataset.ccStar} ستاره؟ بعد از ثبت قابل تغییر نیست`)) return;
+   fetch(api(`cities/${cityId}/rating`), {
+    method: 'POST',
+    headers: {'Content-Type':'application/json','X-WP-Nonce':cfg.nonce},
+    body: JSON.stringify({stars: Number(button.dataset.ccStar)})
+   }).then(asJSON).then(renderRating);
+  });
+ }
 
-(()=>{const box=document.querySelector('[data-cc-my]');if(!box||!CC_CONFIG.logged)return;fetch(CC_CONFIG.api+'cc/v1/my-submissions',{headers:{'X-WP-Nonce':CC_CONFIG.nonce}}).then(r=>r.json()).then(rows=>{const labels={pending:'در انتظار بررسی',publish:'تأیید و منتشر شده',rejected:'رد شده'};box.querySelector('[data-cc-my-list]').innerHTML=rows.length?'<ul>'+rows.map(x=>`<li><strong>${x.city||''}</strong> — ${x.type||''} — <span>${labels[x.status]||x.status}</span>${x.note?`<small class=\"cc-note\">${x.note}</small>`:''}${x.status==='needs_edit'?`<button type=\"button\" data-cc-resubmit=\"${x.id}\">ارسال اصلاح‌شده</button>`:''}</li>`).join('')+'</ul>':'هنوز مشارکتی ثبت نکرده‌اید.'}).catch(()=>box.querySelector('[data-cc-my-list]').textContent='دریافت اطلاعات انجام نشد')})();
+ document.addEventListener('click', event => {
+  const share = event.target.closest('[data-cc-share]');
+  const copy = event.target.closest('[data-cc-copy]');
+  if(!share && !copy) return;
+  const box = event.target.closest('.cc-share');
+  if(!box) return;
+  if(share && navigator.share){
+   navigator.share({title: document.title, text: box.dataset.text, url: box.dataset.url}).catch(()=>{});
+  }
+  if(copy){
+   navigator.clipboard?.writeText(box.dataset.url);
+   copy.textContent = 'کپی شد';
+   setTimeout(()=>{ copy.textContent = 'کپی لینک'; }, 1500);
+  }
+ });
 
-document.addEventListener('click',e=>{const b=e.target.closest('[data-cc-resubmit]');if(!b)return;const text=prompt('متن اصلاح‌شده را وارد کنید:');if(!text)return;fetch(CC_CONFIG.api+'cc/v1/submissions/'+b.dataset.ccResubmit+'/resubmit',{method:'POST',headers:{'Content-Type':'application/json','X-WP-Nonce':CC_CONFIG.nonce},body:JSON.stringify({text})}).then(r=>r.json()).then(x=>{alert(x.message||'عملیات انجام نشد');if(x.success)location.reload()})});
+ const contrib = document.querySelector('[data-cc-contrib]');
+ if(contrib){
+  const form = contrib.querySelector('[data-cc-form]');
+  const message = contrib.querySelector('[data-cc-message]');
+  const open = contrib.querySelector('[data-cc-open]');
+  const close = contrib.querySelector('[data-cc-close]');
+  if(open) open.onclick = () => {
+   if(!cfg.logged){ openAuth(); return; }
+   form.hidden = false;
+  };
+  if(close) close.onclick = () => { form.hidden = true; };
+  if(form) form.onsubmit = event => {
+   event.preventDefault();
+   const fd = new FormData(form);
+   if(fd.get('website')) return;
+   fetch(api('submissions'), {method:'POST', headers:{'X-WP-Nonce':cfg.nonce}, body:fd})
+    .then(asJSON)
+    .then(data => {
+     if(message) message.textContent = data.message || data.code || 'خطایی رخ داد';
+     if(data.success){ form.reset(); form.hidden = true; }
+    });
+  };
+ }
+
+ const auth = authModal();
+ if(auth){
+  const msg = auth.querySelector('[data-cc-auth-message]');
+  const phoneForm = auth.querySelector('[data-cc-phone]');
+  const codeForm = auth.querySelector('[data-cc-code]');
+  document.addEventListener('click', event => {
+   if(event.target.matches('[data-cc-login]') || event.target.closest('[data-cc-requires-login]')){
+    event.preventDefault();
+    auth.hidden = false;
+   }
+  });
+  const close = auth.querySelector('[data-cc-auth-close]');
+  if(close) close.onclick = () => { auth.hidden = true; };
+  if(phoneForm) phoneForm.onsubmit = event => {
+   event.preventDefault();
+   const phone = new FormData(phoneForm).get('phone');
+   fetch(api('auth/request'), {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({phone})})
+    .then(asJSON)
+    .then(data => {
+     if(msg) msg.textContent = data.message || data.code;
+     if(data.success){ phoneForm.hidden = true; codeForm.hidden = false; codeForm.dataset.phone = phone; }
+    });
+  };
+  if(codeForm) codeForm.onsubmit = event => {
+   event.preventDefault();
+   const phone = codeForm.dataset.phone;
+   const code = new FormData(codeForm).get('code');
+   fetch(api('auth/verify'), {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({phone, code})})
+    .then(asJSON)
+    .then(data => {
+     if(msg) msg.textContent = data.message || data.code;
+     if(data.success) window.location.reload();
+    });
+  };
+ }
+
+ const mine = document.querySelector('[data-cc-my]');
+ if(mine && cfg.logged){
+  const list = mine.querySelector('[data-cc-my-list]');
+  fetch(api('my-submissions'), {headers:{'X-WP-Nonce':cfg.nonce}})
+   .then(asJSON)
+   .then(rows => {
+    if(!Array.isArray(rows) || !rows.length){ list.textContent = 'هنوز مشارکتی ثبت نکرده‌اید.'; return; }
+    list.innerHTML = `<ul>${rows.map(item => `
+     <li>
+      <strong>${escapeHTML(item.city || '')}</strong>
+      <span>${escapeHTML(item.type_label || item.type || '')}</span>
+      <em>${escapeHTML(item.status_label || item.status || '')}</em>
+      ${item.excerpt ? `<p>${escapeHTML(item.excerpt)}</p>` : ''}
+      ${item.note ? `<small class="cc-note">${escapeHTML(item.note)}</small>` : ''}
+      ${item.status === 'needs_edit' ? `<button type="button" data-cc-resubmit="${Number(item.id)}">ارسال اصلاح‌شده</button>` : ''}
+     </li>`).join('')}</ul>`;
+   })
+   .catch(()=>{ list.textContent = 'دریافت اطلاعات انجام نشد'; });
+ }
+
+ document.addEventListener('click', event => {
+  const button = event.target.closest('[data-cc-resubmit]');
+  if(!button) return;
+  const text = prompt('متن اصلاح‌شده را وارد کنید:');
+  if(!text) return;
+  fetch(api(`submissions/${button.dataset.ccResubmit}/resubmit`), {
+   method: 'POST',
+   headers: {'Content-Type':'application/json','X-WP-Nonce':cfg.nonce},
+   body: JSON.stringify({text})
+  }).then(asJSON).then(data => {
+   alert(data.message || 'عملیات انجام نشد');
+   if(data.success) window.location.reload();
+  });
+ });
+})();
