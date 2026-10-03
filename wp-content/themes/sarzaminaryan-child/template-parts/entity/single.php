@@ -23,6 +23,8 @@ $sa_type = get_post_type();
 
 		<?php get_template_part( 'template-parts/entity/facts' ); ?>
 
+		<?php get_template_part( 'template-parts/entity/county-profile' ); ?>
+
 		<div class="entry-content">
 			<?php the_content(); ?>
 		</div>
@@ -32,6 +34,10 @@ $sa_type = get_post_type();
 		<?php sa_sources_section( $sa_id ); ?>
 
 		<?php sa_facts_checked_note( $sa_id ); ?>
+
+		<?php get_template_part( 'template-parts/entity/county-siblings' ); ?>
+
+		<?php get_template_part( 'template-parts/entity/province-counties' ); ?>
 
 		<?php sa_related_articles( $sa_id, $sa_type ); ?>
 
