@@ -1,0 +1,54 @@
+{
+ "format": "1.0",
+ "built": "2026-10-03",
+ "counties": [
+  {
+   "title": "شهرستان سمنان",
+   "slug": "semnan-city",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان شاهرود",
+   "slug": "shahrud",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان دامغان",
+   "slug": "damghan",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان گرمسار",
+   "slug": "garmsar",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان مهدی‌شهر",
+   "slug": "mehdishahr",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان سرخه",
+   "slug": "sorkheh",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان میامی",
+   "slug": "meyami",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  },
+  {
+   "title": "شهرستان آرادان",
+   "slug": "aradan",
+   "province": "semnan",
+   "province_name": "استان سمنان"
+  }
+ ]
+}

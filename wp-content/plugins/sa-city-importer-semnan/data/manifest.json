@@ -1,0 +1,145 @@
+{
+ "batch": "semnan",
+ "batch_id": "semnan",
+ "label": "درون‌ریز شهرستان‌های استان سمنان",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-03",
+ "province": {
+  "slug": "semnan",
+  "name_fa": "استان سمنان",
+  "term_name": "سمنان"
+ },
+ "file": "semnan.json",
+ "counties_count": 8,
+ "counties": [
+  {
+   "slug": "semnan-city",
+   "title": "شهرستان سمنان",
+   "status": "article",
+   "word_count": 1579,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "shahrud",
+   "title": "شهرستان شاهرود",
+   "status": "article",
+   "word_count": 1340,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "damghan",
+   "title": "شهرستان دامغان",
+   "status": "article",
+   "word_count": 1346,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "garmsar",
+   "title": "شهرستان گرمسار",
+   "status": "article",
+   "word_count": 1291,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "mehdishahr",
+   "title": "شهرستان مهدی‌شهر",
+   "status": "article",
+   "word_count": 1297,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "sorkheh",
+   "title": "شهرستان سرخه",
+   "status": "article",
+   "word_count": 1292,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "meyami",
+   "title": "شهرستان میامی",
+   "status": "article",
+   "word_count": 1300,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  },
+  {
+   "slug": "aradan",
+   "title": "شهرستان آرادان",
+   "status": "article",
+   "word_count": 1216,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": false
+  }
+ ]
+}
