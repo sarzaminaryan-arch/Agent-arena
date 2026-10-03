@@ -6,3 +6,5 @@
 
 .cc-my-submissions{direction:rtl;margin:1rem 0;padding:1rem;border:1px solid #e5e5e5;border-radius:12px}.cc-my-submissions li{padding:.7rem 0;border-bottom:1px solid #eee}.cc-my-submissions span{color:#176b58}.cc-notice{direction:rtl;padding:1rem;border-radius:8px;background:#fff7e5}
 .cc-my-submissions small.cc-note{display:block;color:#8a5a00;margin:.4rem 0}.cc-my-submissions [data-cc-resubmit]{min-height:36px;padding:.4rem .7rem;border:0;border-radius:6px;background:#176b58;color:#fff}
+
+.cc-leaderboard{direction:rtl;margin:1rem 0;padding:1rem;border:1px solid #e5e5e5;border-radius:12px}.cc-leaderboard li{padding:.55rem 0;border-bottom:1px solid #eee}
