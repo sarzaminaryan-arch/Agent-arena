@@ -1,7 +1,11 @@
 <?php
 /**
  * Generic entity page (province/city/attraction/route/food/souvenir).
- * Module 3 layout: hero → lead → key topics → content → FAQ → sources → related → nav.
+ * Module 3 layout: hero → lead → rating (city) → key facts → content → FAQ →
+ * county blocks → public contribution (city) → related → nav → sources (last).
+ *
+ * v2.11.0: بلوک امتیاز کاربران به بالای «اطلاعات کلیدی» آمد؛ بلوک مشارکت مردمی
+ * از فوتر به داخل صفحه (پیش از منابع) منتقل شد و «منابع» آخرین بخش صفحه است.
  *
  * @package Sarzaminaryan_Child
  */
@@ -21,6 +25,10 @@ $sa_type = get_post_type();
 			<p class="sa-entity__lead"><?php echo esc_html( get_the_excerpt() ); ?></p>
 		<?php endif; ?>
 
+		<?php if ( 'city' === $sa_type && class_exists( 'CC_UI' ) ) : ?>
+			<?php CC_UI::rating_block(); ?>
+		<?php endif; ?>
+
 		<?php get_template_part( 'template-parts/entity/facts' ); ?>
 
 		<?php get_template_part( 'template-parts/entity/county-profile' ); ?>
@@ -31,17 +39,21 @@ $sa_type = get_post_type();
 
 		<?php get_template_part( 'template-parts/entity/faq' ); ?>
 
-		<?php sa_sources_section( $sa_id ); ?>
-
-		<?php sa_facts_checked_note( $sa_id ); ?>
-
 		<?php get_template_part( 'template-parts/entity/county-siblings' ); ?>
 
 		<?php get_template_part( 'template-parts/entity/province-counties' ); ?>
 
+		<?php if ( 'city' === $sa_type && class_exists( 'CC_UI' ) ) : ?>
+			<?php CC_UI::contrib_block(); ?>
+		<?php endif; ?>
+
 		<?php sa_related_articles( $sa_id, $sa_type ); ?>
 
 		<?php sa_entity_navigation( $sa_id, $sa_type ); ?>
+
+		<?php sa_sources_section( $sa_id ); ?>
+
+		<?php sa_facts_checked_note( $sa_id ); ?>
 	</div>
 
 </article>

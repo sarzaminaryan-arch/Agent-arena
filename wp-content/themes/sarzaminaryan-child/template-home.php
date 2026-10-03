@@ -289,6 +289,11 @@ $sa_pop_ids   = array_filter( array_map( 'absint', explode( ',', (string) get_th
 	</section>
 
 	<?php
+	/* ---- ۷ شهر برتر از نگاه مردم (v2.11.0؛ سرور-رندر، بدون نیاز به ثبت‌نام) ---- */
+	if ( class_exists( 'CC_UI' ) ) {
+		CC_UI::top_cities_block( 7 );
+	}
+
 	/* ---- آخرین مقالات (سرور-رندر؛ بدون وابستگی به REST) ---- */
 	$sa_latest = new WP_Query(
 		array(
