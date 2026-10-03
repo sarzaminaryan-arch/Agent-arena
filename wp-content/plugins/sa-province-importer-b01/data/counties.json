@@ -919,6 +919,54 @@
    "slug": "eshqabad",
    "province": "south-khorasan",
    "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "زنجان",
+   "slug": "zanjan-city",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "ابهر",
+   "slug": "abhar",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "خدابنده",
+   "slug": "khodabandeh",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "خرمدره",
+   "slug": "khorramdarreh",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "طارم",
+   "slug": "tarom",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "ماهنشان",
+   "slug": "mahneshan",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "ایجرود",
+   "slug": "ijrud",
+   "province": "zanjan",
+   "province_name": "زنجان"
+  },
+  {
+   "title": "سلطانیه",
+   "slug": "soltaniyeh",
+   "province": "zanjan",
+   "province_name": "زنجان"
   }
  ]
 }
