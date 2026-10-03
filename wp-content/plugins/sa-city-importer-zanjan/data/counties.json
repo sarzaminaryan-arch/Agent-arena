@@ -1,0 +1,54 @@
+{
+ "format": "1.0",
+ "built": "2026-10-03",
+ "counties": [
+  {
+   "title": "شهرستان زنجان",
+   "slug": "zanjan-city",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان ابهر",
+   "slug": "abhar",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان خدابنده",
+   "slug": "khodabandeh",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان طارم",
+   "slug": "tarom",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان ایجرود",
+   "slug": "ejrud",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان سلطانیه",
+   "slug": "soltaniyeh",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان ماه‌نشان",
+   "slug": "mahneshan",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  },
+  {
+   "title": "شهرستان خرمدره",
+   "slug": "kharadere",
+   "province": "zanjan",
+   "province_name": "استان زنجان"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "batch": "zanjan",
+ "batch_id": "zanjan",
+ "label": "درون‌ریز شهرستان‌های استان زنجان",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-03",
+ "province": {
+  "slug": "zanjan",
+  "name_fa": "استان زنجان",
+  "term_name": "زنجان"
+ },
+ "file": "zanjan.json",
+ "counties_count": 8,
+ "counties": [
+  {
+   "slug": "zanjan-city",
+   "title": "شهرستان زنجان",
+   "status": "article",
+   "word_count": 1226,
+   "faq": 10,
+   "sources_lines": 6,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "abhar",
+   "title": "شهرستان ابهر",
+   "status": "article",
+   "word_count": 1231,
+   "faq": 10,
+   "sources_lines": 8,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "khodabandeh",
+   "title": "شهرستان خدابنده",
+   "status": "article",
+   "word_count": 1206,
+   "faq": 10,
+   "sources_lines": 8,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "tarom",
+   "title": "شهرستان طارم",
+   "status": "article",
+   "word_count": 1242,
+   "faq": 10,
+   "sources_lines": 9,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "ejrud",
+   "title": "شهرستان ایجرود",
+   "status": "article",
+   "word_count": 1212,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "soltaniyeh",
+   "title": "شهرستان سلطانیه",
+   "status": "article",
+   "word_count": 1203,
+   "faq": 10,
+   "sources_lines": 6,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "mahneshan",
+   "title": "شهرستان ماه‌نشان",
+   "status": "article",
+   "word_count": 1202,
+   "faq": 10,
+   "sources_lines": 7,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "kharadere",
+   "title": "شهرستان خرمدره",
+   "status": "article",
+   "word_count": 1215,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  }
+ ]
+}
