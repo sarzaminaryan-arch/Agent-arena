@@ -1,0 +1,78 @@
+{
+ "format": "1.0",
+ "built": "2026-10-04",
+ "counties": [
+  {
+   "title": "شهرستان ازنا",
+   "slug": "azna",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان الیگودرز",
+   "slug": "aligudarz",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان بروجرد",
+   "slug": "borujerd",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان خرم‌آباد",
+   "slug": "khorramabad",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان دلفان",
+   "slug": "delfan",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان دورود",
+   "slug": "dorud",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان رومشکان",
+   "slug": "rumeshkan",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان سلسله",
+   "slug": "selseleh",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان معمولان",
+   "slug": "mamulan",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان پلدختر",
+   "slug": "pol-e-dokhtar",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان چگنی",
+   "slug": "chegeni",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  },
+  {
+   "title": "شهرستان کوهدشت",
+   "slug": "kuhdasht",
+   "province": "lorestan",
+   "province_name": "استان لرستان"
+  }
+ ]
+}

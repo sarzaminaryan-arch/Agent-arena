@@ -1,0 +1,209 @@
+{
+ "batch": "lorestan",
+ "batch_id": "lorestan",
+ "label": "درون‌ریز شهرستان‌های استان لرستان",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-04",
+ "province": {
+  "slug": "lorestan",
+  "name_fa": "استان لرستان",
+  "term_name": "لرستان"
+ },
+ "file": "lorestan.json",
+ "counties_count": 12,
+ "counties": [
+  {
+   "slug": "azna",
+   "title": "شهرستان ازنا",
+   "status": "article",
+   "word_count": 1301,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "aligudarz",
+   "title": "شهرستان الیگودرز",
+   "status": "article",
+   "word_count": 1226,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "borujerd",
+   "title": "شهرستان بروجرد",
+   "status": "article",
+   "word_count": 1246,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "khorramabad",
+   "title": "شهرستان خرم‌آباد",
+   "status": "article",
+   "word_count": 1244,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "delfan",
+   "title": "شهرستان دلفان",
+   "status": "article",
+   "word_count": 1241,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "dorud",
+   "title": "شهرستان دورود",
+   "status": "article",
+   "word_count": 1831,
+   "faq": 10,
+   "sources_lines": 8,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "rumeshkan",
+   "title": "شهرستان رومشکان",
+   "status": "article",
+   "word_count": 1216,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "selseleh",
+   "title": "شهرستان سلسله",
+   "status": "article",
+   "word_count": 1225,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "mamulan",
+   "title": "شهرستان معمولان",
+   "status": "article",
+   "word_count": 1221,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "pol-e-dokhtar",
+   "title": "شهرستان پلدختر",
+   "status": "article",
+   "word_count": 1265,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "chegeni",
+   "title": "شهرستان چگنی",
+   "status": "article",
+   "word_count": 1213,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "kuhdasht",
+   "title": "شهرستان کوهدشت",
+   "status": "article",
+   "word_count": 1224,
+   "faq": 10,
+   "sources_lines": 5,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  }
+ ]
+}
