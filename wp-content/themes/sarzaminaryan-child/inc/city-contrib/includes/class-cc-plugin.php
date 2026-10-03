@@ -1,7 +1,7 @@
 <?php
 if (!defined('ABSPATH')) exit;
 final class CC_Plugin {
- const DB_VERSION='2.9.0';
+ const DB_VERSION='2.10.0';
  public static function boot(){
   require_once CC_DIR.'includes/class-cc-db.php'; require_once CC_DIR.'includes/class-cc-auth.php'; require_once CC_DIR.'includes/class-cc-rating.php'; require_once CC_DIR.'includes/class-cc-contrib.php'; require_once CC_DIR.'includes/class-cc-rest.php'; require_once CC_DIR.'includes/class-cc-share.php'; require_once CC_DIR.'includes/class-cc-otp.php'; require_once CC_DIR.'includes/class-cc-admin.php'; require_once CC_DIR.'includes/class-cc-profile.php'; require_once CC_DIR.'includes/class-cc-media.php'; require_once CC_DIR.'includes/class-cc-moderation.php'; require_once CC_DIR.'includes/class-cc-roles.php'; require_once CC_DIR.'includes/class-cc-gamification.php';
   CC_DB::init(); CC_Gamification::init(); CC_Roles::init(); CC_Moderation::init(); CC_Profile::init(); CC_Share::init(); CC_OTP::init(); CC_Contrib::init(); CC_Auth::init(); CC_Rating::init(); CC_REST::init(); CC_Admin::init();
