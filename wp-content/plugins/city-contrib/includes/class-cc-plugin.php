@@ -2,8 +2,8 @@
 if (!defined('ABSPATH')) exit;
 final class CC_Plugin {
  public static function boot(){
-  require_once CC_DIR.'includes/class-cc-db.php'; require_once CC_DIR.'includes/class-cc-auth.php'; require_once CC_DIR.'includes/class-cc-rating.php'; require_once CC_DIR.'includes/class-cc-contrib.php'; require_once CC_DIR.'includes/class-cc-rest.php'; require_once CC_DIR.'includes/class-cc-share.php'; require_once CC_DIR.'includes/class-cc-otp.php'; require_once CC_DIR.'includes/class-cc-admin.php'; require_once CC_DIR.'includes/class-cc-profile.php'; require_once CC_DIR.'includes/class-cc-media.php'; require_once CC_DIR.'includes/class-cc-moderation.php';
-  CC_DB::init(); CC_Moderation::init(); CC_Profile::init(); CC_Share::init(); CC_OTP::init(); CC_Contrib::init(); CC_Auth::init(); CC_Rating::init(); CC_REST::init(); CC_Admin::init();
+  require_once CC_DIR.'includes/class-cc-db.php'; require_once CC_DIR.'includes/class-cc-auth.php'; require_once CC_DIR.'includes/class-cc-rating.php'; require_once CC_DIR.'includes/class-cc-contrib.php'; require_once CC_DIR.'includes/class-cc-rest.php'; require_once CC_DIR.'includes/class-cc-share.php'; require_once CC_DIR.'includes/class-cc-otp.php'; require_once CC_DIR.'includes/class-cc-admin.php'; require_once CC_DIR.'includes/class-cc-profile.php'; require_once CC_DIR.'includes/class-cc-media.php'; require_once CC_DIR.'includes/class-cc-moderation.php'; require_once CC_DIR.'includes/class-cc-roles.php';
+  CC_DB::init(); CC_Roles::init(); CC_Moderation::init(); CC_Profile::init(); CC_Share::init(); CC_OTP::init(); CC_Contrib::init(); CC_Auth::init(); CC_Rating::init(); CC_REST::init(); CC_Admin::init();
   add_action('wp_enqueue_scripts',array(__CLASS__,'assets')); add_filter('the_content',array(__CLASS__,'city_widget'),20);
  }
  public static function activate(){ require_once CC_DIR.'includes/class-cc-db.php'; CC_DB::install(); if(!post_type_exists('cc_submission')) self::register_submission(); flush_rewrite_rules(); }
