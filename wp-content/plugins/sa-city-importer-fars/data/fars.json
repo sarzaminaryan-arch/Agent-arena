@@ -10,8 +10,8 @@
   "name_fa": "استان فارس",
   "term_name": "فارس"
  },
- "featured_image": false,
- "featured_image_note": "تصویر شاخص همراه بسته نیست؛ تصاویر شاخص موجود دست‌نخورده می‌ماند.",
+ "featured_image": true,
+ "featured_image_note": "برای هر شهرستان تصویر شاخص سینمایی وب‌پی در assets/counties همراه است؛ تصویر شاخص پیش‌نویس‌های موجود به‌صورت پیش‌فرض دست‌نخورده می‌ماند.",
  "counties": [
   {
    "package_format": "1.0",
