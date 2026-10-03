@@ -5,18 +5,32 @@
  window.ccVoter=()=>get()||set();
 })();
 
-(()=>{ /* امتیازدهی ۱ تا ۷ — بدون ثبت‌نام، تغییر فقط پس از یک روز */
+(()=>{ /* امتیازدهی ۱ تا ۷ — انتخاب ستاره، پیش‌نمایش زنده، ثبت با دکمه، تغییر فقط پس از یک روز */
  const cfg=window.CC_CONFIG;const root=document.querySelector('[data-cc-rating]');if(!cfg||!root)return;
- const id=root.dataset.city,status=root.querySelector('[data-cc-status]'),stars=[...root.querySelectorAll('[data-cc-star]')];
+ const id=root.dataset.city,status=root.querySelector('[data-cc-status]'),submit=root.querySelector('[data-cc-submit]'),stars=[...root.querySelectorAll('[data-cc-star]')];
+ let pending=0;
  const fa=n=>Number(n).toLocaleString('fa-IR',{maximumFractionDigits:1});
- const paint=x=>{stars.forEach(b=>{const on=x.user_rating>0&&+b.dataset.ccStar<=x.user_rating;b.classList.toggle('is-on',on);b.disabled=x.locked});if(status){if(x.user_rating>0)status.textContent=x.locked?'رأی شما ('+fa(x.user_rating)+' ستاره) ثبت شده است؛ تغییر آن از فردا ممکن است.':'می‌توانید رأی خود را تغییر دهید — ستاره‌ها را لمس کنید.';else status.textContent='بدون ثبت‌نام رأی بدهید؛ هر نفر یک بار، قابل تغییر پس از یک روز.'}};
+ const faDate=ts=>new Date(ts*1000).toLocaleDateString('fa-IR');
+ const say=(txt,ok)=>{status.textContent=txt;status.classList.toggle('cc-status--ok',!!ok)};
+ const light=n=>stars.forEach(b=>b.classList.toggle('is-on',+b.dataset.ccStar<=n));
+ const lockUI=x=>{stars.forEach(b=>b.disabled=true);if(submit)submit.hidden=true;if(x.changeable_at)say('✅ رأی شما: '+fa(x.user_rating)+' ستاره ثبت شده است. تا '+faDate(x.changeable_at)+' نمی‌توانید آن را تغییر دهید.',true);else say('✅ رأی شما: '+fa(x.user_rating)+' ستاره ثبت شده است؛ تا ۲۴ ساعت آینده قابل تغییر نیست.',true)};
+ const paint=x=>{
+  if(x.user_rating>0){light(x.user_rating);if(x.locked){lockUI(x);}else{if(submit){submit.hidden=false;submit.disabled=true;submit.textContent='تغییر رأی'}say('رأی شما: '+fa(x.user_rating)+' ستاره است. می‌توانید آن را تغییر دهید — ستاره‌ای را لمس کنید.')}}
+  else if(submit){submit.hidden=false;submit.disabled=true;submit.textContent='ثبت امتیاز'}
+ };
  fetch(cfg.api+'cc/v1/cities/'+id+'/rating?voter='+window.ccVoter()).then(r=>r.json()).then(x=>{if(x&&x.average!==undefined)paint(x)}).catch(()=>{});
- root.addEventListener('click',e=>{const b=e.target.closest('[data-cc-star]');if(!b||b.disabled)return;const v=+b.dataset.ccStar;if(!confirm('امتیاز '+v+' از ۷ به این شهر ثبت شود؟ تا ۲۴ ساعت بعد می‌توانید آن را تغییر دهید.'))return;
-  if(status)status.textContent='در حال ثبت رأی…';
-  fetch(cfg.api+'cc/v1/cities/'+id+'/rating',{method:'POST',headers:{'Content-Type':'application/json','X-WP-Nonce':cfg.nonce},body:JSON.stringify({stars:v,voter:window.ccVoter()})}).then(r=>r.json().then(x=>({ok:r.ok,x}))).then(({x})=>{
-   if(x.success){paint(x);if(status)status.textContent=x.message+' رتبهٔ این شهر: '+(x.rank?fa(x.rank)+' از '+fa(x.total):'—');}
-   else{if(status)status.textContent=(x.message||'خطایی رخ داد.')+(x.data&&x.data.changeable_at?(' قابل تغییر از: '+new Date(x.data.changeable_at*1000).toLocaleDateString('fa-IR')):'');paint(x.user_rating!==undefined?x:{user_rating:0,locked:false});}
-  }).catch(()=>{if(status)status.textContent='اتصال برقرار نشد؛ دوباره تلاش کنید.'});
+ root.addEventListener('click',e=>{
+  const b=e.target.closest('[data-cc-star]');
+  if(b&&!b.disabled){pending=+b.dataset.ccStar;light(pending);if(submit){submit.hidden=false;submit.disabled=false}say('امتیاز '+fa(pending)+' انتخاب شد؛ اگر همین است، دکمهٔ «ثبت امتیاز» را بزنید.',true);return}
+  if(e.target.closest('[data-cc-submit]')){
+   if(!pending){say('ابتدا یک ستاره (۱ تا ۷) را لمس کنید.');return}
+   submit.disabled=true;say('در حال ثبت امتیاز…');
+   fetch(cfg.api+'cc/v1/cities/'+id+'/rating',{method:'POST',headers:{'Content-Type':'application/json','X-WP-Nonce':cfg.nonce},body:JSON.stringify({stars:pending,voter:window.ccVoter()})}).then(r=>r.json().then(x=>({x}))).then(({x})=>{
+    if(x.success){pending=0;light(x.user_rating);stars.forEach(s=>s.disabled=true);if(submit)submit.hidden=true;say('✅ '+x.message+(x.rank?(' رتبهٔ این شهر اکنون '+fa(x.rank)+' از '+fa(x.total)+' شهرستان است.'):'')+' تا ۲۴ ساعت آینده نمی‌توانید آن را تغییر دهید.',true);}
+    else if(x.code==='vote_locked'){pending=0;if(submit)submit.hidden=true;const d=new Date((x.data&&x.data.changeable_at||0)*1000).toLocaleDateString('fa-IR');fetch(cfg.api+'cc/v1/cities/'+id+'/rating?voter='+window.ccVoter()).then(r=>r.json()).then(g=>{if(g&&g.user_rating){light(g.user_rating);stars.forEach(s=>s.disabled=true);say('✅ رأی شما: '+fa(g.user_rating)+' ستاره پیش‌تر ثبت شده است.'+(d?' تغییر آن از '+d+' ممکن است.':''),true)}else say('✅ رأی شما پیش‌تر ثبت شده است.'+(d?' تغییر آن از '+d+' ممکن است.':''),true)}).catch(()=>say('✅ رأی شما پیش‌تر ثبت شده است؛ تا ۲۴ ساعت بعد قابل تغییر نیست.',true));}
+    else{submit.disabled=false;say((x.message||'خطایی رخ داد.')+(x.data&&x.data.changeable_at?(' تغییر رأی از '+faDate(x.data.changeable_at)+' ممکن است.'):''),false)}
+   }).catch(()=>{submit.disabled=false;say('اتصال برقرار نشد؛ دوباره تلاش کنید.')});
+  }
  });
 })();
 
