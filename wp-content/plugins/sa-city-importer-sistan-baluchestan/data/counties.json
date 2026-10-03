@@ -1,0 +1,162 @@
+{
+ "format": "1.0",
+ "built": "2026-10-03",
+ "counties": [
+  {
+   "title": "شهرستان ایرانشهر",
+   "slug": "iranshahr",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان بمپور",
+   "slug": "bampur",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان تفتان",
+   "slug": "taftan",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان خاش",
+   "slug": "khash",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان دشتیاری",
+   "slug": "dashtiari",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان دلگان",
+   "slug": "dalgan",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان راسک",
+   "slug": "rask",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان زابل",
+   "slug": "zabol",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان زاهدان",
+   "slug": "zahedan",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان زرآباد",
+   "slug": "zarabad",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان زهک",
+   "slug": "zehak",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان سراوان",
+   "slug": "saravan",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان سرباز",
+   "slug": "sarbaz",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان سیب و سوران",
+   "slug": "sib-va-suran",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان فنوج",
+   "slug": "fanuj",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان قصرقند",
+   "slug": "qasr-e-qand",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان لاشار",
+   "slug": "lashar",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان مهرستان",
+   "slug": "mehrestan",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان میرجاوه",
+   "slug": "mirjaveh",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان نیمروز",
+   "slug": "nimruz",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان نیک‌شهر",
+   "slug": "nik-shahr",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان هامون",
+   "slug": "hamun",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان هیرمند",
+   "slug": "hirmand",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان چابهار",
+   "slug": "chabahar",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان کنارک",
+   "slug": "konarak",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  },
+  {
+   "title": "شهرستان گلشن",
+   "slug": "golshan",
+   "province": "sistan-baluchestan",
+   "province_name": "استان سیستان و بلوچستان"
+  }
+ ]
+}
