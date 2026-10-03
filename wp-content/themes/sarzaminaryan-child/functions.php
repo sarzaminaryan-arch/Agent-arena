@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'SA_CHILD_VERSION', '2.8.9' );
+define( 'SA_CHILD_VERSION', '2.9.0' );
 define( 'SA_CHILD_DIR', trailingslashit( get_stylesheet_directory() ) );
 define( 'SA_CHILD_URI', trailingslashit( get_stylesheet_directory_uri() ) );
 define( 'SA_MODEL_VERSION', '1.1' );
@@ -47,6 +47,7 @@ $sa_child_includes = array(
 	'inc/customizer.php',
 	'inc/admin.php',
 	'inc/content-health.php',
+	'inc/city-contrib.php', // مشارکت مردمی «شهر من» — داخلی قالب، بدون نیاز به افزونه
 	'inc/github-updater.php',
 	'inc/activation.php',
 );
