@@ -55,22 +55,43 @@
 .cc-auth__box input{box-sizing:border-box;width:100%;min-height:48px;padding:.7rem;border:1px solid #b9cde3;border-radius:9px;margin:.45rem 0;font:inherit}
 .cc-auth__box button:not([data-cc-auth-close]){min-height:44px;padding:.6rem 1.2rem;border:0;border-radius:9px;background:#123f73;color:#fff;font-weight:700;cursor:pointer}
 
-/* بلوک صفحهٔ اصلی: ۷ شهر برتر */
-.sa-sec.sa-topcities{background:linear-gradient(180deg,#0b2a4a,#123f73);padding:2.6rem 0;margin-top:2.5rem}
-.sa-topcities .sa-head h2{color:#fff}
-.sa-topcities .sa-head a{color:#bcd7f2}
-.sa-topcities__note{display:block;color:#bcd7f2;font-size:.85rem;margin-top:.3rem}
-.cc-topcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:1rem;margin-top:1.2rem}
-.cc-topcard{display:flex;flex-direction:column;gap:.3rem;background:#ffffff0f;border:1px solid #ffffff2e;border-radius:13px;padding:1rem 1.1rem;text-decoration:none;color:#fff;transition:background .15s,transform .15s}
-.cc-topcard:hover{background:#ffffff1f;transform:translateY(-3px)}
-.cc-topcard__rank{align-self:flex-start;background:#f0b429;color:#0b2a4a;font-size:.75rem;font-weight:800;border-radius:999px;padding:.2rem .7rem}
-.cc-topcard__name{font-size:1.1rem;color:#fff}
-.cc-topcard__prov{font-style:normal;color:#bcd7f2;font-size:.8rem}
-.cc-topcard__stars{color:#f0b429;font-size:.95rem}
-.cc-topcard__stars b{color:#fff}
-.cc-topcard__votes{color:#bcd7f2;font-size:.8rem}
-.sa-topcities__empty{color:#dcecff;background:#ffffff14;border:1px dashed #ffffff40;border-radius:12px;padding:1.1rem 1.2rem;margin:1.2rem 0 0;font-size:.95rem;line-height:1.9}
-@media(max-width:760px){.cc-topcards{grid-template-columns:repeat(2,1fr)}.cc-rating__stars button{min-width:40px}.cc-rating__stars button .cc-rating__glyph{font-size:1.4rem}}
+/* بلوک صفحهٔ اصلی: کادر «۷ شهر برتر از نگاه مردم» — بالای صفحه */
+.sa-topcities{padding:1.8rem 0 0}
+.cc-topbox{direction:rtl;background:#fff;border:1px solid #dcecff;border-radius:16px;box-shadow:0 6px 24px rgba(11,42,74,.10);overflow:hidden}
+.cc-topbox__head{display:grid;grid-template-columns:auto 1fr;align-items:center;gap:1.1rem;background:linear-gradient(160deg,#0b2a4a,#123f73);padding:1.2rem 1.5rem}
+.cc-topbox__logo{width:78px;height:auto;border-radius:12px;background:#ffffff14;padding:6px}
+.cc-topbox__desc{margin:0;color:#fff;font-size:1.15rem;font-weight:800;line-height:1.7}
+.cc-topbox__desc b{color:#f0b429}
+.cc-topbox__desc span{display:block;font-size:.8rem;font-weight:400;color:#bcd7f2}
+.cc-toplist{list-style:none;margin:0;padding:.4rem .8rem .8rem}
+.cc-toplist__item{display:grid;grid-template-columns:34px 30px 1fr auto auto;align-items:center;gap:.6rem;padding:.65rem .7rem;border-bottom:1px solid #eef4fb;border-radius:10px}
+.cc-toplist__item:last-child{border-bottom:0}
+.cc-toplist__num{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#edf6ff;color:#123f73;font-weight:800;font-size:.95rem}
+.cc-toplist__star{font-size:1.35rem;line-height:1;color:#c9d6e4;text-align:center}
+.cc-toplist__star--gold{color:#f0b429;text-shadow:0 1px 3px rgba(240,180,41,.55)}
+.cc-toplist__star--silver{color:#a8b4bf;text-shadow:0 1px 2px rgba(120,134,148,.4)}
+.cc-toplist__star--bronze{color:#cd7f32;text-shadow:0 1px 2px rgba(160,95,30,.35)}
+.cc-toplist__star--none{visibility:hidden}
+.cc-toplist__name{color:#0b2a4a;font-weight:800;text-decoration:none;font-size:1.02rem}
+.cc-toplist__name:hover{color:#18558f;text-decoration:underline}
+.cc-toplist__prov{font-style:normal;color:#5b7590;font-size:.82rem}
+.cc-toplist__meta{color:#41597a;font-size:.85rem;white-space:nowrap}
+.cc-toplist__meta b{color:#123f73;font-size:.95rem}
+.cc-toplist__item--gold{background:linear-gradient(90deg,#fff8e6,#fff)}
+.cc-toplist__item--gold .cc-toplist__num{background:#f0b429;color:#fff}
+.cc-toplist__item--silver{background:linear-gradient(90deg,#f3f5f7,#fff)}
+.cc-toplist__item--silver .cc-toplist__num{background:#a8b4bf;color:#fff}
+.cc-toplist__item--bronze{background:linear-gradient(90deg,#f9efe4,#fff)}
+.cc-toplist__item--bronze .cc-toplist__num{background:#cd7f32;color:#fff}
+.sa-topcities__empty{color:#41597a;background:#edf6ff;border:1px dashed #b9cde3;border-radius:12px;padding:1.1rem 1.2rem;margin:1rem 1.4rem 1.3rem;font-size:.95rem;line-height:1.9}
+@media(max-width:760px){
+ .cc-topbox__head{grid-template-columns:1fr;justify-items:center;text-align:center;padding:1rem}
+ .cc-topbox__logo{width:64px}
+ .cc-toplist__item{grid-template-columns:28px 24px 1fr auto;gap:.4rem}
+ .cc-toplist__prov{display:none}
+ .cc-rating__stars button{min-width:40px}
+ .cc-rating__stars button .cc-rating__glyph{font-size:1.4rem}
+}
 
 /* مشارکت‌های من و برترین‌ها */
 .cc-my-submissions li{padding:.7rem 0;border-bottom:1px solid #dcecff}

@@ -47,23 +47,26 @@ class CC_UI {
  }
  public static function top_cities_block($limit=7){
   $top=CC_Rating::top((int)$limit);
-  echo '<section class="sa-sec sa-topcities"><div class="sa-wrap">';
-  echo '<div class="sa-head"><h2>۷ شهر برتر از نگاه مردم</h2><span class="sa-topcities__note">بر اساس امتیاز ۱ تا ۷ ستارهٔ خوانندگان، بدون نیاز به ثبت‌نام</span></div>';
-  if(empty($top)){echo '<p class="sa-topcities__empty">هنوز رأیی ثبت نشده است — نخستین نفر باشید! در صفحهٔ هر شهر ستارهٔ خود (۱ تا ۷) را انتخاب و ثبت کنید تا جدول شهرهای برتر همین‌جا ساخته شود.</p>';}
+  $medal=array('gold'=>'طلایی','silver'=>'نقره‌ای','bronze'=>'برنزی');
+  echo '<section class="sa-topcities" id="sa-topcities" aria-label="هفت شهر برتر از نگاه مردم"><div class="sa-wrap">';
+  echo '<div class="cc-topbox">';
+  echo '<div class="cc-topbox__head"><img class="cc-topbox__logo" src="'.esc_url(CC_URL.'assets/img/logo.webp').'" alt="سرزمین آریایی ها" loading="lazy"><p class="cc-topbox__desc">هفت شهر برتر ایران از نگاه مخاطبان وب‌سایت <b>سرزمین آریایی ها</b><span>امتیاز ۱ تا ۷ ستارهٔ خوانندگان، بدون نیاز به ثبت‌نام</span></p></div>';
+  if(empty($top)){echo '<p class="sa-topcities__empty">هنوز رأیی ثبت نشده است — نخستین نفر باشید! در صفحهٔ هر شهر ستارهٔ خود (۱ تا ۷) را انتخاب و ثبت کنید تا فهرست شهرهای برتر همین‌جا ساخته شود.</p>';}
   else{
-   echo '<div class="cc-topcards">';
-   foreach($top as $c){
-    echo '<a class="cc-topcard" href="'.esc_url($c['url']).'">';
-    echo '<span class="cc-topcard__rank">رتبهٔ '.esc_html(self::fa_num($c['rank'])).'</span>';
-    echo '<b class="cc-topcard__name">'.esc_html($c['title']).'</b>';
-    if($c['province'])echo '<em class="cc-topcard__prov">استان '.esc_html($c['province']).' · '.esc_html(self::fa_num($c['siblings'])).' شهرستان هم‌استان</em>';
-    echo '<span class="cc-topcard__stars">'.self::stars_html($c['avg']).' <b>'.esc_html(self::fa_num(number_format($c['avg'],1))).'</b></span>';
-    echo '<span class="cc-topcard__votes">'.esc_html(self::fa_num($c['count'])).' رأی</span>';
-    echo '</a>';
+   echo '<ol class="cc-toplist">';
+   foreach($top as $i=>$c){
+    $m=$i<3?array('gold','silver','bronze')[$i]:'';
+    echo '<li class="cc-toplist__item'.($m?' cc-toplist__item--'.$m:'').'">';
+    echo '<span class="cc-toplist__num">'.esc_html(self::fa_num($c['rank'])).'</span>';
+    if($m)echo '<span class="cc-toplist__star cc-toplist__star--'.$m.'" title="ستارهٔ '.esc_attr($medal[$m]).'">★</span>';else echo '<span class="cc-toplist__star cc-toplist__star--none" aria-hidden="true"></span>';
+    echo '<a class="cc-toplist__name" href="'.esc_url($c['url']).'">'.esc_html($c['title']).'</a>';
+    if($c['province'])echo '<em class="cc-toplist__prov">'.esc_html($c['province']).'</em>';
+    echo '<span class="cc-toplist__meta"><b>'.esc_html(self::fa_num(number_format($c['avg'],1))).'</b> از ۷ · '.esc_html(self::fa_num($c['count'])).' رأی</span>';
+    echo '</li>';
    }
-   echo '</div>';
+   echo '</ol>';
    if(count($top)<(int)$limit)echo '<p class="sa-topcities__empty">با رأی دادن به شهرهای دیگر، این فهرست کامل‌تر می‌شود.</p>';
   }
-  echo '</div></section>';
+  echo '</div></div></section>';
  }
 }
