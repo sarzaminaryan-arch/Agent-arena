@@ -55,9 +55,9 @@
 .cc-auth__box input{box-sizing:border-box;width:100%;min-height:48px;padding:.7rem;border:1px solid #b9cde3;border-radius:9px;margin:.45rem 0;font:inherit}
 .cc-auth__box button:not([data-cc-auth-close]){min-height:44px;padding:.6rem 1.2rem;border:0;border-radius:9px;background:#123f73;color:#fff;font-weight:700;cursor:pointer}
 
-/* بلوک صفحهٔ اصلی: کادر «۷ شهر برتر از نگاه مردم» — بالای صفحه */
-.sa-topcities{padding:1.8rem 0 0}
-.cc-topbox{direction:rtl;background:#fff;border:1px solid #dcecff;border-radius:16px;box-shadow:0 6px 24px rgba(11,42,74,.10);overflow:hidden}
+/* بلوک صفحهٔ اصلی: کادر «۷ اقلیم برتر سرزمین آریان» — بالای صفحه */
+.sa-topcities{padding:2.4rem 0 1rem}
+.cc-topbox{direction:rtl;background:#fff;border:1px solid #dcecff;border-radius:16px;box-shadow:0 24px 60px -18px rgba(7,26,48,.45),0 8px 22px -10px rgba(11,42,74,.28);overflow:hidden}
 .cc-topbox__head{display:grid;grid-template-columns:auto 1fr;align-items:center;gap:1.1rem;background:linear-gradient(160deg,#0b2a4a,#123f73);padding:1.3rem 1.6rem}
 .cc-topbox__logo{width:84px;height:auto;border-radius:12px;background:#ffffff14;padding:6px}
 .cc-topbox__title{margin:0 0 .25rem;color:#f0b429;font-size:1.7rem;font-weight:900;line-height:1.4;text-shadow:0 2px 6px rgba(0,0,0,.35)}
@@ -71,24 +71,13 @@
 .cc-toptable tbody tr:last-child td{border-bottom:0}
 .cc-toptable__rank{display:flex;align-items:center;gap:.6rem}
 .cc-toplist__num{display:inline-flex;align-items:center;justify-content:center;min-width:30px;height:30px;border-radius:50%;background:#edf6ff;color:#123f73;font-weight:800;font-size:.95rem}
-.cc-toplist__medal{display:inline-flex;align-items:center;font-weight:800;font-size:.82rem;white-space:nowrap}
-.cc-toplist__medal i{font-style:normal;font-size:1.3rem;line-height:1;margin-inline-start:.4rem}
-.cc-toplist__medal--gold{color:#b45309}
-.cc-toplist__medal--gold i{color:#f0b429;text-shadow:0 1px 3px rgba(240,180,41,.55)}
-.cc-toplist__medal--silver{color:#526071}
-.cc-toplist__medal--silver i{color:#a8b4bf;text-shadow:0 1px 2px rgba(120,134,148,.4)}
-.cc-toplist__medal--bronze{color:#92400e}
-.cc-toplist__medal--bronze i{color:#cd7f32;text-shadow:0 1px 2px rgba(160,95,30,.35)}
 .cc-toptable__city{color:#0b2a4a;font-weight:800;text-decoration:none}
 .cc-toptable__city:hover{color:#18558f;text-decoration:underline}
 .cc-toptable__score b{color:#123f73;font-size:1.15rem}
 .cc-toptable__score em{font-style:normal;color:#5b7590;font-size:.78rem;margin-inline-start:.35rem}
-.cc-toptable__row--gold td{background:linear-gradient(90deg,#fff8e6,#fffdf6)}
-.cc-toptable__row--gold .cc-toplist__num{background:#f0b429;color:#fff}
-.cc-toptable__row--silver td{background:linear-gradient(90deg,#f3f5f7,#fbfcfd)}
-.cc-toptable__row--silver .cc-toplist__num{background:#a8b4bf;color:#fff}
-.cc-toptable__row--bronze td{background:linear-gradient(90deg,#f9efe4,#fdfaf6)}
-.cc-toptable__row--bronze .cc-toplist__num{background:#cd7f32;color:#fff}
+/* ردیف‌های یک‌درمیان: هایلایت آبی ناوی ملایم */
+.cc-toptable tbody tr:nth-child(odd) td{background:#e8f0fb}
+.cc-toptable tbody tr:nth-child(odd) .cc-toplist__num{background:#123f73;color:#fff}
 .cc-toptable__note{color:#5b7590;font-size:.8rem;margin:.7rem 1rem 1rem;line-height:1.8}
 .sa-topcities__empty{color:#41597a;background:#edf6ff;border:1px dashed #b9cde3;border-radius:12px;padding:1.1rem 1.2rem;margin:1rem 1.4rem 1.3rem;font-size:.95rem;line-height:1.9}
 @media(max-width:760px){
@@ -99,7 +88,7 @@
  .cc-toptable thead th,.cc-toptable tbody td{padding:.6rem .5rem}
  .cc-toptable th:nth-child(3),.cc-toptable td:nth-child(3){display:none}
  .cc-toptable__score em{display:none}
- .cc-toplist__medal{display:none}
+
  .cc-rating__stars button{min-width:40px}
  .cc-rating__stars button .cc-rating__glyph{font-size:1.4rem}
 }
