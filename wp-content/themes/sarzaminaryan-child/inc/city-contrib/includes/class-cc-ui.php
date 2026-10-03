@@ -48,23 +48,25 @@ class CC_UI {
  public static function top_cities_block($limit=7){
   $top=CC_Rating::top((int)$limit);
   $medal=array('gold'=>'شهر طلایی','silver'=>'شهر نقره‌ای','bronze'=>'شهر برنزی');
-  echo '<section class="sa-topcities" id="sa-topcities" aria-label="هفت شهر برتر از نگاه مردم"><div class="sa-wrap">';
+  echo '<section class="sa-topcities" id="sa-topcities" aria-label="هفت اقلیم برتر سرزمین آریان"><div class="sa-wrap">';
   echo '<div class="cc-topbox">';
-  echo '<div class="cc-topbox__head"><img class="cc-topbox__logo" src="'.esc_url(CC_URL.'assets/img/logo.webp').'" alt="سرزمین آریایی ها" loading="lazy"><p class="cc-topbox__desc">هفت شهر برتر ایران از نگاه مخاطبان وب‌سایت <b>سرزمین آریایی ها</b><span>امتیاز ۱ تا ۷ ستارهٔ خوانندگان، بدون نیاز به ثبت‌نام</span></p></div>';
-  if(empty($top)){echo '<p class="sa-topcities__empty">هنوز رأیی ثبت نشده است — نخستین نفر باشید! در صفحهٔ هر شهر ستارهٔ خود (۱ تا ۷) را انتخاب و ثبت کنید تا فهرست شهرهای برتر همین‌جا ساخته شود.</p>';}
+  echo '<div class="cc-topbox__head"><img class="cc-topbox__logo" src="'.esc_url(CC_URL.'assets/img/logo.webp').'" alt="سرزمین آریایی ها" loading="lazy"><div class="cc-topbox__intro"><h2 class="cc-topbox__title">۷ اقلیم برتر سرزمین آریان</h2><p class="cc-topbox__desc">هفت شهر برتر ایران از نگاه مخاطبان وب‌سایت <b>سرزمین آریایی ها</b><span>مجموع ستاره‌های ۱ تا ۷ خوانندگان، بدون نیاز به ثبت‌نام</span></p></div></div>';
+  if(empty($top)){echo '<p class="sa-topcities__empty">هنوز رأیی ثبت نشده است — نخستین نفر باشید! در صفحهٔ هر شهر ستارهٔ خود (۱ تا ۷) را انتخاب و ثبت کنید تا جدول اقلیم‌های برتر همین‌جا ساخته شود.</p>';}
   else{
-   echo '<ol class="cc-toplist">';
+   echo '<table class="cc-toptable"><thead><tr><th>رتبه</th><th>شهر</th><th>استان</th><th>امتیاز</th><th>رأی‌دهنده</th></tr></thead><tbody>';
    foreach($top as $i=>$c){
     $key=$i<3?array('gold','silver','bronze')[$i]:'';
-    echo '<li class="cc-toplist__item'.($key?' cc-toplist__item--'.$key:'').'">';
-    echo '<span class="cc-toplist__num">'.esc_html(self::fa_num($c['rank'])).'</span>';
-    echo '<a class="cc-toplist__name" href="'.esc_url($c['url']).'">'.esc_html($c['title']).($c['province']?' <em>'.esc_html($c['province']).'</em>':'').'</a>';
-    if($key)echo '<span class="cc-toplist__medal cc-toplist__medal--'.$key.'">'.esc_html($medal[$key]).'<i aria-hidden="true">★</i></span>';
-    echo '<span class="cc-toplist__meta"><b>'.esc_html(self::fa_num(number_format($c['avg'],1))).'</b> از ۷ · '.esc_html(self::fa_num($c['count'])).' رأی</span>';
-    echo '</li>';
+    echo '<tr'.($key?' class="cc-toptable__row--'.$key.'"':'').'>';
+    echo '<td class="cc-toptable__rank"><span class="cc-toplist__num">'.esc_html(self::fa_num($c['rank'])).'</span>'.($key?'<span class="cc-toplist__medal cc-toplist__medal--'.$key.'">'.esc_html($medal[$key]).'<i aria-hidden="true">★</i></span>':'').'</td>';
+    echo '<td><a class="cc-toptable__city" href="'.esc_url($c['url']).'">'.esc_html($c['title']).'</a></td>';
+    echo '<td>'.($c['province']?esc_html($c['province']):'—').'</td>';
+    echo '<td class="cc-toptable__score"><b>'.esc_html(self::fa_num($c['total'])).'</b><em>('.esc_html(self::fa_num(number_format($c['avg'],1))).' از ۷)</em></td>';
+    echo '<td>'.esc_html(self::fa_num($c['count'])).'</td>';
+    echo '</tr>';
    }
-   echo '</ol>';
-   if(count($top)<(int)$limit)echo '<p class="sa-topcities__empty">با رأی دادن به شهرهای دیگر، این فهرست کامل‌تر می‌شود.</p>';
+   echo '</tbody></table>';
+   echo '<p class="cc-toptable__note">امتیاز هر شهر، مجموع ستاره‌های داده‌شده است؛ اگر دو شهر هم‌امتیاز شوند، شهری که با رأی‌دهندهٔ کمتر (میانگین بالاتر) به آن امتیاز رسیده، بالاتر می‌ایستد.</p>';
+   if(count($top)<(int)$limit)echo '<p class="sa-topcities__empty">با رأی دادن به شهرهای دیگر، این جدول کامل‌تر می‌شود.</p>';
   }
   echo '</div></div></section>';
  }
