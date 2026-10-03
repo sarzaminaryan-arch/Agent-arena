@@ -1,0 +1,228 @@
+{
+ "format": "1.0",
+ "built": "2026-10-03",
+ "counties": [
+  {
+   "title": "شهرستان آباده",
+   "slug": "abadeh",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان ارسنجان",
+   "slug": "arsanjan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان استهبان",
+   "slug": "estahban",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان اقلید",
+   "slug": "eqlid",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان اوز",
+   "slug": "evaz",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان بختگان",
+   "slug": "bakhtegan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان بوانات",
+   "slug": "bavanat",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان بیضا",
+   "slug": "beyza",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان جهرم",
+   "slug": "jahrom",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان جویم",
+   "slug": "jooyom",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان خرامه",
+   "slug": "kharameh",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان خرم‌بید",
+   "slug": "khorrambid",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان خفر",
+   "slug": "khafr",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان خنج",
+   "slug": "khonj",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان داراب",
+   "slug": "darab",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان رستم",
+   "slug": "rostam",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان زرقان",
+   "slug": "zarghan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان زرین‌دشت",
+   "slug": "zarrin-dasht",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان سروستان",
+   "slug": "sarvestan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان سرچهان",
+   "slug": "sarchahan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان سپیدان",
+   "slug": "sepidan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان شیراز",
+   "slug": "shiraz",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان فراشبند",
+   "slug": "farashband",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان فسا",
+   "slug": "fasa",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان فیروزآباد",
+   "slug": "firuzabad",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان قیر و کارزین",
+   "slug": "qir-va-karzin",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان لارستان",
+   "slug": "larestan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان لامرد",
+   "slug": "lamerd",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان مرودشت",
+   "slug": "marvdasht",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان ممسنی",
+   "slug": "mamasani",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان مهر",
+   "slug": "mehr",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان نی‌ریز",
+   "slug": "neyriz",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان پاسارگاد",
+   "slug": "pasargad",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان چنارشاهیجان",
+   "slug": "chenar-shahijan",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان کازرون",
+   "slug": "kazerun",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان کوار",
+   "slug": "kavar",
+   "province": "fars",
+   "province_name": "استان فارس"
+  },
+  {
+   "title": "شهرستان گراش",
+   "slug": "gerash",
+   "province": "fars",
+   "province_name": "استان فارس"
+  }
+ ]
+}
