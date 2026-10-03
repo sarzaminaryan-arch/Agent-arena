@@ -47,7 +47,7 @@ class CC_UI {
  }
  public static function top_cities_block($limit=7){
   $top=CC_Rating::top((int)$limit);
-  $medal=array('gold'=>'طلایی','silver'=>'نقره‌ای','bronze'=>'برنزی');
+  $medal=array('gold'=>'شهر طلایی','silver'=>'شهر نقره‌ای','bronze'=>'شهر برنزی');
   echo '<section class="sa-topcities" id="sa-topcities" aria-label="هفت شهر برتر از نگاه مردم"><div class="sa-wrap">';
   echo '<div class="cc-topbox">';
   echo '<div class="cc-topbox__head"><img class="cc-topbox__logo" src="'.esc_url(CC_URL.'assets/img/logo.webp').'" alt="سرزمین آریایی ها" loading="lazy"><p class="cc-topbox__desc">هفت شهر برتر ایران از نگاه مخاطبان وب‌سایت <b>سرزمین آریایی ها</b><span>امتیاز ۱ تا ۷ ستارهٔ خوانندگان، بدون نیاز به ثبت‌نام</span></p></div>';
@@ -55,12 +55,11 @@ class CC_UI {
   else{
    echo '<ol class="cc-toplist">';
    foreach($top as $i=>$c){
-    $m=$i<3?array('gold','silver','bronze')[$i]:'';
-    echo '<li class="cc-toplist__item'.($m?' cc-toplist__item--'.$m:'').'">';
+    $key=$i<3?array('gold','silver','bronze')[$i]:'';
+    echo '<li class="cc-toplist__item'.($key?' cc-toplist__item--'.$key:'').'">';
     echo '<span class="cc-toplist__num">'.esc_html(self::fa_num($c['rank'])).'</span>';
-    if($m)echo '<span class="cc-toplist__star cc-toplist__star--'.$m.'" title="ستارهٔ '.esc_attr($medal[$m]).'">★</span>';else echo '<span class="cc-toplist__star cc-toplist__star--none" aria-hidden="true"></span>';
-    echo '<a class="cc-toplist__name" href="'.esc_url($c['url']).'">'.esc_html($c['title']).'</a>';
-    if($c['province'])echo '<em class="cc-toplist__prov">'.esc_html($c['province']).'</em>';
+    echo '<a class="cc-toplist__name" href="'.esc_url($c['url']).'">'.esc_html($c['title']).($c['province']?' <em>'.esc_html($c['province']).'</em>':'').'</a>';
+    if($key)echo '<span class="cc-toplist__medal cc-toplist__medal--'.$key.'">'.esc_html($medal[$key]).'<i aria-hidden="true">★</i></span>';
     echo '<span class="cc-toplist__meta"><b>'.esc_html(self::fa_num(number_format($c['avg'],1))).'</b> از ۷ · '.esc_html(self::fa_num($c['count'])).' رأی</span>';
     echo '</li>';
    }

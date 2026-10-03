@@ -16,6 +16,6 @@ final class CC_Plugin {
   flush_rewrite_rules();
  }
  public static function register_submission(){ register_post_type('cc_submission',array('labels'=>array('name'=>__('مشارکت‌ها','city-contrib')),'public'=>false,'show_ui'=>true,'show_in_menu'=>true,'supports'=>array('title','author','editor'),'capability_type'=>'post','show_in_rest'=>false)); }
- public static function assets(){ if(is_singular('city')||(is_page()&&self::page_has_cc_shortcode())){ wp_enqueue_style('cc-style',CC_URL.'assets/css/city-contrib.css',array(),CC_VERSION); wp_enqueue_script('cc-script',CC_URL.'assets/js/city-contrib.js',array(),CC_VERSION,true); wp_localize_script('cc-script','CC_CONFIG',array('api'=>esc_url_raw(rest_url()),'nonce'=>wp_create_nonce('wp_rest'),'logged'=>is_user_logged_in())); } }
+ public static function assets(){ if(is_singular('city')||is_front_page()||self::page_has_cc_shortcode()){ wp_enqueue_style('cc-style',CC_URL.'assets/css/city-contrib.css',array(),CC_VERSION); wp_enqueue_script('cc-script',CC_URL.'assets/js/city-contrib.js',array(),CC_VERSION,true); wp_localize_script('cc-script','CC_CONFIG',array('api'=>esc_url_raw(rest_url()),'nonce'=>wp_create_nonce('wp_rest'),'logged'=>is_user_logged_in())); } }
  public static function page_has_cc_shortcode(){if(!is_page())return false;$content=(string)get_post_field('post_content',get_queried_object_id());return has_shortcode($content,'cc_my_submissions')||has_shortcode($content,'cc_leaderboard');}
 }
