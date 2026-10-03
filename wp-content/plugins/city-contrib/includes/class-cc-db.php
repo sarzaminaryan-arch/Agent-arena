@@ -1,0 +1,5 @@
+<?php
+class CC_DB { public static function table(){ global $wpdb; return $wpdb->prefix.'cc_ratings'; } public static function init(){ add_action('init',array('CC_Plugin','register_submission')); }
+ public static function install(){ global $wpdb; require_once ABSPATH.'wp-admin/includes/upgrade.php'; $charset=$wpdb->get_charset_collate(); $sql='CREATE TABLE '.self::table().' (id bigint(20) unsigned NOT NULL AUTO_INCREMENT,user_id bigint(20) unsigned NOT NULL,city_id bigint(20) unsigned NOT NULL,stars tinyint unsigned NOT NULL,created_at datetime NOT NULL,PRIMARY KEY(id),UNIQUE KEY user_city(user_id,city_id),KEY city_id(city_id),KEY user_id(user_id)) '.$charset.';'; dbDelta($sql); }
+ public static function recalc($city){ global $wpdb; $t=self::table(); $row=$wpdb->get_row($wpdb->prepare("SELECT COALESCE(SUM(stars),0) s,COUNT(*) c FROM $t WHERE city_id=%d",$city)); update_post_meta($city,'cc_rating_sum',(int)$row->s); update_post_meta($city,'cc_rating_count',(int)$row->c); update_post_meta($city,'cc_rating_avg',$row->c?round($row->s/$row->c,1):0); }
+}
