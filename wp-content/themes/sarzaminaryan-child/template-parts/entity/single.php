@@ -16,6 +16,8 @@ $sa_type = get_post_type();
 
 	<?php get_template_part( 'template-parts/entity/hero' ); ?>
 
+	<?php if ( 'city' === $sa_type ) { do_action( 'cc_city_engagement', $sa_id ); } ?>
+
 	<div class="container sa-entity__layout">
 		<?php if ( has_excerpt() ) : ?>
 			<p class="sa-entity__lead"><?php echo esc_html( get_the_excerpt() ); ?></p>
